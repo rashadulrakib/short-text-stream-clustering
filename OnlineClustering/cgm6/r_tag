@@ -1,0 +1,1420 @@
+testpostId	trainPostId	TagSimilarity	TagHitRank	Proposed_hit_duration_micro	Proposed_TestTrueLabel	testText	trainText
+57657901	57669971	0	1	23334	1	r sink	r try-catch
+50569314	50584209	1	1	31141	10	r datafram dplyr mean outlier	r datafram dplyr mean outlier
+26145967	26159529	1	3.0	18554	100	r	r
+58314023	59791480	0	1	27518	1000	r list function loop datafram	r list function datafram lappli
+14975638	15489065	0	1	19797	1001	eclips r rcpp rinsid	eclips r osx-mountain-lion rcpp
+45206230	45635464	0	2.0	24094	1002	r datafram	r data.t
+46684038	46770761	1	7.0	18533	1003	r	r
+3903157	4948361	0	8.0	17731	1004	r	r error-handl try-catch
+2589275	40089885	0	1	20370	1005	r error-handl try-catch lappli	r
+36065232	36699272	1	10.0	18530	1006	r	r
+16475081	16559250	0	3.0	18886	1007	r heatmap	r heatmap lappli
+15853204	45372987	0	1	19542	1008	asp.net r download rcurl httr	r rcurl httr
+9862519	26374327	0	13.0	17262	1009	r	r plot
+38658033	38916875	0	1	19556	101	r interpol contour r-raster bilinear-interpol	r imag interpol surfac r-grid
+43275478	43293369	0	5.0	17631	1010	r social-network	r
+11950703	13984470	0	5.0	19047	1016	r knitr	r latex knitr xtabl r-markdown
+14041601	17061016	0	2.0	20455	1017	r equat roxygen2	r packag roxygen2
+48912908	48913362	1	2.0	25333	1018	r dplyr aggreg	r dplyr aggreg
+2564258	19038396	0	1	28618	1019	r plot ggplot2 r-faq	r graph ggplot2
+36368712	58859811	1	2.0	19810	102	regex r stringr	r regex stringr
+2231993	38620373	0	7.0	18880	1020	r fuzzy-search	r merg
+56366734	56382379	0	7.0	19901	1021	r tidyvers	r
+45201654	45515218	0	7.0	19234	1023	r group	r coalesc tidyvers
+14268814	28036294	0	1	29003	1024	r datafram dplyr data.t coalesc	r aggreg na
+26497751	38052325	0	1	23917	1025	r sort parameter-pass dplyr	r dplyr
+28306604	28332566	0	3.0	18466	1026	r plyr rollappli	r plyr zoo rollappli
+57430411	57465187	1	3.0	22780	1028	r data.t subset	r data.t subset
+8499378	15273148	0	9.0	24961	1029	r ggplot2	r graphic ggplot2
+28543538	29728795	1	9.0	19158	103	r survival-analysi	r survival-analysi
+42449257	43536583	0	2.0	24263	1030	r plot graph data.t	r plot data.t
+23875757	23887386	0	10.0	22421	1031	r plot	r ggplot2
+52187189	52275015	0	2.0	24345	1032	r dplyr time-seri forecast	r dplyr time-seri lappli forecast
+53235655	53239765	0	2.0	26215	1033	r ggplot2 tidyvers plotmath	r ggplot2 plotmath
+14964457	14968103	0	11.0	17836	1034	r pandoc	r pandoc linux-mint
+47730589	52378661	0	2.0	27176	1035	r plot ggplot2 emoticon	r ggplot2 emoji
+49041280	49074570	0	5.0	19300	1036	r join weighted-averag	r weighted-averag
+27545423	28813057	0	1	29389	1037	r datafram ggplot2 na missing-data	r visual
+17178831	36373630	0	2.0	20489	1038	r markdown knitr roxygen	r loop knitr
+15486551	17151024	0	13.0	25008	1039	r ggplot2	r map ggplot2 spatial
+18018097	18083363	1	5.0	19341	104	r geospati intersect	r geospati intersect
+33574457	33609538	0	13.0	17726	1042	r curve-fit	r curve-fit bspline
+52650467	52655729	0	42.0	18557	1043	r	r regress interpol spline
+1567718	25621108	0	14.0	20402	1044	r function	r
+57356463	57571196	0	1	23556	1045	r input shini reactiv shinyapp	r shini
+26896087	47637321	0	15.0	18534	1046	r igraph	r list if-stat nest igraph
+24881923	38101558	0	3.0	23612	1047	r datafram linear-regress predict	r datafram subset predict
+40652012	43551312	1	6.0	21727	1048	r knitr r-markdown	r knitr r-markdown
+38036680	48211887	0	3.0	21871	1049	r latex knitr r-markdown	r latex r-markdown
+59960252	59978973	0	16.0	20419	105	r time-seri	r dplyr time-seri summar preserv
+8260808	8266915	0	50.0	17313	1050	r	r format printf
+21729415	51158486	0	7.0	20476	1051	r knitr r-markdown	r markdown r-markdown knitr
+9171036	9178254	0	1	21041	1052	perform r statist crosstab bigdata	r memori boolean
+7326865	7327521	0	53.0	17304	1054	r	r intern
+3082716	3689279	0	18.0	19160	1055	matlab r	r return-valu interact built-in
+51923603	51996021	1	1	21457	1056	r perform regress linear-regress lm	r perform regress linear-regress lm
+41699952	41739418	1	56.0	18603	1057	r	r
+33419325	33473107	0	8.0	21754	1058	r plot expression-tre	r nlp visual igraph opennlp
+57024793	58739159	1	1	27508	1059	r list function datafram subset	r list function datafram subset
+45279880	45556677	0	3.0	19455	106	sql r eval knitr	sql r google-bigqueri rstudio knitr
+13912387	13923907	0	20.0	24439	1060	r datafram	r
+28159936	28162445	1	61.0	17325	1062	r	r
+43189512	44551816	0	20.0	19206	1063	r integr	r integr numerical-integr
+14366406	14368147	0	63.0	17431	1064	r	r loop plot
+5027480	5030389	0	4.0	23612	1066	r plot aggreg data-analysi	r plot ggplot2 reshap stacked-area-chart
+10004847	11028353	1	21.0	26997	1067	r ggplot2	r ggplot2
+12417454	16798605	1	9.0	21080	1068	r plot rserv	r plot rserv
+31178704	31213349	0	2.0	23682	1069	r function for-loop statist extract	r for-loop
+51569831	51581399	0	4.0	18709	107	r network igraph ggraph	r ggplot2 ggraph
+9220849	20849641	1	9.0	19856	1070	r xml memory-leak	xml r memory-leak
+8854046	15285089	0	10.0	19693	1071	r csv r-faq	r
+43223579	52334647	0	2.0	21226	1072	r matrix linear-algebra equat linear-equ	r matrix
+47651868	49120060	0	10.0	25129	1075	r ggplot2 ggproto	r ggplot2
+56249536	60835547	0	24.0	23266	1076	r shini	r shini flexdashboard shinyapp
+27677283	30468455	0	24.0	20603	1077	r data.t	r dynam data.t lookup
+2824965	14260340	0	25.0	19525	1078	window r	r
+52708868	52710549	0	5.0	19879	1079	r regress nl non-linear-regress	r dplyr regress nl
+56026040	56027906	0	77.0	18959	108	r	r list append subset
+24135157	34516346	0	11.0	18728	1080	r gridextra ggalli	r ggplot2
+7425100	11954734	0	5.0	19861	1081	sql r odbc rodbc	sql oracl r
+4765256	17879766	0	2.0	19605	1082	r foreach parallel-process multicor scope	r parallel-process
+11851240	11892241	0	2.0	20882	1083	array r merg rang match	r loop merg genet
+60289954	60310790	0	27.0	18800	1084	r plotli	r plotli r-plotli
+11121385	38237350	0	5.0	23646	1085	r datafram row repeat	r dplyr
+11693599	42112654	1	84.0	18920	1087	r	r
+29504327	29547506	1	28.0	19396	1088	xml r	xml r
+24033733	24039621	1	12.0	25888	1089	r map ggplot2	r map ggplot2
+40035067	40044958	0	12.0	19302	109	r imag parallel-process	r termin parallel-process imagemagick
+55853841	55970694	0	12.0	22409	1090	r function for-loop	r function dplyr
+42611836	56182271	1	12.0	21184	1091	r data.t correl	r data.t correl
+45047885	45122894	0	30.0	19463	1092	r sum	r raster rowsum
+25528067	35144130	0	30.0	20356	1093	r r-markdown	r knitr
+11254452	11288900	0	6.0	19277	1094	r distribut minimum evenli	r while-loop distribut max min
+12806128	19014531	0	13.0	19459	1095	r sort r-faq	r sort
+38895565	55853359	0	13.0	28176	1097	r plot ggplot2	r ggplot2
+38169765	38289656	0	13.0	24290	1098	r ggplot2 drc	r ggplot2 logistic-regress drc
+38644943	51658946	0	13.0	19244	1099	r gam mgcv	r regress gam mgcv geostatist
+57647120	57656065	0	32.0	17910	11	r cran	r linux
+55482534	55501292	0	98.0	18666	110	r	r appli
+36431158	36454567	1	33.0	22934	1100	r shini	r shini
+33048097	44318860	0	14.0	19708	1101	r latex stargaz	r stargaz
+49184274	49198437	0	33.0	23655	1102	r dplyr	r data.t
+12075037	44167480	1	34.0	25452	1103	r ggplot2	r ggplot2
+20679635	20682542	0	6.0	28078	1104	r color plot ggplot2	r graphic color
+34619117	34631794	1	14.0	23432	1105	r shini ggvi	r shini ggvi
+10888117	17368223	1	35.0	25135	1109	r ggplot2	r ggplot2
+24305672	24308718	0	15.0	20565	111	r date posixct	r function date posixct
+39137287	39164688	1	36.0	25492	1110	r ggplot2	r ggplot2
+27326929	29376031	0	7.0	23559	1111	r button shini reactive-program	r shini shiny-serv
+29957669	42564379	0	15.0	25432	1112	r color ggplot2	r ggplot2
+45891034	45899768	0	7.0	27441	1113	r ggplot2 gi choropleth	r ggplot2 gi choropleth sf
+10689055	52844649	0	16.0	24432	1114	r datafram r-faq	r datafram matrix type coercion
+59159729	59197298	1	16.0	22592	1115	r data.t recycl	r data.t recycl
+4996090	13043146	0	38.0	17675	1116	r read-eval-print-loop	r
+48433790	48511974	0	7.0	19813	1117	r crop raster intersect	r raster temporary-fil
+11056625	15141952	1	39.0	18112	1118	r lme4	r lme4
+3685285	29262916	0	39.0	24355	1119	r ggplot2	r plot ggplot2 bar-chart
+6329962	17240536	0	39.0	18968	1120	r multilin	r ggplot2 multilin reshape2
+40385321	40436727	0	40.0	18981	1122	r label	r resiz axis-label
+51481913	52565472	0	8.0	25944	1123	r ggplot2 gi ggmap	r google-map google-maps-api-3 ggmap
+25587773	41171676	1	17.0	20594	1124	r knitr r-markdown	r knitr r-markdown
+15403903	25315309	0	41.0	20225	1125	r knitr	r datat knitr r-markdown
+45607736	45627646	0	4.0	18414	1126	json r google-geocoding-api rjson rjsonio	json r rjson rjsonio
+31471808	42499099	0	41.0	18998	1127	r posixlt	r do.cal
+22558887	31416347	1	126.0	17386	1128	r	r
+11134812	42481827	1	8.0	20036	1129	r string unicod string-length	r string unicod string-length
+33479862	47907626	1	18.0	20478	113	r lappli lm	r lappli lm
+6178763	7001799	0	43.0	18466	1131	r graph	r ggplot2
+10762287	46639120	1	43.0	24306	1132	r ggplot2	r ggplot2
+22305023	40554479	0	18.0	25983	1133	r ggplot2 bar-chart	r ggplot2
+32575397	33306592	0	8.0	21982	1134	r rstudio knitr r-markdown	r rstudio knitr stringi
+51964208	56375203	0	19.0	19101	1135	r outlook rdcomclient	r date outlook rdcomclient
+6967664	27611438	0	19.0	25159	1136	r ggplot2 curv	r ggplot2
+26796829	33775239	0	45.0	23656	1137	r dplyr	r list split dplyr
+28987622	47663131	1	19.0	22152	1139	r password shini	r shini password
+57334741	57359221	0	137.0	18681	114	r	r subset rcpp
+47723890	47746656	1	9.0	25168	1140	r datafram time-seri aggreg	r datafram time-seri aggreg
+7942519	24440258	0	9.0	24618	1141	r sequenc datafram row	r datafram pca
+2286831	2295389	0	9.0	19298	1143	version-control r workflow statist	r statist
+1429907	5365974	0	20.0	20929	1144	r statist data-visu	r workflow statist
+19936432	22944707	0	4.0	18604	1145	r perform io hdf5 netcdf	r netcdf
+30946374	31050787	0	20.0	20108	1146	r for-loop index	r
+36094718	36141451	1	48.0	23364	1147	r shini	r shini
+57110805	57160711	1	20.0	24512	1148	r dplyr time-seri	r dplyr time-seri
+27014134	27060307	0	9.0	19286	1149	r openstreetmap rgdal osmar	r sp
+58627988	58906457	0	21.0	23298	115	r shini dt	r datat shini
+19885381	33103203	0	21.0	20970	1152	window r rstudio	r rstudio packag shini
+24916945	24948003	0	49.0	17717	1153	r flowchart	r igraph
+11486369	20689650	0	21.0	23430	1155	r memori datafram	r merg append datafram row
+5831794	38351820	0	151.0	18683	1157	r	r match negat
+34001333	34018634	0	21.0	20721	116	r matrix compar	r loop if-stat matrix
+7960798	34091811	0	51.0	21907	1160	r data.t	r class data.t
+12125364	49781741	0	4.0	21812	1161	r integ doubl data.t median	r data.t
+53479557	53864892	0	51.0	19156	1162	r gganim	r ggplot2 gganim
+9617629	27676179	1	52.0	25138	1163	r ggplot2	r ggplot2
+31947727	31994387	0	10.0	28441	1164	r ggplot2 plot r-grid	r function ggplot2 r-grid
+8761857	8771942	0	22.0	17838	1165	r depend code-analysi	r namespac
+14490071	34533472	0	53.0	27554	1166	r ggplot2	r vector plot sequenc axis-label
+10498477	14839730	0	53.0	19063	1167	r r-caret	r random-forest
+25178452	25179109	0	10.0	23853	1168	r list matrix element	r lappli
+30060278	39418783	1	5.0	20476	1169	r regress linear-regress lm piecewis	r regress linear-regress lm piecewis
+27184918	27202593	0	54.0	22610	117	r dplyr	r subset plyr
+24129772	24783826	1	54.0	25548	1170	r ggplot2	r ggplot2
+11144551	17878048	1	11.0	24350	1171	r sort merg datafram	r sort datafram merg
+30159041	31259932	0	23.0	20723	1172	r time-seri running-tot	r running-tot
+37761096	55825651	0	23.0	21964	1173	r plot percentag	r plot graph panel likert
+47722530	47734323	0	11.0	26248	1174	r list datafram match	r datafram dplyr data.t
+8273313	18492844	0	11.0	23593	1175	r datafram sampl r-faq	r datafram
+36974450	36974742	0	11.0	22144	1176	array r if-stat for-loop	array r list if-stat
+36187931	51407129	0	11.0	24465	1177	r time-seri dplyr lubrid	r dplyr
+35725156	35859083	1	57.0	23382	1179	r shini	r shini
+17222981	17225208	0	58.0	17789	118	r lookup-t	r time-seri zoo
+16512371	52440778	0	25.0	21270	1180	r loop append	r perform vector alloc
+24590154	42562128	0	11.0	25657	1181	r ggplot2 line polar-coordin	r ggplot2
+57498890	58487886	0	25.0	19287	1182	r odbc hana	sql r jdbc
+8400901	16118050	0	59.0	19398	1183	r aggreg	r
+37991389	50867641	0	25.0	19880	1184	r excel xlconnect	r excel encrypt password
+1266279	25273166	0	5.0	18710	1187	r packag convent code-organ project-organ	r rstudio organ
+7486386	14525580	0	60.0	19329	1188	debug r	r
+61353320	61369850	0	5.0	28733	1189	r ggplot2 dplyr reshap likert	r ggplot2 dplyr visual likert
+27727590	30330104	0	61.0	20167	119	r lappli	r loop lappli
+27114926	31323885	0	12.0	21791	1191	r knitr r-markdown xtabl	css r format
+1169539	51857177	0	12.0	21769	1192	r regress linear-regress lm	r regress aggreg linear-regress lm
+49743774	49818889	0	62.0	18211	1193	r rnoaa	r loop rnoaa
+18349053	18361570	0	187.0	18808	1194	r	r matrix rcpp armadillo
+36023558	36039026	1	62.0	19068	1195	r group	r group
+29125019	30765866	1	63.0	22340	1196	r plot	r plot
+3699405	33613337	0	63.0	19566	1197	r vector	r list datafram data-sci
+8203818	31528981	0	27.0	23888	1198	r datafram aggreg	r dplyr
+28814322	52344047	0	64.0	20503	1199	r statist	r std summari skew kurtosi
+36936613	36953026	0	27.0	24793	12	r shini data.t	r datafram data.t
+50062132	50231159	1	64.0	19177	120	c r	c r
+1245273	7828248	1	27.0	19238	1200	r histogram logarithm	r histogram logarithm
+32857212	61760349	0	13.0	22519	1201	r r-markdown pandoc list	r latex pdf-gener r-markdown list
+9863604	30266732	0	65.0	25200	1202	r ggplot2	r ggplot2 reference-class
+18110397	52317124	0	28.0	20599	1203	r functional-program vector	r
+18067519	18108045	0	199.0	17500	1205	r	r list lm
+56983105	56986638	0	13.0	21095	1208	r leaflet r-markdown knitr	r leaflet r-markdown
+43000077	43002416	1	201.0	18755	1209	r	r
+43371723	49752514	0	202.0	17969	121	r	r nonlinear-funct
+7368262	13642092	0	6.0	18422	1210	class r s4 slot roxygen2	r rstudio s4 roxygen2
+19009308	36144946	0	204.0	18937	1211	r	r datafram display
+12038160	31412724	1	68.0	18799	1212	r roxygen2	r roxygen2
+33027611	35214044	0	29.0	21018	1213	r perform vector	r
+3483203	15660829	0	6.0	25066	1215	r graph plot label boxplot	r ggplot2 boxplot
+3642188	51687808	0	69.0	20003	1216	r linear-algebra	r function matrix matrix-factor
+23528862	59199273	0	30.0	24114	1217	r dplyr sqldf	r dplyr conditional-stat summar
+25565817	25742400	0	30.0	23617	1218	r plot png	r plot
+27779667	31729775	0	30.0	18268	1219	r neural-network formula	r neural-network
+12766253	12771988	0	71.0	22295	122	r plot	r
+5320814	10562078	0	30.0	18826	1220	r cluster-analysi heatmap	imag r heatmap
+61798169	61876254	0	6.0	26490	1221	r datafram data.t aggreg tidyvers	r datat time-seri aggreg
+29736577	49181715	0	30.0	19775	1222	r gi geospati	r sf
+43460760	43526149	0	7.0	24010	1223	r matrix plot lattic levelplot	r axi label lattic levelplot
+2126108	9617348	0	72.0	20571	1228	r statist	r matrix datafram plyr reshap
+10411871	24651664	0	73.0	18529	1229	r parallel-process	r foreach parallel-foreach
+33769770	50023898	0	14.0	20019	123	r group-bi zoo rollappli	r dplyr zoo
+47720329	59808375	0	31.0	25525	1230	r ggplot2 geospati	r ggplot2 sf
+54535966	54764144	0	31.0	19657	1231	r rcpp rparallel	r rcpp non-standard-evalu rparallel
+33180058	43637981	0	31.0	24374	1232	r datafram r-factor	r
+51352697	51353272	0	74.0	19838	1233	r rvest	r web-scrap rvest rselenium
+50341423	50472929	0	15.0	19557	1234	r math optim integr	r math optim statist integr
+47719961	58295133	0	75.0	21062	1235	r for-loop	r for-loop match uniqu tidyvers
+61602871	61613387	0	75.0	17963	1236	r dendrogram	r
+23483421	23493873	1	32.0	20540	1237	r list merg	r list merg
+15673550	21605401	0	15.0	22356	1238	r data.t rbind rbindlist	r data.t rbind
+11070101	26562926	0	15.0	22489	1239	r color plot linear-gradi	r color ggplot2 gradient colorbrew
+52874031	53194740	0	15.0	19999	124	mysql sql r oracl	r ggmap
+2893005	3472980	0	7.0	25841	1240	r label local ggplot2 facet	r ggplot2 symbol facet plotmath
+41088751	42387066	0	33.0	19236	125	r sankey-diagram riverplot	r pdf vector-graph color-schem
+1882734	8507442	1	78.0	18800	1250	debug r	debug r
+4442518	20588435	0	33.0	19314	1251	r debug r-faq	r
+42524450	49924813	0	15.0	26335	1252	r ggplot2 heatmap plotli	r scale plotli heatmap
+14899197	15475832	1	34.0	24735	1253	r datafram combin	r datafram combin
+10305614	10572878	0	79.0	25321	1254	r ggplot2	r map ggplot2
+15960352	20134823	0	34.0	21040	1255	r time-seri zoo	r asynchron plyr interv window
+57547769	57680924	1	80.0	17975	1256	r phylogeni	r phylogeni
+27367914	28354573	0	34.0	19321	1258	r memory-manag qdap	regex r gsub
+53070606	53071578	1	81.0	19486	126	r purrr	r purrr
+3261597	10058839	0	16.0	25836	1263	r ggplot2 strip facet	r ggplot2
+22480052	34623780	1	81.0	24434	1265	r ggplot2	r ggplot2
+12675147	23231246	0	35.0	26980	1266	r ggplot2 plot	r
+34896004	35660588	0	82.0	19324	1267	r xgboost	r offset poisson xgboost
+61649029	61741207	0	16.0	22472	1268	r loop regress appli	r group-bi group tidyvers lappli
+46842293	46872965	1	35.0	24204	127	r csv shini	r csv shini
+49440262	52649215	0	35.0	17930	1271	r outlook rdcomclient	r vba outlook
+49554201	49665486	1	83.0	23465	1272	r shini	r shini
+10966109	31822873	0	36.0	19559	1273	r markdown knitr	r r-markdown
+22329685	27593677	0	84.0	20969	1274	r r-markdown	r latex knitr sweav rnw
+21273691	21274527	0	84.0	21977	1275	r plot	r plot bar-chart
+51126843	58108631	0	36.0	27425	1276	r ggplot2 group	r ggplot2
+46842118	46901745	0	17.0	19771	128	r graphic color lattic	r graphic color lattic discret
+21435339	21477525	1	36.0	26193	1282	r data.t dplyr	r data.t dplyr
+23026145	23028406	0	17.0	23476	1283	r group-bi dplyr indic	r rank interact
+45722157	59174298	0	8.0	21144	1284	r leaflet map qgi jstilemap	r shini leaflet
+42771185	43046753	0	86.0	18604	1285	r leaflet	r shini leaflet
+21185336	23444693	1	37.0	20102	1286	r cluster-analysi text-min	r cluster-analysi text-min
+60916444	60948692	0	262.0	17564	1287	r	r plot time-seri
+25964504	53703529	0	8.0	19336	1289	r time posixct lubrid posixlt	r
+30064401	30065418	1	37.0	25745	129	r data.t dplyr	r data.t dplyr
+10368180	16028659	0	88.0	25331	1290	r ggplot2	r plot ggplot2 map bar-chart
+28360148	31675416	1	266.0	18831	1291	r	r
+11280277	30894636	0	89.0	24329	1292	r datafram	r count datafram
+19196923	33359284	0	8.0	26175	1293	r ggplot2 tiff raster geotiff	r plot ggplot2 raster
+34898222	34903368	0	8.0	29189	1294	r ggplot2 shini bar-chart label	r ggplot2 bar-chart label
+10483349	16115102	1	38.0	19330	1296	r lda topic-model	r lda topic-model
+7726034	15383057	1	90.0	19061	1297	r posixct	r posixct
+10662314	16110859	0	18.0	19872	1298	r renam base gsub	r
+29827948	29892116	0	91.0	21714	1299	r data.t	r data.t posixct
+48469441	48472163	0	8.0	25916	13	r ggplot2 shapefil maptool spatial-data-fram	r ggplot2 ggmap maptool
+49229558	49269338	1	91.0	19801	130	r regex	r regex
+51597297	51650023	1	39.0	19733	1300	r nlp tm	r nlp tm
+7885147	34008486	0	92.0	21672	1301	r data.t	r data.t time-seri
+4959018	5140447	0	39.0	19262	1302	oop r coding-styl	r software-distribut
+32544646	36969907	0	93.0	18015	1303	r round	r round running-tot
+10706753	43216262	0	93.0	24481	1304	r ggplot2	r for-loop ggplot2 python-imaging-librari
+12040245	31458536	1	93.0	25640	1306	r ggplot2	r ggplot2
+6085238	51892875	0	94.0	25078	1307	r ggplot2	r ggplot2 geom-bar aesthet
+9968976	18598953	1	94.0	25667	1308	r ggplot2	r ggplot2
+61873468	61900256	1	19.0	18709	1309	r optim linear-program mixed-integer-program	r optim linear-program mixed-integer-program
+35306306	35319824	1	286.0	19165	131	r	r
+21962452	21971447	0	9.0	23156	1311	r plot polygon geospati ggmap	r polygon geospati spatial point-in-polygon
+3932038	42707308	0	41.0	23128	1312	r plot legend	r plot
+16070405	16072487	0	41.0	20190	1313	r function probabl	r function plot probabl
+25697358	26499445	0	96.0	19063	1314	r primit	r matrix vector
+1195826	17217951	0	19.0	24620	1315	r datafram r-factor r-faq	r level
+11676476	12139934	0	19.0	23372	1317	r time-seri data.t sliding-window	r data.t zoo
+5161055	5581023	1	293.0	17596	1318	r	r
+25755930	31220586	0	9.0	19502	1319	r dna-sequ phylogeni genet ape-phylo	r dna-sequ phylogeni genet
+41597604	41616407	0	42.0	20177	132	r date posix	r date iso8601 week-numb
+40901445	51249359	0	42.0	22231	1320	r function statist	r machine-learn regress linear-regress
+20637248	34609967	0	99.0	23198	1321	r shini	r function shini
+2858014	45460273	0	19.0	21263	1322	r list hashmap lookup	r dictionari hashmap lookup
+51387157	51546208	0	19.0	22501	1323	r duplic data.t lubrid	r sum data.t mean
+27532044	52334725	0	42.0	22748	1324	r graphic plot	r plot graph argument regress
+45357806	45375409	0	20.0	23722	1325	r select dplyr startswith	r select dplyr purrr multiple-match
+16289182	33887083	0	100.0	23776	1327	r data.t	r data.t subset random-sampl
+28500096	56622368	0	20.0	22753	1329	r markdown knitr r-markdown	r yaml r-markdown knitr
+30902906	44549464	0	43.0	20214	133	r latex texreg	r knitr r-markdown pandoc texreg
+35025145	43131595	0	43.0	24086	1330	css r shini	r shini
+8888516	8920722	0	43.0	20360	1331	r data-min sparse-matrix	r
+9506442	58504930	0	20.0	22361	1334	r sort matrix row	r
+18647777	24231827	0	102.0	19692	1335	r pdf	r pdf plot metadata
+9449184	27778559	0	103.0	19931	1336	r if-stat	r
+21502181	21562813	0	103.0	19026	1337	r greatest-common-divisor	r recurs
+9096671	11353287	0	44.0	27916	1338	r plot ggplot2	r label facet ggplot2
+56629367	56634463	0	44.0	24862	1339	r datafram outlier	r outlier
+45265792	45266834	1	313.0	18023	134	r	r
+1630724	2182337	0	44.0	19959	1341	sql r rodbc	mysql r variabl
+37131569	43385119	1	45.0	18592	1342	r rpostgresql r-dbi	r rpostgresql r-dbi
+7883154	17959817	0	105.0	24536	1343	r ggplot2	r plot ggplot2
+12546365	61526548	0	21.0	20968	1345	r latex knitr subfigur	r r-markdown subplot subcapt
+39694490	48286116	0	45.0	25547	1346	r index ggplot2	r ggplot2 label axe
+49746686	49813500	1	106.0	19169	1347	r gurobi	r gurobi
+3744178	7299440	1	107.0	25317	1348	r ggplot2	r ggplot2
+9661469	9669411	1	322.0	18890	1349	r	r
+54701979	54737642	0	21.0	25726	135	r ggplot2 r-plotli ggplotli	r r-plotli
+34213765	36817423	0	46.0	22210	1351	r data.t geospher	r data.t geospati sp
+6902087	15510566	0	108.0	20911	1352	r data.t	r loop if-stat datafram
+11301738	11606441	1	108.0	24502	1353	r ggplot2	r ggplot2
+10049602	10055602	1	109.0	19899	1354	r reshap	r reshap
+60330449	60556267	1	328.0	17658	1355	r	r
+11668904	37998364	0	21.0	19402	1356	r option knitr chunk	r latex height knitr figur
+34731975	49452857	1	110.0	23922	1357	r shini	r shini
+51269865	51386027	1	331.0	17720	1358	r	r
+48067906	56156084	0	10.0	20058	1359	r api curl error-handl try-catch	r list url download
+58677247	58793147	1	47.0	25494	136	r imag ggplot2	r imag ggplot2
+28579361	49967559	1	111.0	23860	1360	r dplyr	r dplyr
+17569309	17569577	0	111.0	18048	1361	r set	r time-seri financ
+29775461	48774624	0	112.0	20296	1362	r tidyr	r dplyr slice tidyr
+32773617	56137091	1	112.0	23540	1363	r dplyr	r dplyr
+16846380	43211628	1	112.0	22165	1364	r data.t	r data.t
+7227976	40802404	0	48.0	20011	1365	regex r grep	r regex
+36033449	39507019	0	48.0	26822	1366	r datafram dplyr	r dplyr
+9071020	20562177	0	11.0	20509	1367	r regress svd projection-matrix qr-decomposit	r regress linear-regress lm qr-decomposit
+36571864	38601794	0	22.0	20923	1368	r regress linear-regress lm	r vector lm
+38177908	38223003	1	114.0	23928	137	r dplyr	r dplyr
+39262534	51937380	0	11.0	20159	1370	r regress linear-regress lm mlm	r processing-effici posthoc
+9558040	13219387	0	49.0	24981	1371	r ggplot2 geospati	r map ggplot2
+25145982	55710990	0	11.0	22790	1375	r duplic set data.t uniqu	r duplic data.t
+45549449	46319137	0	49.0	19865	1376	r date lubrid	r date
+8153594	8713994	0	23.0	20062	1377	r combin data-visu factor-analysi	r plot venn-diagram
+14883925	14884346	1	349.0	18758	138	r	r
+17121390	17127645	0	23.0	20357	1380	r graph legend axis-label	r graph axis-label
+11846295	43696806	0	50.0	26963	1381	r ggplot2 facet	r ggplot2
+12018499	33079500	1	50.0	25992	1382	r ggplot2 bar-chart	r ggplot2 bar-chart
+12647774	25171210	0	50.0	28617	1383	r plot ggplot2	r ggplot2 frequenc boxplot
+16626462	29696172	0	23.0	20982	1385	r markdown knitr pandoc	r knitr r-markdown
+10661295	10661937	0	23.0	25372	1387	r datafram multiple-column appli	r
+24705431	60151766	1	118.0	22803	1388	r shini	r shini
+22287498	23482036	0	11.0	24767	1389	r ggplot2 nse standard-evalu non-standard-evalu	r function index subset evalu
+58370234	58375977	0	11.0	22192	139	r vector index subset element	r index subset element
+30540644	30541130	0	11.0	26450	1390	r merg data.t aggreg dplyr	r aggreg
+16196327	28261825	1	120.0	19091	1392	r lc	r lc
+17306695	17329288	1	24.0	20160	1393	r web-scrap rcurl httr	r web-scrap rcurl httr
+18093107	24953127	0	51.0	19388	1394	r hadoop rhadoop	r mapreduc hdf rhadoop
+4427234	9277363	1	363.0	17702	1395	r	r
+34345945	36255181	1	121.0	19358	1396	r testthat	r testthat
+28979857	34214859	0	24.0	21086	1397	r string csv nul	r string nul
+9851655	14166207	0	366.0	18940	1398	r	r global-vari
+60822398	60827811	1	52.0	25461	1399	r ggplot2 facet-grid	r ggplot2 facet-grid
+49517374	49521036	0	52.0	19421	14	r decim round	r cast round interpol precis
+38971260	38976959	1	369.0	17711	140	r	r
+3681647	12252750	1	123.0	24610	1400	r ggplot2	r ggplot2
+12362176	56864559	0	123.0	24836	1401	r datafram	r data.t compar
+38540093	38541103	0	372.0	17696	1402	r	r shini
+30652116	30675761	0	124.0	20401	1403	r regress	r equat
+35525240	38277826	0	53.0	25788	1404	r ggplot2 boxplot	r ggplot2
+34522732	51885427	0	12.0	25986	1405	r ggplot2 font extrafont showtext	r ggplot2 font extrafont
+25946047	30888631	0	376.0	17737	1406	r	r knitr
+2409317	10770698	0	53.0	27293	1407	r plot ggplot2	r datetim ggplot2 histogram
+47950817	47976994	0	12.0	26851	1408	r ggplot2 plotli geom-bar ggplotli	r ggplot2 dplyr plotli ggplotli
+45824409	45826042	0	25.0	28556	1409	r ggplot2 dplyr tidyev	r ggplot2 dplyr
+55485704	55498710	0	12.0	22244	141	r function nest switch-stat appli	r function nest condit group
+5713713	23679925	1	127.0	25413	1410	r ggplot2	r ggplot2
+6216968	45889756	0	382.0	18982	1411	r	r scope environ
+6258004	8855589	0	54.0	19244	1412	class r type	r language-lawy r-faq
+34096162	61837438	0	54.0	26520	1413	r data.t dplyr	r dplyr tibbl unnest
+4785933	5223113	0	25.0	19372	1414	mysql r packag rmysql	mysql window r
+9965747	9968578	0	128.0	19523	1415	r julia	r optim julia
+7004710	7027288	0	129.0	20167	1416	r lappli	r function error-handl r-faq
+29102155	29119052	0	55.0	20682	1417	r string levenshtein-dist	r function dplyr
+2436688	17046336	0	12.0	21577	1418	r perform list append big-o	r perform list append
+48713927	48717310	0	130.0	21671	142	r for-loop	r tidyr tidyvers
+28159143	28807266	0	55.0	24504	1420	regex r dplyr	r row subset correl dplyr
+15059076	21818181	0	130.0	24799	1421	r datafram	r plyr dplyr
+36668078	36676878	0	56.0	25601	1422	r chart ggplot2	r ggplot2 time-seri axis-label
+17761858	17770093	0	12.0	21030	1423	r unicod text-process iconv unicode-str	r secur sanit
+15913417	16542994	1	131.0	22726	1424	r data.t	r data.t
+52606467	59248550	1	396.0	19129	1425	r	r
+35040579	35056668	0	56.0	23410	1426	r shini shiny-react	r shini
+21614443	30561889	0	56.0	19885	1427	r import shapefil	r gdal rgdal ogr
+15502263	19410781	0	57.0	25783	1428	r ggplot2 parameter-pass	r ggplot2
+52864035	52865362	0	133.0	24749	143	r shini	r asynchron futur r-futur
+57937662	57946786	0	57.0	23457	1430	r shini rhandsont	r shini
+40596609	40636032	0	57.0	26117	1431	r loop datafram	r loop datafram combin
+48337624	48394545	1	26.0	23106	1432	r shini shinydashboard shinyapp	r shini shinydashboard shinyapp
+8161836	41604711	0	13.0	25258	1433	r datafram na missing-data imput	r dplyr
+8055508	24192428	0	27.0	18331	1434	r formula polynomi tild	r regress formula polynomi
+8197559	25211078	0	135.0	24643	1435	r ggplot2	r plot ggplot2
+9184969	10112587	0	135.0	25800	1436	r ggplot2	r ggplot2 bar-chart
+10431403	10449366	0	58.0	18342	1438	r r-factor recod	r type level
+36335498	42208566	0	58.0	20678	1439	r web-scrap rvest	angularj r web-scrap rvest
+3650862	32637159	1	58.0	18113	1440	r profil profil	r profil
+17691036	33813972	0	58.0	20327	1441	r machine-learn svm	r machine-learn svm kernlab
+12464396	24907018	0	137.0	25566	1442	r ggplot2	r ggplot2 distribut
+27004167	36852821	0	27.0	20521	1443	r attribut igraph vertex	r igraph
+3443687	11228403	0	27.0	18691	1445	r format round r-faq	r decim
+15267018	15298359	0	59.0	21923	1446	r data.t knitr	r cach data.t knitr
+49676982	52431959	0	28.0	22269	1448	r r-markdown knitr flextabl	r caption flextabl offic
+1828206	6242955	0	140.0	18749	1449	datetim r	r date posix zoo r-faq
+60062217	60728218	0	140.0	19364	145	r ecdf	r
+2193742	5788117	0	28.0	19206	1451	r data-process read.tabl delimit	r import r-faq
+16390221	31432176	0	141.0	20272	1452	r igraph	r version igraph
+47850921	51759893	0	60.0	20847	1453	r r-markdown wordcloud2	r word-cloud wordcloud2
+10939516	20330457	0	28.0	19584	1454	r namespac mask operator-preced	r sort
+5208679	54756565	0	61.0	25529	1455	r ggplot2 r-faq	r ggplot2 facet-wrap
+18881073	28576729	0	61.0	22371	1456	r data.t dummy-vari	r loop data.t lappli
+11940605	28094645	1	143.0	21054	1457	r data.t	r data.t
+1401904	13656699	0	61.0	20013	1458	r upgrad packag	r rstudio
+25693082	39507618	0	61.0	20636	1459	r time-seri data-analysi	r
+9378482	24889784	0	144.0	21234	146	r statist	r plyr tabular multisampl
+28748046	28761809	0	144.0	21888	1461	r data.t	r data.t self-join cross-join
+14983805	29100911	0	62.0	22963	1462	r join data.t	r join data.t self-join
+9508747	27718360	0	435.0	17766	1464	r	r date
+43251214	61868853	0	29.0	22792	1465	r shini dt sparklin	r dt sparklin
+52932440	52933667	1	437.0	19048	1467	r	r
+33117997	33143257	0	62.0	19554	1468	r formula lm	r lm factor
+52338580	52339226	0	146.0	20790	147	r vector	r sort vector doubl
+26123516	41670314	1	146.0	23876	148	r dplyr	r dplyr
+23077125	23131824	0	441.0	19080	1480	r	r panel-data plm
+29980426	32546083	0	63.0	20309	1482	r regress categorical-data	r r-caret
+18171246	44200195	0	63.0	21031	1483	databas r statist	r regress lm glm r-faq
+29241492	37090722	0	148.0	18244	1484	r lmer	r regress linear-regress lme4 mixed-model
+1395577	5182238	1	148.0	22896	1485	r plot	r plot
+18287981	25069798	0	29.0	21601	1486	r parallel-process tm mclappli	r twitter rstudio tm mclappli
+15059093	25007324	0	149.0	25975	1487	r ggplot2	r graph ggplot2 legend
+22003683	22022772	0	149.0	19472	1488	r variable-assign	r
+29624895	29629049	0	150.0	19159	1489	r sp	r spatial sp
+45259737	51045709	1	150.0	22305	149	r data.t	r data.t
+2643939	15968494	0	64.0	25954	1490	r appli datafram	r datafram na
+9871106	9874512	0	64.0	27013	1491	r ggplot2 boxplot	r align boxplot
+11979017	12096492	1	151.0	24754	1493	r ggplot2	r ggplot2
+12514612	27690729	1	152.0	25871	1494	r ggplot2	r ggplot2
+19404270	43095645	0	65.0	18271	1495	r vba workflow	r excel vba excel-vba xlsx
+18511249	21618556	0	65.0	20304	1496	r excel xlsx	r format xlsx
+27953588	49570793	0	65.0	18424	1497	r combin powerset	r combin
+24070714	42098881	0	30.0	25157	1498	r dplyr data.t aggreg	r plyr
+50858296	50860018	0	30.0	25401	1499	r dplyr data-manipul tidyvers	r list dplyr tidyvers
+27497068	27507448	1	30.0	18350	15	r curve-fit percentil gamlss	r curve-fit percentil gamlss
+51551082	51603769	0	14.0	23019	150	r loop igraph lappli network-analysi	r loop for-loop igraph network-analysi
+21760298	21764361	0	66.0	24693	1500	r export datafram	r export datafram append
+38109501	39337862	1	15.0	22082	1502	r regress linear-regress predict lm	r regress linear-regress lm predict
+17808575	21367922	0	15.0	18440	1503	r winbug jag r2jag jags.parallel	r ipopt
+12019638	12023403	1	155.0	20078	1505	r parallel-process	r parallel-process
+10035551	11393123	1	156.0	25484	1506	r ggplot2	r ggplot2
+10438969	46712379	0	31.0	27334	1508	r datafram plyr data.t	r data.t tidyvers
+59153010	59187457	1	31.0	23050	151	r shini shinydashboard shinywidget	r shini shinydashboard shinywidget
+15660954	15730793	0	157.0	19509	1510	r differential-equ	r curve-fit differential-equ data-fit model-fit
+19470426	35020810	0	67.0	23480	1512	r tabpanel shini	r shini rstudio reactive-program
+36040542	38900293	0	31.0	23856	1514	r list data.t lag	r data.t
+8096313	9439256	0	158.0	18890	1516	r packag	r ggplot2
+13106645	13123638	0	67.0	22603	1517	r sum data.t	r
+24536154	27125672	0	158.0	18320	1518	r magrittr	r syntax dplyr magrittr r-faq
+46857193	46925686	0	477.0	19099	1519	r	r data.t time-seri
+25905144	41589266	0	68.0	19680	152	r text-min tm	r tm quanteda
+5251507	25954361	0	31.0	25405	1520	r datafram glm lm	r variabl
+18487369	51901813	0	32.0	25985	1521	r color ggplot2 gradient	r ggplot2
+27637455	36133374	0	68.0	25900	1524	r ggplot2 ggproto	r ggplot2 legend
+9917049	34496000	1	160.0	24686	1525	r ggplot2	r ggplot2
+13703344	14687326	0	32.0	20276	1526	r matlab optim nonlinear-optim	r optim nonlinear-optim
+12584704	12599684	1	69.0	20015	1527	r xt random-forest	r xt random-forest
+16255579	34797443	0	161.0	25943	1528	r ggplot2	r ggplot2 gridextra gtabl
+57935571	57967678	0	32.0	19102	1529	r na eigenvector matrix-decomposit	r version lapack eigenvalu negative-numb
+48142634	48154928	0	15.0	20630	153	r xml emoji html-encod xml2	r unicod encod
+5980240	7224938	0	32.0	24824	1530	perform r datafram rbind	r
+30460410	30560689	1	69.0	22791	1532	r plot glmnet	r plot glmnet
+42469003	42491624	1	163.0	21142	1533	r data.t	r data.t
+47934438	48104724	0	70.0	20691	1534	r polygon plotli	r hover plotli
+16284766	23594580	0	70.0	20702	1535	perform r bigdata	r parallel-process logistic-regress
+26291988	31721023	0	32.0	26174	1536	r data.t plyr dplyr	r data.t
+1189759	7430452	0	32.0	19972	1537	r termin custom rprofil	r user-interfac popup x11 cran
+15034471	15042418	0	33.0	19561	1538	window r git curl	window r curl github
+5352099	13579953	0	70.0	19858	1539	r format scientific-not	r r-faq
+56530842	56532527	0	16.0	20716	154	r chart count plotli donut-chart	r chart plotli textcolor text-siz
+1848331	6099243	0	71.0	19466	1540	r export-to-excel import-from-excel	excel r r-faq
+7963393	27153974	0	71.0	20591	1541	excel r memori	r excel xlsx xlconnect
+44616530	52554822	0	33.0	27837	1542	r date ggplot2 axis-label	r ggplot2 axis-label facet-grid gtabl
+23840523	24094963	0	502.0	17915	155	r	r virtual-machin solari virtualbox
+18989001	30103408	0	167.0	26001	1550	r ggplot2	r ggplot2 gtabl
+26917689	40837588	0	72.0	25669	1552	r ggplot2 gtabl	r ggplot2 facet
+3099219	54413787	0	72.0	26006	1553	r ggplot2 r-faq	r ggplot2
+5106782	34097133	0	168.0	24767	1555	r ggplot2	r function ggplot2 environ aesthet
+22569176	57457590	0	16.0	20003	1556	r combin permut multiset r-faq	r combin
+38372906	39330299	1	169.0	23416	1557	r shini	r shini
+8389913	8390943	1	509.0	19108	1558	r	r
+8843700	32499520	0	170.0	19224	156	r sparse-matrix	r matrix sparse-matrix rbind cbind
+26519172	47044068	0	73.0	21196	1564	r rstudio working-directori	r rstudio
+1815606	3452086	0	16.0	18736	1568	r file path rscript r-faq	r path
+27264266	27296022	0	73.0	24866	1569	r ggplot2 magrittr	r ggplot2 dplyr magrittr
+47405422	52335837	0	73.0	24414	157	r shini plotli	r shini plotli r-plotli
+30006822	33421854	0	171.0	18249	1570	r r-faq	r import sa
+19253820	37714533	0	172.0	19462	1571	r coalesc	r join datafram merg dplyr
+29793398	50070741	1	172.0	25587	1572	r ggplot2	r ggplot2
+9315258	16824544	0	34.0	23562	1573	r aggreg plyr data.t	r
+5226807	7993722	1	173.0	25621	1575	r ggplot2	r ggplot2
+3864535	11724311	0	173.0	26026	1577	r ggplot2	r ggplot2 subtitl
+18406991	20432635	1	173.0	25232	1579	r ggplot2	r ggplot2
+26706159	30513616	0	34.0	20465	158	xml r rcurl httr	r rcurl httr
+5465314	8251306	1	174.0	18764	1582	r latex	r latex
+26477679	26491934	0	34.0	20997	1583	r knitr rstudio tex	r maco rstudio
+30671958	47804593	0	75.0	24173	1584	r shini shiny-serv	r datat dt
+5415132	40391272	1	175.0	25644	1585	r ggplot2	r ggplot2
+28574757	52357757	0	35.0	20537	1586	r network igraph sna	r ggplot2 ggnetwork
+24904683	41918861	1	75.0	18695	1587	r cach mean	r cach mean
+11275187	11300048	0	17.0	21575	1588	r if-stat for-loop conditional-stat rcpp	r rcpp
+55550126	56099758	1	35.0	24379	1589	r shini datat dt	r datat shini dt
+52334944	58713038	0	75.0	22659	159	r shini dygraph	r shini r-dygraph
+13167531	39446852	0	35.0	25209	1591	r ggplot2 data-visu hexagonal-til	r ggplot2
+16253789	16315581	0	177.0	19962	1592	r missing-data	r
+15625990	28032846	0	17.0	21022	1593	imag r markdown knitr pandoc	r r-markdown
+29583849	42723141	0	178.0	22667	1594	r plot	r plot ggplot2 pryr
+31458051	31463445	1	76.0	25710	1596	r ggplot2 gridextra	r ggplot2 gridextra
+45351663	45406009	0	76.0	21115	1597	r time-seri rollappli	r loop
+20039335	20076511	1	179.0	23266	1598	r data.t	r data.t
+45405167	61117221	0	77.0	21502	1599	r 3d plotli	r plotli
+33263759	33284951	0	36.0	21189	16	regex r emac ess	regex r pars emac
+52334683	52382354	0	77.0	25165	160	r dplyr tidyvers	r tidyvers
+34865789	44362281	0	17.0	21079	1600	r matrix na median imput	r
+28889057	29658627	0	77.0	22466	1603	r refer data.t	r join data.t
+7864931	10758965	0	77.0	18444	1604	r renam filenam	r file-renam
+6558921	6933598	0	17.0	19653	1606	r logical-oper boolean-oper or-oper and-oper	r subset logical-oper
+12925063	42796857	0	78.0	26139	1607	r datafram r-faq	r
+11433432	40640132	0	36.0	21116	1608	r csv import r-faq	r dplyr tidyvers
+22945651	59079147	0	78.0	28180	1609	r plot ggplot2	r ggplot2 axe
+52858332	52875140	0	183.0	24189	161	r dplyr	r shini tidyvers shinydashboard shiny-react
+32999460	51118608	0	78.0	19190	1610	r datetim posixct	r dplyr difftim
+21295936	21644848	0	184.0	24205	1611	r dplyr	r dplyr aggreg
+57253488	57672160	0	17.0	26564	1612	r ggplot2 plotli subplot r-plotli	r plotli tidyvers r-plotli
+2547402	45460859	0	79.0	20939	1616	r statist r-faq	r
+6675066	59181206	0	79.0	25691	1618	r ggplot2 r-faq	r bash ggplot2 xterm
+4227223	4512465	1	79.0	26246	1619	r list datafram	list r datafram
+31381066	32411080	0	37.0	26967	162	r graphic ggplot2 rstudio	r graphic ggplot2 rstudio highdpi
+7611169	15624656	0	79.0	23009	1620	r plot label	r plot ggplot2 label ggrepel
+12786335	12898318	0	186.0	21229	1621	r data.t	r date charact posix
+7355187	12307139	1	187.0	19536	1626	r r-faq	r r-faq
+1535021	12512062	0	187.0	18750	1627	r r-faq	r import export export-to-csv read.tabl
+2899581	5510966	1	563.0	19171	1629	r	r
+38440350	38441722	0	80.0	19174	163	r sed homebrew	r bash maco sed rscript
+8091303	32066402	0	18.0	27720	1630	r list merg datafram r-faq	r dplyr
+25137444	25143428	1	80.0	23712	1631	r datafram reshape2	r datafram reshape2
+9555889	58591852	0	567.0	19224	1632	r	r ggplot2 plot export
+7854433	37571154	0	81.0	19508	1633	r duplic r-faq	r
+3606697	61531149	0	81.0	28658	1634	r plot ggplot2	r ggplot2
+11214012	27028825	1	190.0	24834	1635	r ggplot2	r ggplot2
+31690007	42151880	1	190.0	26006	1636	r ggplot2	r ggplot2
+15875786	29790915	1	81.0	23897	1637	r rstudio shini	r shini rstudio
+36478278	47519624	1	191.0	25996	164	r ggplot2	r ggplot2
+11020437	28890227	0	191.0	25303	1643	r ggplot2	r ggplot2 width bar-chart seri
+1299871	38066077	0	18.0	25981	1647	r join merg datafram r-faq	r datafram merg reshap
+17638090	18080378	0	18.0	18794	1648	r stdout cran devtool system2	r tm pdf-scrape
+22133577	61079751	0	577.0	19188	1649	r	r rstudio
+56817353	56817718	0	18.0	26937	165	r ggplot2 rstudio png x11	r plot graph
+26003574	57123813	0	82.0	24254	1650	r dplyr r-faq	r shini dplyr dt
+2894775	31276157	0	82.0	24747	1651	r datafram replic	r data.t
+25866788	47171585	0	18.0	24053	1652	r pdf rstudio r-markdown knitr	r latex knitr r-markdown
+7901925	7903972	0	83.0	25782	1653	r ggplot2 viewport	r ggplot2
+7549694	37536950	0	38.0	27794	1656	r ggplot2 linear-regress r-faq	r ggplot2 p-valu
+12409960	17492230	0	83.0	26073	1657	r annot ggplot2	r ggplot2 grob
+10525957	10536396	0	195.0	26323	1658	r ggplot2	r ggplot2 lattic
+14124373	14358526	0	18.0	28859	1659	r plot ggplot2 base biwavelet	r graphic ggplot2
+59184868	59192861	0	84.0	26127	166	r ggplot2 quantil	r ggplot2 regress quantil quantreg
+5671719	47240375	0	590.0	18109	1660	r	r regex
+6644997	18994631	0	84.0	25113	1661	r graphic ggplot2	r ggplot2
+8751497	46150851	0	84.0	19651	1662	r latitude-longitud google-geocod	r geoloc map geocod
+22305444	32492667	0	39.0	22264	1664	r latex knitr sweav	r if-stat knitr sweav
+35651669	45709189	0	198.0	24318	1666	r shini	html r url shini render
+20600900	20622332	1	198.0	25709	1667	r ggplot2	r ggplot2
+29360182	29361182	0	39.0	24201	1668	css r twitter-bootstrap shini	css r shini
+3302356	3318333	0	39.0	25161	1669	r split datafram r-faq	r vector
+58159645	58219503	0	85.0	19912	167	r post httr	r get rvest xml2
+4126326	26273892	0	85.0	24938	1670	r sort datafram	r plot datafram
+3505701	11533438	0	19.0	21193	1672	r lappli sappli tappli r-faq	r datafram plyr data.t
+11562656	15467219	0	85.0	24763	1673	r datafram r-faq	r merg plyr
+23261760	26794236	0	200.0	20364	1674	r bar-chart	r plot 3d ggplot2 bar-chart
+18720036	24715894	0	201.0	18536	1675	r bigdata	r substr data.t appli lappli
+2247045	50996686	0	201.0	19728	1678	r strsplit	r postgresql hex decod bytea
+43515925	43518958	0	86.0	23892	1679	r dplyr rowsum	r datafram dplyr rowsum
+45779447	45859005	0	86.0	20337	168	r parallel-process doparallel	r doparallel
+5453336	17370853	0	607.0	17985	1680	r	r layout plot ggplot2 gtabl
+9198637	17462504	0	202.0	25032	1681	r ggplot2	r ggplot2 gridextra
+12448428	13294952	0	87.0	26381	1682	r data-visu ggplot2	r ggplot2 gridextra gtabl
+14680075	31897329	0	203.0	24901	1683	r ggplot2	r plot ggplot2 dplyr plyr
+5963269	28863686	0	203.0	19585	1685	r r-faq	r dataset
+44728704	44808793	0	612.0	17982	169	r	r tidyvers
+20941744	20950880	0	40.0	22189	17	r list matrix rcpp	r rcpp
+28006813	28213620	1	614.0	19225	170	r	r
+58878544	58915458	0	41.0	28732	171	r datafram dplyr lappli	r dplyr purrr
+39746947	39833768	0	19.0	22952	172	r latex knitr r-markdown watermark	r latex knitr r-markdown
+41052687	51594999	0	41.0	21652	173	r rstudio r-markdown pdflatex	r templat latex r-markdown
+19858729	60757051	0	88.0	22845	174	r plot som	r som
+34764830	38534383	0	88.0	20228	175	r maco rstudio	r environment-vari rstudio anaconda conda
+36110331	40793506	0	620.0	19287	176	r	r datafram correl
+58131498	58132035	1	207.0	19247	177	r class	r class
+50229410	50231104	1	207.0	19585	178	r differential-equ	r differential-equ
+8023315	8036700	0	623.0	18017	179	r	r measur
+45321041	45322657	0	41.0	20429	18	r pipe latex knitr	r pipe latex command-line-interfac system
+52193105	53678412	0	41.0	21942	180	r latex r-markdown kableextra	r r-markdown knitr kableextra
+57867429	57870092	1	89.0	18937	181	r dt formatt	r dt formatt
+50838664	50854067	1	209.0	24898	182	r ggplot2	r ggplot2
+60450608	60561129	0	89.0	21401	183	r encrypt rstudio	r session encrypt shini
+46295687	55735530	1	89.0	21341	184	r matrix adjacency-matrix	r matrix adjacency-matrix
+19895107	34539408	1	210.0	23549	185	r data.t	r data.t
+46818951	46839455	0	90.0	26106	186	r datafram lubrid	r datafram tidyr lubrid
+40789601	40807266	0	90.0	20952	187	r packag bioinformat	r packag s4
+31089205	31092962	0	20.0	21748	188	r matrix uniqu combin cross-product	r list combin
+48128383	48132250	0	42.0	20392	189	r random integ sequenc	r probabl
+53971364	53974449	0	90.0	18919	19	r split cut	r microbenchmark
+33447901	33472328	0	20.0	20412	190	r date time averag interv	r time averag interv
+54943418	54950917	1	42.0	24487	191	r shini datat dt	r shini datat dt
+15097497	15147336	0	212.0	24815	192	r datafram	r format condit datafram subset
+17718842	17719480	1	213.0	23190	193	r data.t	r data.t
+44457243	44473379	1	42.0	21138	194	r r-markdown stargaz texreg	r r-markdown stargaz texreg
+37924896	40787001	1	213.0	20212	195	r filter	r filter
+58611777	58613149	0	91.0	23982	196	r dplyr difftim	r apache-spark dplyr
+44697183	44718072	0	42.0	29068	197	r plot ggplot2 lattic	r plot lattic
+13577918	41050532	0	92.0	18446	198	r graphics2d curv	r scatter-plot
+59397169	59429703	0	215.0	20020	199	r reshape2	r tidyr fill
+30918550	30920000	0	92.0	21351	2	regex r gsub	r match conditional-stat
+36669528	36673576	0	20.0	20612	20	r geospati latitude-longitud shapefil rgdal	r geospati shapefil centroid
+18694281	18764825	0	216.0	18763	200	r select	r plyr
+48651010	59396848	1	92.0	19091	201	r graphic lattic	r graphic lattic
+50483582	50487229	1	43.0	26914	202	r dplyr data.t tidyvers	r dplyr data.t tidyvers
+43970831	47822694	0	21.0	19556	203	r logistic-regress glm cross-valid rpart	r logistic-regress r-caret hyperparamet
+47074159	47080518	0	43.0	26515	204	r list loop datafram	r list for-loop datafram nest
+57820798	57864965	1	217.0	25158	205	r datafram	r datafram
+52840058	53074411	0	218.0	18458	206	r sendmailr	r outlook smtp
+47537760	47596739	1	218.0	22580	207	r data.t	r data.t
+37110555	37133471	0	43.0	24174	209	r dplyr pipelin nl	r dplyr nl non-linear-regress
+37193380	37200885	0	43.0	24567	21	r matrix plot trigonometri	r trigonometri
+43990569	43991620	0	658.0	18051	210	r	r dplyr lubrid tidyvers purrr
+36620585	39207125	0	219.0	19878	211	r h2o	r neural-network deep-learn h2o
+55721820	55724880	1	220.0	25681	212	r ggplot2	r ggplot2
+43435385	47071014	0	94.0	20350	213	r bitmap raster	r imag bitmap raster
+44973544	45015794	0	94.0	22228	214	r floating-point data.t	r data.t fread
+57031898	57294988	1	21.0	28675	215	r ggplot2 latex r-markdown knitr	r ggplot2 latex r-markdown knitr
+57101282	57293986	0	21.0	22632	216	r string function vector numer	r function columnsort
+53099087	53130611	1	221.0	19690	217	r nonlinear-optim	r nonlinear-optim
+9058728	9059726	0	44.0	20123	218	json r curl rcurl	json r appli unix-timestamp
+51000699	51090065	1	95.0	28397	219	r datafram dplyr	r datafram dplyr
+31949659	31950166	0	44.0	19159	22	r parallel-process fortran mpi	r parallel-process fortran mpi snow
+57029872	57086593	0	223.0	19863	220	r genetic-algorithm	r loop dplyr tidyvers zoo
+13812373	34221612	0	44.0	19605	221	r operator-overload sparse-matrix s4	r s4
+38348097	45493545	0	44.0	26803	222	r for-loop datafram subset	r for-loop datafram is-empti ani
+26618951	26621092	0	44.0	20000	223	r regress anova categorical-data	r anova categorical-data r-mice
+56503342	56515650	1	224.0	24010	224	r shini	r shini
+20343611	27929462	0	224.0	23298	225	r shini	r
+52576686	52832970	0	96.0	20036	226	r nan differential-equ	r simul differential-equ
+16132625	16152161	1	225.0	23911	227	r data.t	r data.t
+48454816	48638350	0	96.0	25491	228	r index dplyr	sql-server r dplyr
+49435594	58598873	0	96.0	20454	229	r r-markdown rnotebook	r r-markdown knitr chunk rnotebook
+30113308	30115455	0	45.0	21564	23	r condit conditional-stat subset	r subset
+53618077	53648755	0	21.0	18705	230	r hadoop hive kerbero keytab	r hadoop hdf
+26354768	26359909	1	21.0	25685	231	r map ggplot2 gi map-project	r map ggplot2 gi map-project
+38675292	38682488	1	682.0	19878	232	r	r
+31092005	35266730	0	97.0	24322	233	r shini leaflet	r shini leaflet rstudio
+41608294	41628450	0	22.0	21823	234	r color group legend heatmap	r color heatmap pheatmap
+21895585	22273072	0	228.0	19022	235	r metaprogram	r data.t collaps
+59119580	59158870	1	98.0	26082	236	r ggplot2 linegraph	r ggplot2 linegraph
+35322815	35324848	0	687.0	19404	237	r	r ggplot2
+41817623	41880973	0	45.0	21190	238	r vector replic match	r bear
+59380554	59395052	1	45.0	22793	239	r data.t transpos melt	r data.t transpos melt
+50048754	61046041	1	22.0	20952	24	r latex markdown r-markdown bibliographi	r latex r-markdown markdown bibliographi
+11650996	11669945	0	22.0	21892	240	r physic time-seri financ xt	r time-seri xt
+25876755	44269918	0	692.0	18087	242	r	r convert letter
+54661129	54661698	1	693.0	19377	244	r	r
+21630406	46106423	0	99.0	25735	247	r data.t dplyr	r list function mutat rowwis
+45222720	45251117	0	99.0	20752	248	r bar-chart lattic	r sort bar-chart lattic
+46643184	46650208	1	99.0	18617	249	r area integr	r area integr
+5749252	5761576	0	46.0	20161	25	r google-fin quantitative-fin quantmod	r timezon xt quantmod google-fin
+57563989	59233401	0	22.0	24160	250	css r shini tab format	r datat shini shinywidget
+7473067	7486450	1	233.0	19916	251	r rgl	r rgl
+59639543	59653531	0	233.0	18444	252	r rna-seq	r data-visu ontolog rna-seq
+44434739	44456676	1	233.0	20254	253	r regex	r regex
+21917358	21923028	0	234.0	22674	254	r data.t	r data.t quantmod
+43981187	54920159	0	703.0	18080	255	r	r dplyr
+43712843	45154451	0	704.0	19342	256	r	r split
+60948668	61501935	0	22.0	20329	257	r class random classif probabl	r statist classif caret r-ranger
+25056597	25076293	1	235.0	22886	258	r plot	r plot
+59113457	59117165	1	22.0	26363	259	r ggplot2 map sf maptool	r ggplot2 map sf maptool
+15431924	15447622	1	236.0	22904	26	r plot	r plot
+31063959	31125693	0	101.0	18961	260	r pivot-t reshape2	r reshape2 tidyr
+38782051	60423973	0	101.0	25039	261	r ggplot2 r-car	r ggplot2
+12975794	12976569	1	711.0	19355	262	r	r
+48627287	48659095	0	47.0	25986	263	r ggplot2 gam mgcv	r tidyvers gam mgcv
+52086833	55859382	0	713.0	19361	264	r	r list index sublist
+54000814	56105878	0	714.0	18575	265	r	r for-loop
+23217681	24542583	1	238.0	18777	266	r stargaz	r stargaz
+9829424	9840509	0	47.0	21819	267	r function macro sa	r function
+37878693	37881270	0	239.0	19073	268	r lubrid	r date datetim lubrid
+56490797	56491759	1	102.0	23401	269	r dplyr missing-data	r dplyr missing-data
+58685422	58689515	0	102.0	26426	27	r ggplot2 label	r ggplot2
+53701824	53869307	0	102.0	19327	270	r xml gi	r xml gi sf
+34994790	35006572	1	240.0	21742	271	r matrix	r matrix
+36041601	36043244	0	103.0	20097	272	r knitr d3heatmap	r phantomj knitr
+52558238	52652934	0	103.0	23024	273	r r-markdown xelatex	r shini latex r-markdown pandoc
+42974231	43144245	0	103.0	26802	274	r text ggplot2	r ggplot2 tooltip plotli
+47315053	47319479	0	48.0	21307	275	r user-defined-funct dri tidyvers	r dplyr tidyvers rlang lazyev
+28964929	28988004	0	103.0	28085	276	r datafram dplyr	r dplyr
+46266078	46395927	0	727.0	19362	277	r	r time-seri r-mice
+42595256	42633156	0	242.0	25784	278	r ggplot2	r ggplot2 geom-text
+19787909	19792110	1	729.0	19373	279	r	r
+43480866	43481085	0	48.0	21133	28	r rstudio choropleth choroplethr	r choropleth choroplethr
+57601875	57798411	0	23.0	24304	280	r shini graphviz htmlwidget diagramm	r shini graphviz shinyj diagramm
+39779573	39792781	0	23.0	27054	281	r plot rstudio knitr r-markdown	r loop knitr r-markdown
+33251264	36039309	0	48.0	26919	282	r for-loop datafram uniqu	r dplyr
+15591880	16694587	0	48.0	20856	283	r statist regress r-zelig	r regress missing-data model-fit r-zelig
+15591704	15593537	0	49.0	20416	284	r normal mean r-factor	r search normal r-factor do.cal
+23017552	23035841	0	49.0	21015	285	r statist anova contrast	r anova
+54906090	54912421	0	49.0	26132	286	r function datafram search	r search
+43660562	45212781	1	23.0	22119	287	r join data.t left-join match	r join data.t left-join match
+56484967	56496925	1	246.0	20436	288	r rvest	r rvest
+30560405	31347470	0	49.0	24624	289	r file shini shinydashboard	r shini shinydashboard
+47183558	51869337	0	247.0	26174	29	r ggplot2	r dictionari ggplot2 sf
+9298765	48903882	0	106.0	19205	290	r latex sweav	r plot ggplot2 xtabl
+44030594	44094497	1	106.0	27122	295	r datafram data.t	r datafram data.t
+44721152	44723690	0	106.0	19931	296	r date posix	r local
+47570984	47590287	0	106.0	20398	297	r parallel-process r-daisi	r cluster-comput r-daisi
+38133485	38192010	0	106.0	22775	298	r plot axi	r plot
+40538304	40551678	0	24.0	20896	299	r color border correl r-corrplot	r data-structur
+41925706	41936951	0	24.0	20461	3	r multithread foreach parallel-process doparallel	r foreach parallel-process dompi
+37450698	55560381	0	249.0	19807	30	r venn-diagram	r datafram overlap venn-diagram
+11394091	13349613	0	250.0	21387	300	r loop	r vector oper
+47044939	47048035	1	107.0	23178	301	r plot distribut	r plot distribut
+34020079	50452750	0	24.0	19300	302	r rotat icon leaflet angl	r leaflet htmlwidget htmltool
+42587758	42588378	0	251.0	22645	303	r data.t	r data.t dplyr
+57529808	57577735	0	50.0	19469	304	r igraph graph-theori shortest-path	r igraph
+54426953	54465075	1	251.0	22966	306	r shini	r shini
+49115813	49140990	0	756.0	19446	307	r	r perform rcpp
+31838855	51030060	0	108.0	19333	308	r trigonometri angl	r geospher
+25109672	25547152	0	24.0	20725	309	r zoo missing-data performanceanalyt rollappli	r performanceanalyt rollappli computational-fin
+37974317	38010031	0	253.0	20446	31	r plotli	r ggplot2
+47083455	47304933	0	760.0	19587	310	r	r devtool r-packag
+35075215	35118287	0	108.0	19997	311	r depend packag	r depend packag roxygen2
+44419857	44802712	1	254.0	20600	312	r igraph	r igraph
+16201906	43896337	0	254.0	18583	313	r kernel-dens	r
+33015823	34983149	0	254.0	19737	314	r stanford-nlp	r stanford-nlp rjava
+31796914	40225786	0	109.0	26254	315	r ggplot2 boxplot	r ggplot2
+8539303	8540143	1	766.0	19457	316	r	r
+32885570	32902971	0	255.0	19624	317	r import	r perform appli lappli
+34286905	45206286	0	256.0	20393	318	r which	r
+15421130	23792137	0	24.0	21105	319	r email smtp gmail sendmailr	r email sendmailr
+39808631	39832436	0	51.0	26094	32	r merg shini shiny-serv	r datafram shini updat shiny-serv
+22661397	22788870	0	51.0	21381	320	r statist time-seri autoregressive-model	r time-seri restrict
+44295144	52283303	0	51.0	27189	321	r datafram dplyr frequenc	r datafram data.t summar
+25020092	36671531	0	257.0	22661	322	r data.t	r datafram data.t
+28461220	28474903	0	258.0	23765	323	r shini	r shini ggvi
+8899096	14271584	0	110.0	20482	324	r 2d histogram	r
+59360232	59376487	0	110.0	18661	325	r spss r-haven	r r-haven
+31837419	31842356	0	259.0	19877	326	r date	r data.t
+51494868	51495838	0	111.0	26436	327	r dplyr data.t	r dplyr data.t lappli tidyr
+52281220	52300914	1	111.0	19646	328	r spline smooth	r spline smooth
+32181742	38335734	0	111.0	23284	329	r vector subset	r datafram subset
+52127834	52128944	1	781.0	18360	33	r	r
+33442362	59212970	0	111.0	20352	330	r window anaconda	r jupyter-notebook anaconda
+22396234	26952232	1	783.0	18164	331	r	r
+18706182	18726155	0	52.0	20414	332	r subset interv sappli	r subset appli posixct
+32686195	55163719	0	52.0	24646	334	r shini font-awesom shinydashboard	r shini font-awesom shinyapp
+56736475	56768930	1	786.0	18195	335	r	r
+57332088	61979235	0	52.0	24246	336	r shini reactiv sankey-diagram	r shini htmlwidget networkd3
+50752133	51296577	0	112.0	18755	337	r nlp token	r predict
+50273919	50290782	0	52.0	20028	338	r text-classif quanteda lime	r text text-classif quanteda lime
+34454034	36562894	0	263.0	18572	339	r mongolit	r posixct
+46360218	46361342	0	52.0	20594	34	r if-stat time lubrid	r dplyr lubrid
+45873483	60930523	0	52.0	26493	340	r ggplot2 ggalli aesthet	r ggplot2 ggalli ggpair
+19054092	33989595	0	52.0	26235	341	r ggplot2 theme r-grid	r ggplot2
+52803902	52814300	0	113.0	21211	342	r if-stat duplic	r if-stat duplic aggreg
+34266186	37861578	0	265.0	18300	343	r principal-compon	r
+55686910	55688698	1	265.0	25190	344	r ggplot2	r ggplot2
+39023962	39036198	0	265.0	26223	345	r ggplot2	r plyr
+23309687	49146550	0	53.0	18831	348	r pars abstract-syntax-tre assignment-oper	r
+10859858	10861278	0	53.0	20954	349	r graph gnuplot heatmap	r ggplot2 heatmap
+55535021	55537032	1	800.0	18176	35	r	r
+31044922	31057192	0	114.0	20289	350	r pca confidence-interv	r statistics-bootstrap
+2732397	37129926	0	114.0	18949	351	text r delimit	r
+42578273	42596449	0	114.0	19089	352	array r multidimensional-array	array r subset
+29902891	29905071	0	25.0	22045	353	r filter row equal subset	r filter
+51486048	51506312	1	115.0	24432	354	r dplyr zoo	r dplyr zoo
+44591583	47678197	0	268.0	19897	355	r cumsum	r for-loop cumulative-sum
+44411575	56254631	0	53.0	22539	356	r r-markdown knitr kabl	mysql r markdown r-markdown kabl
+29529021	29543785	1	269.0	21634	357	regex r	regex r
+44158882	44538939	0	269.0	18681	358	r quanteda	r sparse-matrix quanteda
+45721802	45801817	0	270.0	20698	359	r igraph	r graph graphviz r-graphviz
+44262563	44279773	0	270.0	23818	36	r shini	r imag shini
+24242704	24257271	1	812.0	19481	360	r	r
+29601156	30047010	1	271.0	23758	361	r shini	r shini
+56597412	56598005	0	271.0	24135	362	r shini	r shini shinymodul
+60925357	60925391	0	26.0	19962	363	r log stdout stderr error-messag	r r-connect
+27965291	47818188	1	272.0	26301	364	r ggplot2	r ggplot2
+31365768	33400250	0	54.0	23583	365	r grep data.t string-match	regex r perform grep data.t
+45458787	45461707	0	272.0	19893	366	r string	r text
+30778718	52526703	0	54.0	20800	367	r packag r-packag r-s3	r r-librari
+19920281	29992066	0	117.0	19047	368	xcode r rcpp	r rcpp
+31045512	31564834	1	54.0	24664	369	r datafram lookup na	r datafram lookup na
+59204544	59242628	0	54.0	25443	37	r datafram count conditional-stat	r datafram dplyr
+44005847	44147299	1	54.0	20733	370	r matrix normal submatrix	r matrix normal submatrix
+45720125	49509228	0	26.0	20294	371	r d3.j sankey-diagram htmlwidget networkd3	r d3.j knitr sankey-diagram networkd3
+52535696	52543892	0	825.0	18230	372	r	r xml-pars
+49140030	60506879	0	275.0	20426	379	r r-markdown	r namespac packag r-faq
+49013393	51078004	0	118.0	20777	38	r svd eigenvalu	r svd
+39166027	39173002	0	26.0	26906	380	r ggplot2 custom geom-bar color-palett	r ggplot2 bar-chart legend geom-bar
+34054287	54632339	0	118.0	24525	381	json r shini	r shini r-environ user-environ
+53059075	53060304	1	118.0	25972	382	r dplyr data.t	r dplyr data.t
+23961022	23969411	0	55.0	23063	383	regex string r split	regex r pcre strsplit
+27368770	59356541	0	26.0	26874	384	r dplyr data.t plyr na	r
+23436577	23833294	1	277.0	22716	385	r data.t	r data.t
+60660622	60677042	0	278.0	24160	386	r dplyr	r datafram dplyr rlang wrapr
+20290069	20291599	0	55.0	25990	387	r datafram appli tappli	r datafram appli lappli sappli
+16474179	16667247	0	55.0	21799	388	r for-loop distanc vector	r point euclidean-dist
+47552930	47625279	0	55.0	22351	389	r parallel-process tidyvers purrr	r parallel-process tidyvers
+42426970	42461697	0	279.0	18556	39	r stripchart	r
+16902902	16906751	0	279.0	21303	391	r vector	r
+53697235	61446108	0	280.0	25918	392	r ggplot2	r ggplot2 data-visu gganim
+22386555	56322590	0	120.0	26318	393	r ggplot2 differ	r ggplot2 differ smooth gam
+15046111	15069078	0	27.0	19074	394	facebook r http rcurl geturl	json facebook r
+33920330	34061912	0	120.0	25412	395	r datafram corpu	r list corpu
+52532428	57655036	0	56.0	26802	396	r ggplot2 plotli ggplotli	r plotli
+16880627	21613467	0	120.0	21092	397	r font-siz knitr	r graphic knitr
+25330753	41551216	0	27.0	22627	399	r data.t corpu term-document-matrix qdap	r matrix data.t sparse-matrix quanteda
+23836169	23839177	0	847.0	19485	4	r	r datafram histogram
+55284306	61039110	0	282.0	19578	40	r compar	r dplyr purrr
+50958860	50978973	0	283.0	20357	400	r optim	r loop
+23327746	23329178	1	850.0	18287	401	r	r
+58298622	58355299	1	851.0	19484	402	r	r
+48336742	48339884	0	56.0	23800	403	r data.t group subset	r for-loop data.t
+44666715	44688711	1	284.0	22754	404	r data.t	r data.t
+15044342	15057769	0	284.0	25030	405	r datafram	r data.t na
+33748871	33750235	0	27.0	21449	406	r color map raster levelplot	r map raster colorbar
+21596906	21604525	0	285.0	25965	407	r ggplot2	r if-stat
+44786138	44787310	0	27.0	29867	41	r plot ggplot2 bar-chart facet	r plot ggplot2 facet axis-label
+35866379	36014676	0	27.0	28295	410	r plot ggplot2 raster logarithm	r plot ggplot2 igor
+25020788	39508831	0	859.0	20736	411	r	r auc precision-recal
+45975959	56027198	1	57.0	26365	412	r shini r-markdown flexdashboard	r shini r-markdown flexdashboard
+13272612	43616480	0	123.0	21050	413	r graph flow	r algorithm optim igraph network-flow
+53053598	53059211	0	57.0	24752	414	html r shini shinydashboard	r shini dashboard shinydashboard shinyapp
+14827853	14870400	0	27.0	20821	415	window r latex png convert	window r redirect autom ghostscript
+53799909	53952083	0	27.0	21927	416	r for-loop spatial sp rgdal	r geospati r-raster sp sf
+5913006	7280421	0	57.0	24824	418	r matrix plot frequenc	r matrix probabl frequenc weight
+33954292	46761065	0	123.0	25679	419	r merg datafram	r data.t overwrit
+43731301	43737524	0	123.0	21427	42	r vector max	r vector sum
+61702762	61707244	0	868.0	18296	420	r	r datafram dplyr
+15670151	22381154	0	124.0	20131	422	r scrape censu	r matrix syntax refactor
+40250072	40250691	0	28.0	23122	423	r matrix regress linear-regress svd	r matrix regress linear-regress qr-decomposit
+9023256	14058832	0	58.0	21288	424	r latex pdflatex sweav	r latex knitr
+47284664	47858957	0	124.0	26131	425	r datafram filter	r datafram filter sappli
+19234796	37150889	0	28.0	23772	426	r imag plot scatter-plot cran	r imag list gplot
+15162741	36798301	0	874.0	18586	427	r	r cross-product
+42864262	43613986	0	291.0	21870	428	r rstudio	r warn r-markdown rnotebook
+54623575	54624083	1	58.0	26678	429	r list datafram attribut	r list datafram attribut
+45572226	45579541	1	28.0	22260	43	r random statist sampl confidence-interv	r random statist sampl confidence-interv
+46747475	46759058	0	58.0	20351	430	r web-scrap rvest httr	r web-scrap rvest
+45448169	45576820	1	293.0	21771	431	r data.t	r data.t
+61979426	61993479	1	58.0	29612	432	r ggplot2 dplyr cumsum	r ggplot2 dplyr cumsum
+56615319	56720250	1	293.0	23150	433	r shini	r shini
+35224338	35234038	1	28.0	26103	434	r excel datafram xlsx transpos	r excel datafram xlsx transpos
+37059281	37071001	0	126.0	19417	435	r bar-chart mathematical-express	r unicod bar-chart
+29981195	29987611	0	28.0	25639	436	r datafram rank quantil split-apply-combin	r merg
+37059404	42826234	0	28.0	23595	437	r dictionari shini leaflet choropleth	r shini leaflet rstudio geojson
+56981960	56990956	0	126.0	26083	438	r datafram data.t	r data.t
+22116489	22138169	0	28.0	26733	439	r for-loop plyr appli dplyr	r mappli
+31955051	38493318	0	126.0	19222	44	json r rjsonio	json r
+57427059	58343088	0	296.0	25239	440	r ggplot2	r ggplot2 errorbar
+12416880	12523548	1	890.0	19578	441	r	r
+58648886	58649510	0	127.0	23975	442	r function data.t	r data.t non-standard-evalu
+41783245	44398360	0	28.0	23637	443	r plot heatmap color-palett pheatmap	r plot heatmap colorbar pheatmap
+31815294	33702470	0	297.0	24246	444	r dplyr	r plyr
+49640909	49711972	0	59.0	20860	445	r packag random-se reproducible-research	r packag random-se
+19791917	20971453	0	127.0	23956	446	r shini googlevi	r shini rchart google-apis-explor
+23252231	24501245	1	128.0	22995	447	r data.t devtool	r data.t devtool
+47446458	47542849	0	128.0	28551	448	r plot ggplot2	r ggplot2 cowplot
+28480625	38367392	0	128.0	21455	449	css r knitr	css r r-markdown
+38230957	38252013	0	59.0	26598	45	r data.t dplyr model-fit	r parallel-process dplyr purrr
+31868370	31900708	0	60.0	20730	450	r parallel-process mathematical-optim multicor	r parallel-process mathematical-optim multicor integer-program
+14926672	26045999	0	60.0	21975	451	r function load packag	r
+11365857	27205610	0	128.0	23413	452	r plot real-tim	r plot ggplot2
+28725115	28730387	1	301.0	22086	453	regex r	regex r
+61967678	61991055	0	129.0	25127	454	r string dplyr	r dplyr
+45968501	45983949	0	29.0	25119	455	r shini plotli ropensci ggplotli	r shini plotli ggplotli
+43694637	43706199	1	302.0	23407	459	r dplyr	r dplyr
+58938992	58957189	0	129.0	20604	46	r lubrid rfid	r social-network lubrid rfid
+37579756	46377613	0	29.0	22233	460	r function condit row rbind	r time-seri
+61958925	62012913	1	129.0	24533	461	r shini dt	r shini dt
+10840741	10853050	0	130.0	19005	462	r format dump	r interop operating-system
+8743556	8754475	0	130.0	21878	463	list r data-structur	r functional-program
+51320621	54880869	0	130.0	22832	464	r data.t match	r data.t condit match
+52521310	52533132	1	304.0	25452	465	r datafram	r datafram
+4559175	38448310	0	914.0	18329	466	r	r date
+31286965	33262480	0	130.0	22300	467	r proxi rstudio	r proxi set rstudio
+34230391	34694775	0	61.0	23268	468	r email knitr r-markdown	r email dygraph
+50685421	50687588	1	305.0	20842	469	r igraph	r igraph
+13063273	13063605	0	306.0	19246	47	r forecast	r
+7169202	7756604	0	306.0	20078	470	bash r	bash r devtool
+16111242	19894471	0	131.0	20551	471	r plyr zoo	r data.t plyr panel-data split-apply-combin
+54879274	55032275	0	131.0	20574	472	r histogram mle	r nan mle
+25340847	44486551	0	131.0	23968	473	r layout shini	html css r shini
+33505541	59073241	0	131.0	21161	474	r if-stat lag	r data.t
+49762128	51753158	0	29.0	24989	475	r dplyr purrr broom rolling-comput	r dplyr zoo broom
+1400937	8321081	0	132.0	22155	476	regex r gsub	regex r gsub backrefer
+36790376	36950037	0	29.0	21113	477	r statist frequenc na summari	r
+61783029	61793558	1	927.0	19607	478	r	r
+49109933	49111594	1	309.0	23871	479	r shini	r shini
+29833571	29834397	0	132.0	22008	48	regex r text-min	r text-min
+47274691	47429271	0	310.0	18869	480	r nlp	r
+26403919	27672134	0	62.0	24385	481	r datafram ipc kdb	r ipc kdb
+33787624	33789627	0	133.0	24956	482	r dplyr lubrid	r datafram
+25516365	25532844	0	62.0	19960	483	r index row group	r data.t
+54033510	54089471	0	30.0	24569	484	r sort datafram sql-order-bi natural-sort	r sort datafram natural-sort
+37195322	37196854	0	935.0	19640	485	r	r dplyr min
+57759059	57779014	1	133.0	20460	486	r raster r-raster	r raster r-raster
+27866705	27874548	0	62.0	29372	487	r graphic plot ggplot2	r graphic ggplot2
+19686892	25936484	0	134.0	19286	488	c r rcpp	c r
+55675591	55676436	0	313.0	20022	489	r geometry-surfac	r geometri geometry-surfac
+32723761	44003391	1	62.0	21052	49	r machine-learn svm predict	r machine-learn svm predict
+60132869	60133762	0	941.0	19634	490	r	r ggplot2 boxplot
+52675487	52682271	0	314.0	19651	491	r permut	r function combin permut
+22893028	22893290	0	62.0	23520	492	r data.t plyr stata	r data.t plyr
+8998884	10176524	0	944.0	18348	493	r	r statistics-bootstrap
+58021216	58083701	0	135.0	22603	494	r loop aggreg	r loop aggreg lappli
+44930704	48381672	0	135.0	26196	497	r ggplot2 nl	r ggplot2 ggpmisc
+24626769	50059193	0	135.0	26534	498	r ggplot2 geom-text	r ggplot2 label bar-chart jitter
+23678494	26332489	0	135.0	23630	499	r plot lattic	r lattic standard-error
+60797216	60811581	0	135.0	25266	5	r shini action-button	r shini uioutput
+48052270	48055272	1	316.0	23564	50	r shini	r shini
+6901238	6981631	0	317.0	20105	500	r rgl	r
+34704733	35491015	0	63.0	20437	501	r foreach parallel-process mclappli	r parallel-process parallel-foreach mclappli
+36260816	36277222	0	136.0	26156	502	r csv datafram	r csv columnnam
+48056851	48072338	1	136.0	20720	503	r date aggreg	r date aggreg
+58531982	58542413	1	63.0	25302	504	r dplyr tidyr tidyselect	r dplyr tidyr tidyselect
+17385801	17393108	1	136.0	19968	505	xml r web-scrap	xml r web-scrap
+47444012	49366830	0	319.0	22923	506	r data.t	r group-bi data.t group na
+49628570	49753115	0	319.0	18759	507	r r-xlsx	r datafram openxlsx
+10306831	59741003	0	137.0	25442	508	r ggplot2 shapefil	r ggplot2 map spatial
+10306474	28479568	0	960.0	19652	509	r	r row col xlconnect rep
+51335424	51338784	1	320.0	26659	51	r ggplot2	r ggplot2
+30491545	48634449	1	137.0	21442	510	r predict lfe	r predict lfe
+36520813	44143423	0	64.0	25369	511	r string dplyr renam	r dplyr
+53033225	53035534	0	321.0	22913	512	r data.t	r dplyr
+35330207	35471802	0	31.0	30162	513	r datetim plot ggplot2 time-seri	r plot ggplot2 r-markdown
+33237264	33898937	0	966.0	19671	514	r	r list loop
+37719503	37830819	0	31.0	25489	515	r shini rstudio roxygen2 testthat	r shini shiny-serv devtool
+43654787	60112609	1	968.0	19836	516	r	r
+27606380	27609919	0	138.0	23829	517	r datetim plot	r
+16397526	51847367	0	323.0	26756	518	r ggplot2	r ggplot2 plot violin-plot
+31538038	31585708	0	31.0	23635	519	r list loop raster lappli	r list function raster lappli
+13871818	20664377	0	972.0	19682	52	r	r nlme revolution-r microsoft-r
+55168485	55393013	0	64.0	24336	520	r highchart shini r-highchart	r data.t r-highchart
+13088770	43596486	1	139.0	22065	521	r matrix linear-algebra	r matrix linear-algebra
+40689434	40713096	0	31.0	22937	522	r statist time-seri cluster-analysi k-mean	r machine-learn statist
+24195255	24197181	1	325.0	23196	523	r plot	r plot
+59825843	60970948	0	325.0	20321	524	r time-seri	r arima
+56702965	56704121	1	978.0	19682	525	r	r
+37266143	37301838	1	979.0	18867	526	r	r
+44190450	48838222	0	65.0	21864	527	r data.t fread read.csv	r data.t
+25640114	36779537	0	65.0	26731	528	r ggplot2 facet gtabl	r ggplot2 facet
+60878248	60896726	0	65.0	23517	529	r shini data-visu rhandsont	r shini latex data-visu rhandsont
+57363854	57393262	0	327.0	21655	53	r tidyvers	r precis which
+25245076	25276758	0	65.0	27315	530	r plot datafram cumsum	r datafram na cumsum
+10826357	10851976	1	328.0	22004	531	r matrix	r matrix
+19214914	29749661	0	31.0	28921	532	r plot ggplot2 scale colorbar	r ggplot2 gtabl
+24195562	24207457	0	141.0	22480	533	r perform matrix	r perform matrix regress
+58798091	58802355	0	141.0	26023	534	r function datafram	r function variabl
+48657034	48836376	0	329.0	22909	535	r data.t	r data.t categori bin
+7943695	9316946	0	990.0	18415	536	r	r matrix
+29174774	29286588	1	330.0	25408	537	r ggplot2	r ggplot2
+4794859	32206608	0	66.0	21692	538	r vim ctag exuberant-ctag	regex r ctag
+11672050	22528625	0	331.0	19416	539	r camelcas	r
+15960129	28789767	0	66.0	20967	54	r regress linear-regress plm	r plm
+19474552	29235114	0	66.0	26585	540	r ggplot2 transpar alpha	r ggplot2 transpar confidence-interv
+61417517	61467044	0	66.0	23938	541	r group-bi dplyr conditional-stat	r dplyr conditional-stat tidyvers na
+19748205	43329230	0	142.0	22745	544	r knitr rstudio	r r-markdown
+35799426	42115611	0	332.0	26169	546	r ggplot2	r plot ggplot2
+52242044	52401049	1	999.0	19659	547	r	r
+56960608	56972840	0	333.0	24303	548	r dplyr	r dplyr mutat
+17750893	17751862	0	143.0	21488	549	r subset do.cal	r
+51071941	51072873	1	334.0	18886	55	r quantstrat	r quantstrat
+21651978	37667335	0	143.0	21962	550	r data.t mean	r data.t
+21045866	28201587	0	66.0	26628	551	r ggplot2 financi candlestick-chart	r chart ggplot2
+40182340	40185121	0	143.0	26700	553	r highchart ggplot2	r highchart dt
+53813758	60436142	0	143.0	25816	554	r shini leaflet	r leaflet cluster-analysi sf
+32206623	34939054	0	335.0	26362	555	r ggplot2	r ggmap
+26667162	36511909	1	336.0	20295	557	r r-mice	r r-mice
+31268826	31301694	0	67.0	20782	558	r optim linear-regress least-squar	r optim regress least-squar
+24767751	45948882	0	1010.0	19743	559	r	r rstudio
+27787116	41634744	1	337.0	24425	56	r dplyr	r dplyr
+45948534	53569414	0	144.0	20568	560	r sharepoint shiny-serv	r sharepoint
+40557147	44961347	0	144.0	26132	561	r datafram subset	r datafram subset r-factor
+8889554	10931972	0	338.0	20142	562	r strptime	r time round millisecond rounding-error
+12468574	26025430	1	338.0	19640	563	r opencpu	r opencpu
+50237076	50256439	0	32.0	27611	564	r function for-loop dplyr appli	r for-loop cbind
+26449666	37651470	1	339.0	18947	565	r postgresql	r postgresql
+33501032	41941523	0	145.0	21923	568	r date datetim	r time-format datetime-convers
+10303241	12582793	0	145.0	19149	569	linux r unix	linux r memory-manag
+32721789	32736335	0	340.0	19993	57	r file-manipul	r window winapi
+31388329	34413137	0	68.0	24031	570	r twitter-bootstrap shini popov	r shini infobox shinydashboard action-button
+25727473	25762371	0	68.0	20962	571	sql r error-handl odbc	sql r odbc rodbc
+43850293	44021913	1	68.0	25242	572	r select datafram data-manipul	r select datafram data-manipul
+46799063	48306565	0	68.0	26402	577	r dplyr tidyr tidyvers	r dplyr data.t tidyr tidyvers
+3114043	3119037	0	146.0	18938	578	r hadoop serial	r base64 serial
+41596273	41605723	0	33.0	20710	579	r initi sparse-matrix matrix-multipl quanteda	r variabl initi sparse-matrix variable-declar
+14671609	14672171	0	68.0	24175	58	r secur code-access-secur shini	r secur rstudio shini
+38478139	38607045	0	68.0	25315	580	r shini leaflet shinydashboard	r shini leaflet r-mapview
+12392404	19321739	0	343.0	18945	581	r selenium	r python-2.7 selenium-webdriv selenium-rc
+22389993	53548994	1	147.0	20835	582	r namespac packag	r namespac packag
+46649403	48306010	1	343.0	22598	583	r data.t	r data.t
+20518376	20527711	0	33.0	20884	584	r data-min random-forest roc proc-r-packag	r machine-learn classif roc auc
+57394946	60230468	0	147.0	26232	585	r ggplot2 alpha	r ggplot2 data-visu multivariate-partit
+32624120	33694457	0	344.0	20072	586	r splitstackshap	r
+6886416	19507919	1	1035.0	18459	587	r	r
+10032052	10128084	0	345.0	18945	588	r binari	r
+9527802	13701485	0	1037.0	21437	589	r	r graph ggplot2
+58148340	58164989	1	1038.0	19682	59	r	r
+47152855	50663500	0	148.0	24280	590	r if-stat shini	r shini rstudio
+48333425	48341878	0	69.0	21724	591	r decim tidyvers digit	r decim round swirl
+28034091	31859911	0	148.0	24295	592	r pdf shini	r ggplot2 shini shiny-serv
+24040280	26154260	0	69.0	20855	593	r parallel-process multiple-mic r-mice	r parallel-process
+52014985	53022075	0	347.0	24418	594	r dplyr	r sort tidyvers
+39128344	39150367	0	69.0	21588	595	r string bash diff	r bash maco
+45157057	46636473	0	348.0	26233	596	r ggplot2	r ggplot2 legend
+28436855	31961170	0	149.0	26671	597	r ggplot2 facet-wrap	r ggplot2 bar-chart facet
+13023274	32573848	0	1047.0	18471	598	r	r language-lawy
+22380926	22453482	0	149.0	20175	599	r vim set	r vim vim-plugin vim-r
+46377973	46384105	0	149.0	28446	6	r datafram dplyr	r regex if-stat datafram
+54215125	54254903	0	150.0	24798	60	html r shini	r shini
+47777708	47781899	0	150.0	26549	600	r dplyr time-seri	r dplyr time-seri tidyr spread
+22803814	26400517	0	150.0	21271	601	array r matlab	r multidimensional-array data.t plyr
+9503896	23045866	0	150.0	26006	602	r date datafram	r date round
+18972845	30552847	1	1054.0	19784	603	r	r
+29233480	29240134	1	150.0	26360	604	r dictionari ggplot2	r dictionari ggplot2
+26580129	32571956	0	150.0	20602	605	r spatial centroid	r shape spatial
+10404224	23991060	0	352.0	21078	607	r statist	r object attribut attr user-defined-typ
+35205795	58352475	0	352.0	26621	608	r ggplot2	r ggplot2 plotli
+50659096	50665776	0	151.0	24796	609	r datafram na	r na
+51330838	51332447	0	151.0	25499	61	r ggplot2 facet-wrap	r dplyr
+39005958	51707582	0	70.0	22387	612	r matrix distanc euclidean-dist	r perform matrix distanc distance-matrix
+58890738	59047386	1	70.0	23770	613	r merg data.t dcast	r merg data.t dcast
+48332680	48351931	0	70.0	22548	614	r appli lappli mappli	r appli lappli
+32724775	34667618	0	152.0	19037	615	r tcl tk	r user-interfac tcl tk ttk
+26950123	26951297	0	355.0	20274	62	r rang	r data.t
+27650331	27651004	0	71.0	24356	620	r datat shini tabletool	r datat shini
+29948919	29954519	0	34.0	21959	621	r algorithm statist probabl calibr	r statist probabl predict calibr
+54066057	54093675	0	34.0	20363	622	r databas time interv lubrid	r loop time interv
+42084356	42084833	1	1069.0	19770	623	r	r
+9060457	29948585	0	71.0	21536	624	r csv parallel-process bigdata	r multithread csv parallel-process
+22920381	22921923	0	357.0	23455	625	r plot	r ggplot2
+3209761	3551955	1	1072.0	18500	626	r	r
+25791018	29686198	0	153.0	22100	627	r function mode	r function data.t mode
+59570555	59882916	0	358.0	20239	628	r subset	r recod
+34973314	34994503	0	71.0	25792	629	r ggplot2 data-visu social-network	r plot igraph
+60766742	60804415	0	153.0	20390	63	r panel-data plm	r random plm pool
+21035101	27123428	1	359.0	26251	630	r ggplot2	r ggplot2
+8896820	13354048	0	359.0	20088	632	r f#	r pipelin
+52005153	52233504	0	154.0	26186	634	r dplyr data.t	r dplyr data.t lappli
+51967572	51970403	1	154.0	26652	635	r dplyr data.t	r dplyr data.t
+38104901	38109623	1	360.0	28291	636	r ggplot2	r ggplot2
+27850123	53660703	0	360.0	27563	637	r ggplot2	r ggplot2 axis-label facet-wrap r-grid
+35359622	35452191	1	361.0	19023	638	r ggvi	r ggvi
+36238521	36249586	1	361.0	23012	639	r data.t	r data.t
+54737221	54762963	0	1085.0	18535	64	r	r vector name
+50539913	50549961	0	35.0	22432	640	r pdf yaml r-markdown pandoc	r pdf yaml r-markdown
+22736107	22868923	0	155.0	19125	641	r network mathematical-optim	r hadoop mathematical-optim lpsolv
+12907198	32883453	1	1088.0	19787	642	r	r
+32193413	32194070	1	363.0	24414	643	r dplyr	r dplyr
+57032447	57209060	0	363.0	26612	644	r ggplot2	r ggplot2 radar-chart
+45219994	45475249	0	155.0	22405	645	r pdf plot	r ggplot2 ggforc
+44509287	44661961	1	156.0	27336	646	r ggplot2 data.t	r ggplot2 data.t
+19014360	22605238	0	35.0	20701	647	r cluster-comput load-balanc multicor snow	r cluster-comput snow rparallel
+33784656	33877410	0	156.0	22240	648	array r matrix	array r multidimensional-array
+48819333	48835435	1	365.0	26761	649	r ggplot2	r ggplot2
+46348193	46352515	1	156.0	24782	65	r shini shiny-serv	r shini shiny-serv
+42789833	42790422	0	35.0	26559	650	r highchart shini dplyr reactiveui	r datafram ggplot2 highchart shini
+35614425	35711655	0	366.0	22255	651	r loop	r datafram row missing-data
+33127122	33352251	0	157.0	22319	652	r matrix raster	r time-seri raster
+22916337	27060527	1	366.0	20387	653	r k-mean	r k-mean
+33346823	40691773	0	35.0	27248	657	r ggplot2 legend lattic gridextra	r statist bar-chart lattic
+41701807	56804019	0	35.0	26691	658	r plot shini draw render	r shini hover click smartphon
+9317923	10740100	1	73.0	19823	659	r rout dijkstra igraph	r rout dijkstra igraph
+49756005	49763045	1	368.0	25447	66	r ggplot2	r ggplot2
+41477776	45179410	1	73.0	24754	661	r shini dt sparklin	r shini dt sparklin
+9915824	20768286	1	369.0	26308	662	r ggplot2	r ggplot2
+1975110	61855935	0	369.0	20266	663	debug r	r
+46195370	50291766	0	73.0	19999	664	r multinomi coeffici r-mice	r imput multinomi r-mice
+58516071	58524163	1	74.0	25160	665	html css r shini	html css r shini
+58550163	58777915	0	35.0	19537	666	r sql-server odbc freetd r-dbi	r odbc
+38064175	49626679	0	370.0	21213	667	r plotli	r plotli scientific-not
+45670637	45726959	1	371.0	25360	668	r datafram	r datafram
+36648502	36696948	0	159.0	26589	67	r date datafram	r datetim posixct
+36233318	51867884	0	159.0	22166	670	r count data.t	r
+9867225	10543199	0	1117.0	19837	671	r	r time-seri
+20670892	21041499	0	372.0	20402	672	r raster	r replic raster
+22492219	22510100	1	373.0	20143	673	r reference-class	r reference-class
+51343022	51343335	0	1120.0	18585	675	r	r rstudio rnotebook
+51902438	58899541	0	74.0	19366	676	r rlang nse tidyev	r tidyvers purrr nse
+16221742	16239153	0	374.0	23062	678	r data.t	r datafram data.t
+19716535	19735509	0	160.0	27305	679	r ggplot2 time-seri	r time ggplot2
+27210745	27221720	0	374.0	20368	68	r summari	r quantil
+54184027	54185678	1	75.0	25357	680	r dplyr tidyr data-clean	r dplyr tidyr data-clean
+35834739	35835597	0	375.0	26681	681	r datafram	r
+12829995	12831524	1	375.0	20528	682	r reshape2	r reshape2
+12723182	14501305	0	161.0	24059	683	r replac data.t	r data.t
+10802806	57030452	0	75.0	19530	684	r color consol output-format	r
+39176643	39195219	0	75.0	22399	685	r amazon-web-servic parallel-process data.t	r data.t left-join assign
+44467559	44504592	1	377.0	24492	686	r shini	r shini
+55891499	55944124	1	1132.0	18595	687	r	r
+51087287	51170892	0	161.0	23301	688	r join data.t	r join data.t na
+28628384	43580891	0	75.0	20014	689	r count row uniqu	r datafram
+16200667	16220521	0	1135.0	19806	69	r	r vector
+37714152	37715085	0	75.0	26277	690	r datafram subset code-convers	r datafram subset slice
+15258954	16626168	0	162.0	20966	691	r text-min tm	r text-min
+19851655	20159691	0	75.0	21245	692	r web-scrap text-min tm	r excel csv export
+28383595	52745151	0	1139.0	19925	693	r	r date if-stat
+58250126	58250531	1	380.0	19704	694	r memory-profil	r memory-profil
+32558568	32563243	0	380.0	23081	695	r data.t	r dplyr
+28384164	35443537	0	163.0	19108	696	r poisson mle	r distribut mle
+45929263	45929671	0	76.0	21832	697	r latex xtabl stargaz	r dplyr latex knitr
+14645363	38686427	0	76.0	20292	698	r version-control depend packag	r packag
+29500139	29550681	0	381.0	20838	699	json r	r
+23307653	23309515	0	76.0	26863	7	r date merg datafram	r date merg panel
+56570680	56582808	0	76.0	23834	70	r plot lattic stacked-area-chart	r ggplot2 plot lattic stacked-area-chart
+4167529	5333280	0	382.0	19027	700	r data-manag	r metadata data-manag
+44120395	44136481	0	76.0	22160	701	r r-markdown pandoc shields.io	r knitr r-markdown
+52623722	53162821	0	37.0	29546	702	r anim ggplot2 dplyr gganim	r anim ggplot2 data-visu gganim
+32821369	39805798	0	164.0	21931	703	r rstudio ipython-notebook	r jupyt jupyter-irkernel
+41996394	51334762	0	384.0	24255	704	r shini	r shini r-leaflet
+20238175	20238573	0	384.0	20343	705	r data-structur	r
+41471757	41511191	0	384.0	20874	706	r if-stat	r for-loop appli
+49859149	50728217	0	165.0	20470	707	r r-packag r-devtool	r devtool r-packag
+37800390	37817299	0	165.0	26350	708	r ggplot2 imagemagick	r window imagemagick
+55569337	55571484	1	1157.0	19887	71	r	r
+32120291	42010161	0	165.0	23222	710	r plot gridlin	r plot
+28624592	28935768	0	165.0	29687	711	r plot ggplot2	r ggplot2 shini ggmap
+41731684	41752268	0	165.0	19354	712	r data-bind cut	r left-join dplyr tidyr
+39484118	58028528	0	165.0	24987	713	r shini dt	r dt
+38660467	38847645	1	166.0	25570	714	r datafram add	r datafram add
+48022642	48043372	0	77.0	27215	719	r list datafram sqldf	r for-loop datafram rbind
+39006840	39027770	1	166.0	26531	72	r ggplot2 facet-wrap	r ggplot2 facet-wrap
+21716567	21748598	0	77.0	27057	720	r ggplot2 correl ggalli	r ggplot2 ggalli
+46420106	46449723	0	77.0	24707	722	r search datafram ocr	r list datafram transpos sappli
+45663125	48928383	1	389.0	22094	723	r list	r list
+46607506	49595214	0	1168.0	18656	724	r	r probabl
+31930616	32031432	1	389.0	20821	725	r leaflet	r leaflet
+53212878	53223526	1	390.0	19085	726	r offic	r offic
+37011952	37023999	0	390.0	20927	727	r reshap	regex r
+10421668	27312597	1	390.0	21688	728	r split	r split
+37274007	37349878	0	167.0	19836	729	r pca ellips	r overlap ellips ggbiplot
+59190193	59193797	0	78.0	20907	73	r r-markdown pdflatex articl	r latex r-markdown knitr pandoc
+20592611	49400778	0	167.0	25854	730	r select datafram	r datafram
+11751047	12894306	0	392.0	26373	731	r ggplot2	r ggplot2 datafram
+52276088	53117396	0	37.0	21195	732	r foreach parallel-process checkpoint r-futur	r r-futur
+10807804	30215509	0	392.0	19141	734	r cran	linux r
+34389797	34711685	0	38.0	25493	735	r datafram subset sampl missing-data	r if-stat datafram data.t missing-data
+46972679	47179207	0	78.0	31097	736	r datafram ggplot2 graph	r datafram ggplot2 data.t
+51086959	51248293	0	393.0	19216	738	r maco	r maco memori
+53884353	55098961	0	394.0	23165	739	r data.t	r shini data.t
+31925595	31947700	1	394.0	18990	74	r slice	r slice
+13942202	20430773	0	169.0	20511	740	maco r shared-memori	r parallel-process reference-class
+42695298	45923632	0	79.0	19281	741	r functional-program closur factori	r valid functional-program closur pointfre
+30719243	30720340	0	169.0	19774	742	r depend packag	r namespac packag opencpu
+40942717	40953151	0	79.0	23908	743	r function loop quandl	r function datafram quandl
+3369025	17349485	0	79.0	26954	744	r datafram lookup index	r null
+35699399	39042064	0	396.0	20713	745	r gam	r plot regress gam mgcv
+54831077	54835717	1	396.0	24241	746	r shini	r shini
+6986657	13594968	0	170.0	26025	747	r duplic datafram	r duplic
+9502003	60340491	0	397.0	26495	748	r ggplot2	r ggplot2 bar-chart
+56555281	58505386	1	170.0	24576	749	r shini shinytre	r shini shinytre
+28538161	37430604	0	170.0	19138	75	r computational-geometri r-grid	r
+29669292	29669891	0	398.0	21335	750	r if-stat	r
+3480222	36073503	1	1196.0	18639	751	r	r
+31394755	31395435	0	171.0	20277	752	r fortran gfortran	r fortran
+51164948	51165825	1	1198.0	18624	753	r	r
+20561190	28096239	1	399.0	20742	754	r rstudio	r rstudio
+18396525	18397245	1	400.0	23459	755	r plot	r plot
+10532192	10609772	0	38.0	26538	756	r overlay ggplot2 segment scatter	r
+34213315	34245295	1	38.0	27949	757	r perform data.t dplyr vector	r perform data.t dplyr vector
+38056641	38791517	0	80.0	19361	758	r postgresql amazon-web-servic rpostgresql	sql r postgresql
+20671888	21667581	1	38.0	22059	759	r network graph igraph breadth-first-search	r network graph igraph breadth-first-search
+15670799	15671568	0	172.0	22503	76	r matrix igraph	r matrix igraph adjacency-list
+2331070	35434760	0	172.0	26966	760	r visual ggplot2	r ggplot2 data-visu tuft
+53266457	53284719	0	38.0	21858	761	r rstudio plotli axi r-plotli	r layout packag plotli r-plotli
+39628872	39633863	1	402.0	24565	762	r shini	r shini
+7721262	55186549	0	80.0	22705	763	r color plot r-factor	r legend r-factor
+5665599	31926022	1	1210.0	19951	764	r	r
+8852406	14612190	1	1211.0	19122	766	r	r
+3835714	11986574	0	404.0	18974	767	r rdata	r
+58188784	58194795	1	80.0	25053	768	r shini dt shinyj	r shini dt shinyj
+58176637	58194938	1	173.0	23708	769	r shini dt	r shini dt
+31923107	31938512	0	173.0	24729	77	r datafram mathematical-optim	r data.t mathematical-optim
+3190087	17279027	1	405.0	28887	770	r ggplot2	r ggplot2
+18257642	29454883	0	39.0	20936	771	r predict categorical-data multinomi gbm	r machine-learn categorical-data multinomi gbm
+36110815	44608687	0	406.0	20677	772	r distanc	r distanc latitude-longitud
+43297797	43298666	1	406.0	20077	773	r linux	r linux
+54238427	54307701	1	406.0	24599	774	r shini	r shini
+13675380	45813247	0	174.0	19780	775	r latex xtabl	r pdf latex xtabl footnot
+17766989	20915114	0	39.0	21947	78	r gi spatial raster r-raster	r geospati spatial polygon r-raster
+6132332	16310387	0	174.0	19300	780	r anim ubuntu	r shell anim imagemagick system
+57191083	57298332	0	81.0	28785	781	r datafram for-loop dplyr	r dplyr
+10535235	47006881	0	175.0	21212	782	r random correl	r random correl bindata
+35432923	35443059	1	1226.0	18712	783	r	r
+36919953	36925855	1	409.0	20167	784	r production-environ	r production-environ
+20850483	49588582	0	409.0	24305	785	r shini	css r shini
+33597728	33613830	0	81.0	20469	786	r text-process date-format bin	r date-format bin
+56705711	56717677	1	39.0	28299	787	r function loop datafram lappli	r function loop datafram lappli
+45655879	45673142	0	82.0	21994	788	r time-seri wavelet rollappli	r time-seri correl wavelet rollappli
+41723575	41909242	0	410.0	21976	789	r loop	r loop lappli
+48924219	48961927	1	82.0	28165	79	r ggplot2 gtabl cowplot	r ggplot2 gtabl cowplot
+56863566	56927812	0	82.0	24401	790	r shini shinydashboard shinyapp	r shinydashboard
+30116606	35454277	0	411.0	26971	791	r ggplot2	r ggplot2 ggproto
+12362866	12385103	0	82.0	25042	792	r datafram igraph vertexdata	r ggplot2 diagram igraph
+12362857	49362941	0	412.0	21864	793	r time-seri	r
+38525383	56871943	0	412.0	22835	794	r data.t	r data.t na
+50111566	50128349	0	39.0	25188	795	r shini leaflet reactive-program r-leaflet	r filter shini leaflet r-leaflet
+22177756	22848403	0	413.0	19725	796	r data-manipul	r
+56770222	56776207	1	177.0	24670	797	r event shini	r event shini
+52208380	52209203	0	177.0	19385	798	r sql-server dbi	r sql-server r-dbi
+26574054	26574670	0	177.0	20895	799	r correl r-corrplot	r r-corrplot
+32219451	32226508	0	177.0	23578	8	r loop for-loop	r loop csv for-loop
+3348522	3356923	0	415.0	25866	80	r datafram	r datafram reshap
+26394927	26396047	1	1246.0	18721	800	r	r
+19439689	33945984	0	178.0	20776	801	r map rworldmap	r appli rworldmap
+24157990	24162675	1	178.0	24483	802	r render shini	r render shini
+23588127	43478980	0	178.0	27304	803	r ggplot2 legend	r ggplot2
+37789299	54770082	0	83.0	21636	804	r matrix covari lme4	r lme4 mixed-model
+45915720	60807293	0	40.0	22752	805	r twitter r-markdown hugo blogdown	r r-markdown blogdown
+46287086	52469245	0	178.0	27490	806	r ggplot2 data-visu	r ggplot2
+30406560	30407769	0	179.0	22332	807	r list set-intersect	r graph igraph connected-compon
+9505495	10526005	1	418.0	26603	808	r ggplot2	r ggplot2
+52106980	52117181	0	83.0	27199	81	r ggplot2 rlang ggrepel	r ggplot2 rlang
+20749444	30740613	0	179.0	20765	810	r latex knitr	r matrix r-markdown pandoc mathml
+61327081	61381710	0	179.0	26923	811	r ggplot2 ggimag	r ggplot2 legend ggimag
+28634345	31433840	1	419.0	19063	812	r rserv	r rserv
+38861041	52478475	0	40.0	24983	813	r latex knitr r-markdown cross-refer	r r-markdown bookdown
+24086498	26883864	0	84.0	21712	814	r markdown knitr pandoc	r knitr pandoc r-markdown reproducible-research
+60160905	60176959	0	1261.0	20583	815	r	r git ssh
+29399820	29423270	0	40.0	27228	816	regex r merg datafram text-fil	regex r function datafram lappli
+14800161	33988831	0	421.0	21109	817	r aggreg	r data.t
+44245666	44250468	0	40.0	25776	819	r datafram index add col	r index group add col
+57609922	57610899	1	180.0	25085	82	r shini shinydashboard	r shini shinydashboard
+39623094	39642725	0	84.0	20249	820	html r xml kml	r xml-pars
+45652340	45716873	0	422.0	23249	821	r data.t	r data.t stringr
+46963049	46986535	0	40.0	19605	822	r matlab curve-fit gaussian mixture-model	r curve-fit nl
+24942366	24944151	1	181.0	20499	823	r rchart nvd3.j	r rchart nvd3.j
+6592214	6593587	1	423.0	20419	824	r match	r match
+7451354	26777282	0	1271.0	20014	825	r	r chron
+13550501	28633784	0	1272.0	19284	826	r	r scatter-plot scatter plane scatter3d
+30971258	31094538	0	424.0	24708	827	r datafram	r datafram rstudio
+10892803	10908553	1	1274.0	20020	828	r	r
+9060569	9075208	0	182.0	20292	829	r bioinformat spectrum	r awk
+61025542	61029739	0	85.0	21672	83	r machine-learn logistic-regress cross-valid	r machine-learn regress cross-valid
+25466013	25474682	0	41.0	22412	830	r for-loop next rcurl geturl	r rcurl html-content-extract geturl
+13407236	13457562	0	426.0	28165	831	r ggplot2	r ggplot2 layer proto ggproto
+57385749	57447378	0	426.0	22124	832	r data.t	r join data.t self-join
+46580556	46783163	0	426.0	26873	833	r ggplot2	r test ggplot2 boxplot facet
+45476950	45552715	0	41.0	27171	838	r ggplot2 boxplot p-valu ggpubr	r test ggplot2 boxplot
+48534448	48552238	0	183.0	29932	839	r ggplot2 dplyr	r dplyr tidyvers
+55512219	55527619	0	183.0	20701	84	r time-seri multiple-condit	r dplyr time-seri multiple-condit
+27135962	54426523	0	85.0	27370	840	r color ggplot2 polygon	r plot polygon
+24467936	24473055	0	183.0	19657	841	r time prime	r algorithm math prime
+42105259	42242497	1	1286.0	20032	842	r	r
+12112558	24142467	0	429.0	19851	843	r libsvm	r svmlight
+37944197	41030477	1	85.0	23455	844	css r knitr r-markdown	css r knitr r-markdown
+32018521	32830382	1	184.0	24621	845	r shini dt	r shini dt
+34244210	38942118	0	86.0	20729	846	r window libpq rpostgresql	r window ssl heroku rpostgresql
+26720663	55627999	0	430.0	23422	848	r plot	r ggplot2 annot surviv forestplot
+42058059	47222764	0	86.0	27289	849	r ggplot2 raster tikzdevic	r ggplot2
+55611370	55617539	1	431.0	19170	850	r markov-chain	r markov-chain
+30237310	40709975	0	185.0	23095	851	r rstudio knitr	r rstudio
+24940246	25273767	1	432.0	22920	852	r data.t	r data.t
+14563531	40878660	0	185.0	22022	853	r merg na	r datafram updat overwrit
+58897330	61496833	0	41.0	25336	854	r shini plotli r-plotli shinyapp	r shini plotli r-plotli
+17389533	24430053	0	86.0	26188	855	r datafram aggreg posixct	r statist time-seri aggreg xt
+15647282	17222380	0	433.0	20363	856	r knitr	r knitr r-markdown
+58756264	58761704	1	433.0	25786	857	r ggplot2	r ggplot2
+21987834	37619534	0	434.0	26872	858	r ggplot2	r ggplot2 gtabl grob facet-grid
+16947431	32803727	1	434.0	26144	859	r ggplot2	r ggplot2
+13176741	13190627	0	434.0	28269	860	r datafram	r list matrix relationship
+12394855	41730532	0	87.0	21689	861	r regress intercept r-caret	r r-caret lm
+39024390	39171890	1	87.0	26144	862	r shini r-markdown htmlwidget	r shini r-markdown htmlwidget
+58593824	58595096	0	186.0	23974	863	r shini shinydashboard	r shini datat shinydashboard
+14604820	15996692	1	436.0	23276	864	r data.t	r data.t
+38308134	53549442	0	187.0	19508	865	r concaten bioconductor	r bioinformat bioconductor
+27496127	27560225	0	187.0	20523	866	r png crop	r layout plot
+26112990	26249385	0	437.0	20480	867	r histogram	r histogram label
+54298621	54472962	0	42.0	20999	868	r combin slice sparse-matrix linear-algebra	r
+8935523	8947483	0	42.0	20847	869	r document namespac extension-method packag	r document s4 roxygen roxygen2
+44239415	44242299	1	42.0	26535	87	r datafram duplic group add	r datafram duplic group add
+53931501	54038311	0	87.0	20776	872	r merg datat fuzzyjoin	r merg data.t fuzzyjoin
+26177565	35444968	0	87.0	26134	873	r datafram nested-list rbind	json r jsonlit
+41133617	41190862	0	188.0	19326	874	r modul scope	r modul scope packag scope
+17266780	49124254	0	188.0	25737	875	r ggplot2 rose-diagram	r ggplot2 facet rose-diagram
+42763280	47523919	0	188.0	27465	877	r ggplot2 plotli	r ggplot2 plotli ggplotli
+18355686	20602751	0	188.0	19481	878	r bigdata ff	r memory-manag bigdata ff
+51280568	51413841	0	440.0	25077	879	r dplyr	r data.t
+25102617	25102966	0	188.0	26851	88	r dplyr tidyr	r
+28529823	28532172	0	189.0	21252	880	r stringr qdap	r qdap
+6550510	8700619	0	1324.0	18808	882	r	r object rdata
+28370249	41324398	0	441.0	21150	883	r function	r list function argument optional-argu
+55345679	60285820	0	88.0	23386	884	r r-markdown knitr kabl	r r-markdown kabl kableextra
+44335165	45311909	0	189.0	20674	886	r markdown knitr	r knitr r-markdown
+3440373	3501528	0	442.0	20659	887	r error-handl	r rodbc
+3094232	24331690	0	443.0	19433	888	r r-packag	r
+45907614	46093719	0	190.0	28780	889	r ggplot2 dplyr	r ggplot2
+52365579	52388444	0	443.0	20768	89	r r-raster	r list loop r-raster
+44334535	47699146	0	444.0	26527	890	r ggplot2	r ggplot2 stacked-chart geom-text
+18473382	19330546	0	43.0	27194	891	r ggplot2 facet percentil color-cod	r color ggplot2 percentil
+28605657	28656683	0	444.0	23533	892	r shini	r shini as.dat
+47644156	47704875	0	43.0	26507	893	r ggplot2 data-visu area radar-chart	r plot ggplot2 visual radar-chart
+60062311	60062827	0	190.0	26947	894	r ggplot2 layer	r ggplot2
+17107206	38364431	0	445.0	19007	895	r tempdir	r rstudio temp
+46298066	46430561	0	446.0	20516	896	r tmap	r sp tmap
+24701419	24810470	1	446.0	20069	897	r ggvi	r ggvi
+37122216	37284287	0	191.0	27554	898	r ggplot2 plotli	r plotli
+13137912	28301188	0	43.0	20351	899	r gener packag s4 roxygen2	r oop s4 bioconductor
+33530066	34579494	1	191.0	24822	9	r shini googlevi	r shini googlevi
+38733571	38779478	1	1343.0	18876	90	r	r
+9035674	14547069	0	192.0	20903	900	maco r clipboard	r clipboard
+45119432	45185979	0	43.0	22186	901	r ubuntu rstudio x11 arbtt	r rstudio
+8251632	32798526	0	43.0	21023	902	r api rest amazon-web-servic amazon-product-api	r sort amazon-web-servic amazon-product-api endian
+33890896	39614235	0	449.0	19582	903	r mle	r machine-learn
+31142280	32912268	0	449.0	23481	904	r data.t	r data.t fread
+26244530	45289764	0	1349.0	20877	905	r	r docker dockerfil yum install.packag
+14023423	37273149	1	450.0	21080	906	r r-caret	r r-caret
+60847460	61249692	0	450.0	20576	907	r plm	r plm r-haven
+53245233	61275627	0	450.0	26478	908	r ggplot2	r ggplot2 plot axi boxplot
+13189467	23413728	0	193.0	20551	909	r export-to-csv file-convers	r datafram rdata
+41879049	42431720	0	43.0	20437	91	r neural-network deep-learn lstm recurrent-neural-network	r machine-learn deep-learn lstm recurrent-neural-network
+8732461	60670097	0	451.0	21027	910	r xt	r time-seri
+13701347	61969752	1	90.0	29200	911	r plot ggplot2 axe	r ggplot2 plot axe
+58020350	58026182	0	452.0	26908	912	r ggplot2	r ggplot2 dplyr statist
+36205419	36208785	1	90.0	24070	915	html r shini html5-audio	r html shini html5-audio
+3796266	45713473	0	1359.0	20182	916	r	r datafram index type
+34826602	46952771	0	453.0	25618	917	r datafram	r dplyr
+2535234	8158867	0	43.0	21227	918	array r distanc similar trigonometri	perform r linear-algebra
+24356683	24873550	1	454.0	24780	919	r dplyr	r dplyr
+61015431	61029336	0	194.0	23324	92	r r-markdown knitr	r ggplot2 r-markdown
+37393329	37515454	0	90.0	20312	920	r machine-learn decision-tre parti	r foreach machine-learn decision-tre parti
+57438355	57442652	0	44.0	27287	921	r shini dplyr shinydashboard shiny-react	r filter dplyr
+40461380	40771358	0	455.0	22751	922	r matrix	r rowsum
+38563885	54919400	0	455.0	25975	923	r dplyr	r filter dplyr
+57914461	57962514	0	456.0	27016	924	r ggplot2	r ggplot2 tidyvers
+9465817	9534351	0	456.0	20579	925	r date	r perform workload
+6025051	6167791	0	1370.0	20184	926	r	r functional-program
+22009871	34328105	0	91.0	20553	927	r classif svm libsvm	r svm
+60321495	60327158	0	44.0	21912	929	r color leaflet map color-palett	r ggplot2 color leaflet map
+4654181	4687879	1	1373.0	18849	93	r	r
+35126517	35155603	0	458.0	21124	930	r plyr	r matrix group-bi transform
+4951286	5009026	0	196.0	19426	931	r sparse-matrix svd	r rcpp
+5745886	36431465	0	458.0	20450	932	r command-lin	r linux window shini
+7680959	11261399	0	459.0	20130	933	r type-convers	r function type-convers
+12100856	12709933	0	196.0	20814	934	r cran s4	r s4
+38102921	38486163	0	44.0	20659	935	r apache-spark yarn sparkapi sparklyr	r apache-spark rstudio sparklyr
+15112440	30806577	0	197.0	27062	936	r ggplot2 colorbrew	r ggplot2
+41010050	48000292	0	197.0	27120	937	r ggplot2 legend	r ggplot2 r-grid gtabl
+46239615	47475923	0	460.0	20629	938	r magrittr	r dplyr magrittr rlang
+10806404	10945707	0	461.0	26587	939	r ggplot2	r plot
+28771018	31162332	0	197.0	27232	94	r ggplot2 heatmap	r ggplot2
+42604439	42757183	0	44.0	19785	940	r token tm n-gram rweka	r tm n-gram term-document-matrix rweka
+27552810	27564299	0	92.0	22918	941	r for-loop optim bigdata	r reshape2 large-data bigdata
+32106333	60661723	0	198.0	19528	942	r r-grid gridextra	r r-markdown gridextra gtabl
+29125609	29128432	0	198.0	22115	943	r loop appli	r for-loop
+31746962	55201041	0	198.0	29946	944	r ggplot2 shini	r shini
+10207564	28190868	0	44.0	19585	945	r document bibtex roxygen2 citat	r
+32275113	49668265	1	463.0	26937	947	r ggplot2	r ggplot2
+11366964	50883294	0	198.0	28966	948	r ggplot2 legend	r ggplot2
+54132300	54291153	0	464.0	26337	949	r datafram	r datafram index
+9895811	10212245	0	92.0	20537	95	r parallel-process default plyr	r reflect
+28233561	57512813	0	1395.0	20140	950	r	r dplyr
+13706188	51314482	0	1396.0	19342	951	r	r matrix replac data-sci gsub
+12609816	17218305	0	199.0	22518	952	r plot tiff	imag r tiff
+20592886	20880558	0	93.0	20623	953	r imagemagick tiff imagemagick-convert	r imagemagick tiff gimp image-compress
+10566473	14153092	0	1399.0	18912	954	r	r plyr
+8204972	8231007	0	200.0	19680	955	r scatter-plot rgl	r scatter
+38822132	38823761	0	93.0	26339	956	r function for-loop plot	r
+31075826	31221471	1	45.0	20181	957	r pdf graphic utf-8 sweav	r pdf graphic utf-8 sweav
+34158723	35677857	0	45.0	22625	958	r r-markdown pandoc beamer bibliographi	r latex knitr r-markdown beamer
+32092458	33318391	0	200.0	23439	959	r plot polygon	r ggplot2 reshape2
+59408283	59413766	0	93.0	24269	96	r loop matrix indic	r for-loop matrix indic
+43337147	43383010	0	468.0	24521	960	r shini	r plot ggplot2 shini
+29648127	29991606	1	201.0	21041	961	r bioinformat bioconductor	r bioinformat bioconductor
+23618813	23637902	0	93.0	25000	962	r network leaflet shini	r network kml leaflet shini
+18821862	18840410	0	1409.0	20154	963	r	r merg data.t
+7666807	17395724	0	1410.0	19487	969	r	r scope
+35585428	35637012	1	470.0	25785	97	r ggplot2	r ggplot2
+14784302	14933804	0	470.0	22015	970	r lattic	r function environ argument-pass
+13281303	51923115	0	471.0	22506	972	r matrix	r datafram combin
+30643213	31220677	0	471.0	20808	973	r rcurl	r rcurl xlconnect
+45638529	45642435	0	1415.0	18917	974	r	r zoo rollappli
+51929941	52074105	0	94.0	26379	975	r dplyr data.t lappli	r dplyr data.t plyr
+33925430	36897594	0	472.0	24871	976	r shini	r shini plotli shinyb
+55754330	55813859	0	45.0	22447	978	r function subset evalu ellipsi	r function lappli evalu do.cal
+6316459	32398127	0	1419.0	20176	979	r	r csv rscript
+6007883	6009222	0	202.0	20858	98	r instal packag	r area venn-diagram
+42749447	42793833	0	45.0	24365	980	r merg data.t string-match stringdist	r function split data.t
+6022898	14771546	0	203.0	27113	981	r ggplot2 legend	r ggplot2
+56659665	56660496	0	474.0	21483	982	r bar-chart	r
+31979189	51944709	1	474.0	24878	983	r dplyr	r dplyr
+38559429	38900796	0	203.0	27000	984	r data.t dplyr	r data.t dplyr cumulative-sum
+10620862	47021117	1	475.0	26666	985	r ggplot2	r ggplot2
+61365720	61421335	1	95.0	25509	986	r group-bi dplyr rowwis	r group-bi dplyr rowwis
+9422945	20150234	1	1428.0	18909	987	r	r
+29593177	40966634	0	204.0	23736	988	sql r data.t	r export data.t fwrite
+42674516	42681880	1	1430.0	18952	99	r	r
+17222942	17288379	0	46.0	21605	990	r foreach parallel-process cluster-comput domc	r foreach parallel-process cluster-comput torqu
+5916854	6325908	1	1432.0	18993	991	r	r
+12840294	28173677	0	95.0	24922	992	r datafram distinct-valu r-faq	r
+50243929	50258307	0	46.0	22914	993	r pdf r-markdown pandoc stargaz	r pdf stargaz
+12304963	39082724	0	478.0	19187	994	r eigen	r regress julia linear-algebra
+16963137	34814478	0	478.0	27271	995	r ggplot2	r plot ggplot2 gridextra
+2765374	7474943	0	479.0	22848	996	r statist	r
+26724124	34487641	0	479.0	25744	997	r dplyr	r group-bi shini dplyr
+38295777	38297989	0	479.0	25666	998	r dplyr	r dplyr tidyr
+6123378	44855415	0	205.0	21391	999	r csv number-format	r data.t quot double-quot

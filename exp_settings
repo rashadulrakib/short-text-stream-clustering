@@ -1,0 +1,10 @@
+1000,2000,4000,8000,16000
+news(100%): rs1...rs20: batch size: 
+tweets(100%): rs1...rs20
+news(100%)+tweets(100%)+stack(100%): rs1...rs20
+news(100%)+tweets(100%)+stack(100%)+bio(100%): rs1...rs20
+
+
+
+
+

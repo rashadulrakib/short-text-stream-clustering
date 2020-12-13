@@ -1,0 +1,37 @@
+r-tag: max: 5056
+r-title
+r-body
+
+cplus-tag: 7398
+cplus-title
+cplus-body
+
+
+php-tag: 6296
+php-title
+php-body
+
+
+android-tag: 5121
+android-title
+android-body
+
+csharp-tag: 4921
+csharp-title
+csharp-body
+
+
+python-tag: 5731
+python-title
+python-body
+
+
+java-tag: 5936
+java-title
+java-body
+
+javascript-tag: 5284
+javascript-title
+javascript-body
+
+

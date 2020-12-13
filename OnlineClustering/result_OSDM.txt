@@ -1,0 +1,146 @@
+result/stackoverflow_large_tweets-T_news-T_suff-ordered_ICF_CWW_ALPHA0.002_BETA0.0004_LAMDA6e-06.txt
+ time elapsed: 1.39s
+ time elapsed: 1.39s
+total time diff secs= 3160
+evaluate total texts=201028
+homogeneity_score-whole-data:   0.27959261
+completeness_score-whole-data:   0.69683591
+nmi_score-whole-data:   0.39906694
+pred clusters=34895, true clusters=12213
+purity majority whole data=0.259665320253895
+
+
+Documents 188000 time elapsed: 3.37s
+Documents 189000 time elapsed: 3.20s
+result/stackoverflow_large_tweets-T_ICF_CWW_ALPHA0.002_BETA0.0004_LAMDA6e-06.txt
+ time elapsed: 3.05s
+ time elapsed: 3.06s
+total time diff secs= 2909
+evaluate total texts=189919
+homogeneity_score-whole-data:   0.26021116
+completeness_score-whole-data:   0.76384763
+nmi_score-whole-data:   0.38818411
+pred clusters=19915, true clusters=12071
+purity majority whole data=0.25786256246083855
+
+
+
+stackoverflow-long
+Documents 159000 time elapsed: 9.26s
+result/stackoverflow_large_ICF_CWW_ALPHA0.002_BETA0.0004_LAMDA6e-06.txt
+ time elapsed: 8.09s
+ time elapsed: 8.09s
+total time diff secs= 1828
+evaluate total texts=159597
+homogeneity_score-whole-data:   0.13711588
+completeness_score-whole-data:   0.71412462
+nmi_score-whole-data:   0.23005913
+pred clusters=16448, true clusters=11802
+purity majority whole data=0.10770879151863756
+
+
+
+
+super-user-36912
+(base) D:\githubprojects\OSDM-master>python evaluate_OSDM.py
+evaluate total texts=36912
+homogeneity_score-whole-data:   0.04946843
+completeness_score-whole-data:   0.40419992
+nmi_score-whole-data:   0.08814869
+pred clusters=900, true clusters=152
+purity majority whole data=0.059330299089726916
+
+(base) D:\githubprojects\OSDM-master>
+(base) D:\githubprojects\OSDM-master>python evaluate_OSDM.py
+tweets, 288
+evaluate total texts=30322  , time 259 , t
+homogeneity_score-whole-data:   0.93477290
+completeness_score-whole-data:   0.74890760
+nmi_score-whole-data:   0.83158120
+pred clusters=2314, true clusters=269
+purity majority whole data=0.8892223468108964
+
+
+
+
+
+NT1, 690
+evaluate total texts=41429
+homogeneity_score-whole-data:   0.86337879
+completeness_score-whole-data:   0.73129343
+nmi_score-whole-data:   0.79186585
+pred clusters=5506, true clusters=416
+purity majority whole data=0.7447440198894494
+
+
+
+NTS1, 1032
+evaluate total texts=61428
+homogeneity_score-whole-data:   0.83111407
+completeness_score-whole-data:   0.63643808
+nmi_score-whole-data:   0.72086385
+pred clusters=10016, true clusters=438
+purity majority whole data=0.7016995506934949
+
+
+news, 59
+evaluate total texts=11109
+homogeneity_score-whole-data:   0.74892858
+completeness_score-whole-data:   0.74155257
+nmi_score-whole-data:   0.74522233
+pred clusters=628, true clusters=152
+purity majority whole data=0.601404266810694
+
+
+news-t, 33
+evaluate total texts=11109
+homogeneity_score-whole-data:   0.89991676
+completeness_score-whole-data:   0.81849733
+nmi_score-whole-data:   0.85727820
+pred clusters=474, true clusters=152
+purity majority whole data=0.8505716086056351
+
+tweets-t, 191
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.93915136
+completeness_score-whole-data:   0.76372234
+nmi_score-whole-data:   0.84240055
+pred clusters=1866, true clusters=269
+purity majority whole data=0.9142866565529978
+
+
+------new------
+
+result/stackoverflow_large-ordered_ICF_CWW_ALPHA0.002_BETA0.0004_LAMDA6e-06.txt
+ time elapsed: 2.91s
+ time elapsed: 2.91s
+total time diff secs= 1103
+
+evaluate total texts=123342
+homogeneity_score-whole-data:   0.14624327
+completeness_score-whole-data:   0.72569468
+v_measure_score-whole-data:   0.24343009
+nmi_score-whole-data:   0.24343009
+pred clusters=12987, true clusters=10573
+purity majority whole data=0.10991389794230676
+min 6 max 21 median 11 avg 11.665752388158516 std 3.301543009108099 sum of li 123342
+avg words per text 52.88551345040619 totalwords 6523005 #texts 123342
+
+
+
+result/stackoverflow_large_tweets-T_news-T_suff-ordered_ICF_CWW_ALPHA0.002_BETA0.0004_LAMDA6e-06.txt
+ time elapsed: 21.47s
+ time elapsed: 21.47s
+total time diff secs= 3136
+
+evaluate total texts=164773
+homogeneity_score-whole-data:   0.32049532
+completeness_score-whole-data:   0.70871038
+v_measure_score-whole-data:   0.44138574
+nmi_score-whole-data:   0.44138574
+pred clusters=29982, true clusters=10994
+purity majority whole data=0.2994968835913651
+min 1 max 1677 median 11.0 avg 14.987538657449518 std 32.715219271492174 sum of li 164773
+avg words per text 52.30874597173081 totalwords 8619069 #texts 164773
+
+

@@ -1,0 +1,664 @@
+total time diff secs= 1443 (5000)
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for stackoverflow_large_tweets-T_news-T_suff
+evaluate total texts=201028
+homogeneity_score-whole-data:   0.69620135
+completeness_score-whole-data:   0.67392657
+nmi_score-whole-data:   0.68488290
+pred clusters=29918, true clusters=12213
+acc majority whole data=0.2571830789740733
+
+
+total time diff secs= 1036 (3000)
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for stackoverflow_large_tweets-T_news-T_suff
+evaluate total texts=201028
+homogeneity_score-whole-data:   0.71966397
+completeness_score-whole-data:   0.67657334
+nmi_score-whole-data:   0.69745372
+pred clusters=37852, true clusters=12213
+acc majority whole data=0.27896113974172754
+
+total time diff secs= 946 (2000)
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for stackoverflow_large_tweets-T_news-T_suff
+evaluate total texts=201028
+homogeneity_score-whole-data:   0.73710255
+completeness_score-whole-data:   0.67880470
+nmi_score-whole-data:   0.70675346
+pred clusters=45118, true clusters=12213
+acc majority whole data=0.2993115386911276
+
+total time diff secs= 753 (1500)
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for stackoverflow_large_tweets-T_news-T_suff
+evaluate total texts=201028
+homogeneity_score-whole-data:   0.75087221
+completeness_score-whole-data:   0.68104362
+nmi_score-whole-data:   0.71425529
+pred clusters=50855, true clusters=12213
+acc majority whole data=0.31771196052291223
+
+total time diff secs= 779 (1000)
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for stackoverflow_large_tweets-T_news-T_suff
+evaluate total texts=201028
+homogeneity_score-whole-data:   0.76869844
+completeness_score-whole-data:   0.68416608
+nmi_score-whole-data:   0.72397307
+pred clusters=58942, true clusters=12213
+acc majority whole data=0.3445539924786597
+
+total time diff secs= 517 (500)
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for stackoverflow_large_tweets-T_news-T_suff
+evaluate total texts=201028
+homogeneity_score-whole-data:   0.79963317
+completeness_score-whole-data:   0.69020633
+nmi_score-whole-data:   0.74090112
+pred clusters=74145, true clusters=12213
+acc majority whole data=0.4011779453608453
+
+acc majority whole data=0.49822222222222223
+total time diff secs= 249
+preocess 189500 texts mean_c_size 7.803030303030303 std_c_size 14.979185247402166
+#list_del_cids 66 len(c_bitermsFreqs) 66
+total time diff secs= 250
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for stackoverflow_large_tweets-T
+evaluate total texts=189919
+homogeneity_score-whole-data:   0.84003243
+completeness_score-whole-data:   0.84222918
+nmi_score-whole-data:   0.84112937
+pred clusters=18997, true clusters=12071
+acc majority whole data=0.5003659454820213
+
+total time diff secs= 337
+preocess 159500 texts mean_c_size 6.36144578313253 std_c_size 9.90267063418237
+#list_del_cids 80 len(c_bitermsFreqs) 83
+total time diff secs= 338
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for stackoverflow_large
+evaluate total texts=159597
+homogeneity_score-whole-data:   0.73857998
+completeness_score-whole-data:   0.71779414
+nmi_score-whole-data:   0.72803873
+pred clusters=34110, true clusters=11802
+acc majority whole data=0.2339830949203306
+
+acc majority whole data=0.9593666666666667
+total time diff secs= 36
+total time diff secs= 36
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for Tweets-T
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.97720360
+completeness_score-whole-data:   0.72526901
+nmi_score-whole-data:   0.83259546
+pred clusters=2601, true clusters=269
+acc majority whole data=0.9597651869929424
+
+
+total time diff secs= 303
+total time diff secs= 305
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for stackoverflow_large_tweets-T
+evaluate total texts=189919
+homogeneity_score-whole-data:   0.80385565
+completeness_score-whole-data:   0.82991431
+nmi_score-whole-data:   0.81667716
+pred clusters=15106, true clusters=12071
+acc majority whole data=0.43495384874604437
+
+
+acc majority whole data=0.1779811320754717
+total time diff secs= 336
+total time diff secs= 336
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for stackoverflow_large
+evaluate total texts=159597
+homogeneity_score-whole-data:   0.69882801
+completeness_score-whole-data:   0.70712661
+nmi_score-whole-data:   0.70295282
+pred clusters=24735, true clusters=11802
+acc majority whole data=0.17799833330200443
+
+
+
+total time diff secs= 576
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for stackoverflow_large
+evaluate total texts=159597
+homogeneity_score-whole-data:   0.89510458
+completeness_score-whole-data:   0.75461084
+nmi_score-whole-data:   0.81887532
+pred clusters=80191, true clusters=11802
+acc majority whole data=0.5220649510955719
+
+
+total time diff secs= 384
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for stackoverflow_large
+evaluate total texts=159597
+homogeneity_score-whole-data:   0.89252569
+completeness_score-whole-data:   0.75378772
+nmi_score-whole-data:   0.81731085
+pred clusters=79868, true clusters=11802
+acc majority whole data=0.5173718804238175
+
+
+
+(base) D:\githubprojects\short-text-stream-clustering\OnlineClustering>python main.py
+30322
+cluster_bigram
+#######-personal-eval_pred_treu_txt 30322
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.91036358
+completeness_score-whole-data:   0.75170141
+nmi_score-whole-data:   0.82345948
+pred clusters=1196, true clusters=265
+acc majority whole data=0.851296088648506
+total time diff secs= 267
+pred_true_text_file name=result/personal_cluster_biterm.txt
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.91036358
+completeness_score-whole-data:   0.75170141
+nmi_score-whole-data:   0.82345948
+pred clusters=1196, true clusters=265
+acc majority whole data=0.851296088648506
+
+total time diff secs= 15
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for Tweets-T
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.94455974
+completeness_score-whole-data:   0.80680034
+nmi_score-whole-data:   0.87026207
+pred clusters=1529, true clusters=269
+acc majority whole data=0.9047886023349383
+
+(base) D:\githubprojects\short-text-stream-clustering\OnlineClustering>python main.py
+30322
+cluster_bigram
+#######-personal-eval_pred_treu_txt 30322
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.89247848
+completeness_score-whole-data:   0.78043446
+nmi_score-whole-data:   0.83270438
+pred clusters=911, true clusters=269
+acc majority whole data=0.8233295956731086
+total time diff secs= 228
+pred_true_text_file name=result/personal_cluster_biterm.txt
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.89247848
+completeness_score-whole-data:   0.78043446
+nmi_score-whole-data:   0.83270438
+pred clusters=911, true clusters=269
+acc majority whole data=0.8233295956731086
+
+(base) D:\githubprojects\short-text-stream-clustering\OnlineClustering>
+(base) D:\githubprojects\short-text-stream-clustering\OnlineClustering>
+(base) D:\githubprojects\short-text-stream-clustering\OnlineClustering>
+(base) D:\githubprojects\short-text-stream-clustering\OnlineClustering>python main.py
+41429
+cluster_bigram
+#######-personal-eval_pred_treu_txt 41429
+evaluate total texts=41429
+homogeneity_score-whole-data:   0.90977166
+completeness_score-whole-data:   0.79638327
+nmi_score-whole-data:   0.84930966
+pred clusters=1387, true clusters=416
+acc majority whole data=0.8320982886383934
+total time diff secs= 380
+pred_true_text_file name=result/personal_cluster_biterm.txt
+evaluate total texts=41429
+homogeneity_score-whole-data:   0.90977166
+completeness_score-whole-data:   0.79638327
+nmi_score-whole-data:   0.84930966
+pred clusters=1387, true clusters=416
+acc majority whole data=0.8320982886383934
+
+(base) D:\githubprojects\short-text-stream-clustering\OnlineClustering>
+(base) D:\githubprojects\short-text-stream-clustering\OnlineClustering>
+(base) D:\githubprojects\short-text-stream-clustering\OnlineClustering>
+(base) D:\githubprojects\short-text-stream-clustering\OnlineClustering>python main.py
+61428
+cluster_bigram
+#######-personal-eval_pred_treu_txt 61428
+evaluate total texts=61428
+homogeneity_score-whole-data:   0.89362191
+completeness_score-whole-data:   0.67678890
+nmi_score-whole-data:   0.77023590
+pred clusters=2940, true clusters=438
+acc majority whole data=0.8009376831412385
+total time diff secs= 1293
+pred_true_text_file name=result/personal_cluster_biterm.txt
+evaluate total texts=61428
+homogeneity_score-whole-data:   0.89362191
+completeness_score-whole-data:   0.67678890
+nmi_score-whole-data:   0.77023590
+pred clusters=2940, true clusters=438
+acc majority whole data=0.8009376831412385
+
+(base) D:\githubprojects\short-text-stream-clustering\OnlineClustering>
+
+
+#######-personal-eval_pred_treu_txt 11109
+evaluate total texts=11109
+homogeneity_score-whole-data:   0.91956629
+completeness_score-whole-data:   0.75460296
+nmi_score-whole-data:   0.82895734
+pred clusters=841, true clusters=152
+acc majority whole data=0.8657844990548205
+total time diff secs= 44
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for News-T
+evaluate total texts=11109
+homogeneity_score-whole-data:   0.91956629
+completeness_score-whole-data:   0.75460296
+nmi_score-whole-data:   0.82895734
+pred clusters=841, true clusters=152
+acc majority whole data=0.8657844990548205
+
+
+
+----------------------------------
+tweets-random
+acc majority whole data=0.8456895983114571
+total time diff secs= 334
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for Tweets2
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.90834127
+completeness_score-whole-data:   0.77926703
+nmi_score-whole-data:   0.83886812
+pred clusters=941, true clusters=267
+acc majority whole data=0.8456895983114571
+
+
+total time diff secs= 229
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for Tweets1
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.90415383
+completeness_score-whole-data:   0.77187241
+nmi_score-whole-data:   0.83279292
+pred clusters=940, true clusters=265
+acc majority whole data=0.8404788602334938
+
+
+total time diff secs= 201
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for Tweets3
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.90761582
+completeness_score-whole-data:   0.77739758
+nmi_score-whole-data:   0.83747505
+pred clusters=946, true clusters=267
+acc majority whole data=0.8461183299254667
+
+
+total time diff secs= 234
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for NT-mstream-long1
+evaluate total texts=41429
+homogeneity_score-whole-data:   0.90977166
+completeness_score-whole-data:   0.79638327
+nmi_score-whole-data:   0.84930966
+pred clusters=1387, true clusters=416
+acc majority whole data=0.8320982886383934
+
+
+
+total time diff secs= 16
+total time diff secs= 16
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for News-T
+evaluate total texts=11109
+homogeneity_score-whole-data:   0.91956629
+completeness_score-whole-data:   0.75460296
+nmi_score-whole-data:   0.82895734
+pred clusters=841, true clusters=152
+acc majority whole data=0.8657844990548205
+
+total time diff secs= 20 (1000)
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for News-T
+evaluate total texts=11109
+homogeneity_score-whole-data:   0.94916193
+completeness_score-whole-data:   0.76366536
+nmi_score-whole-data:   0.84636915
+pred clusters=962, true clusters=152
+acc majority whole data=0.9181744531460978
+
+
+
+total time diff secs= 97
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for Tweets-T
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.89247848
+completeness_score-whole-data:   0.78043446
+nmi_score-whole-data:   0.83270438
+pred clusters=911, true clusters=269
+acc majority whole data=0.8233295956731086
+
+--------------------------------
+
+Documents 188000 time elapsed: 3.37s
+Documents 189000 time elapsed: 3.20s
+result/stackoverflow_large_tweets-T_ICF_CWW_ALPHA0.002_BETA0.0004_LAMDA6e-06.txt
+ time elapsed: 3.05s
+ time elapsed: 3.06s
+total time diff secs= 2909
+
+
+
+---------------------------
+
+
+total time diff secs= 104 (10000)
+total time diff secs= 104
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for Tweets-T
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.92573509
+completeness_score-whole-data:   0.79346549
+nmi_score-whole-data:   0.85451210
+pred clusters=1180, true clusters=269
+acc majority whole data=0.877712551942484
+
+total time diff secs= 75 (6500)
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for Tweets-T
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.94077957
+completeness_score-whole-data:   0.78514661
+nmi_score-whole-data:   0.85594610
+pred clusters=1399, true clusters=269
+acc majority whole data=0.9017874810368709
+
+total time diff secs= 74 (6000)
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for Tweets-T
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.94204966
+completeness_score-whole-data:   0.78259461
+nmi_score-whole-data:   0.85495078
+pred clusters=1362, true clusters=269
+acc majority whole data=0.9010619352285469
+
+total time diff secs= 133 (5500)
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for Tweets-T
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.94612057
+completeness_score-whole-data:   0.78346906
+nmi_score-whole-data:   0.85714690
+pred clusters=1458, true clusters=269
+acc majority whole data=0.9085482487962535
+
+
+total time diff secs= 66 (5000)
+total time diff secs= 66
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for Tweets-T
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.94906250
+completeness_score-whole-data:   0.78298664
+nmi_score-whole-data:   0.85806256
+pred clusters=1471, true clusters=269
+acc majority whole data=0.9118132049337115
+
+total time diff secs= 58 (4500)
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for Tweets-T
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.94986317
+completeness_score-whole-data:   0.77988534
+nmi_score-whole-data:   0.85652262
+pred clusters=1531, true clusters=269
+acc majority whole data=0.9097025262185872
+
+total time diff secs= 54 (4000)
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for Tweets-T
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.95400902
+completeness_score-whole-data:   0.77673941
+nmi_score-whole-data:   0.85629591
+pred clusters=1627, true clusters=269
+acc majority whole data=0.9194314359211134
+
+total time diff secs= 59 (3500)
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for Tweets-T
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.95452615
+completeness_score-whole-data:   0.77364836
+nmi_score-whole-data:   0.85462155
+pred clusters=1644, true clusters=269
+acc majority whole data=0.9188707868874085
+
+
+total time diff secs= 63 (3000)
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for Tweets-T
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.95961657
+completeness_score-whole-data:   0.77290935
+nmi_score-whole-data:   0.85620262
+pred clusters=1717, true clusters=269
+acc majority whole data=0.929259283688411
+
+total time diff secs= 53 (2500)
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for Tweets-T
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.96404819
+completeness_score-whole-data:   0.76541783
+nmi_score-whole-data:   0.85332659
+pred clusters=1873, true clusters=269
+acc majority whole data=0.9377679572587561
+
+total time diff secs= 45 (2000)
+total time diff secs= 45
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for Tweets-T
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.96771077
+completeness_score-whole-data:   0.75443820
+nmi_score-whole-data:   0.84786855
+pred clusters=2034, true clusters=269
+acc majority whole data=0.9402743882329662
+
+
+total time diff secs= 43 (1500)
+total time diff secs= 43
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for Tweets-T
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.97313328
+completeness_score-whole-data:   0.74548667
+nmi_score-whole-data:   0.84423306
+pred clusters=2179, true clusters=269
+acc majority whole data=0.9513884308422927
+
+total time diff secs= 35 (1000)
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for Tweets-T
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.97720360
+completeness_score-whole-data:   0.72526901
+nmi_score-whole-data:   0.83259546
+pred clusters=2601, true clusters=269
+acc majority whole data=0.9597651869929424
+
+total time diff secs= 30 (500)
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for Tweets-T
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.98129540
+completeness_score-whole-data:   0.68145090
+nmi_score-whole-data:   0.80433754
+pred clusters=3436, true clusters=269
+acc majority whole data=0.9647780489413627
+
+#####
+total time diff secs= 42 (1000)
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for Tweets-T
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.96578245
+completeness_score-whole-data:   0.77485642
+nmi_score-whole-data:   0.85984835
+pred clusters=1685, true clusters=269
+acc majority whole data=0.9385264824220039
+
+
+---------------fast------------------------------
+total time diff secs= 2 (500)
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for News-T
+evaluate total texts=11109
+homogeneity_score-whole-data:   0.95109639
+completeness_score-whole-data:   0.75921912
+v_measure_score-whole-data:   0.84439457
+nmi_score-whole-data:   0.84439457
+pred clusters=1010, true clusters=152
+acc majority whole data=0.9174543163201008
+
+pred clusters=1004, true clusters=152
+acc majority whole data=0.9174545454545454
+min 3 max 430 median 42.5 avg 72.36842105263158 std 75.65114113551962 sum of li 11000
+avg words per text 6.108818181818182 totalwords 67197 #texts 11000
+total time diff secs= 3
+total time diff secs= 3
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for News-T
+evaluate total texts=11109
+homogeneity_score-whole-data:   0.95109639
+completeness_score-whole-data:   0.75921912
+v_measure_score-whole-data:   0.84439457
+nmi_score-whole-data:   0.84439457
+pred clusters=1010, true clusters=152
+acc majority whole data=0.9174543163201008
+min 3 max 430 median 42.5 avg 73.08552631578948 std 75.71836489586006 sum of li 11109
+avg words per text 56.984337024034566 totalwords 633039 #texts 11109
+
+
+
+
+
+total time diff secs= 11 (500)
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for Tweets-T
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.95767084
+completeness_score-whole-data:   0.76684306
+v_measure_score-whole-data:   0.85169883
+nmi_score-whole-data:   0.85169883
+pred clusters=1716, true clusters=269
+acc majority whole data=0.9216080733460853
+
+pred clusters=1707, true clusters=269
+acc majority whole data=0.9209333333333334
+min 1 max 1397 median 62 avg 111.52416356877323 std 156.97222747201297 sum of li 30000
+avg words per text 7.8270333333333335 totalwords 234811 #texts 30000
+total time diff secs= 20
+total time diff secs= 20
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for Tweets-T
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.95767084
+completeness_score-whole-data:   0.76684306
+v_measure_score-whole-data:   0.85169883
+nmi_score-whole-data:   0.85169883
+pred clusters=1716, true clusters=269
+acc majority whole data=0.9216080733460853
+min 1 max 1628 median 64 avg 112.72118959107807 std 164.65407076496808 sum of li 30322
+avg words per text 72.77049666908515 totalwords 2206547 #texts 30322
+
+
+total time diff secs= 13 (1000)
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for Tweets-T
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.93022762
+completeness_score-whole-data:   0.78651594
+v_measure_score-whole-data:   0.85235660
+nmi_score-whole-data:   0.85235660
+pred clusters=1335, true clusters=269
+acc majority whole data=0.8777785106523316
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pred clusters=28233, true clusters=10573
+acc majority whole data=0.31029268292682927
+min 5 max 21 median 11 avg 11.633405845077084 std 3.29644382758024 sum of li 123000
+avg words per text 5.5789837398373985 totalwords 686215 #texts 123000
+total time diff secs= 202
+total time diff secs= 202
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for stackoverflow_large
+evaluate total texts=123339
+homogeneity_score-whole-data:   0.79550271
+completeness_score-whole-data:   0.75991323
+v_measure_score-whole-data:   0.77730081
+nmi_score-whole-data:   0.77730081
+pred clusters=28309, true clusters=10573
+acc majority whole data=0.3102425023715127
+min 6 max 21 median 11 avg 11.66546864655254 std 3.301356687533993 sum of li 123339
+avg words per text 54.530943172881244 totalwords 6725792 #texts 123339
+
+
+
+
+
+
+
+
+
+nmi_score-whole-data:   0.77767887
+pred clusters=34296, true clusters=10994
+acc majority whole data=0.4268170731707317
+min 1 max 1671 median 11.0 avg 14.91722757867928 std 32.58731237710376 sum of li 164000
+avg words per text 6.022085365853658 totalwords 987622 #texts 164000
+total time diff secs= 321
+4674
+preocess 164500 texts mean_c_size 3.2685066324347454 std_c_size 4.776628854924382
+preocess 164500 texts mean_c_id 32672.516474112108 std_c_id 2126.234242650216
+#list_del_cids 39 len(c_bitermsFreqs) 4674
+total time diff secs= 321
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for stackoverflow_large_tweets-T_news-T_suff
+evaluate total texts=164772
+homogeneity_score-whole-data:   0.82314108
+completeness_score-whole-data:   0.73653702
+v_measure_score-whole-data:   0.77743463
+nmi_score-whole-data:   0.77743463
+pred clusters=34391, true clusters=10994
+acc majority whole data=0.42643774427694026
+min 1 max 1677 median 11.0 avg 14.98744769874477 std 32.715201163001744 sum of li 164772
+avg words per text 58.00975893962566 totalwords 9558384 #texts 164772
+
+
+
+
+

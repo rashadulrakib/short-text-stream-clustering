@@ -1,0 +1,158 @@
+lucene-r-tag
+Similarity Algorithm: ClassicSimilarity
+Training time diff=10.611
+hitCount=1005	total=1419
+
+
+lucene-r-title
+Similarity Algorithm: ClassicSimilarity
+Training time diff=13.608
+hitCount=960	total=1419
+
+
+lucene-r-body
+Similarity Algorithm: ClassicSimilarity
+Training time diff=16.585
+hitCount=897	total=1419
+
+
+
+lucene-cplus-tag
+Similarity Algorithm: ClassicSimilarity
+Training time diff=54.959
+hitCount=1324	total=2081
+
+
+lucene-cplus-title
+Similarity Algorithm: ClassicSimilarity
+Training time diff=22.534
+hitCount=1242	total=2081
+
+
+lucene-cplus-body
+Similarity Algorithm: ClassicSimilarity
+Training time diff=126.353
+hitCount=1108	total=2081
+
+
+
+
+lucene-python-tag
+Similarity Algorithm: ClassicSimilarity
+Training time diff=29.574
+hitCount=2773	total=4055
+
+
+lucene-python-title
+Similarity Algorithm: ClassicSimilarity
+Training time diff=78.451
+hitCount=2602	total=4055
+
+
+lucene-python-body
+Similarity Algorithm: ClassicSimilarity
+Training time diff=133.697
+hitCount=2198	total=4055
+
+
+
+
+lucene-android-tag
+Similarity Algorithm: ClassicSimilarity
+Training time diff=22.028
+hitCount=2037	total=3202
+
+
+lucene-android-title
+Similarity Algorithm: ClassicSimilarity
+Training time diff=29.085
+hitCount=2225	total=3202
+
+
+
+lucene-android-body
+Similarity Algorithm: ClassicSimilarity
+Training time diff=83.19
+hitCount=1770	total=3202
+
+
+
+
+lucene-java-tag
+Similarity Algorithm: ClassicSimilarity
+Training time diff=56.856
+hitCount=2789	total=3831
+
+
+
+lucene-java-title
+Similarity Algorithm: ClassicSimilarity
+Training time diff=47.215
+hitCount=2448	total=3831
+
+
+
+lucene-java-body
+Similarity Algorithm: ClassicSimilarity
+Training time diff=219.943
+hitCount=2021	total=3831
+
+
+
+
+lucene-javascript-tag
+Similarity Algorithm: ClassicSimilarity
+Training time diff=82.133
+hitCount=1930	total=3140
+
+
+
+lucene-javascript-title
+Similarity Algorithm: ClassicSimilarity
+Training time diff=48.585
+hitCount=1970	total=3140
+
+
+
+lucene-javascript-body
+Similarity Algorithm: ClassicSimilarity
+Training time diff=58.752
+hitCount=1605	total=3140
+
+
+
+lucene-php-tag
+Similarity Algorithm: ClassicSimilarity
+Training time diff=28.247
+hitCount=1134	total=1681
+
+
+
+lucene-php-title
+Similarity Algorithm: ClassicSimilarity
+Training time diff=33.454
+hitCount=1124	total=1681
+
+
+
+lucene-php-body
+Similarity Algorithm: ClassicSimilarity
+Training time diff=44.367
+hitCount=939	total=1681
+
+
+lucene-csharp-tag
+Similarity Algorithm: ClassicSimilarity
+Training time diff=67.856
+hitCount=2249	total=3409
+
+
+lucene-csharp-title
+Similarity Algorithm: ClassicSimilarity
+Training time diff=43.567
+hitCount=2071	total=3409
+
+lucene-csharp-body
+Similarity Algorithm: ClassicSimilarity
+Training time diff=54.417
+hitCount=1847	total=3409

@@ -1,0 +1,2082 @@
+testpostId	trainPostId	TagSimilarity	TagHitRank	Proposed_hit_duration_micro	Proposed_TestTrueLabel	testText	trainText
+6549791	6551806	0	1	53056	1	c++ json pars boost boost-spirit	c++ json pars boost boost-spirit-qi
+23063520	51892382	0	1	50936	10	c++ vector stl	c++ c++14 language-lawy c++17
+61278669	61280032	0	1	59992	100	c++ c++11 templat metaprogram template-meta-program	c++ templat language-lawy template-templ
+16376942	32612190	0	1	53340	1000	c++ c perform sse memory-align	c++ c++11 sse memory-align avx
+38779944	43088282	0	1	40194	1001	c++ visual-studio-2015 static-librari linker-error	c++ visual-studio-2015
+33344259	33371684	0	1	54943	1002	c++ c++11 visual-c++ c++14 return-value-optim	c++ c++11 language-lawy c++14 c++03
+41470590	41582286	0	1	45623	1003	c++ visual-studio format	c++ visual-studio-2015 automated-refactor
+4508119	52127154	0	1	49989	1004	c++ c lua	c++ print lua lua-tabl
+41077828	41105621	0	1	46510	1008	c++ algorithm recurs bit-manipul time-complex	c++ algorithm perform recurs time-complex
+52303316	53651609	0	1	40746	1009	c++ c++17 c++-standard-librari	c++ visual-studio visual-studio-2017 c++17 variant
+29308174	37685434	0	1	49801	101	c++ c maco profil gprof	c++ maco profil profil gperftool
+29269124	32039711	0	1	52216	1010	c++ c++11 comparison-oper	c++ floating-point operator-overload comparison-oper
+33519285	33667049	0	1	49850	1011	c++ c unit-test state-machin	c++ c function-point dllexport
+2849832	21022436	0	1	51851	1012	c++ c c-preprocessor line-numb dynamic-compil	c++
+31291004	31396977	0	1	41737	1014	c++ inherit local standard facet	c++ inherit cast polymorph virtual-funct
+14676574	23970485	0	1	50451	1015	c++ c++11 language-lawy typetrait	c++ c++11 stl
+4769124	4769229	0	1	42440	1016	c++ heap destructor exit abort	c++ c unix destructor exit
+25487373	25740313	1	1	55209	1017	c++ c window synchron atom	c++ c window synchron atom
+4892108	7390126	0	1	47222	1018	c++ except stl stack	c++ c data-structur
+9243816	40179693	1	2.0	39422	1019	c++ mingw protocol-buff	c++ mingw protocol-buff
+52627048	52648687	0	1	42737	102	c++ matrix linear-algebra armadillo	c++ matrix linear-algebra algebra
+36696312	38847321	0	3.0	50659	1020	c++ c++11 rvalu	c++ move-semant overload
+3669315	30836009	0	3.0	54074	1021	c++ c++11 const-correct	c++ variabl const openmp
+15277480	15303398	1	8.0	39024	1022	c++ encapsul	c++ encapsul
+2429485	10465805	0	1	41704	1023	c++ boost-spirit eol boost-spirit-qi	c++ pars boost boost-spirit boost-spirit-qi
+6722643	34652792	1	26.0	37637	1024	c++	c++
+50381258	50401555	0	1	40157	1025	c++ initi global-vari constexpr	c++ initi global-vari language-lawy constexpr
+61653399	61676227	0	1	43466	1026	c++ raspberry-pi floating-point char alsa	c++ vector memcpi alsa
+18490942	18494218	0	1	49837	1027	c++ c calcul avr	c++ c microcontrol atmega16 avr-studio4
+980149	981400	0	4.0	42559	1028	c++ except exception-handl	c++ except visual-c++ exception-handl
+14170770	23984211	0	4.0	50829	1029	c++ qt qobject	c++ visual-studio-2010 qt user-interfac
+29179035	29179208	0	4.0	45339	103	c++ inherit polymorph	c++ c++11
+3541529	13014145	0	1	51613	1033	c++ qt path qt4 path-separ	c++ qt
+31512485	33534115	1	11.0	44157	1034	c++ cmake	c++ cmake
+3641737	14232814	0	5.0	40549	1035	c++ except try-catch	c++ except c++11
+48283026	49397233	0	5.0	44242	1036	c++ visual-studio-cod c++17	c++ visual-studio-cod c++17 vscode-set
+3560710	55098580	0	2.0	48502	1037	c++ visual-c++ winapi cursor	c++ window winapi windows-10
+48282811	48302501	1	1	49539	1038	c++ templat metaprogram forward-declar default-argu	c++ templat metaprogram forward-declar default-argu
+18666218	43348943	0	1	61705	1039	c++ templat pointer c++11 enable-if	c++ metaprogram typetrait
+14091203	14091855	0	5.0	41848	104	c++ variabl memory-address	c++ c computer-architectur memory-address
+7912595	19535644	0	1	50545	1040	c++ stl vector initi priority-queu	c++ stl
+46709752	46724902	0	1	53352	1041	c++ qt http ssl http-get	c++ qt http url http-get
+9223153	9223441	0	1	50748	1042	c++ templat inherit compiler-error private-inherit	c++ templat scope c++11 base-class
+11126547	11149134	1	14.0	46199	1043	c++ winapi	c++ winapi
+163962	390977	0	3.0	44083	1044	c++ unicod stl embed	c++ string unicod stl stream
+18701798	24088373	0	15.0	41761	1045	c++ template-meta-program	c++ list templat template-meta-program con
+3992874	5056645	0	6.0	41854	1046	c++ sort stdmap	c++ dictionari std
+5396413	5397616	0	16.0	48368	1047	c++ array	c++ string stl set remove-if
+893841	21590507	0	1	48644	1048	c++ xcode maco boost build	c++ xcode boost
+13954299	20232685	0	50.0	40134	1049	c++	c++ winapi consol
+59267797	59268030	0	3.0	47611	105	c++ templat typetrait invoke-result	c++ language-lawy incomplete-typ declval
+24688959	24706053	0	17.0	40882	1050	c++ move-constructor	c++ clang abstract-syntax-tre move-constructor
+11602136	40155440	0	7.0	51222	1051	c++ qt floating-point	c++ qt qset qlocal
+55955656	56408112	1	1	45694	1052	c++ visual-studio prolog ffi swi-prolog	c++ visual-studio prolog ffi swi-prolog
+9619774	10679416	0	18.0	37651	1053	c++ visual-c++-2010	c++ visual-studio-2010 instal symbolic-math symbolic-comput
+23377647	23389672	0	1	49603	1054	c++ c++11 rvalue-refer conversion-oper ref-qualifi	c++ c++11 implicit-convers move-semant explicit-convers
+20717180	24518517	0	1	54016	1055	c++ c++11 rvalue-refer rvalu xvalu	c++ oper express language-lawy
+5345803	29975918	0	3.0	43453	1056	c++ winapi gdi+ clsid	c++ visual-studio com uuid
+51951195	51954454	0	8.0	47538	1057	c++ boost argument-dependent-lookup	c++ overload
+21089553	21110352	1	1	39236	1058	c++ com atl bho mshtml	c++ com atl bho mshtml
+7811656	7910666	1	1	41590	1059	c++ malloc free dynamic-link ld-preload	c++ malloc free dynamic-link ld-preload
+4129430	4163639	0	4.0	55828	106	c++ window qt automated-test	c++ unit-test user-interfac qt
+4571355	51095742	0	9.0	41183	1060	c++ nest inner-class	c++ inherit friend
+308364	24765685	0	21.0	37829	1061	c++ bit-field	c++ struct pragma bit-field pack
+22852717	22898881	0	21.0	43546	1062	c++ opencv	c++ opencv image-process
+2860722	3983131	0	9.0	42764	1063	c++ regex linker-error	c++ regex gcc tr1
+29762813	29762892	0	9.0	52040	1064	c++ c++11 sfina	c++ templat c++11 sfina
+36749923	39920813	0	9.0	46925	1065	c++ opencv feature-detect	c++ perform opencv
+20114685	52067502	0	69.0	37286	1066	c++	c++ name-lookup
+4764048	4836344	0	4.0	47347	1067	c++ linux gcc shared-librari	c++ debug stl g++
+24013832	33810187	0	4.0	53394	1068	c++ c math for-loop	c++ multithread openmp
+104952	307478	0	4.0	39122	1069	c++ compiler-construct visual-studio-2005 code-coverag	c++ window visual-studio-2005 code-coverag dead-cod
+35586426	35587137	0	24.0	45126	107	c++ gcc	c++ gcc macro
+61869567	61873532	0	4.0	40276	1070	c++ visual-studio-cod configur std	c++ debug visual-studio-cod
+32551089	32552353	0	5.0	49368	1071	c++ linux window perform	c++ window api ntf
+40544480	40553609	0	2.0	55114	1072	c++ c++11 lambda c++14 stdthread	c++ c++11 stdthread stdatom
+2847410	2847734	0	11.0	58688	1073	c++ c c++11	c++ c++11 standards-compli
+2978096	2981724	1	26.0	47566	1074	c++ boost	c++ boost
+49590038	52581857	0	11.0	42985	1075	c++ maco cmake	c++ gcc macos-mojav
+8433421	14857597	0	11.0	51023	1076	c++ random c++11	c++ random c++11 standard-librari
+56598489	56649481	0	2.0	49847	1078	c++ templat overload enable-if template-vari	c++ templat visual-studio-2017 function-point template-vari
+31301369	33500320	0	2.0	43331	1079	c++ g++ c++14 clang++ icc	c++ c++14 auto c++17 list-initi
+40566994	40570886	0	5.0	45156	108	c++ algorithm time-complex line-intersect	c++ geometri line-intersect
+30886056	30977618	0	12.0	40377	1080	c++ optim openmp	c++ multithread optim openmp
+38487653	40414721	0	85.0	40162	1081	c++	c++ string iostream fstream
+7646512	26341494	0	28.0	39808	1082	c++ number	c++ c++11 floating-point floating-point-convers
+14368525	15181579	0	29.0	52252	1083	c++ c++11	c++ variabl if-stat comparison
+5123361	36634632	1	29.0	40109	109	c++ maco	c++ maco
+642213	9743485	0	12.0	43691	1092	c++ sort natural-sort	c++ c linux sort directori
+7492180	7500902	0	90.0	37233	1093	c++	c++ c window posix
+33860576	35558178	0	13.0	41281	1094	c++ direct3d direct3d11	c++ 3d directx-11 spritefont
+1092561	4537581	0	2.0	46690	1095	c++ perform list stl return-valu	c++ templat iter
+19442400	26670147	0	13.0	52626	1096	c++ qt extern	c++ qt
+35553999	35572515	0	3.0	49799	1097	c++ window visual-c++ encod fget	c++ window visual-c++
+2897317	3091484	0	6.0	42845	1098	c++ xml except xerc	c++ window xerc
+35901417	35902965	0	13.0	55074	11	c++ c++11 vector	c++ c++11 vector language-lawy alloc
+8071851	8081919	0	3.0	54235	110	c++ window linux gcc benchmark	c++ window linux perform benchmark
+53151044	53151521	0	3.0	40122	111	c++ language-lawy union strict-alias class-memb	c++ language-lawy strict-alias class-memb
+14738335	28955478	0	3.0	51644	1119	c++ c++11 lambda llvm clang	c++ c++11 lambda type-deduct
+17497801	17543093	1	14.0	52774	112	c++ c++11 move-semant	c++ c++11 move-semant
+25046418	25047109	0	6.0	46451	1120	c++ templat switch-stat implicit-convers	c++ c++11 language-lawy implicit-convers c++14
+2506167	9526096	0	34.0	42891	1121	c++ macro	c++ boost c-preprocessor
+26845249	26876967	1	103.0	37067	1122	c++	c++
+41463005	51423426	0	14.0	54789	1123	c++ array c++11	c++ array c++11 reinterpret-cast stdarray
+30781811	30976131	0	3.0	62478	1124	c++ c++11 boost stl c++14	c++ templat c++11 boost c++14
+2770474	2771016	0	3.0	56398	1125	c++ templat c++11 variadic-funct variad	c++ language-design c++11
+22041699	42095280	0	35.0	46733	1126	c++ opencv	c++ opencv geometri
+15826893	15932767	0	3.0	42220	1129	c++ visual-studio-2012 visual-studio-2013 qt5 directx-11	c++ qt visual-studio-2012 qt5
+13565594	13567029	0	7.0	51308	113	c++ constructor c++11 move-semant	c++ copy-constructor move-constructor
+9863610	36896140	0	3.0	49962	1131	c++ linux g++ profil shared-librari	c++ c perl macro profil
+43105753	43106069	0	3.0	52372	1132	c++ qt format qt5 qimag	c++ qt format qt5 qtmultimedia
+43558745	43562870	1	37.0	45983	1133	c++ opengl	c++ opengl
+6783939	6784152	0	16.0	40744	1134	c++ memory-leak refer	c++ memory-leak
+6858524	19715144	0	16.0	51937	1135	c++ c string	c++ visual-c++ visual-studio-2012
+8169243	10213071	0	116.0	40631	1136	c++	c++ option getopt
+57441890	62091548	0	7.0	42140	1137	c++ cuda gpu atom	c++ cuda
+26519082	39966190	0	39.0	41940	1138	c++ floating-point	c++ floating-point fmod
+10454150	16033266	1	7.0	42036	1139	c++ perform simd avx	c++ perform simd avx
+48167985	48223804	0	8.0	43993	114	c++ memory-leak windows-7 qt5	c++ windows-7 qt5 smart-point qvector
+13295089	14472359	1	17.0	51029	1140	c++ c++11 constexpr	c++ c++11 constexpr
+44960715	44977868	0	8.0	46482	1141	c++ cmake visual-studio-2017 c++17	c++ cmake c++17
+16032789	16063402	0	17.0	46121	1142	c++ window driver	c++ c window driver
+28405921	28408195	1	17.0	49808	1143	c++ templat overload-resolut	c++ templat overload-resolut
+50897768	50898954	0	8.0	49243	1144	c++ multithread visual-studio memory-leak	c++ concurr stl cntk
+58508771	59884174	1	8.0	46170	1145	c++ winapi readdirectorychangesw getoverlappedresult	c++ winapi readdirectorychangesw getoverlappedresult
+22746429	28918861	0	18.0	38823	1146	c++ binari decim	c++
+2663170	37639386	0	8.0	47852	1147	c++ stl vector capac	c++ vector
+5633784	11177580	0	18.0	42219	1148	c++ enum istream	c++ templat enum iostream
+1459865	2925279	0	18.0	38853	1149	c++ com iwebbrowser2	c++ internet-explor com iwebbrowser2
+58390998	58392330	0	18.0	39736	115	c++ clang libc++	c++
+30993211	34644101	0	18.0	47141	1151	c++ opencv computer-vis	c++ opencv depth normal cross-product
+27041788	27490165	0	8.0	43338	1152	c++ gcc extern solaris-studio	c++ gcc solari sunstudio
+1875830	1876179	1	44.0	51272	1153	c++ qt	c++ qt
+49289854	51834198	0	19.0	42186	1154	c++ clr linker-error	c++ unit-test visual-studio-2010 std
+14730156	14730534	0	45.0	41301	1155	c++ refer	c++ refer undefined-behavior language-lawy
+61120228	61143922	0	4.0	50089	1156	c++ array arduino char arduino-uno	c++ c arduino
+1613494	2259544	0	19.0	54757	1157	c++ c window	c++ c unicod
+10002082	10009132	0	19.0	42993	1158	c++ cast virtual	c++ visual-c++ gcc
+35701888	35893826	0	9.0	48643	1159	c++ templat paramet variadic-templ	c++ recurs tupl c++14 metaprogram
+32700265	32730915	0	4.0	46548	116	c++ class scope global-vari multifil	c++ class struct scope multifil
+41197021	41197139	0	142.0	37245	1160	c++	c++ decim
+21143275	21143835	0	20.0	42019	1161	c++ type static-method	c++ c++11
+18182016	21356302	0	20.0	49181	1162	c++ window opengl	c++ game-phys directx-9
+15444418	15444503	0	48.0	41411	1163	c++ c++builder	c++ winapi com c++builder void-point
+3726326	4234120	0	4.0	41290	1164	c++ optim avr bit-shift atmega	c++ c perform cpu low-level
+14457724	21480235	0	4.0	56205	1165	c++ visual-studio-2010 qt macro intellisens	c++ visual-studio visual-c++ intellisens
+6123327	7254131	0	21.0	44604	1166	c++ boost boost-opt	c++ boost stl
+15704276	15768405	0	21.0	41094	1167	c++ wav qt4.8	c++ c visual-studio-2010
+41720249	41723704	0	150.0	37222	1168	c++	c++ c++17
+7116610	7117069	1	21.0	46153	1169	c++ templat partial-speci	c++ templat partial-speci
+13586957	41628620	1	50.0	40679	117	c++ vcg	c++ vcg
+30385900	39590272	0	10.0	52286	1170	c++ c++11 operator-overload implicit-convers	c++ function c++11 implicit-convers std-function
+27564257	27662074	0	10.0	40785	1171	c++ python-c-api new-style-class pycxx	c++ initi python-c-api new-style-class pycxx
+31814451	31866822	0	10.0	45371	1172	c++ opencv mat freeimag	c++ opencv depth freeimag
+33855611	33857489	0	5.0	57174	1173	c++ c++11 cmake segmentation-fault shared-ptr	c++ c++11 gcc shared-ptr glut
+1693634	1694785	0	5.0	39613	1174	c++ linker-error undefined-refer vtabl pure-virtu	c++
+34836104	34904049	0	52.0	52229	1175	c++ c++11	c++ sort c++11 metaprogram c++14
+48273253	48341888	0	5.0	52243	1176	c++ c++11 language-lawy undefined-behavior reinterpret-cast	c++ language-lawy
+21185634	49059675	0	22.0	41708	1177	c++ contain api-design	c++ c++11 c++14 c++-standard-librari
+4807286	22654422	0	5.0	56202	1179	c++ visual-c++ c++11 shared-ptr smart-point	c++ c++11 stl shared-ptr smart-point
+30110297	38466574	0	23.0	46642	118	c++ winapi c++builder	c++ c++builder
+10578359	10579544	0	163.0	37828	1180	c++	c++ gcc
+5355163	8230786	0	23.0	42889	1181	c++ binari iostream	c++ text iostream binary-data
+33280217	33283275	0	23.0	48557	1183	c++ algorithm vector	c++ algorithm lambda language-lawy sequenti
+46961749	46980595	0	5.0	44961	1184	c++ visual-studio-2010 global-vari const static-assert	c++ comparison rvalu lvalu lvalue-to-rvalu
+21867222	49428082	1	23.0	46233	1185	c++ boost boost-graph	c++ boost boost-graph
+1212797	1213265	0	11.0	43251	1186	c++ memory-manag heap-memori stack-memori	c++ c memory-manag heap-memori stack-memori
+33854388	38953523	0	5.0	54611	1187	c++ c++11 lambda c++14 decltyp	c++ lambda refer compiler-error const
+24155026	24155571	0	11.0	57016	1188	c++ gcc c++11 constructor	c++ c++11
+38021595	46437172	0	11.0	40851	1189	c++ debug gdb debian	c++ linux debug gdb alpin
+29603018	29654457	1	24.0	52608	119	c++ qt qtmultimedia	c++ qt qtmultimedia
+21936507	36227436	0	24.0	54182	1190	c++ c++11 stl	c++ templat g++ clang++ compiler-opt
+4385806	4396754	0	11.0	52623	1191	c++ window visual-studio dll	c++ dll manifest dllimport
+48131712	55087826	0	11.0	40892	1192	c++ cast variadic-templ variadic-funct	c++ lambda variadic-templ perfect-forward
+55045367	55090524	0	5.0	51630	1193	c++ templat polymorph c++17 factori	c++ templat c++17 variadic-templ template-meta-program
+25915607	25958491	0	25.0	39250	1194	c++ ubuntu-14.04 point-cloud-librari	c++ ubuntu-12.04 ubuntu-14.04 point-cloud-librari point-cloud
+29135201	42184288	0	11.0	51188	1195	c++ c++11 c++14 data-oriented-design	c++ templat generic-program memory-layout memory-access
+5957134	27039019	0	11.0	53945	1196	c++ c build cmake	c++ xcode ide cmake header-fil
+11833571	11860703	0	180.0	37263	1197	c++	c++ x87
+19269345	33553265	0	12.0	53666	1198	c++ c++11 stl visual-studio-2013	c++ visual-studio c++11 visual-studio-2013
+39620802	39621098	0	12.0	43108	1199	c++ type enum size	c++ type enum language-lawy
+5109687	5109720	0	12.0	59488	12	c++ c c++11 pthread	c++ c standard-librari
+50892964	52903503	0	26.0	46666	1200	c++ opengl math	c++ opengl
+51282912	51284346	0	61.0	47517	1201	c++ templat	c++ templat language-lawy
+840081	5541975	0	12.0	52170	1202	c++ c floating-point printf	c++ visual-studio-2010 visual-c++
+6969465	6969584	1	26.0	46613	1203	c++ pointer if-stat	c++ pointer if-stat
+17862383	17920081	0	12.0	51448	1204	c++ c html-pars tar	c++ html-pars tar
+11833070	15530460	0	12.0	50933	1205	c++ c++11 portabl correct	c++ c++11 std ref
+45990714	45991094	0	27.0	45383	1206	c++ operator-overload fstream	c++
+14412846	14493978	0	6.0	48931	1207	c++ sort templat select template-argument-deduct	c++ sort c++11 time-complex insertion-sort
+48835628	49057387	0	6.0	50700	1209	c++ templat method lambda metaprogram	c++ templat lambda sfina return-typ
+9848423	16813653	0	64.0	37966	1210	c++ msdn	c++ winapi mous msdn
+822750	8985548	0	27.0	46746	1211	c++ visual-studio-2008 opengl	c++ visual-studio-2008 opengl glut
+17204487	17221668	0	13.0	50927	1212	c++ c++11 rtti typeid	c++ c++11 destructor virtual-funct
+46960015	46960774	0	28.0	41062	1213	c++ dynamic-alloc strict-alias	c++ malloc language-lawy strict-alias object-lifetim
+5541256	5542443	1	28.0	46756	1214	c++ window com	c++ window com
+46435719	50833730	0	66.0	49235	1215	c++ boost	c++ boost-asio boost-coroutin
+23629126	23654693	0	28.0	49419	1216	c++ c precis	c++ c floating-point precis floating-point-precis
+8427691	23122555	0	13.0	47927	1217	c++ stl vector erase-remove-idiom	c++ vector index iter remove-if
+229924	11981434	1	28.0	52079	1218	c++ c file-io	c++ c file-io
+511768	40273809	0	28.0	38994	1219	c++ log stream	c++ c++11 log iostream
+59437118	59464455	1	29.0	52672	122	c++ qt qt3d	c++ qt qt3d
+33343188	33410494	0	13.0	38104	1220	c++ bluetooth bluetooth-lowenergi mbed	c++ templat
+1047200	9912873	0	29.0	42017	1221	c++ bitmap ffmpeg	c++ ffmpeg
+4242469	32288601	0	13.0	58858	1222	c++ c window winapi	c++ window dll loadlibrari
+18648069	42649007	0	6.0	55136	1223	c++ c++11 g++ assert constexpr	c++ c++11 visual-c++ visual-studio-2015 static-assert
+728233	11739804	0	13.0	46764	1224	c++ pointer refer language-design	c++ refer
+1666802	23230003	0	69.0	42517	1225	c++ macro	c++ gcc macro
+8424303	8424672	1	70.0	44536	1226	c++ visual-c++	c++ visual-c++
+2268478	16511925	0	70.0	47730	1227	c++ window	c++ visual-studio
+14578711	14582270	0	14.0	55131	1228	c++ c opencv video-process	c++ opencv contour
+33852194	33881027	0	14.0	42822	1229	c++ textur sfml isometr	c++ math coordin isometr
+50261793	51372040	0	71.0	45204	123	c++ opencv	c++ visual-studio opencv mat
+21400254	42979325	0	14.0	52818	1230	c++ qt render qr-code	c++ qt cross-platform render qr-code
+4276493	26611481	0	30.0	39091	1231	c++ coding-styl includ	c++ c++11
+6358375	23890539	0	14.0	49568	1232	c++ c parallel-process openmp	c++ c multithread parallel-process openmp
+8891746	9472616	0	14.0	51469	1233	c++ visual-studio visual-studio-2010 visual-c++	c++ window visual-studio dll
+46334463	47191531	0	14.0	46213	1234	c++ boost boost-spirit boost-spirit-qi	c++ boost boost-spirit boost-spirit-qi boost-spirit-lex
+21556868	24414707	0	7.0	47789	1235	c++ maco gcc gdb homebrew	c++ maco gdb llvm-clang gcc4.8
+46737054	50629016	0	7.0	53394	1236	c++ c++11 constructor contain unique-ptr	c++
+6850807	56050322	0	74.0	40860	1237	c++ valarray	c++ optim valarray
+1607748	1608733	1	31.0	47532	1238	c++ templat decor	c++ templat decor
+61376375	61599629	1	74.0	46295	1239	c++ winapi	c++ winapi
+53407371	53429108	0	32.0	50834	124	c++ c++11 one-definition-rul	c++ language-lawy c++17
+19841328	19864735	0	15.0	42311	1240	c++ qml qobject qlist	c++ qml
+49317541	49325813	0	32.0	49973	1241	c++ window winapi	c++ window winapi c++17
+1969579	13287963	0	15.0	51578	1242	c++ window multithread dll-inject	c++ multithread c++11
+1274022	15763088	0	76.0	49677	1243	c++ qt	c++ qt size sizeof qobject
+17711655	21792347	0	76.0	49304	1244	c++ c++11	c++ c++11 foreach unused-vari
+43550191	43550249	0	15.0	44459	1245	c++ struct includ circular-depend	c++ parallel-process openmp reduc
+13141542	13141776	0	33.0	38682	1246	c++ binari decim	c++ standard ascii
+6240894	12639578	0	15.0	51402	1247	c++ lambda c++11 return-typ	c++ visual-c++ lambda c++11 visual-studio-2012
+8640351	8640644	0	15.0	49044	1248	c++ window mingw lapack	c++ except mingw fortran lapack
+17012941	28100863	0	15.0	39632	1249	c++ pars boost-spirit expression-evalu	c++ boost boost-spirit boost-bind boost-funct
+27977851	27979067	0	15.0	47899	125	c++ boost xml-pars boost-propertytre	c++ boost xml-pars
+7038797	16549631	0	33.0	47973	1250	c++ templat template-meta-program	c++ c conditional-oper constant-express
+16826585	17220872	0	7.0	48017	1251	c++ gcc compiler-construct g++ libstdc++	c++ linux gcc g++ libstdc++
+12049352	21693841	0	34.0	48290	1252	c++ algorithm vector	c++ algorithm opencv image-process computer-vis
+27821106	27826117	0	7.0	55117	1254	c++ c++11 lambda template-meta-program trampolin	c++ c++11 trampolin
+20632860	32801638	0	34.0	42554	1256	c++ visual-studio-2012 cmake	c++ visual-studio gcc cmake visual-studio-2015
+927574	6228112	0	34.0	46632	1257	c++ visual-studio compil	c++ visual-c++
+18383698	18408363	0	34.0	45121	1258	c++ winapi posix	c++ c multithread socket linux-kernel
+4752028	4753977	0	16.0	54619	1259	c++ c algorithm search	c++ c algorithm sort optim
+49117489	49227571	0	35.0	41160	126	c++ refer const	c++
+43811345	43864080	1	35.0	53228	1260	c++ qt qml	c++ qt qml
+9482912	17334786	0	8.0	40482	1261	c++ maco screenshot quartz-graph xvfb	c++ maco opengl screenshot
+29561852	46082394	0	16.0	48291	1262	c++ xml boost boost-propertytre	c++ boost move-semant boost-multi-index
+56603575	56661801	0	8.0	51403	1263	c++ visual-studio boost cmake b2	c++ window boost
+24286173	28606941	0	8.0	46232	1264	c++ inherit polymorph overrid virtual-funct	c++ inherit overrid virtual
+16468189	35019687	0	36.0	40009	1265	c++ language-lawy libc++	c++ libstdc++ c++-standard-librari libc++
+16214768	22016259	0	36.0	44840	1266	c++ window usb	c++ window winapi message-queu
+3615724	5393997	0	36.0	44439	1267	c++ debug floating-point	c++ gdb floating-point nan
+3440984	3441608	0	36.0	48019	1268	c++ boost operator-overload	c++ valid map
+2709124	4037525	1	36.0	43000	1269	c++ event wxwidget	c++ event wxwidget
+32504150	37458778	0	8.0	38420	127	c++ winform infragist microsoft-ui-autom msaa	c++ internet-explor debug com ui-autom
+42762424	44468507	0	8.0	45437	1270	c++ visual-studio cmake cross-platform windows-subsystem-for-linux	c++ visual-studio cmake windows-subsystem-for-linux
+22942255	22951378	0	17.0	57383	1271	c++ c++11 boost pool	c++ memory-manag c++11 boost pool
+7937602	20145132	0	17.0	53047	1272	c++ c linux ubuntu	c++ makefil
+33254054	33263734	0	17.0	53598	1273	c++ qt user-interfac crypto++	c++ qt visual-studio-2013 releas crypto++
+5386477	5386904	0	262.0	37335	1274	c++	c++ visual-studio
+17400137	28465121	0	8.0	53014	1275	c++ c++11 sequenc increment undefined-behavior	c++ language-lawy undefined-behavior c++03 sequence-point
+39354086	39396028	1	37.0	48115	1276	c++ boost boost-geometri	c++ boost boost-geometri
+8945327	8948443	0	88.0	37902	1277	c++ dynamic-librari	c++ standard linkag
+23892018	23970565	0	8.0	50921	1278	c++ c++11 language-lawy rvalue-refer object-lifetim	c++ c++11 language-lawy object-lifetim
+49839428	49870730	0	17.0	46582	1279	c++ anim opengl glut	c++ opengl glut
+2287731	2288291	0	38.0	45638	128	c++ string char	c++ c memory-manag const-correct
+55344174	55379852	0	17.0	47752	1280	c++ linux file mmap	c++ linux perform cin mmap
+3439589	47906066	1	90.0	44291	1281	c++ winapi	c++ winapi
+35160909	43809751	0	8.0	50058	1284	c++ qt gener model qtquick2	c++ qt qml qabstractitemmodel
+15235857	40409323	0	272.0	40405	1285	c++	c++ c++14 constexpr compile-tim c++17
+25893828	33323701	0	8.0	58480	1286	c++ templat c++11 variadic-templ template-templ	c++ templat type
+20583531	36349360	0	18.0	53326	1287	c++ c++11 move-semant rvalue-refer	c++
+32957830	32997699	0	8.0	50579	1288	c++ templat constructor c++14 variadic-templ	c++ templat c++14
+51883017	51885516	0	39.0	51019	129	c++ class pointer	c++ array vector c++17
+50362849	59601840	0	9.0	45196	1290	c++ multithread std stdthread perfect-forward	c++ c++11 move stdthread
+4567875	4568057	0	9.0	49334	1291	c++ imag winapi png gdi	c++ imag png gdi stretchdibit
+2043381	2128307	0	281.0	37334	1292	c++	c++ aggreg pod
+6168107	19795038	0	18.0	49981	1293	c++ c debug log	c++ visual-studio c-preprocessor preprocessor-direct
+5656664	6936124	0	18.0	48315	1294	c++ class refer const	c++ constructor const
+6322245	6322364	0	9.0	60004	1295	c++ boost stl c++11 shared-ptr	c++ boost stl overload shared-ptr
+145573	5813954	0	19.0	48344	1296	c++ window autom ms-word	c++ ms-word openxml openoffice.org openxml-sdk
+5797837	5846934	0	40.0	50120	1297	c++ string vector	c++ vector execvp
+34602748	34602933	0	95.0	40953	1298	c++ variable-initi	c++ language-lawy copy-constructor value-initi
+49793818	49800593	0	96.0	41505	13	c++ refer	c++ const-cast
+55502417	55502720	1	96.0	43778	130	c++ c++17	c++ c++17
+16773789	21268558	0	9.0	59889	1301	c++ window visual-studio qt qt5	c++ qt dll platform
+17440810	20813138	0	41.0	50804	1302	c++ visual-studio boost	c++ boost visual-studio-2013
+40039303	57964217	0	19.0	40980	1303	c++ option c++17 idiomat	c++ c++17 option
+8453546	8681001	0	9.0	42557	1304	c++ unicod character-encod iostream icu	c++ iostream icu codecvt
+28489762	28500533	0	19.0	39162	1305	c++ plugin binari system	c++ dynam dll plugin boundari
+11826554	11832960	0	98.0	41903	1306	c++ iostream	c++
+1935964	1963241	0	9.0	47242	1307	c++ window com atl windows-media-play	c++ window com directshow
+23454793	23455104	0	42.0	56452	1308	c++ multithread c++11	c++ multithread c++11 asynchron std
+27342524	27346593	0	19.0	45602	1309	c++ boost boost-build b2	c++ boost boost-ptr-contain
+41124382	41128744	0	42.0	41881	131	c++ while-loop condit	c++ runtim special argument-dependent-lookup function-templ
+41448626	48666549	0	9.0	52698	1310	c++ c++11 stream std aws-sdk	c++ amazon-web-servic amazon-s3
+11486622	11494403	0	20.0	44939	1311	c++ memory-manag private-memb data-protect	c++ cast c++11 access-control private-method
+684475	53854468	0	20.0	47625	1312	c++ collect vector map	c++ stdvector stdmap c++-standard-librari std-pair
+179723	1176131	0	20.0	43378	1313	c++ debug assert debugbreak	c++ design-by-contract
+36992039	36992569	0	9.0	44713	1314	c++ function argument language-lawy object-lifetim	c++ function paramet language-lawy object-lifetim
+5988686	14080932	1	101.0	46136	1315	c++ opengl	c++ opengl
+2940367	32907258	0	43.0	50950	1316	c++ c optim	c++ perform optim floating-point g++
+23622622	23644729	0	9.0	49218	1317	c++ regex string char wchar	c++ regex char wchar-t
+10607215	10610307	0	44.0	38909	1318	c++ tbb icc	c++ templat stl functor boost-bind
+44593991	44629448	1	103.0	40921	1319	c++ ns-3	c++ ns-3
+31794709	49826523	1	44.0	39942	132	c++ bitwise-oper bit-shift	c++ bitwise-oper bit-shift
+37969114	37976395	0	10.0	44592	1322	c++ cast refer rvalu static-cast	c++ visual-studio c++11 cast visual-studio-2015
+6105994	44267673	0	20.0	48586	1323	c++ templat metaprogram template-meta-program	c++ language-lawy metaprogram c++17
+954945	3543835	0	104.0	41143	1324	c++ thrift	c++ multithread threadpool nonblock thrift
+18552029	18589140	0	104.0	44731	1325	c++ linux	c++ linux multithread
+24622472	24623071	0	105.0	40980	1326	c++ most-vexing-pars	c++ compiler-error express declar language-lawy
+43192898	43283029	0	45.0	41197	1327	c++ boost-asio asio	c++ boost boost-asio
+13576055	20828907	0	10.0	52797	1328	c++ c++11 user-defined-funct default-constructor deleted-funct	c++ c++11
+235386	235664	0	45.0	39112	1329	c++ floating-point nan	c++ visual-c++ floating-point nan
+34792403	34793392	0	10.0	53876	133	c++ string c++11 constexpr typetrait	c++ c++11 language-lawy constexpr auto
+32534940	32535874	0	45.0	51066	1330	c++ array algorithm	c++ array
+10724783	15586163	0	10.0	52088	1331	c++ enum c++11 metaprogram typetrait	c++ templat c++11 variad variadic-funct
+2388196	2392932	0	21.0	44743	1332	c++ perform optim sparse-matrix	c++ optim floating-point sparse-matrix
+6873138	39648419	0	323.0	37426	1333	c++	c++ templat template-meta-program
+28521188	34616086	0	10.0	51043	1335	c++ c language-lawy strict-alias type-pun	c++ c struct union type-pun
+7443222	8188401	0	108.0	41078	1336	c++ refactor	c++ warn
+11996801	38277815	0	21.0	51264	1337	c++ qt button titlebar	c++ visual-studio debug mfc crash-dump
+14915752	45539945	1	21.0	60721	134	c++ c window winapi	c++ c window winapi
+23621677	44182049	0	109.0	44817	1340	c++ pointer	c++ c++11 pointer c++14
+57438217	57444893	0	10.0	45503	1341	c++ c++14 auto type-deduct decltype-auto	c++ c++17 auto copy-elis decltype-auto
+19427196	48533080	0	10.0	52688	1342	c++ c++11 rvalue-refer c++17 return-type-deduct	c++ c++11 stdtupl c++17 list-initi
+15232758	15248944	0	10.0	60122	1343	c++ templat c++11 sfina constexpr	c++ templat language-lawy sfina
+15756960	51015016	0	10.0	50782	1344	c++ c++11 smart-point unique-ptr gcc4.7	c++ templat g++ ubuntu-16.04 unique-ptr
+11759725	29845527	0	22.0	48927	1345	c++ window memory-leak openssl	c++ window memory-leak openssl static-librari
+1804840	14503620	1	111.0	39120	1346	c++ enum	c++ enum
+25694780	49214277	0	47.0	45388	1347	c++ std c++14	c++ c++14
+17113619	43019598	0	48.0	54827	1348	c++ multithread c++11	c++ multithread lock c++17
+290034	7282853	0	10.0	42532	1349	c++ unit-test depend precompiled-head stdafx.h	c++ visual-c++ precompiled-head
+15392553	15410833	0	112.0	47619	135	c++ templat	c++ templat com clsid
+256109	289909	0	22.0	48678	1350	c++ visual-studio-2008 boost instal	c++ boost bjam
+49921271	58476766	0	10.0	43196	1351	c++ language-lawy c++17 cin c++-standard-librari	c++ do-whil verif
+8274451	33418029	0	22.0	50345	1352	c++ c++11 unique-ptr delete-oper	c++ templat inherit constructor
+14570347	17980387	0	48.0	41322	1353	c++ exc-bad-access mysql-connector	c++ mysql crash exc-bad-access
+34277737	54417757	0	22.0	51683	1354	c++ c++11 smart-point stdbind	c++ c++11 c++-standard-librari
+4671900	42717962	0	11.0	50405	1355	c++ window debug gdb mingw	c++ c g++ visual-studio-cod vscode-set
+37311006	40590216	0	11.0	43266	1356	c++ reflect iter iter c-preprocessor	c++ c struct
+44329583	44330470	0	23.0	41536	1357	c++ superclass subclass idiomat	c++ cast polymorph
+23970532	24457112	0	11.0	58980	1358	c++ templat if-stat c++11 typetrait	c++ templat c++11 lambda
+7526853	31274869	0	116.0	41530	1359	c++ std-function	c++ c++11 lambda variadic-templ std-function
+35315472	35315826	0	116.0	39942	136	c++ rvalue-refer	c++ c++11 language-lawy undefined-behavior rvalue-refer
+54188	8290768	0	50.0	48044	1360	c++ multithread synchron	c++ multithread thread-safeti commun visual-c++
+42317398	43018537	0	23.0	48671	1361	c++ visual-studio opencv nuget	c++ visual-studio opencv
+18799904	19325552	0	23.0	56922	137	c++ c window gtk	c++ c window gcc gtk
+8838095	8847504	0	50.0	39045	138	c++ matlab matlab-engin	c++ iter matlab-engin
+61004055	61004727	0	50.0	45416	139	c++ c++17 language-lawy	c++ return c++17 language-lawy
+6800824	6801843	0	118.0	38650	14	c++ pass-by-refer	c++ templat refer
+4972470	4973077	0	118.0	46122	140	c++ stl	c++ algorithm stl big-o permut
+40089204	44034633	0	11.0	39995	142	c++ unit-test googletest googlemock expect	c++ unit-test googletest gmock googlemock
+16701108	19126671	0	51.0	49610	143	c++ c++11 lazy-evalu	c++ c++11 case-studi
+60387132	60472257	0	51.0	47943	144	c++ boost boost-hana	c++ templat language-lawy copy-constructor constant-express
+4483366	4532263	0	11.0	53990	1445	c++ c linux webcam devic	c++ c maco webcam devic
+31221990	31224886	0	24.0	45477	1446	c++ language-lawy c++14 using-declar	c++ declar language-lawy using-declar
+3172571	3172699	0	120.0	46003	1447	c++ vector	c++ memori vector
+37513384	37515821	0	121.0	40981	1448	c++ extern-c	c++ visual-c++ inlin extern-c
+40040998	40828845	1	24.0	41281	1449	c++ mongodb visual-studio-2015 mongo-cxx-driv	c++ mongodb visual-studio-2015 mongo-cxx-driv
+59430481	59431398	1	121.0	52710	145	c++ c++11	c++ c++11
+34670375	34672441	0	24.0	49017	1451	c++ templat inherit template-speci	c++ templat c++11
+26663	153559	0	52.0	44461	1452	c++ perform profil	c++ window perform profil
+1625105	8449036	0	52.0	48263	1454	c++ templat typetrait	c++ templat incomplete-typ template-argument-deduct
+22821651	22832888	0	52.0	46981	1455	c++ perform gcc	c++ optim c++11 visitor c++-standard-librari
+9746748	9747406	0	24.0	51451	1456	c++ c++11 move-semant move-assignment-oper	c++ c++11 language-lawy move-semant
+3317740	16592357	0	124.0	42170	1458	c++ iostream	c++ istream
+26764813	26785787	0	53.0	48027	1459	c++ xml boost	c++ xml boost boost-propertytre
+44750040	44764944	1	12.0	54166	146	c++ c++11 variadic-templ template-speci variadic-funct	c++ c++11 variadic-templ template-speci variadic-funct
+229069	4813947	0	12.0	38415	1460	c++ autom static-analysi legacy-cod dead-cod	c++ optim dead-cod
+3571250	10932473	0	125.0	42356	1461	c++ mingw	c++ unicod mingw codeblock wmain
+21900237	57318275	0	12.0	54633	1462	c++ c++11 constructor const language-lawy	c++ c++11 language-lawy
+51930334	51931979	0	25.0	54237	1463	c++ c++11 c++14 strict-alias	c++ cast language-lawy strict-alias
+52038186	52039886	0	54.0	55625	1464	c++ c++11 pointer	c++ language-lawy reinterpret-cast
+57959602	58007793	0	54.0	50224	1465	c++ visual-studio opencv	c++ opencv cmake illegal-instruct
+4158900	4864866	0	12.0	51914	1466	c++ c gcc resourc embedded-resourc	c++ linux gcc shared-librari elf
+3661041	3661106	0	25.0	48196	1467	c++ window pipe parent-child	c++ window redirect
+23356308	23384840	0	25.0	44415	1468	c++ multithread parallel-process tbb	c++ multithread parallel-process intel tbb
+11459928	12084040	0	25.0	41945	1469	c++ type-infer auto decltyp	c++ type-infer
+59954327	59976065	0	12.0	49689	147	c++ templat iter template-speci overload-resolut	c++ templat variadic-templ template-meta-program template-templ
+1038482	1073958	0	128.0	42494	1470	c++ except	c++ stl
+35370901	35414755	0	12.0	44211	1471	c++ function static instanc non-stat	c++ function pointer static
+22569535	46802313	0	55.0	48298	1472	c++ boost graph	c++ boost boost-graph
+4048749	45376006	0	55.0	38273	1473	c++ bitwise-oper bitvector	c++ sse matrix-multipl avx bitset
+46510531	46512248	0	26.0	43606	1474	c++ undefined-behavior bit-shift constexpr	c++ language-lawy c++17 constexpr if-constexpr
+19903338	46721075	0	26.0	51116	1475	c++ c++11 race-condit memory-model	c++ assembl concurr x86 memory-model
+31186926	31294267	0	130.0	46845	1477	c++ multithread	c++ multithread opencv image-process computer-vis
+669818	969232	0	26.0	42300	1478	c++ operator-overload virtual virtual-funct	c++ inherit virtual-funct assignment-oper
+4610232	18029110	0	12.0	51169	1479	c++ sort stl vector std-pair	c++ sort vector std-pair
+8574022	8581284	0	56.0	44371	148	c++ cast auto-ptr	c++ cast static-cast temporary-object
+13918400	13922145	0	26.0	48222	1480	c++ templat template-speci variadic-funct	c++ templat c++11
+24442836	24443065	0	26.0	56386	1481	c++ c opencv header-fil	c++ bash opencv g++
+59779679	59793556	0	56.0	41268	1482	c++ c++17 factori	c++ c++17 static-librari factori
+2615162	2616107	0	26.0	45272	1483	c++ memori const pass-by-refer	c++ memori return-valu pass-by-refer
+11048657	11048946	1	57.0	54792	1484	c++ multithread c++11	c++ multithread c++11
+3119929	4129023	0	26.0	60896	1485	c++ templat constructor c++11	c++ inherit constructor c++11 perfect-forward
+3318714	5296484	0	26.0	39693	1486	c++ cout ofstream ostream	c++ alia streambuf
+19215027	19299508	0	403.0	40563	1487	c++	c++ array
+12272666	15228337	0	57.0	47423	1488	c++ boost boost-asio	c++ linux filesystem inotifi
+16014736	42670137	0	27.0	49545	1489	c++ templat coding-styl class-templ	c++ templat c++17
+29545214	29545315	0	58.0	38163	149	c++ blackberry-10 proxim	c++ screen qml blackberry-10
+9994421	9994789	0	58.0	49970	1490	c++ coding-styl c++11	c++ for-loop c++11 perfect-forward
+18663963	30694450	0	27.0	48546	1491	c++ stl constructor copy-constructor	c++ c++11 libstdc++
+514420	7693484	0	136.0	44897	1492	c++ visual-c++	c++ valid input floating-point
+6653789	6806637	0	58.0	47344	1493	c++ opencv convex-hul	c++ opencv convex-hul defect
+6416385	45689690	0	13.0	52389	1494	c++ c++11 swap move-semant obsolet	c++ gcc null compiler-optim delete-oper
+34301090	34301584	1	27.0	53960	1495	c++ c++11 gener type	c++ c++11 gener type
+13654927	48664631	0	413.0	37501	1496	c++	c++ default-constructor
+6180012	9722632	0	27.0	57273	1497	c++ c array gcc	c++ c array
+5424042	26383155	0	138.0	42055	1498	c++ access-modifi	c++ inherit friend access-modifi proxy-class
+13842411	13877994	0	13.0	47384	15	c++ file winapi path directori	c++ winapi
+31691130	43962398	0	13.0	44011	150	c++ r matrix rcpp armadillo	c++ r pass-by-refer rcpp armadillo
+4001736	4292352	0	59.0	45075	1500	c++ visual-c++ compiler-warn	c++ visual-c++ warn
+34054482	34082554	0	27.0	42403	1502	c++ matlab gsl bessel-funct	c++ fortran fortran77 f2c netlib
+60053973	61710818	0	13.0	42265	1503	c++ language-lawy atom memory-barri stdatom	c++ c memory-barri memory-model stdatom
+9580397	10850492	0	13.0	48374	1504	c++ image-process opencv video-captur face-recognit	c++ opencv windows-forms-design pixelformat
+35626511	55073202	0	422.0	37480	1505	c++	c++ vector io binaryfil
+3692954	3767869	0	141.0	41459	1506	c++ assert	c++ log debug assert
+3300525	21518704	0	13.0	50981	1507	c++ c dictionari hashtabl hashmap	c++ stl unordered-map
+4741436	4741629	0	141.0	41346	1508	c++ prime	c++ translat prime
+10246444	42589496	1	60.0	50155	1509	c++ window winapi	c++ window winapi
+59428743	59435038	0	61.0	41234	151	c++ wt wt-dbo	c++ templat class-templ
+26160465	26160962	0	61.0	43278	1510	c++ function linkag	c++ c++11 language-lawy c++14 bsearch
+26681873	26761385	0	13.0	47575	1511	c++ gcc scope language-lawy decltyp	c++ scope language-lawy c++14
+2319381	2319772	0	28.0	50823	1512	c++ c visual-studio-2005 c-preprocessor	c++ templat argument-dependent-lookup
+31710681	31762429	0	13.0	51636	1513	c++ array char c++14 constexpr	c++ g++ language-lawy variadic-templ c++14
+34101244	34101844	0	13.0	42069	1514	c++ oop polymorph condit inclus	c++ pointer object scope dynamic-memory-alloc
+34215202	34300914	1	28.0	48678	1515	c++ opencv image-process computer-vis	c++ opencv image-process computer-vis
+51347773	57431947	0	144.0	44357	1516	c++ visual-c++	c++ c visual-c++
+53750460	53761899	0	14.0	47268	1517	c++ templat math functor relational-oper	c++ templat paramet c++17 auto
+38463980	38482805	0	14.0	50036	1519	c++ templat metaprogram template-funct template-class	c++ function method express member-function-point
+35835368	35871758	0	14.0	58395	152	c++ c++11 visual-c++ c++builder c++14	c++ array pointer memory-leak
+38402133	38437533	0	14.0	52278	1520	c++ templat compil function-point addressof	c++ function-point function-declar addressof function-definit
+42448274	48518970	0	146.0	51939	1521	c++ c++11	c++ for-loop push-back
+20207372	20226270	0	29.0	50561	1522	c++ templat multidimensional-array template-meta-program	c++ c++11 multidimensional-array
+37976835	44324583	0	63.0	42231	1523	c++ inherit virtual	c++ inherit virtual-inherit
+6397501	6461621	0	14.0	48968	1525	c++ boost adob compil asl	c++ linux boost adob asl
+8935055	8935520	0	29.0	57876	1526	c++ templat c++11 parameter-pass	c++ templat c++11 template-meta-program
+4002757	23989823	0	63.0	53126	1527	c++ qt zlib	c++ qt cmake qt5 zlib
+17772103	38682813	0	14.0	47301	1528	c++ pointer if-stat null null-point	c++ pointer coding-styl cpplint
+1594803	1661154	0	63.0	50352	1529	c++ multithread string	c++ stl
+13589435	20106407	0	29.0	43664	153	c++ dll hyperlink function	c++ window dll linker dllexport
+55858425	55965469	0	29.0	42071	1530	c++ boost-spirit boost-spirit-qi semantic-act	c++ pars boost-spirit-x3 semantic-act
+42892227	61624859	0	29.0	39152	1531	c++ int long-integ integer-overflow	c++ c undefined-behavior integer-overflow twos-compl
+41964745	41966731	0	14.0	43062	1532	c++ function method static privat	c++ return-valu language-lawy return-typ forward-declar
+7361736	7502644	1	14.0	49818	1533	.net c++ socket boost c++-cli	.net c++ socket boost c++-cli
+47207621	53145189	0	30.0	58453	1534	c++ c++11 templat variadic-templ	c++ c++11 metaprogram variadic-templ template-meta-program
+14815274	43537587	1	30.0	55407	1535	c++ c class extern	c++ c class extern
+40813022	40818748	0	14.0	43274	1536	c++ algorithm machine-learn bit-manipul hamming-dist	c++ algorithm vector bit-manipul toggl
+40773463	40787731	0	14.0	50125	1538	c++ perform data-structur stl binari	c++ perform bit-manipul hamming-dist std-bitset
+12251368	12259771	1	14.0	53722	1539	c++ constructor c++11 alloc stdvector	c++ constructor c++11 alloc stdvector
+20436611	42005229	0	65.0	44914	154	c++ c++14 constexpr	c++ c++11 c++14 constexpr
+9458664	9476045	0	30.0	52459	1540	c++ qt qthread qnetworkaccessmanag	c++ qt qthread qlist
+1129176	8147911	0	153.0	43389	1541	c++ sort	c++ sort stl
+26760052	26789417	0	14.0	45162	1542	c++ visual-c++ msbuild msbuild-task post-build-ev	c++ visual-c++ msbuild msbuild-task pre-build-ev
+32007188	57829861	0	30.0	46990	1543	c++ visual-c++ pad typetrait	c++ struct pad static-assert
+7238958	10774436	1	66.0	51290	1544	c++ standard c++11	c++ c++11 standard
+5977542	7905025	0	14.0	44471	1546	c++ eclips c++builder header-fil eclipse-cdt	c++ eclips
+7642614	50294936	0	155.0	43232	1547	c++ inherit	c++ c++11 inherit sizeof decltyp
+48255276	48255459	0	31.0	53082	1548	c++ c++11 stdstring string-length	c++ string c++11 constructor
+7522949	7524249	0	15.0	46344	155	c++ winapi mfc event-handl c-preprocessor	c++ undefined-behavior language-lawy placement-new
+6466010	6466253	0	156.0	43766	1550	c++ operator-overload	c++ temporari
+1487950	2904341	0	15.0	51242	1551	c++ window except winapi access-viol	c++ window exception-handl access-viol onpaint
+1855704	8004456	0	15.0	49462	1554	c++ stl binari iter io	c++ segmentation-fault boost-multi-array
+30841015	30843930	0	157.0	38586	1555	c++ c++03	c++ vector c++03
+6016771	6444918	0	67.0	50174	1556	c++ c++11 constexpr	c++ math prime
+55510	23829389	0	157.0	42079	1557	c++ variabl	c++
+14176320	14188612	0	67.0	46569	1558	c++ visual-c++ linker	c++ language-lawy
+32426161	32426504	0	158.0	49336	156	c++ templat	c++ const
+9842938	14878121	0	68.0	54790	1560	c++ winapi c++11	c++ c++11 handl raii ownership-semant
+2914666	3428177	0	31.0	50993	1561	c++ visual-studio-2010 boost boost-thread	c++ visual-studio boost
+59287937	59291618	0	159.0	39399	1562	c++ macro	c++ compiler-optim
+14792016	17527621	0	31.0	54341	1563	c++ multithread c++11 lock	c++ c++11 mutex
+12290451	43798283	0	32.0	43586	1564	c++ scope global extern	c++ extern
+16456286	16535256	0	160.0	39452	1565	c++ multidimensional-array	c++ array type return-valu
+4738768	55930726	0	68.0	40063	1566	c++ floating-point iostream	c++ c scanf visual-c++-2013
+8305863	8317375	0	15.0	48945	1568	c++ boost type boost-mpl boost-vari	c++ function boost function-point boost-vari
+8304582	8581902	0	161.0	45622	1569	c++ boost	c++ contain void-point
+40028595	40028967	0	15.0	42612	157	c++ index group selecteditem c++03	c++ index menu wxwidget radio-group
+30166644	30199249	0	32.0	42979	1570	c++ operator-overload dynamic-memory-alloc return-typ	c++ operator-overload return-typ
+9944906	10008503	0	69.0	45580	1571	c++ gcc curri	c++ function c++11 bind
+7587595	39757354	0	15.0	40641	1572	c++ stream binari stdin cin	c++ stream stdin cin
+282176	26971660	0	69.0	52489	1573	c++ c linux	c++ linux fork
+52644921	52664184	0	163.0	52783	1574	c++ c++11	c++ one-definition-rul explicit-instanti
+5527736	6835679	0	70.0	45251	1575	c++ window callback	c++ winapi mingw
+756906	3749660	0	32.0	49204	1576	c++ array resiz sizeof	c++
+33064955	37025383	0	32.0	38278	1577	c++ httpserver mjpeg qtcpserver	c++ qt mjpeg qtcpsocket qtnetwork
+671714	2251394	0	15.0	48926	1579	c++ boost graph properti boost-graph	c++ boost templat graph typedef
+54468330	54469015	0	495.0	37671	158	c++	c++ templat language-lawy privat template-argument-deduct
+7863603	53758796	0	165.0	41769	1580	c++ rvalue-refer	c++ c++11 templat enable-if
+9920973	9921590	0	33.0	42148	1582	c++ memory-leak new-oper undefined-behavior	c++ memory-manag memory-leak
+431469	14193620	0	166.0	48088	1583	c++ pointer	c++ c++11
+5369790	12864106	0	166.0	38978	1584	c++ llvm	c++ optim llvm clone
+2640446	3694630	0	16.0	48035	1585	c++ syntax pointer refer type	c++ refer const
+171213	42882349	1	501.0	40822	1588	c++	c++
+2143022	2144012	0	167.0	47858	1589	c++ templat	c++ value-initi
+43174109	43484206	0	33.0	44652	159	c++ xcode printf xcode8	c++ xcode output cout buffer
+1155693	19941601	0	16.0	48210	1590	c++ vector resiz std stdvector	c++ language-lawy
+24398102	24398426	0	16.0	57030	1591	c++ gcc c++11 clang constexpr	c++ language-lawy
+54947367	54949124	0	16.0	40185	1592	c++ function-point sfina return-typ declval	c++ templat visual-studio-2017 use return-typ
+13991909	14024228	0	16.0	50314	1593	c++ templat namespac swap argument-dependent-lookup	c++ swap
+27573928	32144976	0	16.0	55007	1594	c++ c++11 gcc clang compiler-bug	c++ c++11
+1180325	31394260	0	16.0	49679	1596	c++ templat template-argument-deduct function-templ partial-ord	c++ templat language-lawy overload-resolut partial-ord
+461836	10095591	0	34.0	40461	1597	c++ arduino virtual-funct firmwar	c++ except ide arduino
+58679610	58932938	1	170.0	46215	1598	c++ opengl	c++ opengl
+43009867	43050622	0	73.0	41417	1599	c++ mfc windbg	c++ visual-studio-2015 mfc windbg
+61324712	61327488	0	73.0	42223	16	c++ includ cmath	c++ includ language-lawy undefined-behavior
+35834026	35848012	0	73.0	43131	160	c++ c++14 typetrait	c++ language-lawy c++14 result-of
+30189926	30302423	0	16.0	50550	1603	c++ templat template-meta-program sfina result-of	c++ templat alia enable-if c++17
+57689726	57700049	0	16.0	43705	1604	c++ language-lawy c++17 variadic-templ template-argument-deduct	c++ templat language-lawy variadic-templ template-argument-deduct
+17076672	35468207	0	73.0	50318	1605	c++ for-loop c++11	c++ visual-studio stl
+3352838	8228072	1	74.0	51562	1606	c++ stl vector	c++ stl vector
+24725152	57953599	0	34.0	57958	1607	c++ templat c++11 crtp	c++ visual-c++ g++ c++17 template-instanti
+15746271	19133452	0	520.0	40745	1608	c++	c++ c++11
+29771146	29796264	0	74.0	41314	1609	c++ const qualifi	c++ function method inlin deprec
+15648705	15656928	1	522.0	42356	161	c++	c++
+33154696	33576552	0	16.0	41887	1610	c++ msbuild cross-platform visual-studio-2015 tfsbuild	c++ tf build msbuild visual-studio-2015
+42242202	49824962	0	74.0	47718	1611	c++ string setw	c++ std iomanip setw
+21185771	21251113	0	16.0	42421	1612	c++ databas sqlite ios5 mfc	c++ io sqlite encrypt mfc
+33047452	33111252	0	75.0	49945	1613	c++ c segmentation-fault	c++ pointer linked-list segmentation-fault duplicate-remov
+665509	2638654	0	17.0	42030	1614	c++ unix redirect daemon syslog	c++ stream syslog clog
+2847729	2900785	0	528.0	37700	1615	c++	c++ std
+6248044	16182958	0	176.0	39296	1617	c++ stdvector	c++ set std
+7823480	7823524	0	176.0	43218	1618	c++ data-structur	c++
+9469968	21172702	0	17.0	55808	1619	c++ stl c++11 unique-ptr boost-ptr-contain	c++ perform visual-c++ boost-ptr-contain
+21415700	52109274	0	76.0	48859	162	c++ pointer scope	c++ c++11
+4021981	44848011	0	17.0	53830	1620	c++ c visual-studio-2010 g++ static-assert	c++ c++11 templat
+22561372	22587103	0	76.0	47348	1621	c++ opencv sift	c++ opencv sift opencv-stitch
+3225386	26400352	0	76.0	50427	1623	c++ c typedef	c++ stl coding-styl
+85122	13397571	0	35.0	52090	1625	c++ window winapi sleep	c++ multithread winapi loop sleep
+24776262	35470658	0	537.0	37611	1626	c++	c++ cin
+21166675	60815144	0	76.0	48847	1627	c++ boost map	c++ array
+7904132	48013802	0	17.0	52542	1628	c++ visual-studio-2010 boost vector boost-random	c++ vector random
+23036965	23347437	0	77.0	41312	1629	c++ cohes constructor-overload	c++ visual-c++ language-extens delegating-constructor
+3201273	3726716	0	36.0	52065	1630	c++ qt qt4 multiple-databas	c++ qt interfac qt4 qobject
+38027418	38057210	0	180.0	48921	1631	c++ array	c++ array memory-layout static-alloc
+30375750	51272067	0	17.0	47919	1632	c++ pars boost boost-spirit boost-spirit-qi	c++ bound boost-spirit-qi
+93260	10819398	0	77.0	53676	1634	c++ c coding-styl	c++ code-format
+2637700	2637714	0	77.0	40056	1635	c++ optim sqrt	c++ optim floating-point math.h
+1588922	1592804	0	36.0	46744	1636	c++ visual-c++ memori heap	c++ visual-c++ memori heap-fragment
+27353026	27354200	0	17.0	53992	1637	c++ qt csv qt4 qtableview	c++ qt qt4
+5625431	5627030	0	78.0	39687	1638	c++ math exponenti	c++ c++11 c++-standard-librari
+11449617	18679838	0	17.0	46127	1639	c++ algorithm matlab curve-fit linear-regress	c++ algorithm geometri
+32986874	32990900	0	36.0	56233	164	c++ qt opencv visual-studio-2013	c++ qt opencv
+52010883	52058232	0	17.0	48281	1640	c++ opencv unix callback keyboard	c++ makefil vtk
+52357	33601886	0	78.0	38757	1641	c++ log log4cpp	c++ g++
+45787191	45891062	0	17.0	42384	1642	c++ audio variable-assign local-vari juce	c++ ubuntu gcc gcc-warn juce
+39075223	39106893	0	79.0	45349	1643	c++ visual-c++ compiler-warn	c++ visual-c++ g++ compiler-warn
+3663506	47960154	0	185.0	42166	1644	c++ copy-constructor	c++ c++11
+48058545	48062346	0	17.0	44802	1646	c++ struct type language-lawy union	c++ pointer c++14 language-lawy c++17
+3161392	3667317	0	37.0	42472	1647	c++ language-agnost design-pattern observer-pattern	c++ language-agnost user-interfac consist
+58035752	58329033	0	37.0	42140	1649	c++ git makefil bazel	c++ linker bazel
+41076212	41079111	0	18.0	56675	165	c++ c++11 refer initi c++14	c++ ambigu list-initi typecast-oper
+49422595	49424340	1	186.0	39084	1650	c++ graph	c++ graph
+2746855	2830622	0	18.0	42692	1651	c++ imag gdi+ base64 tiff	c++ string imag gdi+ base64
+7245404	21952386	0	187.0	39333	1652	c++ function-point	c++ pointer refer pointer-to-memb
+9472880	9743605	0	37.0	44720	1653	c++ opencv buffer circular-buff	c++ multithread boost opencv
+23171894	41708018	0	18.0	50731	1654	c++ linux opengl netbean glfw	c++ opengl cmake x11 glfw
+4362831	6326805	0	80.0	38213	1655	c++ language-featur using-direct	c++ namespac use language-lawy
+47725266	47726503	0	18.0	46197	1656	c++ macro c++14 assert constexpr	c++ c++14 constexpr
+16267984	16268433	0	37.0	41243	1657	c++ log crash fstream	c++ fstream flush
+6251889	28075962	0	81.0	47517	1658	c++ templat condit	c++ templat
+53978098	53978389	0	18.0	45761	1659	c++ tupl c++17 template-meta-program constexpr	c++ constexpr
+61785434	61819277	0	81.0	38422	166	c++ accumul range-v3	c++ vector range-v3
+580922	11287043	0	190.0	46419	1660	c++ templat	c++ templat primit
+24030116	24032322	0	81.0	53015	1661	c++ c clang	c++ c++11 language-lawy c++14
+2419928	2495420	0	81.0	38270	1662	c++ mp3 lame	c++ c cross-platform wrapper lame
+31600600	43470379	0	82.0	44458	1663	c++ g++ cygwin	c++ netbean cygwin windows-10
+13445688	55379591	0	191.0	39526	1664	c++ random	c++
+42030063	42031216	1	18.0	49532	1665	c++ templat c++14 overload template-meta-program	c++ templat c++14 overload template-meta-program
+12479663	12597397	0	192.0	48320	1666	c++ opencv	c++ perform opencv matrix-multipl eigen
+2529617	55675651	0	18.0	39842	1667	c++ consol exit termin c++-faq	c++
+28458616	28483250	0	82.0	50416	1668	c++ c++11 rvalue-refer	c++ c++11 rvalue-refer lvalu rvalu
+24131602	57354840	0	18.0	52450	1669	c++ window winapi windows-8 backwards-compat	c++ winapi visual-c++ dll windows-shel
+1491362	7800460	0	38.0	50887	167	c++ qt user-interfac plot	c++ qt plot qt-creator
+859304	5550838	0	18.0	52554	1670	c++ visual-studio visual-c++ unicod mfc	c++
+43005771	43006702	0	18.0	40276	1671	c++ callback com atl idl	c++ visual-c++ com atl idl
+33204020	35927878	0	194.0	49768	1672	c++ c++11	c++ templat c++11 constexpr one-definition-rul
+3046889	27049491	0	195.0	42499	1673	c++ macro	c++ c macro c-preprocessor
+33872026	33873047	1	83.0	38596	1674	c++ pass-by-valu copy-elis	c++ pass-by-valu copy-elis
+2698145	60019664	0	18.0	54906	1675	c++ multithread qt tcp qt4	c++ multithread qt socket qsslsocket
+3431434	47482921	0	39.0	48838	1676	c++ video opencv image-process	c++ opencv
+9507973	9608257	0	39.0	49069	1677	c++ templat lookup-t static-initi	c++ thread-safeti c++11 language-lawy
+13888368	22296058	0	19.0	50500	1678	c++ image-process opencv translat face-recognit	c++ opencv image-process computer-vis
+46746878	55730971	0	19.0	54546	1680	c++ c++11 linker c++14 abi	c++ gcc c++17
+5780918	14092705	0	19.0	43596	1685	c++ namespac header forward-declar pimpl-idiom	c++ oop visibl
+31146713	35141039	0	84.0	39518	1686	c++ sqlite callback	c++ sqlite lambda
+92396	37368137	0	198.0	41919	1687	c++ switch-stat	c++ variabl initi switch-stat
+902095	6399081	0	85.0	41410	1688	c++ enum typedef	c++ class struct enumer
+32078762	33830208	0	39.0	53023	1689	c++ array opencv histogram	c++ opencv image-process opencv3.0
+57124571	57125253	0	39.0	45074	169	c++ linux perform microbenchmark	c++ perform benchmark
+29411486	29750946	0	85.0	49633	1690	c++ templat cmath	c++ c++11 language-lawy cmath
+37490956	37500149	0	39.0	42060	1691	c++ inherit member-function-point typed-array	c++ templat inherit member-function-point
+4298408	15032594	0	85.0	43755	1692	c++ deleg perform	c++ visual-studio-2012 callback variadic-templ
+7562096	34008110	0	85.0	48354	1693	c++ templat template-meta-program	c++ templat crtp
+9671749	20616958	0	86.0	53095	1694	c++ c++11 perfect-forward	c++ templat c++11 move-semant perfect-forward
+15181424	26489837	1	201.0	49832	1695	c++ c++11	c++ c++11
+5979442	5997723	0	19.0	49229	1696	c++ search boost map text-search	c++ search boost path boost-filesystem
+6436257	15741811	0	40.0	38813	1697	c++ copi clipboard past	c++ qt clipboard
+52105822	56003162	0	202.0	46528	1698	c++ templat	c++ templat language-lawy c++17 c++20
+31971586	31994646	0	86.0	53657	1699	c++ qt file-io	c++ maco qt qset
+62110426	62110834	0	202.0	41300	17	c++ c++17	c++ stl c++17
+4092747	4093095	0	19.0	50100	170	c++ class pointer type object	c++
+23959595	25703149	0	19.0	43517	1700	c++ eclips eclipse-cdt autosav auto-build	c++ eclips build eclipse-cdt
+35402366	35448835	0	19.0	57859	1701	c++ multithread c++11 posix shared-memori	c++ linux qt pthread
+4993650	47352663	0	87.0	49893	1702	c++ templat sizeof	c++ language-lawy sizeof
+4486609	34353751	0	87.0	42811	1703	c++ gcc rtti	c++ polymorph rtti
+206106	206564	0	87.0	46979	1705	c++ visual-c++ boolean	c++ visual-c++
+34762829	35402262	0	19.0	47052	1706	c++ multithread oracl perform oracle-pro-c	c++ oracl stored-procedur plsql
+39842139	39858691	0	41.0	42792	1707	c++ regex code-coverag lcov	html c++ regex gcov lcov
+7090623	8649828	0	88.0	55111	1709	c++ multithread c++11	c++ multithread g++ c++11
+58899006	58900260	0	618.0	40832	171	c++	c++ visual-studio
+98944	2271078	0	88.0	41770	1710	c++ macro c-preprocessor	c++ g++ newlin c-preprocessor
+18921979	52703630	0	20.0	47011	1711	c++ string encod utf-8 utf-16	c++ utf-8 character-encod utf-16 stdstring
+6613870	44558119	0	88.0	42119	1712	c++ g++ destructor	c++ assembl c++17 name-mangl
+26858034	40382838	0	20.0	54103	1713	c++ c++11 stl option boost-opt	c++ gcc refer option c++17
+60830000	60830867	0	20.0	51748	1714	c++ templat design-pattern initi warn	c++ language-lawy decltyp
+9187538	14151443	0	41.0	50767	1715	c++ qt slot qmenu	c++ qt4 qstring qmenu qt-signal
+13225500	40920783	0	89.0	45380	1716	c++ xcode maco	c++ xcode redirect termin
+10125140	33556511	0	20.0	40061	1717	c++ compiler-construct compiler-optim micro-optim vptr	c++ assembl x86
+50344063	50354325	0	41.0	54922	1718	c++ c++11 boost boost-log	c++ boost lazy-evalu boost-log
+6258559	50317010	0	20.0	46155	1719	c++ gcc vtabl virtual-inherit vtt	c++ memory-layout virtual-t
+37665206	37682156	0	20.0	44119	172	c++ regex list iter istream-iter	c++ istream istream-iter extraction-oper
+3006438	4468770	0	210.0	41372	1721	c++ demangl	c++ name-mangl name-decor
+2290429	23092910	0	20.0	50622	1723	c++ boost stl tree multiway-tre	c++ c++11 boost stl
+9339829	25395605	0	42.0	54062	1725	c++ c++11 return-typ std-function	c++ c++11 language-lawy std-function c++14
+59256699	59271296	0	20.0	67818	1726	c++ window qt c++11 qt5	c++ window c++11 qt5 qt-creator
+11546478	11571512	0	90.0	49788	1727	c++ templat crtp	c++ templat
+48893928	48899131	0	20.0	50431	1728	c++ templat clang language-lawy template-speci	c++ templat language-lawy template-argument-deduct
+2074099	7761810	0	42.0	54446	1729	c++ c perform optim	c++ gcc optim coding-styl
+38188848	38192687	1	91.0	46604	173	c++ array initi	c++ array initi
+27746109	27799086	0	20.0	49433	1730	c++ json boost tree directori	c++ array json boost
+32940847	33828350	0	20.0	54342	1732	c++ c++11 language-lawy c++14 undefined-behavior	c++ array language-lawy initializer-list aggregate-initi
+17313272	39271094	0	42.0	43924	1733	c++ mysql eclips mysql-connector	c++ mysql eclips
+57051494	57193038	0	42.0	45758	1734	c++ linux x11 sdl-2	c++ ubuntu x11 sdl-2 ubuntu-19.04
+13057596	13130708	0	91.0	59630	1735	c++ templat c++11	c++ perform for-loop c++11 move-semant
+2417065	42048974	0	20.0	42612	1736	c++ constructor initi default-constructor built-in-typ	c++ constructor c++14
+571394	3450860	0	92.0	49430	1737	c++ vector std	c++ vector
+33469861	33477379	0	215.0	38921	174	c++ boolean	c++ visual-studio gcc clang mktime
+1116493	30250934	0	215.0	41383	1740	c++ exit-cod	c++
+2633092	2634580	0	92.0	42180	1741	c++ xcode stringstream	c++ string xcode pars doubl
+8115368	27000797	0	92.0	47606	1742	c++ opencv tesseract	c++ opencv tesseract leptonica
+43767260	43789582	0	92.0	53947	1743	c++ algorithm qt	c++ qt
+14306642	16857517	0	43.0	45808	1744	c++ build cmake execut	c++ boost cmake boost-test ctest
+19709529	20846684	0	93.0	47781	1745	c++ array multidimensional-array	c++ templat c++11 multidimensional-array lambda
+35662995	35683456	0	217.0	49710	1746	c++ templat	c++ templat c++11
+4417782	33807223	0	217.0	40116	1748	c++ crtp	c++ language-lawy crtp static-assert
+5819217	7613528	0	93.0	53537	1749	c++ c string	c++ c++11 string-liter
+11696739	56013850	0	655.0	40747	175	c++	c++ type iostream c++-standard-librari
+16377991	45503130	0	93.0	41167	1750	c++ new-oper delete-oper	c++ memory-manag numa
+27536395	27537482	0	93.0	49699	1751	c++ templat nested-class	c++ privat member-function-point
+3681265	16128882	0	43.0	46299	1752	c++ array assignment-oper copy-assign	c++ gdb
+6830936	15266448	0	43.0	47838	1754	c++ array file char	c++ array file unsigned-char
+42216334	53378614	0	220.0	41917	1755	c++ netbean	c++ c++11 netbean
+60817890	60828520	1	94.0	48382	1756	c++ templat type-convers	c++ templat type-convers
+357404	12539165	0	94.0	44950	1757	c++ oop namespac	c++ oop object data-structur namespac
+60819236	60826588	1	44.0	47123	1758	c++ boost boost-spirit boost-spirit-qi	c++ boost boost-spirit boost-spirit-qi
+18724999	18728257	0	21.0	59925	1759	c++ c++11 stl iter c++14	c++ c++11
+45537965	45538993	1	95.0	40782	176	c++ memory-manag libstdc++	c++ memory-manag libstdc++
+653336	13819820	0	44.0	53429	1760	c++ c char buffer	c++ gcc c++11
+8434762	9448076	0	95.0	39437	1761	c++ deadlock boost-thread	c++ multithread boost boost-thread
+48769662	53545240	0	222.0	42077	1762	c++ gmock	c++ cast stdtupl
+48045515	48245279	0	223.0	40731	1763	c++ doubl	c++ algorithm math fraction
+10758664	21861148	0	95.0	53428	1764	c++ c++11 move-semant	c++ c++11
+55751382	56750390	0	44.0	45856	177	c++ pointer smart-point raw-point	c++ except visual-c++ g++ mingw
+47624731	47624759	0	21.0	54506	178	c++ qt qt5 qmetatyp qhostaddress	c++ qt debug qt5 breakpoint
+11296854	49506802	0	44.0	49825	1784	c++ c math operator-preced	c++ oper language-lawy type-promot
+3426165	4584637	0	21.0	44464	1785	c++ perform x86 intel osx-snow-leopard	c++ floating-point doubl
+45770089	45785705	0	21.0	46688	1787	c++ algorithm floating-point logarithm avx2	c++ perform assembl x86-64 logarithm
+40608111	51294033	0	21.0	42162	179	c++ equal unsign sign integer-overflow	c++ type-convers specif unsign sign
+3220009	3324898	0	45.0	41545	1797	c++ design-pattern friend access-control	c++ design-pattern idiom friend access-protect
+55060820	55068593	0	96.0	46017	1798	c++ memori struct	c++ language-lawy sizeof
+6826310	55959865	0	97.0	47717	1799	c++ boost cast	c++ boost crypto++
+14327399	36168606	0	45.0	51459	18	c++ visual-studio boost boost-signals2	c++ boost visual-studio-2013 boost-signals2
+50244772	50245277	0	21.0	43690	180	c++ memory-manag c++17 c++-standard-librari alloc	c++ contain language-lawy c++-standard-librari alloc
+21554099	41309299	0	22.0	50944	1800	c++ c++11 openmp atom stdatom	c++ multithread c++11 openmp atom
+164168	10220401	0	97.0	42121	1801	c++ null stdstring	c++ string escap
+25920681	42962515	1	97.0	52170	1802	c++ c++11 shared-ptr	c++ c++11 shared-ptr
+58468574	58472449	0	22.0	52319	1803	c++ templat c++17 variadic-templ variadic-macro	c++ constexpr
+279854	4184917	0	98.0	44228	1804	c++ stl stdvector	c++ boost-bind
+10695945	39439181	0	687.0	41101	1805	c++	c++ macro preprocessor-direct
+17390605	17392621	0	45.0	62593	1808	c++ templat boost c++11	c++ templat c++11
+57157677	57176148	0	45.0	50226	1809	c++ visual-studio winapi digital-signatur	c++ visual-studio winapi
+10398852	10401321	0	46.0	43155	181	c++ oop design-pattern object	c++ design-pattern
+6517231	6527917	0	691.0	40862	1810	c++	c++ design-pattern
+19016099	19019252	0	98.0	51840	1811	c++ c++11 constexpr	c++ c++11 constexpr array-initi
+2226291	27320993	0	231.0	42243	1812	c++ metaprogram	c++ templat language-lawy static-memb partial-speci
+16063123	27496004	0	22.0	53353	1814	c++ c++11 language-lawy initializer-list constexpr	c++ language-lawy c++14 initializer-list constexpr
+18581443	27167958	0	695.0	40812	1815	c++	c++ c++11
+44229676	44237528	1	46.0	49614	1816	c++ templat template-speci sfina	c++ templat template-speci sfina
+1259099	4484767	0	46.0	45512	1817	c++ queue iter c++-standard-librari	c++ stl queue
+28163187	30404388	0	232.0	51278	1818	c++ c++11	c++ c++11 keyword
+5164538	5166263	0	46.0	44674	1819	c++ optim file-io ifstream	c++ optim iostream c++-faq c++-standard-librari
+6728805	6729977	0	100.0	41031	182	c++ operator-overload comma	c++ type-safeti variad
+59237684	59239085	0	100.0	43501	1821	c++ language-lawy placement-new	c++ language-lawy c++20 object-lifetim placement-new
+2631585	7020292	0	100.0	48461	1822	c++ templat metaprogram	c++ templat
+17842827	36104433	0	100.0	47498	1823	c++ opencv gpgpu	c++ opencv gpu opencv3.0
+2033110	12160765	0	234.0	48069	1825	c++ templat	c++ templat if-stat compil
+45072486	45099019	0	47.0	55002	1826	c++ perform c++11 shared-ptr	c++ c++11 constructor perfect-forward
+35476454	39468928	0	47.0	45730	1827	c++ boost boost-spirit boost-spirit-lex	c++ boost boost-spirit boost-spirit-qi boost-spirit-lex
+34314193	34360588	0	101.0	54678	1828	c++ c++11 c++14	c++ perform polymorph
+23193038	35564502	0	101.0	55208	183	c++ window qt	c++ qt hotkey
+4728555	4750707	1	101.0	47019	1830	c++ opengl glsl	c++ opengl glsl
+19629587	19688442	0	101.0	43338	1831	c++ visual-studio mpfr	c++ visual-studio instal gmp mpfr
+1301277	3317536	0	101.0	45594	1832	c++ boost compiler-warn	c++ warn
+862093	10149391	0	237.0	43034	1833	c++ contain	c++ boost contain boost-sign
+26386010	52304410	0	47.0	43121	1836	c++ language-lawy extern auto	c++ language-lawy auto variable-declar
+9428456	38081028	0	23.0	53566	1837	c++ winapi visual-c++ mfc createprocess	c++ window winapi
+24650468	24651271	0	238.0	38765	1838	c++ vtk	c++ vtk eigen
+37705923	37706549	0	47.0	53208	184	c++ c++11 c++14 c++17	c++ c++11 c++14 c++03 c++98
+60830	132738	0	239.0	42055	1840	c++ inline-funct	c++ optim inline-funct tradeoff
+26713879	49862299	0	23.0	63087	1841	c++ qt c++11 lambda qtcore	c++ qt backport
+34549603	34553835	1	102.0	48011	1843	c++ winapi com	c++ winapi com
+41262492	41319114	0	23.0	57755	1844	c++ c++11 boost shared-ptr smart-point	c++ language-lawy destructor
+15311667	24288513	0	103.0	42497	1845	c++ curl libcurl	c++ curl asynchron libcurl
+3417314	3419265	0	240.0	48099	1846	c++ templat	c++ templat compil header-fil
+1830158	37005449	0	723.0	40882	1847	c++	c++ c++11
+55357639	58894345	1	103.0	51510	1848	c++ class templat	c++ class templat
+760777	8454887	0	103.0	41866	1849	c++ coding-styl getter-sett	c++ getter-sett reflect
+39724268	39758300	0	23.0	45121	185	c++ perform loop optim compiler-optim	c++ vector sse compiler-optim simd
+5113365	27443532	0	103.0	44242	1852	c++ constructor value-initi	c++ initi primit nomenclatur construct
+58729516	58814723	0	104.0	38583	1853	c++ webassembl seal	c++ emscripten webassembl emsdk
+17483	4465686	0	104.0	41955	1854	c++ overrid metrowerk	c++ inherit overrid
+700588	704780	0	104.0	46485	1855	c++ memory-manag stl	c++ stl
+3533589	25994594	0	104.0	53552	1856	c++ c++11 c++03	c++ virtual-funct overload-resolut
+303562	492475	0	23.0	40433	1857	c++ format print macro ostringstream	c++ visual-c++ macro ostringstream
+4989820	9410681	0	104.0	47208	1858	c++ winapi unicod	c++ winapi unicod mfc
+51862149	51913588	0	48.0	44202	1859	c++ dictionari stl encapsul	c++ dictionari stl iter
+35301733	35318908	0	23.0	58240	186	c++ algorithm c++11 stl c++14	c++ algorithm optim c++14 template-meta-program
+14131939	22074724	0	105.0	53364	1861	c++ c++11 eclipse-cdt	c++ eclips c++11
+16524138	16589708	0	49.0	39930	1862	c++ com vb6 atl	c++ com atl
+301330	14466620	0	246.0	49754	1863	c++ templat	c++ templat pointer refer template-speci
+11637611	33456141	0	23.0	42493	1864	c++ destructor language-lawy object-lifetim explicit-destructor-cal	c++ constructor language-lawy storage-dur
+43787056	44117484	0	105.0	43305	1865	c++ gener typedef	c++ java-native-interfac stack javaag
+15703842	15714670	0	247.0	39403	1866	c++ syntax	c++ stl stdvector
+22815477	22921728	0	106.0	41596	1867	c++ log4j log4cplu	c++ log4cplu
+8194227	28997271	1	106.0	51622	1868	c++ c++11 tupl	c++ c++11 tupl
+11876128	11887104	0	106.0	44062	1869	c++ iter post-incr	c++ iter increment language-lawy post-incr
+2009434	2014746	1	106.0	39210	187	c++ visual-studio-2008 oolua	c++ visual-studio-2008 oolua
+1514311	1525535	0	106.0	43837	1870	c++ stl queue	c++ stl vector
+17048072	32342285	0	249.0	42889	1871	c++ sdl	c++ c++11 codeblock sdl-2 winmain
+4346742	9597101	0	24.0	54330	1872	c++ multithread stl vector thread-safeti	c++ multithread qt thread-safeti contain
+20162903	44551908	1	107.0	53880	1873	c++ c++11 variadic-templ	c++ c++11 variadic-templ
+31728098	41591224	0	50.0	51066	1874	c++ qt qml qt-quick	c++ qt qml qobject
+17549906	39086837	0	250.0	42406	1875	c++ json	c++ c++11 visual-c++ visual-studio-2015 c++14
+41689522	45441744	0	107.0	46976	1876	c++ opencv image-process	c++ opencv syntax no-match
+28036732	28057999	0	24.0	52902	1877	c++ array string malloc void	c++ array string memory-manag
+15737223	50401618	0	107.0	41648	1878	c++ c++14 return-type-deduct	c++ macro inlin c++17
+1226634	49045026	0	50.0	47325	1879	c++ inherit constructor assignment-oper	c++ inherit copy-constructor move-constructor
+3645896	3647053	0	108.0	39181	1880	c++ singleton alia	c++ compiler-construct inlin
+3771208	4144234	0	757.0	41124	1881	c++	c++ templat
+1552069	2555816	0	108.0	52790	1882	c++ qt qmake	c++ qt linker-error vtabl qobject
+20919935	28393195	0	24.0	44686	1884	c++ oop aggreg composit trait	c++ templat inherit metaprogram composit
+21174593	58318716	0	24.0	52647	1885	c++ c++11 smart-point factory-pattern unique-ptr	c++ unique-ptr
+33824954	33829101	0	108.0	44913	1886	c++ cast floating-point	c++ visual-c++
+43384887	47630402	0	24.0	58642	1887	c++ window qt ssl openssl	c++ linux qt ssl openssl
+19941859	24839120	0	24.0	47358	1888	c++ form opengl frame c++builder	c++ opengl makefil glew
+1056879	1056921	0	109.0	39900	1889	c++ graphic bitmap	c++
+5069489	5347042	0	51.0	50548	1890	c++ c perform built-in	c++ c compiler-construct processor
+441306	27962978	0	255.0	48496	1891	c++ boost	c++ boost smart-point
+4726768	8026170	0	51.0	54441	1892	c++ function c++11 lambda	c++ c++11 lambda object-lifetim
+58453021	58466245	0	24.0	43121	1893	c++ constexpr c++20 one-definition-rul constev	c++ language-lawy c++20 constev
+12328896	42871143	0	110.0	39323	1894	c++ serial thrift	c++ serial apache-kafka thrift
+4938875	60535023	0	51.0	51157	1895	c++ c++11 const rvalue-refer	c++ shared-ptr api-design unique-ptr rvalue-refer
+1154974	1155389	1	110.0	53163	1896	c++ c++11 c++-concept	c++ c++11 c++-concept
+12661648	28897897	0	51.0	39163	1897	c++ event notif wmi	c++ process wmi wmi-queri wql
+17708449	19076544	1	258.0	53188	1898	c++ qt	c++ qt
+14375558	14375965	0	51.0	48600	1899	c++ templat member union	c++
+13087966	13096292	1	110.0	59358	19	c++ qt templat	c++ qt templat
+32132574	32154832	0	51.0	50588	1900	c++ c language-lawy undefined-behavior	c++ language-lawy undefined-behavior
+2727834	40216965	0	51.0	50007	1901	c++ pointer refer null	c++ c++11 refer undefined-behavior nullptr
+2911442	7143120	0	259.0	39474	1902	c++ variabl	c++ string
+47263793	47455800	1	260.0	43436	1903	c++ language-lawy	c++ language-lawy
+757059	19106342	0	52.0	51892	1904	c++ c optim bit-manipul	c++ c bit-manipul bit
+269837	867724	0	52.0	44716	1905	c++ mfc tooltip mfc-feature-pack	c++ tooltip mfc-feature-pack
+4063146	16863937	0	261.0	45285	1906	c++ algorithm	c++ string unicod utf-8 std
+21010017	48504300	0	52.0	48477	1907	c++ google-chrom url window	c++ google-chrom winapi
+19103244	25173462	0	52.0	57608	1908	c++ c++11 stl language-lawy	c++ c++11 sizeof stdarray
+6540948	6543652	0	112.0	42950	1909	c++ template-meta-program typetrait	c++ templat metaprogram
+609203	612097	0	112.0	43134	1910	c++ file file-io	c++ c file directori
+15165502	17211122	0	262.0	42105	1911	c++ stringstream	c++ format scientific-not boost-format
+9685486	60586122	0	25.0	51389	1912	c++ multithread boost thread-safeti hashmap	c++ multithread concurr c++17 tbb
+12033188	31622059	0	25.0	57303	1914	c++ multithread c++11 lock readwritelock	c++ multithread c++14 readwritelock
+45882606	45891010	0	25.0	44701	1915	c++ maco clang c++14 chrono	c++ maco qt c++14 chrono
+3016956	3153114	0	52.0	43595	1916	c++ ubuntu instal openssl	c++ ssl ubuntu instal
+5484930	14261183	0	113.0	52999	1917	c++ c++11 variadic-templ	c++ c++11 iter variadic-templ template-meta-program
+2396576	6423729	0	113.0	52263	1918	c++ window winapi	c++ winapi
+11635	9182912	0	265.0	43672	1919	c++ string	c++ case-insensit string-comparison
+50278663	50283077	0	53.0	53449	192	c++ c makefil cygwin	c++ perl makefil kaldi perl4
+5221981	6377204	0	53.0	41416	1920	c++ g++ ubuntu-10.04 allegro5	c++ g++ allegro allegro5
+461507	44588615	0	266.0	48460	1921	c++ boost	c++ boost foreach c++03
+7856453	17863079	0	114.0	44298	1922	c++ stl map	c++ map index std
+42411819	46901697	0	53.0	43191	1923	c++ assembl x86-64 abi	c++ gcc clang calling-convent stdtupl
+6531543	6560606	0	25.0	44054	1924	c++ data-structur perform computer-sci priority-queu	c++ cpu-architectur
+38026884	48608830	0	53.0	51560	1926	c++ templat auto c++17	c++ c++11 templat c++14
+438192	441552	0	114.0	40100	1927	c++ enum using-declar	c++ standard
+6147866	6154204	0	268.0	50437	1928	c++ pointer	c++ local token
+6773122	15378407	0	115.0	53934	193	c++ visual-studio-2010 qt	c++ qt
+13638408	24238937	0	115.0	46220	1930	c++ cmake compiler-warn	c++ visual-studio-2010 compiler-construct cmake
+37231313	37232481	0	115.0	50014	1931	c++ templat g++	c++ gcc lambda clang argument-dependent-lookup
+52435630	56085280	0	26.0	46589	1932	c++ iter c++-concept c++20 range-v3	c++ iter ostream c++20 range-v3
+5553850	9444003	0	53.0	40420	1933	c++ runtim overhead virtual-inherit	c++ optim runtim overhead virtual-inherit
+27430640	27460527	0	115.0	43597	1934	c++ declar do-whil	c++ declar language-lawy do-whil
+30581837	44124452	0	26.0	54090	1935	c++ c visual-studio-2010 extern lnk2001	c++ vba dll
+6036086	6224121	0	116.0	42970	1937	c++ virtual-destructor self-destruct	c++ thi undefined-behavior placement-new
+11601998	47473621	0	26.0	49380	1938	c++ vector const assignment-oper placement-new	c++ const language-lawy assignment-oper placement-new
+48932540	48953421	0	26.0	55270	194	c++ qt qcombobox qtextedit qtreewidget	c++ qtreewidget qtreewidgetitem qvariant qstackedwidget
+3022552	19393539	0	26.0	39491	1941	c++ 64-bit portabl endian htonl	c++ bytearray endian
+2254498	5008804	1	272.0	42823	1942	c++ random	c++ random
+15735208	15741101	0	818.0	37972	1943	c++	c++ floating-accuraci gmp arbitrary-precis
+1174169	13674935	0	54.0	46941	1944	c++ templat code-gener functor	c++ templat
+47604606	47606810	0	54.0	44361	1945	c++ method lambda syntax	c++ templat lambda language-lawy c++17
+4672991	5025843	0	117.0	39978	1946	c++ fstream reinterpret-cast	c++ cast reinterpret-cast static-cast
+1483403	6374264	0	117.0	43327	1947	c++ thread-safeti iostream	c++ gcc c++11
+9065081	9077612	1	26.0	53169	1948	c++ c++11 function-point functor variadic-templ	c++ c++11 function-point functor variadic-templ
+41594595	41599226	0	274.0	49862	1949	c++ templat	c++ templat member-function-point
+51289394	51291661	0	117.0	38643	195	c++ strict-alias type-pun	c++
+783212	5006547	0	118.0	55647	1950	c++ window qt	c++ qt qmutex qsharedmemori
+1413445	13687769	0	118.0	48747	1951	c++ stl password-protect	c++ window consol password
+9094422	14365595	0	55.0	55676	1952	c++ multithread c++11 stdthread	c++ c++11 stdthread stdatom
+9587756	9705535	1	55.0	49544	1953	c++ winapi network file-io	c++ winapi network file-io
+2128321	4518598	0	830.0	38048	1954	c++	c++ recurs standard main
+13840998	45068782	0	26.0	58812	1955	c++ algorithm boost c++11 std	c++ sort vector stdvector
+539537	46836658	0	277.0	52223	1956	c++ c	c++ c window file io
+11821158	53655187	0	119.0	39405	1957	c++ virtual covari	c++ paramet virtual covari contravari
+28674543	28680634	0	26.0	47005	1958	c++ templat typenam redefinit enable-if	c++ templat paramet typenam function-templ
+12546036	42116186	0	26.0	43254	196	c++ fstream bmp file-handl grayscal	c++ c++11 fstream c++03 libstdc++
+28769788	28906771	0	836.0	38055	1964	c++	c++ templat overload return-typ special
+28699281	28724017	0	27.0	46997	1965	c++ templat condit case-stat nested-if	c++ templat paramet undefin enable-if
+7000892	7013286	0	27.0	60605	1966	c++ templat c++11 metaprogram typetrait	c++ templat template-meta-program typetrait
+24530771	43239208	0	119.0	42399	1967	c++ memory-manag boost-asio	c++ tcp boost-asio
+14187647	14248044	0	27.0	42374	1968	c++ nest privat access-modifi anonymous-struct	c++
+3873625	3874615	0	27.0	49052	197	c++ array constructor default stack-bas	c++
+7141260	7153935	0	842.0	41099	1970	c++	c++ string encod
+148403	26196686	0	27.0	46033	1971	c++ unicod stl utf-8 character-encod	c++ perform c++11 utf-8
+402283	11107608	0	27.0	47415	1972	c++ string unicod c++-faq wstring	c++ winapi unicod internation wstring
+15585267	48024566	0	281.0	39103	1973	c++ printf	c++ iostream
+12761315	51961077	0	120.0	46728	1975	c++ stl unordered-set	c++ c++11 pointer data-structur random-access
+3052788	8302231	0	121.0	41682	1976	c++ iter set	c++ set stl-algorithm
+4539406	57125504	0	121.0	43022	1977	c++ default-valu member-funct	c++ class argument overload c++17
+52122996	52172457	0	56.0	47142	1978	c++ boost boost-log boost-log	c++ visual-studio boost-log boost-log
+23049166	23049984	0	283.0	52862	198	c++ c	c++ c++11 language-lawy
+20614282	32513793	0	56.0	55063	1980	c++ visual-studio-2012 c++11 method	c++ c return
+18700558	52583833	0	56.0	50300	1982	c++ templat special default-paramet	c++ templat template-speci partial-speci
+1390913	49213720	0	121.0	43094	1983	c++ inherit static	c++ inherit
+3517795	3517991	0	284.0	46679	1984	c++ stl	c++ stl design-choic
+7346634	47227977	0	285.0	46855	1985	c++ pointer	c++ language-lawy
+18001629	35132860	0	27.0	50324	1986	c++ except boost boost-asio blackberry-10	c++ blackberry-10 blackberry-qnx
+4071456	5115872	0	285.0	39928	1987	c++ math	c++ math express
+15128383	15150451	0	57.0	46288	1988	c++ databas memori memory-manag	c++ c memori buffer ifstream
+477225	485649	0	57.0	41968	1989	c++ optim file-io ifstream	c++ optim profil gprof
+14404904	14405837	0	286.0	44421	199	c++ constructor	c++ c++11 rvalue-refer object-lifetim temporary-object
+35893937	35919228	0	27.0	47474	1990	c++ boost metaprogram boost-graph boost-fus	c++ boost metaprogram boost-fus boost-phoenix
+4316442	12774207	0	27.0	45476	1991	c++ stream std fstream ofstream	c++ c file stream
+4279164	7056882	0	287.0	38743	1993	c++ boost-filesystem	c++ file boost time boost-filesystem
+16596422	20497315	0	57.0	51153	1994	c++ templat stl contain	c++ templat opencv
+29488392	29490493	0	57.0	44409	1995	c++ polymorph overload object-sl	c++ inherit polymorph overload
+49538136	49550663	0	123.0	39090	1996	c++ protect private-memb	c++ language-lawy protect access-specifi member-point
+2102582	12972317	0	123.0	41916	1998	c++ count enumer	c++ enum count
+12692892	39327028	0	868.0	38090	1999	c++	c++ return-valu void
+8121570	8125234	0	28.0	53662	2	c++ c winapi audio mp3	c++ c window winapi directshow
+37210716	46356623	0	28.0	56010	20	c++ mongodb c++11 cmake mongodb-c	c++ mongodb mongo-cxx-driv
+21141848	21144237	0	28.0	62643	200	c++ c algorithm c++11 bit-manipul	c++ c++11 bit-manipul compiler-optim instruction-set
+7401269	7401521	0	290.0	43115	2000	c++ except	c++ except optim copy-elis
+8357955	8393990	0	58.0	51879	2001	c++ window multithread threadpool	c++ window multithread thread-safeti
+56952305	56981096	0	28.0	53835	2002	c++ qt polygon transform qimag	c++ imag opencv rotat nearest-neighbor
+35703958	35722135	1	125.0	46933	2005	c++ boost boost-seri	c++ boost boost-seri
+29208668	29253100	0	28.0	51318	2006	c++ gcc arm vector neon	c++ pointer c++98 strict-alias
+9407367	13830158	0	58.0	52264	2009	c++ templat stl template-meta-program	c++ templat typetrait iter
+17735852	17800256	0	125.0	50422	201	c++ templat type	c++ templat c++11 trait
+5467576	12887700	0	125.0	50249	2010	c++ c compil	c++ c
+174612	940087	0	28.0	52884	2011	c++ c cross-platform printf size-t	c++ c
+4276207	4279264	0	126.0	49451	2013	c++ c boolean	c++ initi undefined-behavior
+2725044	2726204	0	126.0	43620	2014	c++ cast boolean	c++ c-preprocessor
+25242556	25245453	0	28.0	58464	2015	c++ templat c++11 hash stdhash	c++ templat template-argument-deduct
+26533740	29056890	0	28.0	44650	2016	c++ function-point language-lawy one-definition-rul comdat-fold	c++ c++11 visual-studio-2013 optim
+4254059	4461562	0	59.0	51686	2017	c++ mysql c api	c++ mysql c linux socket
+36534706	51031060	0	59.0	50228	2019	c++ linux gcc tbb	c++ parallel-process g++ c++17 clang++
+28247137	28252909	1	126.0	53597	202	c++ qt cmake	c++ qt cmake
+21763038	21767415	0	127.0	46987	2020	c++ string cstring	c++ gcc
+1259272	1260757	0	127.0	39005	2021	c++ covari forward-declar	c++ covari return-typ
+3539583	21771639	1	127.0	47536	2022	c++ boost boost-asio	c++ boost boost-asio
+19927952	37588408	0	59.0	53948	2023	c++ qt tree model-view	c++ qt model-view-control qtreeview model-view
+181624	15671536	0	127.0	44665	2024	c++ regex linux	c++ regex c++11 g++
+47752997	47868671	0	127.0	50640	2026	c++ c++11 c-preprocessor	c++ c++11 macro c-preprocessor
+2934904	43612592	0	298.0	43274	2027	c++ standard	c++ visual-c++ c++14 post-incr square-bracket
+16782103	61240589	0	896.0	38694	2029	c++	c++ struct initi
+22716560	22726351	0	299.0	42235	203	c++ offsetof	c++ opengl- glkit
+17228	24109	0	28.0	47638	2030	c++ linux eclips gdb valgrind	c++ linux ide
+11630321	12276675	0	128.0	42295	2031	c++ standard modulo	c++ modulo recurr
+6880832	15148749	0	60.0	53586	2032	c++ templat pointer member	c++ templat c++11 c++14 pointer-to-memb
+8936549	13299394	0	29.0	54717	2035	c++ c++11 overload compile-time-const constexpr	c++ c++11 compile-tim constexpr
+2481654	12902651	0	902.0	38053	2037	c++	c++ initi
+1255559	26285254	0	29.0	46454	2039	c++ image-process integr cmake itk	c++ visual-studio-2008 itk
+38706879	38723515	0	129.0	58065	204	c++ templat c++11	c++ c++11 std
+9183993	48710758	0	60.0	47657	2040	c++ visual-c++ c-preprocessor variadic-macro	c++ visual-c++ compiler-error macro variadic-macro
+5530505	38209120	0	60.0	47792	2041	c++ visual-studio-2010 visual-c++ c-preprocessor	c++ visual-c++
+15513453	15733390	0	129.0	44270	2042	c++ map visual-studio-2012	c++ functor
+5771868	6326907	0	908.0	38068	2043	c++	c++ memory-manag
+5430022	5430801	0	303.0	45515	2044	c++ boost	c++ c++11
+6114067	26351587	0	29.0	66015	2046	c++ array templat initi c++11	c++ initi stdarray
+11337494	16781886	0	29.0	46153	2048	c++ stl map refer unordered-map	c++
+7724448	47283908	0	304.0	43096	2049	c++ json	c++ json jsoncpp
+42379391	45260216	0	130.0	44439	205	c++ cmake emscripten	c++ cmake emscripten webassembl
+9573748	9584641	1	305.0	53134	2050	c++ c++11	c++ c++11
+1185252	29289974	0	61.0	45184	2052	c++ data-structur stl standard	c++ c++11 stl
+47878888	47963081	0	29.0	45181	2053	c++ curl linker visual-studio-2017 vcpkg	c++ visual-studio ssl curl vcpkg
+14147705	30937544	0	61.0	40022	2054	c++ fortran bla scalapack	c++ mpi linear-algebra intel-mkl scalapack
+1657883	58986072	0	306.0	42062	2055	c++ variadic-funct	c++ c++11 c++14 c++17 variadic-templ
+7788639	17813423	0	131.0	47367	2056	c++ pointer dynamic-array	c++
+24116817	24121708	0	29.0	54599	2059	c++ c++11 language-lawy parenthes c++-faq	c++ c++11 c++14 decltyp type-deduct
+27492435	57318518	0	131.0	50253	206	c++ c++11 strict-alias	c++ type-pun
+7557179	27276555	0	307.0	53349	2060	c++ c++11	c++ multithread c++11 stl
+667634	37183531	0	132.0	41426	2061	c++ perform virtual-funct	c++ benchmark librt
+3134183	11180773	0	132.0	51213	2063	c++ multithread winapi	c++ mous hook
+30021274	33753912	0	132.0	44875	2064	c++ winapi directx	c++ imag opencv video directx
+5572464	9789560	0	29.0	50451	2065	c++ boost multidimensional-array iter boost-multi-array	c++ algorithm boost multidimensional-array
+32510183	38415831	0	61.0	53080	2066	c++ perform c++11 auto	c++ c++11 lazy-evalu auto
+2212776	17532460	0	29.0	44209	2067	c++ overload iostream manipul endl	c++ iostream
+790687	8750407	0	310.0	38709	2069	c++ initialization-ord	c++ static-initi
+17024143	21725874	0	62.0	45762	207	c++ test boost boost-test	c++ unit-test boost
+8706356	12598029	0	133.0	43330	2070	c++ pars boost-spirit	c++ boost-spirit boolean-oper
+5088460	11714827	0	133.0	41659	2072	c++ g++ warn	c++ gcc warn compiler-warn gcc-warn
+306533	31051317	0	133.0	41128	2073	c++ file directori	c++ c++11 boost boost-filesystem
+4403726	4405634	0	311.0	44353	2074	c++ polymorph	c++ refer polymorph object-sl
+4410790	4411320	0	62.0	43620	2075	c++ shared-ptr smart-point pimpl-idiom	c++ shared-ptr pimpl-idiom
+5346836	5347444	0	30.0	57538	2076	c++ string c++11 rvalue-refer move-semant	c++ array refer c++11 overload-resolut
+30487064	30489891	0	62.0	46447	2077	c++ multithread memori heap	c++ multithread mutex
+38705842	38707459	1	313.0	42857	208	c++ eigen	c++ eigen
+318398	373142	0	134.0	44397	2081	c++ perform compil	c++
+2616011	5620235	0	134.0	41846	2082	c++ url uri	c++ c regex mfc visual-c++
+486099	12849013	0	314.0	40523	2083	c++ inner-class	c++ class nest parent
+9510514	11019232	1	314.0	50740	2084	c++ templat	c++ templat
+4702732	4984612	0	134.0	46697	2085	c++ window mingw	c++ mingw codeblock static-link
+4984600	11902791	0	315.0	41817	2086	c++ c++-faq	c++ class refer
+1727881	18773343	0	315.0	40440	2087	c++ trigonometri	c++ eulers-numb
+30329235	38443452	0	315.0	41892	209	c++ avx	c++ c intel sse simd
+2551775	2552839	0	135.0	50433	2090	c++ stl vector	c++
+11511510	17636690	0	30.0	48905	2096	c++ stl iter undefined-behavior stl-algorithm	c++ c++11 stl stdvector
+11538124	23153445	0	63.0	46199	2097	c++ visual-c++ compiler-optim undefined-behavior	c++ language-lawy undefined-behavior dead-cod unreachable-cod
+29074892	29077121	0	135.0	53539	21	c++ c++11 initializer-list	c++ debug releas initializer-list
+24048022	45599509	0	63.0	45372	210	c++ sort stl strict-weak-ord	c++ sort gcc std gnu
+1448467	1494182	0	317.0	41745	2100	c++ streambuf	c++ visual-c++ stream
+9131763	13635079	0	63.0	52898	2101	c++ eclips c++11 eclipse-cdt	c++ c++11 eclipse-cdt
+8654327	24027333	0	63.0	46182	2102	c++ dll static shared-librari	c++ log static-method static-memb
+13017946	13029299	0	30.0	47446	2104	c++ memori memory-manag memory-leak constructor	c++ stl vector
+34688926	34690980	0	63.0	51133	2105	c++ boost type boost-multi-index	c++ c++11 template-meta-program dependent-nam
+32712057	32715610	0	63.0	40703	2106	c++ c-preprocessor bimap boost-bimap	c++ language-lawy
+3092198	3095856	0	319.0	41758	2107	c++ class-design	c++ visual-c++ align
+124856	124880	0	137.0	42850	2109	c++ operator-overload c++-faq	c++ c++-faq
+11985604	11999606	1	320.0	42510	211	c++ lua	c++ lua
+7265157	7269099	0	962.0	38862	2110	c++	c++ array pointer multidimensional-array undefined-behavior
+39912	3385229	0	321.0	44272	2111	c++ stl	c++ vector stl eras erase-remove-idiom
+3310737	12002480	0	64.0	59155	2112	c++ c++11 boost shared-ptr	c++ std
+3582608	8054273	1	137.0	41151	2113	c++ iter const-iter	c++ iter const-iter
+37029541	37031805	0	31.0	47577	2115	c++ inherit iter standard const-iter	c++ iter standard deprec c++17
+11814536	21065616	0	138.0	40796	2116	c++ eclips eclipse-cdt	c++ eclips gcc c++11 mingw32
+21805674	37614714	0	31.0	44348	2118	c++ language-lawy undefined-behavior toupper tolow	c++ c depend standard language-lawy
+5539249	37482246	0	31.0	40796	2119	c++ compiler-error lowercas toupper tolow	c++ string local ctype tolow
+56006786	56029329	0	31.0	42436	212	c++ visual-studio-2017 c++17 union deleted-funct	c++ c++17 union std-bitset struct-member-align
+103512	1609163	0	323.0	43207	2120	c++ cast	c++ cast static-cast
+573294	16499683	0	324.0	41283	2122	c++ cast	c++ cast reinterpret-cast
+16540725	50025862	0	31.0	51814	2123	c++ except c++11 destructor c++98	c++ except destructor
+226061	5436139	1	324.0	53467	2124	c++ c++11	c++ c++11
+24498894	24504582	0	139.0	40876	2125	c++ file next	c++ stringstream
+809227	39864070	0	65.0	52929	2126	c++ c binari bit-field	c++ c bit-manipul numeric-limit
+14158896	14170746	0	65.0	52305	2127	c++ list c++11 forward-list	c++ c++11 forward-list
+3069950	35258164	0	978.0	41225	2128	c++	c++ scientific-not
+11955859	11972818	1	65.0	49312	213	c++ templat factory-pattern command-pattern	c++ templat factory-pattern command-pattern
+6006527	31359829	0	140.0	53717	2131	c++ rvalue-refer c++11	c++ c++11 stl move-semant
+4265167	4274763	0	327.0	39318	2132	c++ undefined-behavior	c++ standard undefined-behavior iso language-lawy
+989795	12082405	0	31.0	53528	2133	c++ multithread boost mutex boost-thread	c++ boost
+38271718	38276005	0	65.0	42649	2134	c++ inherit multiple-inherit observer-pattern	c++ gcc visual-c++ clang language-lawy
+3716277	42441791	0	140.0	51333	2135	c++ c++11 rvalu	c++ c++11 xvalu prvalu value-categori
+34520013	36783808	0	31.0	47076	2136	c++ gcc x86 inline-assembl red-zon	c++ c linux gcc assembl
+25078285	41351564	0	31.0	44211	2137	c++ perform assembl x86 compiler-optim	c++ visual-studio optim x86-64 intrins
+776508	31387778	0	31.0	52989	2138	c++ c rotat bit-manipul c++-faq	c++ bitwise-oper undefined-behavior constant-tim
+5698002	40152967	0	65.0	44613	2139	c++ string password secure-cod	c++ c++11
+2004419	34686972	0	141.0	50196	214	c++ visual-c++ mfc	c++ winapi
+2505328	2533476	1	990.0	38707	2140	c++	c++
+962132	18580779	0	66.0	45357	2143	c++ constructor overrid virtual-funct	c++ constructor virtual-destructor
+4155847	4156538	0	330.0	41361	2144	c++ perform	c++
+2804893	45751856	0	66.0	44638	2145	c++ dll export name-decor	c++ .net dll dynamic-link name-decor
+5093460	28828957	0	66.0	50968	2146	c++ c preprocessor ansi-c	c++ string enum c++17 c++20
+9640256	9641699	0	142.0	54218	2149	c++ c++11 variadic-templ	c++ c++11 stdtupl
+38213088	53806687	0	66.0	52961	215	c++ c++11 initi unique-ptr	c++ c++17 static-initi noncopy
+5279051	13813007	0	66.0	48327	2154	c++ vector combin cartesian-product	c++ algorithm data-structur c++11 template-meta-program
+7592129	9459035	0	142.0	40186	2155	c++ random minesweep	c++ random
+199333	3944505	0	142.0	52493	2156	c++ c integer-overflow	c++ c undefined-behavior sign integer-overflow
+22682513	22707814	1	66.0	47120	2157	c++ visual-c++ visual-studio-2012 rapidjson	c++ visual-c++ visual-studio-2012 rapidjson
+862858	867462	0	333.0	44023	2158	c++ cast	c++
+8123776	11884643	0	334.0	39103	2159	c++ dynamic-cast	c++ oop
+49791664	49858977	0	32.0	40774	216	c++ assembl compiler-optim intrins icc	c++ assembl optim intrins icc
+6486432	8514633	1	66.0	54296	2160	c++ c++11 variadic-templ template-templ	c++ c++11 variadic-templ template-templ
+13880205	39932391	0	32.0	54472	2161	c++ c++11 inherit overrid virtual-funct	c++ c++11
+53742062	53742648	1	67.0	54768	2162	c++ c++11 typetrait perfect-forward	c++ c++11 typetrait perfect-forward
+31445800	32857101	1	335.0	40297	2163	c++ boost-asio	c++ boost-asio
+5760774	36900593	0	144.0	43660	2164	c++ recurs revers	c++ g++ compiler-optim tail-recurs clang++
+3673998	6337294	0	144.0	43547	2165	c++ constructor new-oper	c++ constructor new-oper destructor
+1172939	6982585	0	336.0	42975	2167	c++ pars	c++ grammar context-free-grammar d
+3681188	17208570	0	337.0	41659	2168	c++ compil	c++ function const signatur
+3682049	3683881	0	67.0	48790	2169	c++ class const overload	c++ class overload
+57577372	57579194	0	32.0	44179	217	c++ gcc mingw mex tdm-gcc	c++ matlab mex c++03
+18437875	18458663	0	32.0	48021	2170	c++ visual-c++ 32bit-64bit linker-error unresolved-extern	c++ visual-c++ linker linker-error unresolved-extern
+216823	44973435	0	145.0	39363	2171	c++ trim stdstring	c++ c++17
+51120541	51121856	0	32.0	45601	2172	c++ assembl visual-c++ x86 compiler-optim	c++ assembl x86 compiler-optim micro-optim
+13827973	17375780	0	67.0	48106	2175	c++ dictionari stl contain	c++ set stdset
+37924996	51839698	0	145.0	52646	2176	c++ c++11 lambda	c++ c++17
+23737449	37219718	0	340.0	53335	2177	c++ c++11	c++ templat c++11 variadic-templ generic-program
+5803953	17500821	0	1021.0	38214	2178	c++	c++ oop static constructor
+9963798	9963974	0	340.0	53247	2179	c++ c++11	c++ c++11 move-semant
+17730333	17731366	0	341.0	40200	218	c++ glut	c++ opengl glut
+7949229	18553210	0	33.0	44549	2180	c++ math matlab linear-algebra gsl	c++ matlab matrix linear-algebra equation-solv
+7965262	8111677	0	146.0	40481	2181	c++ namespac scope	c++ argument-dependent-lookup name-lookup c++-faq
+3179494	12323028	0	33.0	41596	2182	c++ except signal destructor exit	c++ gcc destructor
+1978709	24186681	0	68.0	45687	2183	c++ memory-manag memory-leak undefined-behavior	c++ language-lawy undefined-behavior
+4230602	8046097	0	33.0	45858	2185	c++ winapi uac detect administr	c++ winapi
+54142	12824378	1	343.0	41886	2186	c++ comma-oper	c++ comma-oper
+40673080	41404001	0	147.0	45322	2187	c++ language-lawy c++17	c++ c++17 structured-bind
+5009869	5026197	0	343.0	41955	2188	c++ garbage-collect	c++ smart-point c++-faq
+5598487	31546511	0	33.0	53388	2189	c++ qt iter qobject qradiobutton	c++ qt qlayout
+43158839	43160533	0	68.0	46069	219	c++ xcode debug cout	c++ xcode input output xcode8
+1837024	1837092	0	344.0	39460	2190	c++ pass-by-refer	c++ constructor destructor temporary-object
+23591075	23594969	1	69.0	52854	2191	c++ c++11 lambda operator-overload	c++ c++11 lambda operator-overload
+6089231	9188126	0	148.0	43526	2193	c++ ifstream newlin	c++ istream sentri
+7593086	8452130	0	33.0	58044	2194	c++ c++11 stl iter container-data-typ	c++ c++11
+988069	1143262	0	33.0	58911	2199	c++ c pointer coding-styl const	c++ c pointer int const
+55026916	55028330	0	148.0	48865	22	c++ templat c++17	c++ templat language-lawy c++17
+26643602	26645035	0	148.0	54330	220	c++ qt except	c++ except
+9701276	10159236	0	69.0	45172	2200	c++ opencv computer-vis track	c++ opencv computer-vis
+9135144	9233358	0	148.0	41932	2201	c++ tr1 make-shar	c++ c++11 shared-ptr backtrac make-shar
+17388771	32011751	0	347.0	40473	2202	c++ abstract-syntax-tre	c++ function compiler-construct symbol-t class-nam
+205945	32487575	0	149.0	47242	2203	c++ stl tree	c++ class language-lawy self-refer
+181630	40809926	0	149.0	40889	2204	c++ tree graph-theori	c++ boost graph tree tree-travers
+570669	2249110	0	149.0	42721	2205	c++ doubl nan	c++ c math function
+35129135	36028302	0	69.0	41286	2206	c++ overflow valgrind callgrind	c++ valgrind
+32507684	32508952	1	349.0	44088	2207	c++ memory-manag	c++ memory-manag
+197675	703691	0	1049.0	38297	2208	c++	c++ array pointer new-oper delete-oper
+24042774	32541268	0	150.0	42930	2209	c++ objective-c swift	c++ objective-c c swift bridging-head
+26111162	57318251	0	150.0	42455	221	c++ clang clang-format	c++ command-lin
+839765	4525847	0	150.0	53637	2210	c++ c api	c++ handl incomplete-typ empty-class
+30048533	45055402	0	33.0	40663	2214	c++ floating-point atom compare-and-swap stdatom	c++ assembl vector x86-64 stdatom
+6995310	7007403	0	70.0	47689	2219	c++ multithread multicor volatil	c++ visual-c++ atom volatil memory-f
+41664138	41665036	0	351.0	40367	222	c++ except	c++ language-lawy
+27333311	27807118	1	34.0	50926	2221	c++ c++11 concurr memory-model stdatom	c++ c++11 concurr memory-model stdatom
+4437527	4479597	0	151.0	42886	2223	c++ volatil compiler-optim	c++
+201593	15265397	0	70.0	46197	2225	c++ string enum script	c++ enum
+410823	3770654	0	70.0	50938	2226	c++ templat design-pattern factori	c++ constructor singleton factori
+1525764	1833356	1	151.0	46382	2228	c++ boost shared-ptr	c++ boost shared-ptr
+1600399	8439595	0	1061.0	41471	2229	c++	c++ c visual-c++
+26119212	54254075	0	354.0	40483	223	c++ stl-algorithm	c++ vector input
+18880654	45069219	0	70.0	57817	2230	c++ c++11 random stl	c++ c++11 random
+8530080	19710601	0	354.0	38984	2231	c++ void-point	c++ pointer
+7341607	15558664	0	1065.0	41308	2232	c++	c++ c++11 rvalue-refer
+12015195	29772601	0	152.0	48764	2233	c++ templat sfina	c++ c++11 sfina
+22798558	22808067	0	152.0	45142	2234	c++ const language-lawy	c++ c++11 const language-lawy const-correct
+4875289	11638271	0	71.0	53894	2235	c++ swap move-semant c++11	c++ bit-manipul swap
+1642028	42355908	0	34.0	53109	2236	c++ c oper code-format standards-compli	c++ c oper decrement
+2046228	3778799	0	152.0	44597	2237	c++ visual-studio cuda	c++ visual-studio-2010 cuda projects-and-solut nsight
+18939882	30132951	0	71.0	52626	2238	c++ c++11 unique-ptr c++14	c++ c++11 c++14
+12372531	36506297	0	34.0	48873	2239	c++ file-io stl iostream stdvector	c++ c++11
+42920777	42941228	0	34.0	47829	224	c++ boost parallel-process wait boost-msm	c++ multithread boost
+8996385	8997000	1	153.0	46788	2240	c++ visual-studio-2010 compiler-error	c++ visual-studio-2010 compiler-error
+3729515	7033855	0	34.0	42226	2242	c++ visual-studio-2008 visual-studio-2010 naming-convent projects-and-solut	c++ visual-studio-2010 visual-c++ msbuild cl.ex
+3695174	42746694	0	34.0	49530	2243	c++ visual-studio visual-c++ visual-studio-2010 visual-c++-2010	c++ visual-studio compil linker-error compiler-warn
+240212	14574617	0	359.0	44161	2244	c++ memory-manag	c++ memory-manag malloc new-oper dynamic-alloc
+7546620	24248828	0	359.0	42088	2246	c++ memory-manag	c++
+478898	52164723	0	34.0	43320	2247	c++ process posix system return-valu	c++ c++11 process stdout stderr
+2790346	12207684	1	154.0	55645	2248	c++ multithread c++11	c++ multithread c++11
+4192170	41670800	0	360.0	42090	2249	c++ definit	c++ language-lawy c++-standard-librari one-definition-rul c-standard-librari
+10207490	10208233	0	154.0	42252	225	c++ googletest googlemock	c++ templat macro c-preprocessor
+25953601	25963685	0	361.0	43220	2250	c++ scope	c++ c++11 visual-studio-2013 move-semant rvo
+778378	4666450	0	154.0	42002	2251	c++ fstream bitset	c++ file stl vector bitset
+6447819	6449266	0	35.0	47618	2253	c++ string search lookup binaryfil	c++ stl iter
+8642363	14681349	0	35.0	43499	2254	c++ constructor compiler-error virtual-funct dynamic-bind	c++ c++11 constructor deleg pure-virtu
+9314534	9350810	0	35.0	44872	2255	c++ perform visual-studio-2010 compil floating-point	c++ objective-c perform floating-point
+179105	327573	0	362.0	42964	2256	c++ smart-point	c++ boost pass-by-refer pass-by-valu shared-ptr
+3496982	27585021	0	363.0	39090	2258	c++ pretty-print	c++ c++11 foreach
+1051379	35962647	0	363.0	42351	2259	c++ initi	c++ initi implicit-convers
+48924449	48985041	0	156.0	52722	226	c++ window winapi	c++ window except seh
+333889	1945846	1	364.0	39752	2260	c++ header-fil	c++ header-fil
+6181464	12718423	0	156.0	51416	2261	c++ lambda c++11	c++ lambda c++11 language-lawy
+321068	2571831	0	1095.0	41269	2262	c++	c++ language-agnost return-valu
+38392092	38393302	0	35.0	43854	2263	c++ tupl aggreg std-pair c++17	c++ templat c++17
+1010106	12724057	0	73.0	50357	2264	c++ window debug heap	c++ c heap-memori heap-corrupt virtualalloc
+348833	3026649	0	366.0	41051	2266	c++ except	c++ except visual-c++ log
+691719	4636456	0	73.0	43893	2267	c++ except exception-handl stack-trac	c++ linux gcc stack-trac
+3899870	40751832	0	73.0	54886	2268	c++ c linux callstack	c++ c stack-trac glibc libunwind
+3355683	11665829	0	35.0	42748	2269	c++ exception-handl stack-trac callstack unhandled-except	c++ gcc exception-handl c++11 code-inject
+22509876	29593207	0	73.0	54156	227	c++ c++11 struct initi	c++ c++11 c-string in-class-initi
+1732011	1855459	0	1103.0	41341	2270	c++	c++ c stl limit numeric-limit
+213907	8311058	0	73.0	41814	2271	c++ coding-styl iostream c++-faq	c++ string charact
+25680461	58588748	0	73.0	61287	2272	c++ templat c++11 variadic-templ	c++ templat c++14 variadic-templ
+50321788	50333246	0	368.0	47214	2273	c++ templat	c++ templat visual-studio-2017
+13632507	13636949	1	369.0	53412	2274	c++ c++11	c++ c++11
+13061979	40447401	0	158.0	52504	2275	c++ c++11 shared-ptr	c++ stl shared-ptr c++17
+671703	1239938	0	158.0	58251	2276	c++ c array	c++ array
+10604794	33955275	0	74.0	57509	2277	c++ array c++11 tupl	c++ array c++11 stl
+33690697	34341839	0	158.0	47669	2278	c++ visual-studio windows-consol	c++ codeblock
+42777424	43410631	0	158.0	45996	2279	c++ visual-studio visual-studio-2017	c++ window
+54166888	54167232	0	74.0	44197	228	c++ language-lawy main one-definition-rul	c++ initi global-vari language-lawy main
+4557009	35485866	0	159.0	50220	2281	c++ string vector	c++ vector constructor initi addit
+180516	263945	0	159.0	52147	2282	c++ boost stl	c++ stl iter
+11404710	17005258	0	74.0	52219	2283	c++ multithread boost boost-asio	c++ boost event-handl boost-asio
+4332164	4332286	0	372.0	43809	2284	c++ optim	c++ optim compiler-construct assembl
+8060025	12530406	0	74.0	56848	2285	c++ regex gcc c++11	c++ regex gcc c++11 libstdc++
+5153908	13059091	0	159.0	53644	2287	c++ c pars	c++ input stream
+12015156	57672592	0	74.0	39909	2288	c++ exception-handl assignment-oper exception-safeti	c++ stl language-lawy c++-standard-librari
+2402579	37499889	0	160.0	45399	2289	c++ oop function-point	c++
+29838574	31622153	0	36.0	47001	229	c++ opencv computer-vis gdi template-match	c++ opencv opencv3.0
+8335430	8627373	0	374.0	42905	2295	c++ contain	c++ data-structur
+375913	25865264	0	160.0	46014	2296	c++ linux profil	c++ gcc profil gprof
+5739937	21567291	0	160.0	43482	2297	c++ getlin cin	c++ input iostream istream c++-faq
+3703658	55716940	0	36.0	59242	2298	c++ templat paramet c++11 variadic-funct	c++ variadic-templ
+24901	1303899	0	36.0	46578	2299	c++ perform oop post-incr pre-incr	c++ perform
+21733836	45870498	0	75.0	49611	23	c++ window perform file-io	c++ window createfil
+56263432	56283794	0	161.0	47073	230	c++ visual-studio stdstring	c++ visual-studio-2015
+381621	54973981	0	161.0	52357	2300	c++ array vector	c++ array stdvector
+21943621	52068410	0	1131.0	41312	2301	c++	c++ memory-manag
+936687	29375797	0	75.0	49386	2302	c++ array multidimensional-array dynamic-alloc	c++ array memcpi
+1041866	13694605	0	36.0	52909	2304	c++ c linkag name-mangl extern-c	c++ c
+118547	23406033	0	162.0	44477	2305	c++ winapi zip	c++ window file compress
+59756738	59758453	0	75.0	50611	2306	c++ c++11 pure-virtu name-hid	c++ name-lookup using-declar name-hid
+72010	411103	0	75.0	46381	2307	c++ function overload resolut	c++ function inherit lookup c++-faq
+2354210	2939860	0	36.0	49067	2308	c++ templat virtual-funct function-templ c++-faq	c++ templat virtual visitor
+13772567	50883849	0	36.0	54467	2309	c++ c perform x86 rdtsc	c++ time cpu benchmark chrono
+26882023	31739792	0	162.0	49713	2312	c++ c srand	c++ c undefined-behavior garbag
+24296571	32506643	1	162.0	47629	2313	c++ gcc undefined-behavior	c++ gcc undefined-behavior
+4990462	5002055	1	163.0	47450	2314	c++ pointer delete-oper	c++ pointer delete-oper
+1861912	2071579	0	380.0	41841	2315	c++ self-destruct	c++ gcc this-point
+933850	1023306	0	36.0	55362	2316	c++ c linux unix path	c++ c linux maco execut
+3734247	6502828	0	163.0	42311	2317	c++ member-funct c++-faq	c++ c++11 default declar keyword
+21502017	27744079	0	36.0	56060	2321	c++ gcc c++11 language-lawy undefined-behavior	c++ c++11 gcc language-lawy c++14
+22176777	22182432	0	36.0	57048	2322	c++ gcc c++11 constexpr side-effect	c++ gcc c++11 language-lawy constant-express
+5563000	43510056	0	163.0	40456	2323	c++ cast implicit	c++ cast overflow downcast underflow
+24370732	24371868	0	37.0	45091	2324	c++ perform int long-integ short	c++ c int short integer-promot
+106508	48454208	0	37.0	57224	2326	c++ pointer c++11 smart-point c++-faq	c++
+57483	1950779	0	76.0	50276	2327	c++ pointer refer c++-faq	c++ refer
+3593687	59226791	1	1151.0	38261	2328	c++	c++
+19554841	54504247	0	384.0	42064	2330	c++ const-cast	c++ const undefined-behavior const-cast
+1898524	28245226	0	76.0	51283	2331	c++ memori pointer refer	c++ refer
+3025421	9084671	0	37.0	50826	2333	c++ templat lvalu rvalu c++03	c++ language-lawy rvalu c++03
+614794	1301850	0	37.0	50366	2334	c++ c refactor includ depend	c++ coding-styl header-fil
+2351148	61520847	0	385.0	50265	2337	c++ templat	c++ templat c++20 c++-modul
+120876	5894940	0	165.0	44510	2338	c++ inherit constructor	c++ oop class
+54827950	54984669	0	77.0	49107	234	c++ templat c++17 typetrait	c++ metaprogram return-typ decltyp result-of
+40579342	45960387	0	37.0	54099	2342	c++ c++11 atom lock-fre memory-barri	c++ multithread c++11 compiler-optim stdatom
+38447226	39393850	0	37.0	45499	2347	c++ multithread x86 atom memory-barri	c++ c multithread assembl atom
+8891067	31978324	0	77.0	56012	2348	c++ qt assembl x86	c++ multithread c++11 atom
+23971761	38984153	0	37.0	45828	2349	c++ multithread assembl x86 lock-fre	c++ multithread lock-fre lockless aba
+27689105	27690419	0	77.0	52190	235	c++ c++11 operator-overload proxy-pattern	c++ c++11 operator-overload
+9553591	12346487	0	37.0	48198	2350	c++ multithread atom memory-model stdatom	c++ c++11 thread-safeti atom memory-model
+15445758	15467042	0	389.0	43266	2351	c++ gcc	c++ multithread c++11 atom volatil
+9954518	42416776	0	77.0	43217	2352	c++ unique-ptr incomplete-typ libc++	c++ unique-ptr pimpl-idiom
+6012157	9020372	0	37.0	57754	2355	c++ visual-studio-2010 c++11 stl unique-ptr	c++ c++11 pimpl-idiom unique-ptr
+7038357	12547983	0	37.0	55027	2356	c++ c++11 variadic-templ unique-ptr perfect-forward	c++ templat c++11 variadic-templ unique-ptr
+1878285	12084781	0	37.0	42556	2359	c++ user-interfac struct richedit c++builder-5	c++ reflect introspect template-meta-program boost-fus
+5930985	5951292	0	391.0	48184	236	c++ opencv	c++ c opencv
+26986570	26994755	0	167.0	52795	2360	c++ c++11 destructor	c++ c++11 language-lawy
+20815921	20816117	0	167.0	54149	2361	c++ c++11 move	c++ c++11 language-lawy
+18841747	18847739	1	168.0	53260	2362	c++ c++11 delete-oper	c++ c++11 delete-oper
+311166	5576922	0	37.0	53264	2363	c++ boost stl shared-ptr auto-ptr	c++ c++11 shared-ptr pimpl-idiom unique-ptr
+43777837	43778590	0	38.0	51454	2364	c++ opencv parallel-process align vector	c++ parallel-process vector simd intel-advisor
+6320995	20939089	0	168.0	47741	2365	c++ string cout	c++
+185844	1197106	0	168.0	40742	2366	c++ initi static-memb	c++ static privat initi static-constructor
+747470	22458355	0	393.0	47091	2368	c++ stl	c++ c++11 precis floating-point-precis numeric-limit
+6255445	6255682	1	394.0	39138	237	c++ dialog	c++ dialog
+26189166	26190364	0	169.0	45249	2370	c++ visual-studio-2013 std	c++ optim clock
+10962290	11328264	0	169.0	53599	2371	c++ iter c++11	c++ for-loop c++11
+8114276	28336207	0	79.0	55420	2372	c++ argument c++11 unique-ptr	c++ unique-ptr
+5481539	7153991	0	38.0	51042	2373	c++ c++11 rvalue-refer c++-faq perfect-forward	c++ pass-by-refer rvalue-refer c++11
+3582001	3591832	0	38.0	54041	2374	c++ c++11 rvalue-refer c++-faq perfect-forward	c++ forward c++03
+1897675	2004820	0	38.0	47803	2375	c++ templat overrid multiple-inherit special	c++ visual-c++ gcc multiple-inherit
+1120140	26979013	0	79.0	43875	2376	c++ pars text csv	c++ stream getlin default-constructor
+1494399	3418231	0	170.0	41106	2377	c++ replac std	c++ string replac substr std
+54465850	54466591	0	170.0	42673	238	c++ enum c++17	c++ constant c++17 constexpr
+4767925	43471071	0	38.0	50782	2380	c++ linux gcc static-link static-initi	c++ linker ld abstract-factori static-block
+1686204	2037880	0	397.0	39911	2381	c++ header-fil	c++ class coding-styl includ
+4185350	4186431	0	170.0	48537	2382	c++ vector exception-saf	c++ standards-compli
+111478	8630552	0	38.0	44367	2383	c++ stl raii auto-ptr c++-faq	c++ stl vector auto-ptr
+7823990	8851670	0	170.0	45759	2384	c++ boost noncopy	c++ boost c++11
+17775390	23980929	0	38.0	58149	2385	c++ c++11 header clang c++14	c++ c++11 c++14 language-lawy c++-faq
+3229883	11153182	0	171.0	49201	2386	c++ templat static	c++ visual-studio-2010 templat
+824157	2062956	0	171.0	48803	2387	c++ stl iter	c++ stl iter derefer
+7765239	7766771	0	80.0	41418	239	c++ polymorph type-convers polymorphic-associ	c++ copy-constructor
+332030	38682050	0	80.0	46819	2390	c++ pointer cast c++-faq	c++ inherit private-inherit
+471432	10699265	0	171.0	47047	2391	c++ stl container-data-typ	c++ c++11 c++-faq
+28573215	28574069	0	171.0	52197	2392	c++ c language-lawy	c++ c language-lawy systems-program
+3498444	28482809	0	172.0	49745	2393	c++ pointer static	c++ c++11 language-lawy static-memb nullptr
+4486326	4486442	1	172.0	50659	2394	c++ c const	c++ c const
+14595992	23047198	0	1206.0	42297	2396	c++	c++ c++11 language-lawy c++03
+14442894	19881803	0	80.0	52652	2397	c++ c++11 undefined-behavior initializer-list	c++ language-lawy undefined-behavior initializer-list
+6399615	6473218	0	402.0	53485	2398	c++ c++11	c++ c++11 c++03 language-detect
+2602013	3303527	0	39.0	45274	2399	c++ string cach file-io standard-librari	c++ string
+4430835	4431836	0	172.0	49711	24	c++ array flag	c++
+8634234	8635186	0	80.0	44787	240	c++ stl set set-differ	c++ stl insert
+116038	524591	0	173.0	48032	2400	c++ string file-io	c++ string stream
+15952412	15967293	0	80.0	56438	2401	c++ multithread c++11 contain	c++ c++11 constructor contain alloc
+7689406	15219984	0	80.0	52173	2403	c++ stl vector resiz	c++ boost c++11
+15097783	21028299	0	173.0	56428	2406	c++ vector c++11	c++ boost c++11 vector
+2409504	5840148	0	81.0	43722	2407	c++ files fstream istream	c++ files
+41840608	41843911	0	173.0	49379	241	c++ array struct	c++
+18467624	22253355	0	174.0	50537	2411	c++ vector language-lawy	c++ string c++11 vector language-lawy
+6438086	6440392	0	39.0	55279	2412	c++ c++11 iter c++17 c++-faq	c++ iter
+5205491	7482567	0	39.0	49193	2413	c++ stl std c++-standard-librari c++-faq	c++ stl c++-standard-librari
+30114397	31483064	0	174.0	41111	2414	c++ language-lawy lifetim	c++ c memori
+37378199	37644977	0	39.0	53494	2415	c++ array pointer struct malloc	c++ malloc language-lawy object-lifetim
+53849	236129	0	81.0	47586	2418	c++ string split token	c++ string split
+28998697	33986937	0	174.0	48758	242	c++ templat warn	c++ templat friend
+37209725	38305559	0	39.0	57080	2421	c++ array pointer iter language-lawy	c++ c++11 stl
+1553382	4255598	0	81.0	42191	2422	c++ memory-manag delete-oper pod	c++ memory-manag delete-oper
+9330561	9331036	1	409.0	51075	2423	c++ templat	c++ templat
+4084777	19500404	0	81.0	46151	2424	c++ boost threadpool boost-thread	c++ boost threadpool boost-asio boost-thread
+437150	2384107	0	81.0	53013	2427	c++ array templat size	c++ templat
+28311795	29293394	0	39.0	46051	2428	c++ io xcode cocos2d-x crypto++	c++ symbol libstdc++ libc++
+11016220	29764869	0	82.0	52739	2429	c++ namespac c++11 inline-namespac	c++ c++11 abi binary-compat
+5751737	5754228	0	82.0	51614	243	c++ linux multithread boost-thread	c++ multithread design-pattern boost boost-asio
+8454329	8486077	0	39.0	58485	2430	c++ boost c++11 clang libc++	c++ boost clang libc++
+38043442	50109036	0	411.0	44910	2437	c++ c++17	c++ class c++11 static constexpr
+177437	3709207	0	411.0	51082	2438	c++ c	c++
+6264249	12122446	0	82.0	45060	2439	c++ compiler-construct linker c++-faq	c++ linker
+24017636	36132402	0	412.0	45593	244	c++ opengl	c++ opengl vbo
+272900	16284629	0	412.0	46137	2440	c++ g++	c++ static
+22444415	22444835	0	177.0	40021	245	c++ implicit-convers conversion-oper	c++ c++11
+4422507	4726570	0	40.0	41403	2455	c++ static namespac static-vari static-funct	c++ static c++11 standard
+29765961	45290121	0	40.0	55793	2456	c++ c++11 c++14 c++03 c++98	c++ initi c++14 default-valu
+2744181	12615683	0	82.0	53451	2458	c++ c visual-c++ extern-c	c++ c merg call
+11433978	11434180	0	82.0	49156	246	c++ window interfac mtp	c++ window interfac wpd mtp
+245742	1024361	0	177.0	49654	2460	c++ c goto	c++ goto
+405039	7248627	0	178.0	47378	2466	c++ templat setw	c++ width
+18764094	27341944	0	178.0	53913	247	c++ qt sleep	c++ qt qtcore qt-signal qtimer
+1133739	1134388	0	83.0	43221	2471	c++ oper operator-overload operator-keyword	c++ stl operator-overload
+2273330	12560291	0	416.0	43443	2472	c++ iostream	c++ floating-point default precis round
+1567082	46439291	0	178.0	45763	2473	c++ string line-process	c++ csv pars
+12573816	24715864	0	40.0	43559	2476	c++ linker-error undefined-refer c++-faq unresolved-extern	c++ ide
+115703	495021	0	418.0	48745	2477	c++ templat	c++ templat c++-faq
+4866425	33483623	0	83.0	49401	2478	c++ class struct undefined-behavior	c++ visual-c++
+46921042	46923969	0	418.0	48235	248	c++ array	c++ array loop for-loop if-stat
+92859	34906229	0	40.0	50822	2481	c++ oop class struct c++-faq	c++ class struct standard
+7627098	44868369	0	83.0	52996	2482	c++ lambda c++11 c++-faq	c++ c++11 lambda c++14
+395123	3119197	0	179.0	43293	2483	c++ smart-point raii	c++ error-handl
+161177	7779652	0	40.0	42397	2484	c++ except raii final c++-faq	c++ c++11
+10270328	48842770	0	40.0	54637	2485	c++ lambda c++11 exception-safeti scopeguard	c++ except exception-handl raii exception-safeti
+2687392	8644707	0	84.0	42340	2486	c++ scope declar for-loop	c++ for-loop scope initi variable-declar
+75538	8309538	0	421.0	41813	2489	c++ hidden-featur	c++ math bit-manipul subtract
+8808732	8824332	0	180.0	45924	249	c++ string count	c++ string
+4030959	4031228	0	421.0	42711	2490	c++ compiler-warn	c++ cast oper operator-overload
+4421706	34953523	0	84.0	45309	2493	c++ oper operator-overload c++-faq	c++ c++11 operator-overload
+7149461	7194127	1	40.0	46283	2494	c++ operator-overload new-oper c++-faq delete-oper	c++ operator-overload new-oper c++-faq delete-oper
+2830272	2835416	1	181.0	41693	2495	c++ debug heap	c++ debug heap
+11373203	20922609	0	84.0	45249	2496	c++ undefined-behavior language-lawy union	c++ c optim endian strict-alias
+25311011	28994148	0	84.0	56628	2498	c++ gcc c++11 g++	c++ xcode maco
+7011238	10901905	0	41.0	61929	2499	c++ c visual-studio-2010 visual-studio opencv	c++ visual-c++ opencv
+28545184	28551380	0	181.0	50484	25	c++ vector stl	c++ c++11 vector stl
+29938796	30045690	0	182.0	53859	250	c++ qt cursor	c++ qt plot tooltip qcustomplot
+14294271	14309245	0	41.0	52848	2503	c++ c++11 evalu compile-tim constexpr	c++ c++11 macro variadic-templ constexpr
+2558153	18414579	0	425.0	43227	2504	c++ set	c++ std
+228005	4351371	0	85.0	41697	2506	c++ integ stdstring itoa	c++ perform string integ
+14856344	17473753	0	182.0	54018	2507	c++ c++11 move-semant	c++ c++11 move return-value-optim rvo
+1861294	22387586	0	426.0	39283	2508	c++ benchmark	c++ optim profil
+2808398	31253334	0	41.0	57055	2509	c++ c linux time measur	c++ lambda c++14 perfect-forward forwarding-refer
+56260017	58569932	0	183.0	39295	251	c++ grpc google-cloud-pubsub	c++ deadlock grpc google-cloud-pubsub
+21060574	21072058	0	184.0	47593	2510	c++ linux profil	c++ linux profil gprof
+14768951	42026891	0	41.0	59727	2511	c++ templat c++11 variadic-templ function-templ	c++ variadic-templ
+137038	38552116	0	41.0	58546	2513	c++ c debug gcc assembl	c++ gcc assembl clang
+3828192	4980815	0	41.0	50451	2514	c++ c unix directori exist	c++ linux directori exist
+317450	356950	0	41.0	50467	2515	c++ boost operator-overload functor function-call-oper	c++ functor function-object function-call-oper
+979759	5740310	0	431.0	39129	2516	c++ strict-weak-ord	c++ struct comparison-oper
+6218812	11312448	0	41.0	51239	2517	c++ c++11 oper tupl strict-weak-ord	c++ comparison-oper lexicograph
+2080281	2084098	0	185.0	52866	252	c++ c mmap	c++ share mmap
+3279543	20511678	0	41.0	40563	2522	c++ copy-constructor assignment-oper c++-faq copy-and-swap	c++ swap
+4986673	10476665	0	41.0	51618	2523	c++ c++11 move-semant rvalue-refer c++-faq	c++ object copi return return-valu
+670734	5650199	0	86.0	52223	2525	c++ class pointer c++-faq	c++ templat
+13292237	15858141	0	41.0	53225	2526	c++ c++11 c-preprocessor constexpr string-liter	c++ string c++11 metaprogram user-defined-liter
+4850473	6245735	0	41.0	63822	2529	c++ templat c++11 operator-overload pretty-print	c++ c++11 tupl variadic-templ
+54872975	54902244	0	41.0	55334	253	c++ qt opengl qml glsl	c++ qt opengl qml
+320798	21384604	0	186.0	47923	2532	c++ stl namespac	c++ templat c++11 swap argument-dependent-lookup
+257288	13787490	0	86.0	49756	2536	c++ templat template-meta-program sfina	c++ conditional-compil typetrait
+1005476	14522939	0	42.0	55809	2537	c++ visual-studio templat g++ sfina	c++ templat struct
+610245	56411114	0	42.0	47691	2538	c++ templat typenam c++-faq dependent-nam	c++ c++11 gcc clang
+6166337	23206580	0	87.0	50644	2543	c++ templat metaprogram state	c++ templat macro template-meta-program
+4782757	12306226	0	42.0	54005	2544	c++ constructor c++11 rvalue-refer rule-of-thre	c++ c++11 assignment-oper default-implement
+1272680	28529416	0	87.0	44957	2545	c++ constructor initialization-list ctor-initi	c++
+10231349	10315041	0	436.0	52445	2546	c++ c++11	c++ string optim
+10972577	52589094	1	436.0	47882	255	c++ cmake	c++ cmake
+2712076	2879555	0	42.0	54704	2551	c++ pointer vector iter using-stat	c++ iostream
+8193102	13957166	0	42.0	61122	2553	c++ templat c++11 move-semant initializer-list	c++ c++11 contain move-semant initializer-list
+8468774	13148772	0	87.0	51509	2554	c++ c++11 initializer-list move-semant	c++ c++11 initi initializer-list
+3457967	4176328	0	87.0	53442	2557	c++ c cross-platform portabl	c++ undefined-behavior c++-faq sequence-point
+4638364	4709727	0	87.0	40803	2558	c++ undefined-behavior c++-faq sequence-point	c++ operator-preced sequence-point
+11170012	11176990	0	42.0	47885	256	c++ window opencl x86-64 floating-point-precis	c++ window opencl precis
+38501587	48842397	0	188.0	46880	2560	c++ c++17 operator-preced	c++ language-lawy c++17 make-shar exception-safeti
+596162	598148	0	188.0	42128	2561	c++ list std	c++ function standard
+10653903	10655290	0	439.0	49695	2562	c++ c	c++ c++11 undefined-behavior language-lawy c++03
+3601602	15482508	0	88.0	55172	2563	c++ express c++-faq c++11	c++ c++11 rvalu
+22009008	24152042	0	188.0	44227	2564	c++ visual-studio memory-align	c++ templat c++11 metaprogram
+620137	1613341	0	42.0	46823	2565	c++ constructor initi new-oper c++-faq	c++ initi c++-faq
+906734	2293796	0	441.0	47486	2567	c++ pointer	c++ pod lvalu rvalu
+33988297	37618213	0	42.0	46783	2568	c++ c++14 language-lawy list-initi aggregate-initi	c++ c++11 language-lawy default-constructor aggregate-initi
+37121425	37139784	1	88.0	50567	257	c++ templat operator-overload overload-resolut	c++ templat operator-overload overload-resolut
+146452	35152877	0	189.0	43128	2570	c++ type c++-faq	c++ oop type g++ avr
+2894891	2896689	0	1327.0	38589	2571	c++	c++ c null pointer
+449436	1661529	0	189.0	40630	2579	c++ design-pattern singleton	c++ multithread design-pattern
+222916	47867789	0	42.0	48754	258	c++ multithread boolean mutex openscenegraph	c++ multithread mutex
+86582	1008019	1	190.0	40606	2580	c++ design-pattern singleton	c++ design-pattern singleton
+612328	22386191	0	190.0	46791	2581	c++ struct typedef	c++ c struct typedef
+27683855	27684721	0	88.0	50982	259	c++ class struct constructor	c++ class object
+52399753	52402665	0	444.0	53945	26	c++ qt	c++ window qt qt5
+15100515	15110526	1	43.0	54791	260	c++ class templat inherit privat	c++ class templat inherit privat
+61237796	61238781	0	445.0	49953	261	c++ array	c++ language-lawy
+8279964	8284561	0	89.0	41135	262	c++ singleton stack heap	c++ singleton callstack
+4876253	4885161	0	43.0	47236	263	c++ function object orient vst	c++ class function nest vst
+21391299	21393164	0	89.0	51531	264	c++ vector stl cast	c++ opengl data-structur stl
+11167483	11219159	0	43.0	54051	265	c++ orm c++11 wrapper type-pun	c++ c++11 language-lawy reinterpret-cast type-pun
+9331404	9432499	0	89.0	50098	266	c++ stl recurs vector	c++ recurs vector
+2008707	5692009	0	447.0	50216	267	c++ window	c++ sql c window
+38692288	38721084	0	89.0	39752	268	c++ api updat maya	c++ maya maya-api
+38429078	38429908	0	43.0	50159	269	c++ window winapi createprocessasus privilege-elev	c++ window winapi privilege-elev
+39813866	39814446	1	1344.0	41573	27	c++	c++
+22919759	23762420	1	192.0	42662	270	c++ segmentation-fault corba	c++ segmentation-fault corba
+8595087	8597039	1	192.0	44013	271	c++ except exception-handl	c++ except exception-handl
+23231012	35074830	0	89.0	55609	272	c++ qt opengl qt3d	c++ qt5 qwidget qt3d qwindow
+30003891	36370335	0	449.0	53814	273	c++ qt	c++ qt qprogressbar
+8542611	8542752	0	449.0	39385	274	c++ java-native-interfac	c++ android-ndk java-native-interfac
+35556450	35633531	1	192.0	45936	275	c++ boost boost-multi-array	c++ boost boost-multi-array
+53630837	53632120	0	193.0	46443	276	c++ language-lawy c++17	c++ c++17
+6444876	6449198	1	193.0	41707	277	c++ file-io buffer	c++ file-io buffer
+39998793	40001901	0	90.0	57959	278	c++ c++11 templat sfina	c++ templat
+53629760	53713992	0	193.0	53722	279	c++ c++11 nan	c++ c++11 nan ostream
+6523292	6523878	1	193.0	57046	28	c++ boost c++11	c++ boost c++11
+45765087	56663116	0	193.0	47778	280	c++ winapi averag	c++ math averag mean
+4346240	4353894	0	193.0	42368	281	c++ memori iostream	c++ visual-c++ memori memorystream streambuf
+34492720	34494559	0	452.0	42164	282	c++ direct3d12	c++ visual-c++ directx managed-directx direct3d12
+25908414	26103828	0	90.0	47795	283	c++ opencv image-process merg	c++ opencv image-process merg yuv
+30800772	38468644	0	43.0	45066	284	c++ imag qt4 video-process opticalflow	c++ qt video qtmultimedia qt5.7
+32854765	32919083	0	43.0	49423	285	c++ window build mingw gtkmm	c++ windows-xp codeblock dwm tdm-gcc
+61760083	61768725	0	90.0	43764	286	c++ depend template-speci c++20	c++ depend template-speci c++20 c++-concept
+15355048	21227071	0	194.0	53550	287	c++ c++11 user-defined-liter	c++ gcc
+48647161	48696645	0	194.0	42598	288	c++ fortran fortran-iso-c-bind	c++ intel-fortran
+23287222	38597274	0	455.0	51267	289	c++ c	c++ c printf implicit-convers undefined-behavior
+8620383	8648540	0	1366.0	41553	29	c++	c++ stl
+15879071	15881735	1	195.0	47826	290	c++ pointer member	c++ pointer member
+50222760	50244264	1	44.0	43815	291	c++ openmp intel gnu reduct	c++ openmp intel gnu reduct
+55986995	55987832	0	91.0	60268	292	c++ c++11 templat c++14	c++ c++11 c++14 boilerpl
+49695508	49696603	0	44.0	43511	293	c++ dictionari key key-valu multimap	c++ language-lawy multimap
+27430864	27675026	0	44.0	52514	294	c++ qt cooki qt5.4 qtwebengin	c++ qt cooki qtnetwork qtwebengin
+30563673	37380430	1	457.0	42435	295	c++ istream	c++ istream
+15984453	15984499	0	196.0	54033	296	c++ c++11 lambda	c++ c++11 refer lambda
+48120268	48121671	1	458.0	49146	297	c++ boost	c++ boost
+59655911	59696381	0	91.0	45268	298	c++ multithread thread-safeti data-rac	c++ multithread c++11 language-lawy as-if
+25094989	25146997	0	44.0	45183	299	c++ unit-test googletest eigen gmock	c++ templat eigen googletest gmock
+5761041	5761204	1	1377.0	38650	3	c++	c++
+54233187	54243601	0	91.0	44294	30	c++ type-convers eigen tensor	c++ compiler-optim
+38171543	53626481	0	91.0	45524	300	c++ ubuntu cmake llvm	c++ gcc cmake llvm gcov
+61752890	61757409	0	1380.0	41641	301	c++	c++ c++11 language-lawy
+29997142	31381563	0	197.0	45083	302	c++ language-lawy c++14	c++ one-definition-rul
+10634603	10635365	0	197.0	58005	303	c++ multithread c++11	c++ multithread design-pattern c++11
+13255826	13257103	0	461.0	47443	304	c++ templat	c++ language-lawy sfina
+14830908	27411379	0	44.0	49771	305	c++ window registri password-protect password-recoveri	c++ window secur
+60441437	60442205	0	461.0	40018	306	c++ dynamic-array	c++ language-lawy
+30294294	30298467	0	44.0	54218	307	c++ c winapi dialog editcontrol	c++ c user-interfac winapi
+10697991	10721269	0	92.0	42931	308	c++ drag-and-drop hook ole	c++ com ole
+34487014	34488323	1	1388.0	38582	309	c++	c++
+46307266	46630386	0	44.0	43412	31	c++ ffmpeg linker shared-librari static-librari	c++ ffmpeg shared-librari static-librari
+10108720	10122219	1	92.0	54124	310	c++ qt qgraphicsitem incomplete-typ	c++ qt qgraphicsitem incomplete-typ
+22166767	22167235	1	44.0	59026	311	c++ templat c++11 lvalu rvalu	c++ templat c++11 lvalu rvalu
+30030925	30032332	0	198.0	49270	312	c++ boost argument-dependent-lookup	c++ language-lawy function-cal overload-resolut argument-dependent-lookup
+31079297	31081551	0	44.0	42262	313	c++ linked-list stack postfix-not infix-not	c++ string input stack getlin
+18774522	29506426	0	199.0	43848	314	c++ exception-handl googletest	c++ c++11 exception-handl googletest
+6184658	6201759	0	93.0	48514	315	c++ multithread windows-7 qt4	c++ multithread boost-asio waitformultipleobject
+31077823	31091223	0	93.0	54165	316	c++ node.j c++11 v8	c++ c++11 placement-new
+3217441	22951260	0	93.0	42449	317	c++ constructor default derived-class	c++ constructor
+44718664	44719583	1	466.0	42963	318	c++ typedef	c++ typedef
+50311966	50322241	1	45.0	52238	319	c++ templat c++14 variadic-templ template-meta-program	c++ templat c++14 variadic-templ template-meta-program
+45843428	45861479	0	45.0	47913	32	c++ g++ option c++17 clang++	c++ cast operator-overload c++17 static-cast
+726456	16607426	0	200.0	40311	320	c++ oper equals-oper	c++
+43375114	43397349	1	93.0	46944	322	c++ array excel xll	c++ array excel xll
+53882498	53885538	0	200.0	43128	323	c++ move assignment-oper	c++ assignment-oper move-constructor
+8268687	30873206	0	200.0	51286	324	c++ c include-guard	c++ c c-preprocessor header-fil
+35854686	38680819	0	45.0	62262	325	c++ templat c++11 clang crtp	c++ constexpr crtp
+19325258	19540594	0	45.0	41554	326	c++ excel vba excel-2003 xlw	c++ visual-studio vba excel-vba xlw
+38414951	38415131	0	201.0	46469	327	c++ except constructor	c++ language-lawy
+49546754	49568858	0	45.0	45651	328	c++ c++14 new-oper dynamic-memory-alloc delete-oper	c++ initi compiler-optim placement-new
+49162554	49162871	1	45.0	54094	329	c++ class templat code-gener auto-gener	c++ class templat code-gener auto-gener
+19366503	52539331	0	201.0	40007	33	c++ signal posix	c++ except exception-handl signal
+50210908	50211746	1	1411.0	41726	330	c++	c++
+39725067	39727409	0	94.0	50901	331	c++ templat sfina c++17	c++ templat sfina c++03 c++17
+58861467	58862280	1	201.0	46778	332	c++ cmake cuda	c++ cmake cuda
+16954974	19801932	0	471.0	52107	333	c++ c++11	c++ c++11 stdvector move-semant
+710604	15674177	0	1415.0	41742	334	c++	c++ whitespac istream trail
+33510086	33534162	0	202.0	56553	335	c++ visual-studio qt	c++ window qt
+3810269	3810281	1	472.0	50635	336	c++ templat	c++ templat
+20602734	20603707	1	202.0	39508	337	c++ rubi swig	c++ rubi swig
+5790514	20073401	1	202.0	54758	338	c++ multithread qt	c++ multithread qt
+42437697	42578008	0	473.0	45362	339	c++ mfc	c++ cooki mfc
+48724815	48727627	0	94.0	46553	34	c++ algorithm recurs graph	c++ algorithm recurs towers-of-hanoi
+28708497	39199564	0	94.0	61028	340	c++ templat c++11 constexpr	c++ c++11 compile-time-const
+41557421	41558092	0	203.0	50633	341	c++ pointer vector	c++ runtime-error suffix-tre suffix-array suffix
+5643923	59729491	0	203.0	49956	342	c++ array default-constructor	c++ array constructor
+3808708	3809103	0	475.0	46092	343	c++ pointer	c++ algorithm pointer data-structur
+29272497	29760640	0	46.0	48654	344	c++ opencv elf dynamic-link unresolved-extern	c++ ubuntu ro libtiff
+5642819	5644448	1	1427.0	39474	345	c++	c++
+57540155	57547273	0	1428.0	42002	346	c++	c++ variadic-templ c++20 default-argu std-source-loc
+6167017	6167515	0	46.0	60333	347	c++ templat lambda destructor c++11	c++ lambda c++11 try-catch final
+399792	3122284	0	95.0	53490	348	c++ c compiler-construct programming-languag	c++ c
+23015482	23033043	0	95.0	56749	349	c++ gcc c++11 g++	c++ gcc c++11 g++ comment
+18576986	18577584	0	46.0	54636	35	c++ c++11 concurr x86 memory-barri	c++ c++11 x86 arm compare-and-swap
+26351963	26374116	0	95.0	48859	350	c++ templat multiple-inherit variadic-templ	c++ templat c++11 polymorph variadic-templ
+15193108	15195840	0	46.0	45452	351	c++ map destructor friend unique-ptr	c++ std language-lawy
+57811230	57811424	1	46.0	47439	352	c++ struct refer initi language-lawy	c++ struct refer initi language-lawy
+30133364	30143148	0	95.0	58531	353	c++ c string encod	c++ array decod bluez
+32118485	32120691	0	95.0	51314	354	c++ class pointer log	c++ log static singleton overload
+25392935	25407804	0	46.0	62152	355	c++ templat c++11 function-point variadic-templ	c++ c++11 wrapper variadic-templ perfect-forward
+29313296	29316665	0	1439.0	38710	356	c++	c++ pointer refer
+13071037	13089110	0	96.0	50541	36	c++ boost timer boost-asio	c++ boost boost-asio boost-thread
+21685426	52167695	0	205.0	42882	361	c++ perform optim	c++ stl c++14 profil language-lawy
+5116642	5118115	0	96.0	43104	362	c++ c++builder indi bpl	c++ extern destructor freetyp .obj
+3543725	3566774	1	96.0	42307	364	c++ except chain nested-except	c++ except chain nested-except
+29759105	29759441	0	206.0	55106	365	c++ c++11 memori	c++ language-lawy
+37620642	37621932	0	206.0	51076	366	c++ c++11 compar	c++ string lambda c++14 initializer-list
+15653199	15663805	1	482.0	42600	367	c++ ide	c++ ide
+39194295	39195955	1	206.0	44442	368	c++ cmake fpic	c++ cmake fpic
+40028124	45485671	0	96.0	44996	369	c++ visual-studio-2015 ocr tesseract	c++ visual-studio-2017 tesseract
+13406987	13407737	0	96.0	54721	37	c++ c++11 g++ move-constructor	c++ c++11 volatil language-lawy
+61476419	61477009	0	1450.0	42046	370	c++	c++ language-lawy multiple-inherit diamond-problem qualified-nam
+8274083	49653102	0	207.0	48221	371	c++ multithread dll	c++ beginthread
+39791941	42077459	0	46.0	46487	372	c++ compiler-error iter member-funct stdset	c++ set std dequ
+23061113	32115766	0	46.0	51787	373	c++ window matlab visual-c++ mixed-program	c++ matlab
+21727015	36111009	0	207.0	47730	374	c++ winapi wndproc	c++ class constructor wndproc
+16124663	16126160	0	207.0	39783	375	c++ duplic doubly-linked-list	c++
+37095624	37116423	0	208.0	46091	376	c++ opencv fstream	c++ opencv track background-subtract mog
+61999188	62001869	0	208.0	46473	377	c++ sort matrix	c++ array sort c++11
+52561764	52617204	0	1458.0	38738	378	c++	c++ c++11 templat sfina
+29512112	54557611	0	486.0	42915	379	c++ concurr	c++ multithread c++17
+36687185	36697711	0	47.0	44989	38	c++ static initi const member	c++ static const declar definit
+23725631	23729016	0	97.0	53246	380	c++ templat inherit virtual-funct	c++ templat inherit namespac operator-overload
+41552514	41554125	1	208.0	53342	382	c++ c++11 language-lawy	c++ c++11 language-lawy
+1990032	1990135	0	487.0	42952	383	c++ multiple-inherit	c++ cross-platform multiple-inherit conditional-compil
+7754713	7755257	0	47.0	47913	384	c++ optim gcc assembl const	c++ static compiler-optim
+32737268	34997097	0	97.0	43207	385	c++ c++builder vcl borland-c++	c++ message-queu show c++builder c++builder-6
+45666043	46107312	0	47.0	45336	386	c++ language-lawy c++17 linkag one-definition-rul	c++ c++11 language-lawy c++17 linkag
+55967949	55969287	1	47.0	61431	387	c++ c++11 templat template-meta-program template-argument-deduct	c++ c++11 templat template-meta-program template-argument-deduct
+4390112	4390945	0	97.0	47833	389	c++ pointer refer shared-ptr	c++ pointer refer
+4974617	4977726	0	209.0	45619	39	c++ memori compiler-construct	c++ perform memory-manag
+6841263	25034867	0	210.0	48624	390	c++ window createprocess	c++ winapi createprocess winmain
+12487923	12488522	0	1471.0	41770	391	c++	c++ integer-overflow
+54132563	54135026	0	47.0	46275	392	c++ string c-string strncpi null-termin	c++ printf variadic-funct string-length strncpi
+17432233	17432707	1	491.0	54086	393	c++ qt	c++ qt
+28277715	28299761	0	210.0	41440	394	c++ csv segmentation-fault	c++ file-io stream filestream
+1326510	59899540	0	210.0	43151	395	c++ doubl round	c++ c math round
+7292588	7292842	1	210.0	56077	396	c++ multithread qt	c++ multithread qt
+27687751	29032658	0	98.0	52682	397	c++ string pointer char-point	c++
+60060462	60086331	0	98.0	44297	398	c++ cast polymorph overload	c++ except compiler-error c++17 std-variant
+1659614	46792046	0	211.0	43755	399	c++ unix aix	c++ oracl g++ database-connect occi
+54656017	55047561	0	98.0	41829	4	c++ posix ipc system-cal	c++ ipc fread
+34316306	48990136	0	47.0	45889	40	c++ opencv computer-vis camera-calibr fishey	c++ opencv distort fishey radial
+13331610	55442633	0	98.0	57135	400	c++ c linux network-program	c++ linux socket
+61318092	61452913	0	47.0	41250	401	c++ eclips eclipse-plugin real-tim rtem	c++ eclipse-plugin rtem
+31063055	40843719	0	212.0	44992	402	c++ sdl shared-ptr	c++ c++11 event smart-point
+6999845	16967828	0	495.0	39479	403	c++ standard-librari	c++ random vector
+7305614	57014731	0	495.0	44921	404	c++ visual-c++	c++ visual-studio-2017 gdi+
+24770397	24770614	1	495.0	42494	405	c++ boost-preprocessor	c++ boost-preprocessor
+8621052	33260200	0	48.0	54737	406	c++ constructor c++11 destructor assignment-oper	c++
+19896142	24769623	0	48.0	58354	407	c++ qt opencv utf-8 wstring	c++ qt winapi opencv unicod
+33157910	33280524	0	99.0	61579	408	c++ qt c++11 smart-point	c++ qt smart-point qvector qsharedpoint
+2748866	2749263	0	99.0	55335	409	c++ c++11 temporari rvalue-refer	c++ c++11 rvalue-refer lvalu
+14952141	14952504	0	497.0	39070	41	c++ categori	c++ downcast
+29825352	29845131	0	213.0	50486	411	c++ pointer language-lawy	c++ undefined-behavior
+15856027	15865627	0	1494.0	39327	412	c++	c++ undefined-behavior operator-preced sequence-point unspecified-behavior
+17428841	36656866	0	213.0	47719	413	c++ algorithm contain	c++ c++11
+35843485	35847567	1	48.0	51620	414	c++ templat c++14 sfina typetrait	c++ templat c++14 sfina typetrait
+22538802	22671635	0	48.0	45113	415	c++ multidimensional-array static dynamic-array member-vari	c++ array dynamic-array
+30797762	30837891	1	214.0	41332	416	c++ makefil gnu-mak	c++ makefil gnu-mak
+33444814	33681093	0	214.0	51220	417	c++ c++11 initializer-list	c++ linux c++11
+61493830	61510370	0	100.0	59925	418	c++ string perform c++11	c++ c benchmark
+9048883	12837433	0	48.0	54765	419	c++ c gcc static initi	c++ array initi
+46362227	46364828	0	500.0	50578	42	c++ templat	c++ templat c++98
+34018144	35444086	0	214.0	42421	420	c++ visual-studio-2015 clang	c++ visual-studio-2015 c++14 clang++ juce
+26919664	27388068	0	214.0	48965	421	c++ multithread visual-studio-2012	c++ multithread boost
+34203588	34223547	0	501.0	52350	422	c++ c++11	c++ c++11 crtp
+5038305	25290246	0	48.0	58188	423	c++ visual-c++ c++11 visual-c++-2010 rvalue-refer	c++ c++11 vector
+24901772	45475241	0	48.0	52393	424	c++ c++11 concurr language-lawy memory-model	c++ mutex memory-model stdatom relaxed-atom
+56223084	56225374	1	215.0	50215	425	c++ boost boost-asio	c++ boost boost-asio
+30008658	30010444	0	48.0	55629	426	c++ array templat matrix variadic-funct	c++ templat variad
+38293708	42719326	0	100.0	56470	427	c++ qt qt-creator c++14	c++ qt qmake
+2483227	2483260	1	1511.0	38833	428	c++	c++
+57003010	57009060	0	100.0	46733	429	c++ c++17 sfina enable-if	c++ templat language-lawy c++17 linkag
+10186102	10192651	0	100.0	52817	43	c++ qt rotat polygon	c++ qt rotat coordin
+26600136	26621813	0	48.0	62724	430	c++ c window maco opengl	c++ maco opengl
+18963580	28267484	0	216.0	41718	431	c++ except destructor	c++ c++11 exception-handl
+55524140	55524710	0	505.0	50129	432	c++ array	c++
+57167890	59949212	0	216.0	47106	433	c++ linux cmake	c++ cmake header-fil
+18997021	25325891	0	48.0	43904	434	c++ com atl hresult queryinterfac	c++ com hresult nullptr queryinterfac
+26540615	26541667	0	101.0	42910	435	c++ static bind local	c++ bind
+32103323	32141754	0	49.0	47900	436	c++ mfc const-correct const-cast const-refer	c++ lambda return-typ type-deduct
+1432336	16945930	0	101.0	48476	437	c++ winapi mfc show-hid	c++ winapi
+3529449	3529674	0	217.0	43234	438	c++ type-convers type-safeti	c++ compiler-error type-convers
+20825039	20830773	0	49.0	52995	439	c++ qt qthread qtcore qt-signal	c++ multithread qt qthread qtcore
+34842547	36138094	0	101.0	49622	44	c++ opencv segmentation-fault contour	c++ segmentation-fault object-detect opencv-contour
+38656443	38657534	0	49.0	54623	440	c++ c++11 inherit class-hierarchi modifi	c++ polymorph virtual-funct
+44500144	47569145	0	49.0	64327	441	c++ multithread c++11 gcc visual-c++	c++ objective-c c++11 thread-safeti objective-c++
+9123022	9123214	0	1527.0	38780	442	c++	c++ inherit destructor access-modifi language-lawy
+21958189	26597542	0	49.0	48217	443	c++ inherit overrid const overload	c++ inherit polymorph overload shadow
+6415186	13837668	0	49.0	58974	445	c++ templat c++11 custom-error static-assert	c++ macro c++11 integ static-assert
+42326130	42360760	0	102.0	56519	446	c++ c++11 data-structur iter	c++ c++11 boost iter adapt
+17457862	17476526	0	218.0	41301	447	c++ wxwidget codeblock	c++ mingw wxwidget codeblock
+20599721	20614205	0	102.0	52241	448	c++ boost linker clang	c++ maco boost
+60151358	60153693	0	102.0	41258	449	c++ imag c++builder vcl	c++ imag button c++builder vcl
+3114997	3136586	1	49.0	50488	45	c++ pointer segmentation-fault indirect multiple-indirect	c++ pointer segmentation-fault indirect multiple-indirect
+48617011	61000033	0	102.0	42318	450	c++ clang clion clang++	c++ netbean
+10343177	10343741	0	102.0	48601	451	c++ visual-studio compiler-error numeric-limit	c++ visual-studio type-convers default-argu
+12122317	12276668	1	219.0	53556	452	c++ c++11 move-semant	c++ c++11 move-semant
+59626494	59651328	0	512.0	48261	453	c++ multithread	c++ c++11 atom memory-model stdatom
+27464190	42062557	0	49.0	59549	454	c++ multithread c++11 gcc thread-safeti	c++ multithread c++11 lambda
+30266009	30277865	0	220.0	55079	455	c++ c++11 static-assert	c++ c++11
+31969547	40227333	0	513.0	42858	456	c++ cmake	c++ cmake multiple-project
+20981540	46943651	0	102.0	48274	457	c++ class static protect	c++ identifi
+5099967	5740155	0	514.0	39952	458	c++ cross-platform	c++ virtual-funct
+17945003	18035286	0	102.0	49066	459	c++ array file char	c++ array delphi dll char
+20932939	20933134	1	220.0	50592	46	c++ array sfml	c++ array sfml
+8247552	48603877	0	515.0	44288	460	c++ stl	c++ gcc stl alloc
+16110898	43110704	0	221.0	50024	461	c++ window winapi	c++ window cursor mous
+31605012	31611813	0	103.0	50991	462	c++ array cuda parallel-process	c++ array vector cuda thrust
+36818877	36865275	0	221.0	52384	463	c++ c++11 permut	c++ big-o permut string-comparison standard-librari
+13561693	13563873	1	516.0	50785	464	c++ templat	c++ templat
+179684	4610671	0	103.0	40050	465	c++ clr c++-cli superset	.net c++ c++-cli compat
+5722942	12701170	0	103.0	44734	466	c++ cuda gpu virtual-funct	c++ cuda virtual-funct
+15060372	27645319	0	103.0	50234	467	c++ array operator-overload add	c++ operator-overload biginteg
+23004941	23005241	0	103.0	56638	468	c++ c++11 constructor union	c++ c++11 g++ compiler-bug
+4610073	18205234	0	103.0	52576	469	c++ qt user-interfac qml	c++ qt qml
+52388910	52394125	0	103.0	52254	47	c++ templat c++17 dependent-nam	c++ templat language-lawy instanti
+35506712	35580152	0	103.0	45629	470	c++ string multipl repeat	c++ iter argument lifetime-scop object-destruct
+51235025	51244047	0	50.0	48860	471	c++ language-lawy c++17 variadic-templ template-argument-deduct	c++ language-lawy c++17 template-argument-deduct
+29329860	29331315	0	222.0	49023	472	c++ opencv declar	c++ eclips templat c++11 language-lawy
+22213452	22214272	1	520.0	46991	473	c++ socket	c++ socket
+30263007	30265207	0	50.0	55611	476	c++ c++11 language-lawy implicit-convers reference-wrapp	c++ templat operator-overload language-lawy
+29729049	29730796	0	50.0	54508	477	c++ xml c++11 xml-pars pugixml	c++ c++11
+2999952	51492181	0	521.0	51148	478	c++ qt	c++ qt c++11 qt5 qgraphicsitem
+47668769	47678870	0	223.0	52043	48	c++ c++11 language-lawy	c++ templat
+39690503	39806517	1	1565.0	42770	480	c++	c++
+45204856	45264761	1	50.0	58446	481	c++ c++11 vector iter incompatibletypeerror	c++ c++11 vector iter incompatibletypeerror
+2868673	19703835	0	223.0	54193	482	c++ qt qvariant	c++ qt qt5 qvariant
+41622896	46253990	0	104.0	43028	483	c++ constexpr c++17 structured-bind	c++ language-lawy c++17 constexpr structured-bind
+11387564	16769758	0	104.0	46447	486	c++ window font freetyp	c++ window qt
+7979640	8028526	0	104.0	57854	487	c++ stl c++11 forward-declar	c++ forward-declar
+30523825	35071659	0	523.0	50898	488	c++ c++11	c++ arm
+55765938	60932525	0	224.0	49629	489	c++ ssl boost	c++ http stream handshak asio
+60246132	60250900	0	104.0	50496	49	c++ window cmake mingw	c++ visual-studio qt cmake
+55492141	55498738	1	524.0	55242	490	c++ c++11	c++ c++11
+5223789	29571936	0	225.0	40612	491	c++ visual-studio-2005 c-preprocessor	c++ visual-studio mingw
+13935357	23277681	0	525.0	42908	492	c++ ofstream	c++ linux ofstream
+5094960	5095434	0	225.0	42506	493	c++ type typedef	c++ gcc warn overflow integer-overflow
+1417121	37448198	0	526.0	49206	494	c++ window	c++ assembl borland-c++
+11910558	11938359	0	50.0	56315	495	c++ templat inherit pointer template-funct	c++ templat overrid template-funct
+28511802	33930037	0	105.0	59209	496	c++ c winapi datepick	c++ window winapi mfc win32gui
+48347642	55214156	0	225.0	45828	497	c++ c++14 c++17	c++ c++17 boost-filesystem
+37861410	37867903	0	105.0	44903	498	c++ binari floating-point long-doubl	c++ precis terminolog pow
+59761144	59788946	0	226.0	44213	499	c++ oop virtual	c++ return
+4187850	4191253	1	105.0	45250	5	c++ socket udp fragment	c++ socket udp fragment
+52538669	52667937	1	105.0	53533	50	c++ qt user-interfac qwizard	c++ qt user-interfac qwizard
+14034478	33142145	0	105.0	43040	500	c++ boolean ternary-oper standards-compli	c++ int boolean
+13743357	13743727	0	1587.0	39175	501	c++	c++ c++11 language-lawy
+9864328	13781225	0	226.0	50967	502	c++ c++11 attribut	c++ c++11
+10106936	43365382	0	51.0	58638	503	c++ multithread c++11 x86-64 atom	c++ multithread mutex atom bu
+10605469	10606462	0	51.0	46808	504	c++ multithread hash map pthread	c++ optim map
+46510891	46515831	1	227.0	43576	505	c++ mpi mpich	c++ mpi mpich
+12432084	12433154	0	227.0	43214	506	c++ perform processing-effici	c++ vector stl-algorithm bitvector
+15053173	15065543	0	106.0	53982	507	c++ c api smart-point	c++ shared-ptr stdmap
+11263396	21378938	0	51.0	41103	509	c++ enum switch-stat int64 unique-valu	c++ enum uniqu
+38491608	38494276	0	227.0	48834	51	c++ templat catch-unit-test	c++ templat macro function-point
+34559607	34566179	0	51.0	50941	510	c++ boost c++14 abstract-syntax-tre boost-spirit-x3	c++ boost operator-overload c++14 boost-spirit-x3
+4829437	19379077	0	228.0	46709	511	c++ boost time	c++ boost unix-timestamp boost-date-tim
+25538776	25540033	0	106.0	43623	512	c++ print cout virtual-memori	c++ visual-studio gcc language-lawy
+23529563	23530206	0	228.0	44852	513	c++ function time	c++ g++
+43141124	43364596	0	51.0	49902	514	c++ x86 vector sse simd	c++ opencv image-process computer-vis
+13065271	13865853	0	51.0	63468	515	c++ templat stl c++11 member-function-point	c++ templat visual-c++ gener stl
+12516584	14363929	0	51.0	46881	516	c++ macro warn visual-studio-2012 wdk	c++ visual-studio-2012 visual-c++-6
+59616117	59637006	0	534.0	46014	517	c++ opengl	c++ opengl shader opengl-4
+14066120	14067547	0	106.0	54004	518	c++ c if-stat switch-stat	c++ c gcc if-stat switch-stat
+13343874	13360783	0	51.0	41713	519	c++ pars csv boost-spirit boost-spirit-qi	c++ boost boost-spirit
+43989414	43995946	0	229.0	43030	52	c++ rvalu overload-resolut	c++ templat overload-resolut
+42976708	43100934	1	107.0	43848	520	c++ haskel g++ ghc	c++ haskel g++ ghc
+2206270	36814862	0	107.0	50802	521	c++ window dll loadlibrari	c++ window dll linker
+22653233	22657386	0	107.0	51358	522	c++ qt qlabel qscrollarea	c++ qt qscrollarea
+48356152	53586178	0	536.0	45057	523	c++ operator-overload	c++ c++11 c++17
+10962044	10984490	0	230.0	39935	524	c++ pipe popen	c++ popen
+11989319	29315133	0	537.0	42575	525	c++ obfusc	c++ c++11 language-lawy undefined-behavior
+52541086	53190412	0	230.0	42991	526	c++ xcode macos-mojav	c++ xcode opencv permiss webcam
+54476881	54479308	0	538.0	42555	527	c++ count	c++ sort count uniqu std
+51332851	51374558	0	230.0	44608	528	c++ shared-librari c++17	c++ shared-librari language-lawy c++17 inline-vari
+34185286	34186365	1	538.0	54064	529	c++ c++11	c++ c++11
+4149229	12548490	0	231.0	45473	53	c++ gcc c-preprocessor	c++ c macro
+10854274	10855534	0	107.0	50402	530	c++ list pointer delete-oper	c++ visual-c++
+41556257	41593649	0	107.0	40204	532	c++ divis member modulo	c++ c++11 templat visual-studio-2015 constexpr
+45980501	45992636	0	231.0	48763	533	c++ gcc g++	c++ gcc g++ valgrind
+1191240	1191349	0	540.0	41171	534	c++ char	c++
+29991889	29994372	1	540.0	43787	535	c++ regex	c++ regex
+26321728	26321779	0	231.0	48910	536	c++ multithread linked-list	c++ deep-copi
+16622398	16626840	0	232.0	45889	537	c++ contain std	c++ templat
+28680879	28748868	0	232.0	49771	538	c++ templat instanti	c++ c-preprocessor
+14000715	14014261	0	542.0	48698	539	c++ winapi	c++
+7555545	7556636	0	232.0	41026	54	c++ copy-constructor pod	c++ default-constructor pod
+37855794	37874287	0	108.0	58786	540	c++ templat c++11 variadic-templ	c++ c++11 variadic-templ static-assert enable-if
+58302970	58306832	1	232.0	49511	541	c++ boost odeint	c++ boost odeint
+51749081	51752143	0	52.0	46539	542	c++ stl c++17 unordered-set string-view	c++ c++17 move-semant string-view
+39665300	39690166	0	52.0	56099	543	c++ c++11 gcc clang language-lawy	c++ gcc clang language-lawy variadic-templ
+18456450	18456695	1	1632.0	41950	544	c++	c++
+7860480	40738263	0	52.0	42687	545	c++ mysql odbc driver visual-c++-2008	c++ mysql timestamp odbc
+13020695	29507669	0	233.0	48152	546	c++ multithread low-lat	c++ multithread perform boost lock-fre
+32160401	32349157	0	109.0	50756	547	c++ visual-studio opencv visual-studio-2015	c++ function opencv crash return
+27630523	27632805	1	1636.0	41878	548	c++	c++
+36281187	36675012	0	52.0	43975	549	c++ debug termin ncurs clion	c++ termin clion
+57886451	57886648	0	52.0	43700	55	c++ c++20 class-templ designated-initi template-argument-deduct	c++ c++20 designated-initi ctad
+32348660	36407941	0	109.0	55290	550	c++ c++11 gdb variadic-templ	c++ gcc gdb variadic-templ
+4975394	22724064	0	546.0	45034	551	c++ iter	c++ visual-studio-2012 c++11
+37911950	53320015	0	109.0	48355	552	c++ boost boost-spirit boost-spirit-qi	c++ abstract-syntax-tre boost-spirit
+56727833	56728061	0	109.0	48077	553	c++ visual-studio static-librari mingw-w64	c++ mutex
+35231982	35276564	0	234.0	52934	554	c++ c++11 template-meta-program	c++ c++11 template-meta-program constexpr
+54546367	59726288	0	234.0	48738	555	c++ linux numa	c++ linux numa huge-pag
+15832631	29035225	0	235.0	49288	556	c++ pointer language-lawy	c++ c++11 enum forward-declar
+25576363	25917473	0	235.0	45683	557	c++ c++14 string-liter	c++ array c++14 constexpr constant-express
+28547419	28564029	1	549.0	41187	558	c++ boost-asio	c++ boost-asio
+56988898	56989756	0	549.0	51158	559	c++ qt	c++ language-lawy
+32720478	32741319	1	109.0	49310	56	c++ matlab opencv linear-algebra	c++ matlab opencv linear-algebra
+16880645	16888827	0	235.0	56138	560	c++ winapi c++11	c++ visual-c++ c++11 access-viol physx
+17404683	17407948	0	53.0	59309	561	c++ c visual-studio-2010 winapi file-io	c++ visual-studio-2010 winapi
+57250160	57264084	1	1652.0	38859	562	c++	c++
+11637063	11660758	0	110.0	43235	563	c++ asynchron libpcap raw-socket	c++ libpcap
+52006987	52024492	0	53.0	52987	564	c++ qt qwidget qgraphicsscen qgraphicswidget	c++ qt qgraphicsview qgraphicsscen qgraphicsrectitem
+52060862	52069804	0	53.0	54600	565	c++ qt qgraphicsview qgraphicsscen qgraphicsrectitem	c++ qt c++11 lambda qgraphicsscen
+29504070	29614410	0	236.0	52801	566	c++ c++11 move-semant	c++ qt pointer c++11 move-semant
+7704526	7705222	0	53.0	54790	567	c++ boost stl map std	c++ stl queue std
+50705571	51219755	0	53.0	58565	568	c++ c++11 vector std move-semant	c++ stdvector stdstring
+1149764	2256945	0	237.0	44772	569	c++ file-io delete-directori	c++ c
+58448071	58449034	1	110.0	40256	57	c++ typedef type-alia using-declar	c++ typedef type-alia using-declar
+507884	6277646	0	110.0	53209	570	c++ string stl vector	c++ vector std stdvector
+13298793	13310496	0	53.0	57388	571	c++ c linux filter i2c	c++ i2c
+27363861	27383949	0	53.0	46756	572	c++ opengl math matrix project	c++ math matrix graphic project
+43878810	43891849	0	53.0	54602	573	c++ socket c++11 udp boost-asio	c++ socket boost udp boost-asio
+7703358	27965722	0	111.0	48881	574	c++ gcc switch-stat gcc-warn	c++ switch-stat compiler-warn
+25622109	58810888	0	53.0	51800	575	c++ gcc vector iter max	c++ linux gcc optim std
+16365826	16404173	0	53.0	51326	576	c++ visual-studio gcc compiler-construct debuggervisu	c++ visual-studio gcc scope initi
+16090612	16092347	1	556.0	44968	578	c++ opengl	c++ opengl
+37062120	37078753	0	53.0	52584	579	c++ c++11 mpi sleep stdthread	c++ mpi openmpi busy-wait intel-mpi
+15155237	15173692	0	238.0	43414	58	c++ vb.net pinvok	c++ vb.net cygwin
+35012814	35232729	0	53.0	58793	580	c++ string c++11 std c++14	c++ c++11 variadic-templ
+41867111	42042563	0	53.0	61514	581	c++ c++11 templat hash sfina	c++ c++11 templat typetrait argument-dependent-lookup
+7439175	31135228	0	557.0	42096	582	c++ operator-overload	c++ array templat pretty-print
+12157137	12182551	0	54.0	44909	583	c++ random number operator-keyword logical-oper	c++ random operator-keyword
+26895238	30320369	0	558.0	49224	584	c++ templat	c++ templat typedef use
+218747	1150464	0	54.0	45181	585	c++ visual-studio-2008 debug winsx msvcr90d.dll	c++ visual-studio-2008 visual-c++ linker msvcr90d.dll
+34438946	34440316	0	54.0	50464	586	c++ multithread class thi derived-class	c++ callback pthread thi derived-class
+8245909	8299107	0	559.0	49366	587	c++ boost	c++ boost bind bisect
+11632203	11649104	0	111.0	50406	588	c++ linux opengl glsl	c++ opengl glsl codeblock
+23709529	37846843	0	54.0	57098	589	c++ qt drag-and-drop qt4 qt5	c++ qt memory-leak ownership
+1022487	3379956	0	560.0	41754	59	c++ file	c++ linux winapi temporary-directori
+405953	6203015	0	560.0	42592	590	c++ uml	c++ oop maco uml
+1408361	13587502	1	561.0	39450	591	c++ bcd	c++ bcd
+39681190	39681349	0	54.0	50190	592	c++ visual-studio visual-c++ visual-studio-2012 language-lawy	c++ c language-lawy
+3844010	13728425	0	240.0	43798	593	c++ decim fixed-point	c++ doubl precis cout
+13280921	13281089	1	562.0	46432	594	c++ visual-c++	c++ visual-c++
+23165475	41667653	0	241.0	42957	595	c++ thi class-method	c++ perform thi language-lawy member-funct
+11630823	14878938	0	241.0	41776	596	c++ boost-spirit boost-mpl	c++ boost boost-spirit abstract-syntax-tre boost-vari
+26310824	26311379	0	241.0	53519	597	c++ c fork	c++ c operating-system fork
+27621522	27624286	0	241.0	43050	598	c++ visual-studio-2010 codeblock	c++ gcc visual-studio-2013 mingw posix
+709146	3874624	0	241.0	48330	599	c++ stl queue	c++ visual-studio visual-c++ stl
+53205907	53209631	0	112.0	54077	6	c++ perform c++11 parallel-process	c++ perform c++11 parallel-process armadillo
+62077796	62078530	0	241.0	46860	60	c++ c++17 language-lawy	c++ c++17 language-lawy constant-express full-express
+24739986	50165795	0	242.0	43156	600	c++ except memori	c++ reflect architectur code-inject runtime-compil
+10915568	36796290	0	54.0	44128	601	c++ inherit virtual constant static-memb	c++ inherit
+7904281	41860785	0	113.0	48139	602	c++ opengl glut trigonometri	c++ opengl linear-algebra glut bezier
+53842888	55292768	0	54.0	44926	603	c++ gcc eigen eigen3 msys2	c++ gcc arm eigen
+7179062	7181153	1	1698.0	41905	604	c++	c++
+39821244	39832733	0	54.0	60145	605	c++ c++11 templat variadic-templ memory-align	c++ memcpi memory-align
+3240609	3241645	0	242.0	53264	607	c++ window winapi	c++ window winapi wchar-t tchar
+29381290	29563849	0	567.0	41086	608	c++ iostream	c++ c scanf
+5337370	6371048	0	243.0	53969	609	c++ c declar	c++ c linkag multiple-definition-error one-definition-rul
+25377341	25396281	0	54.0	45696	61	c++ visual-studio-2010 visual-studio-2012 dll runtime-error	c++ visual-studio visual-studio-2012 dll
+14657092	36165639	0	243.0	51216	610	c++ c++11 decltyp	c++
+50163959	50164588	0	243.0	44758	611	c++ const undefined-behavior	c++ c++11 const
+15036633	35251395	0	243.0	46468	612	c++ inherit static	c++ c
+17657761	17658902	0	113.0	57065	613	c++ except c++11 constructor	c++ c++11
+23162398	23172567	0	55.0	49340	614	c++ array perform optim cpu	c++ perform optim assembl x86
+6759560	38890959	0	113.0	49875	615	c++ test boost mock	c++ boost memory-leak gmock boost-unit-test-framework
+42044116	42046021	0	55.0	52045	616	c++ templat lambda c++14 perfect-forward	c++ c++11 lambda language-lawy
+44914938	44920101	0	114.0	42879	617	c++ abi backtrac demangl	c++ introspect abi demangl
+49638281	49639536	0	244.0	50862	618	c++ templat operator-overload	c++ c++11 templat operator-overload
+33647458	33648596	0	1713.0	42754	619	c++	c++ c printf undefined-behavior
+37697155	37710525	0	114.0	43134	62	c++ c-preprocessor header-fil termio	c++ linux header-fil termio
+23161514	23162091	0	1715.0	42119	620	c++	c++ friend
+11935689	27726049	0	114.0	42140	621	c++ xml tinyxml tinyxml2	c++ xml tinyxml2
+29190790	29201599	0	55.0	51556	622	c++ linux gcc arm cross-compil	c++ c gcc cross-compil crosstool-ng
+58550903	58595394	0	114.0	52922	623	c++ c except c-preprocessor	c++ c error-handl redefinit
+40462612	40470650	0	114.0	61347	624	c++ c++11 templat namespac	c++ c++11 templat
+733717	27879680	0	245.0	47185	625	c++ visual-c++ mfc	c++ mfc
+45751978	45769950	0	114.0	50161	626	c++ visual-c++ c++17 c++-standard-librari	c++ c++11 templat
+2837854	2838107	0	246.0	54322	627	c++ c struct	c++ struct
+37840682	37879781	0	114.0	50394	628	c++ boost boost-spirit boost-spirit-qi	c++ http boost error-handl boost-spirit
+49267066	49287221	0	246.0	39796	629	c++ derefer istream-iter	c++ derefer object-lifetim istream-iter const-refer
+52376111	59996751	0	575.0	42283	63	c++ design-guidelin	c++ google-style-guid
+4810026	5679764	0	55.0	49405	630	c++ network boost boost-asio protocol-buff	c++ socket boost stream
+1664262	1681327	1	115.0	44889	631	c++ internet-explor com activex	c++ internet-explor com activex
+3647331	20800684	0	115.0	52380	632	c++ objective-c c swap	c++ c swap undefined-behavior sequence-point
+4285346	4294629	1	55.0	49389	633	c++ multithread com atl bho	c++ multithread com atl bho
+27393985	45179671	0	55.0	49061	634	c++ vb.net window perform ntfs-mft	c++ perform winapi ntf ntfs-mft
+7168484	47649507	1	55.0	52610	635	c++ algorithm math vector collision-detect	c++ algorithm math vector collision-detect
+25518171	25539269	0	115.0	62056	636	c++ c array pointer	c++ c language-lawy
+53305408	53306863	0	577.0	43048	637	c++ doxygen	c++ templat
+56463341	59852054	0	55.0	47430	638	c++ string initi string-liter memset	c++ language-lawy memcpi object-layout
+59808321	59828544	0	115.0	44385	639	c++ pars boost-spirit boost-spirit-x3	c++ pars boost boost-spirit boost-spirit-x3
+23802209	41119365	0	248.0	43742	64	c++ cuda eigen	c++ c++11 cuda eigen3
+11362002	11364320	0	115.0	50853	640	c++ algorithm stl stl-algorithm	c++ standard complexity-theori associative-array
+10051221	10060748	0	115.0	52692	641	c++ c makefil gist	c++ linker makefil undefined-symbol
+22371789	60771584	0	56.0	49405	642	c++ linux command-lin clang clang-static-analyz	c++ visual-c++ clang static-analysi clang-static-analyz
+19176029	32857449	0	248.0	48265	643	c++ visual-studio cmake	c++ llvm emscripten asm.j
+36265109	36268132	0	56.0	51173	644	c++ array recurs argument arrayaccess	c++ c++11 type decltyp associated-typ
+29245312	29287610	0	580.0	44964	645	c++ linux	c++ linux g++ static-librari static-memb
+6642050	6642721	0	249.0	44945	646	c++ cuda assert	c++ templat typenam dependent-nam
+30051662	30423539	0	249.0	49311	647	c++ pointer memory-leak	c++ boost standard language-lawy undefined-behavior
+46272628	48061343	0	56.0	46573	648	c++ compil clang compiler-optim undefined-behavior	c++ g++ compiler-optim undefined-behavior clang++
+18701018	33435553	0	116.0	59611	649	c++ templat c++11 function-point	c++ function templat c++11 decltyp
+55784120	55786775	0	56.0	54470	65	c++ templat lambda c++17 template-argument-deduct	c++ language-lawy c++17 decltyp perfect-forward
+12933790	13009694	0	116.0	46934	650	c++ multithread corba orbacu	c++ c multithread corba orbacu
+7776022	60381580	0	583.0	44023	651	c++ qt4	c++ qt audio qaudioinput
+8476975	18847424	0	56.0	45757	652	c++ pars function reflect bind	c++ templat variad
+34167067	34229428	0	116.0	50202	653	c++ boost compiler-construct boost-vari	c++ boost boost-vari
+4806848	4807643	0	584.0	39699	654	c++ downcast	c++ covari
+3495422	3495984	1	1753.0	42052	655	c++	c++
+29851098	29867841	1	56.0	51220	656	c++ templat alia c++14 forwarding-refer	c++ templat alia c++14 forwarding-refer
+27176432	27200350	1	250.0	48543	657	c++ visual-studio visual-studio-2013	c++ visual-studio visual-studio-2013
+30096963	30103356	0	117.0	47599	658	c++ multithread random thread-local-storag	c++ c++11 random distribut prng
+18308866	42676256	0	251.0	49131	66	c++ winapi shell-extens	c++ winapi windows-10
+28746372	52384571	0	56.0	56813	660	c++ c++11 winapi posix system-error	c++ linux c++11 error-cod
+18975512	34952381	0	251.0	51045	661	c++ window visual-studio-2010	c++ function c++11 overload overrid
+14939242	16077809	0	251.0	43043	662	c++ refer makefil	c++ linux refer makefil
+50777836	50783053	0	117.0	46928	663	c++ constructor destructor copy-constructor	c++ visual-c++ constructor move-assignment-oper
+14883128	14886524	1	251.0	45824	664	c++ inherit arduino	c++ inherit arduino
+31806336	31809625	1	587.0	43442	665	c++ sqlite	c++ sqlite
+1659641	1678924	1	1764.0	39042	666	c++	c++
+5847480	5853855	1	1765.0	43256	667	c++	c++
+16355634	33640835	0	588.0	52724	668	c++ qt	c++ visual-studio qt qt-creator dcmtk
+10156044	21874774	0	589.0	48687	669	c++ opencv	c++ matlab opencv image-process
+53161886	53162484	0	589.0	44554	67	c++ stl	c++ c++11 struct
+46223437	46358574	0	589.0	43504	670	c++ indexoutofboundsexcept	c++ compiler-error
+31407210	32329516	0	590.0	39668	671	c++ uniqueidentifi	c++ visual-studio templat c-preprocessor c++03
+2209929	5497348	0	253.0	48290	672	c++ window cmake	c++ visual-studio-2010 cmake
+15203541	32067213	0	253.0	55258	673	c++ c++11 language-lawy	c++ c++11 unique-ptr derefer dangling-point
+2182408	6505963	0	253.0	41587	674	c++ const return-valu	c++ refer virtual const return-valu
+12764696	12765186	0	591.0	43139	675	c++ friend	c++
+56446068	56468171	0	253.0	42066	676	c++ hash overload-resolut	c++ overload sfina typetrait enable-if
+9136734	15814328	0	118.0	49957	678	c++ boost boost-spirit boost-spirit-qi	c++ boost boost-spirit
+4279023	59191738	0	254.0	40075	679	c++ test mock	c++ compil linker g++ ambigu
+14139265	14934911	0	57.0	48568	68	c++ gcc clang member-vari cover	c++ static-analysi cover
+1919626	4317318	0	254.0	55228	680	c++ c string	c++ visual-studio-2010 visual-c++
+52180744	52185464	0	57.0	52655	681	c++ templat language-lawy unique-ptr pimpl-idiom	c++ language-lawy c++17
+1977742	1980145	0	118.0	51997	682	c++ window multithread signal	c++ window multithread signal interrupt
+38767653	38770895	1	254.0	49845	683	c++ boost clion	c++ boost clion
+9783512	9783866	1	254.0	42837	684	c++ operator-overload set	c++ operator-overload set
+39422973	39423858	0	255.0	47954	685	c++ templat singleton	c++ inherit privat friend crtp
+34134252	34162446	1	595.0	48736	686	c++ opencv	c++ opencv
+14302834	14314410	0	119.0	53527	687	c++ c++11 move-semant c++-faq	c++ c++11 iter move-semant
+48842016	48842937	1	1788.0	42644	688	c++	c++
+57390595	58541216	1	119.0	42342	689	c++ shared-librari address-sanit one-definition-rul	c++ shared-librari address-sanit one-definition-rul
+9903718	9907328	0	57.0	46324	69	c++ g++ static-librari elf friend-funct	c++ c++11 standards-compli
+221185	13714436	0	57.0	54793	690	c++ c maco consol termin	compil c++
+21316374	21316610	0	256.0	44780	691	c++ object instanti	c++ language-lawy
+32696870	35996386	0	256.0	49492	692	c++ opencv cmake	c++ arm tbb tegra
+31762923	43074272	0	57.0	51236	693	c++ opencv cmake ro opencv3.0	c++ opencv ro robot vision
+13189650	33654914	0	57.0	45515	694	c++ visual-studio user-interfac librari libsndfil	c++ visual-c++ mfc extern
+42828859	43073800	0	598.0	43003	696	c++ jsoncpp	c++ memory-manag jsoncpp
+48705742	48733619	0	119.0	48914	697	c++ visual-studio visual-studio-2015 mfc	c++ mfc visual-studio-2017 compiler-warn
+8039896	8067038	0	58.0	54328	698	c++ vector boost vector-graph boost-geometri	c++ visual-studio visual-studio-2008 boost c++11
+59588564	59589175	0	1799.0	38957	699	c++	c++ fstream undefined-behavior
+36950532	36958661	0	257.0	44004	7	c++ openmp g++-4.7	c++ openmp hyperthread cpu-cor g++-4.7
+7023539	7024198	0	257.0	51082	70	c++ stl vector	c++ visual-studio-2008 std
+53821315	53840959	0	58.0	45468	700	c++ debug visual-studio-cod bazel vscode-task	c++ mingw bazel
+32849257	32892908	0	257.0	47199	701	c++ linux shell	c++ c++11 gdb errno
+15611089	15648681	0	257.0	44961	702	c++ type type-convers	c++ templat type-convers template-speci
+28130531	35370984	0	601.0	52573	703	c++ c++11	c++ c++11 std move-semant rvalue-refer
+30489754	30500236	1	602.0	54500	704	c++ qt	c++ qt
+3925836	16333783	0	602.0	39489	705	c++ sm	c++ qt sm
+15611024	15611487	1	602.0	43924	706	c++ user-interfac	c++ user-interfac
+27391205	59325270	0	603.0	53704	707	c++ c++11	c++ clang++
+36256242	36323932	0	58.0	52228	708	c++ templat visual-studio-2015 constexpr bitset	c++ templat visual-studio-2015 constexpr
+3488048	3491848	0	120.0	41458	709	c++ cast rtti typeid	c++ gcc boost enable-if
+8635981	8636094	0	258.0	45652	71	c++ constructor undefin	c++ templat
+4275050	5585195	0	120.0	56009	710	c++ visual-studio-2010 qt qt-creator	c++ visual-studio visual-studio-2010 qt build
+4274386	4282662	0	58.0	51841	711	c++ templat declar local friend	c++ templat scope friend
+30388453	43215529	0	121.0	42161	712	c++ fstream ifstream ofstream	c++ if-stat fstream ifstream ofstream
+40343663	40356990	0	605.0	42954	713	c++ overload-resolut	c++ language-lawy overload-resolut template-argument-deduct
+22400980	22867654	0	58.0	60192	714	c++ templat c++11 variadic-templ argument-pass	c++ c++11 constexpr
+3989111	3992548	0	121.0	50505	715	c++ string perform char	c++ string
+20264616	27918831	0	58.0	57091	716	c++ visual-c++ c++11 template-meta-program bstr	c++ c++builder bstr
+1913541	1914342	1	260.0	51265	717	c++ templat pointer-to-memb	c++ templat pointer-to-memb
+20002029	22521324	0	58.0	42520	718	c++ encrypt openssl char rsa	c++ openssl rsa
+4272939	4274058	0	121.0	45576	719	c++ unit-test debug debug-build	c++ unit-test dynamic-memory-alloc heap-memori
+2828738	2843796	0	58.0	44504	72	c++ gcc visibl warn gcc-warn	c++ gcc visibl debug-symbol
+5583646	5644670	0	608.0	43961	722	c++ directx	c++ directx-9
+12923657	58614226	0	121.0	52018	723	c++ c doubl sqrt	c++ sqrt
+11164982	15267676	0	121.0	49481	724	c++ winapi std ostringstream	c++ refer temporari object-lifetim
+13131803	13185457	0	261.0	41463	725	c++ while-loop stack	c++ while-loop conditional-stat stack
+57992892	58011898	0	58.0	46193	726	c++ visual-studio-2012 smart-point unique-ptr forward-declar	c++ visual-studio-2012 destructor functor delete-oper
+35116327	58848694	0	59.0	60690	727	c++ c++11 gcc boost pthread	c++ gcc pthread static-link
+57515813	57516409	1	610.0	45825	729	c++ language-lawy	c++ language-lawy
+2828637	2850157	0	122.0	52315	73	c++ window winapi file-associ	c++ winapi windows-shel file-typ
+2437283	53586667	0	59.0	53657	730	c++ c byte sign pack	c++ bit-manipul bit-shift data-convers
+14138360	53030882	0	122.0	53805	731	c++ templat dll function-point	c++ c++11 templat
+14118775	14120131	0	611.0	43804	732	c++ singly-linked-list	c++ linked-list
+33939687	33988934	0	262.0	52685	733	c++ c++11 move-constructor	c++ c++11 move-semant
+24194631	24196949	0	59.0	44559	734	c++ boost-asio ip-address equival websocket++	c++ linux boost boost-asio ip-address
+38861985	38940389	1	612.0	47175	735	c++ opencv	c++ opencv
+45505477	45506372	0	612.0	43198	736	c++ stdstring	c++ downcast template-funct
+34559984	34599965	0	613.0	49242	737	c++ templat	c++ templat c++14
+35204104	46915878	0	59.0	60992	738	c++ c++11 boost struct boost-interprocess	c++ c++11 boost shared-memori boost-interprocess
+9843177	9934790	0	59.0	42206	739	c++ compil llvm llvm-clang incremental-compil	c++ llvm
+40050243	40052857	0	122.0	48476	74	c++ visual-c++ byte bit	c++ vector byte bit
+33039199	33106550	0	263.0	49900	740	c++ templat design-pattern	c++ templat typedef type-alia
+31378816	31533512	1	263.0	44467	741	c++ visual-studio-2013 windbg	c++ visual-studio-2013 windbg
+14821846	14823832	0	59.0	47057	742	c++ visual-studio-2010 cast enum compiler-error	c++ boost namespac tr1 typetrait
+6741050	6754778	1	615.0	43538	743	c++ lua	c++ lua
+24459495	45258052	0	59.0	45595	744	c++ cuda linker gpgpu nvidia	c++ visual-studio cuda
+42796710	42805379	0	123.0	56684	745	c++ c++11 recurs lambda	c++ c++11
+11425576	25503851	0	123.0	51645	746	c++ c++11 access-modifi move-semant	c++ templat c++11 sfina
+39397254	39400018	1	1850.0	42212	747	c++	c++
+3378520	3541632	0	59.0	55592	748	c++ templat boost friend make-shar	c++ constructor protect visual-c++-2010 make-shar
+46474889	46502745	0	59.0	62445	749	c++ c++11 templat variadic-templ well-form	c++ c++11 language-lawy variadic-templ well-form
+48965685	48967213	0	264.0	53789	75	c++ c++11 c++17	c++ c++11 templat variadic-templ c++17
+8087438	58417324	0	618.0	42680	750	c++ posix-api	c++ c linux
+55387656	55393629	0	265.0	41737	751	c++ pipe system	c++ shared-librari dlopen
+55258304	55297953	0	59.0	49127	752	c++ ssl winapi http winhttp	c++ ssl winapi http wininet
+28910892	28911009	0	265.0	39746	753	c++ adjacency-list cyclic-refer	c++ c++11 clang incomplete-typ gcc5
+30745837	31297745	0	123.0	47377	754	c++ gcc osx-yosemit caff	c++ boost caff
+5985273	23289157	0	265.0	40425	755	c++ ffmpeg hardware-acceler	c++ c ffmpeg hardware-acceler
+19491626	32284106	0	124.0	44101	756	c++ x86 sse simd	c++ visual-studio x86 simd sse2
+5841992	5842583	0	265.0	48987	757	c++ array header-fil	c++ header-fil
+50930693	51020354	0	266.0	54786	758	c++ qt hdf5	c++ window qt hdf5
+8805521	19221646	0	266.0	42670	759	c++ optim loop	c++ templat c++11
+53421559	53426022	0	621.0	44897	76	c++ refer	c++ object-model
+4531085	4531201	0	266.0	39897	760	c++ token strtok	c++ pointer null token token
+49261221	49264846	0	1866.0	42202	761	c++	c++ language-lawy
+24213942	36774770	0	60.0	53972	762	c++ qt qt5 screenshot desktop	c++ qt
+14037656	47260470	0	266.0	48523	763	c++ stl map	c++ lambda foreach refer auto
+40601894	40706705	0	267.0	46131	764	c++ inherit std	c++ except inherit
+9511499	17488259	0	267.0	48493	765	c++ opengl geometri	c++ opengl textur
+28267104	28306704	0	267.0	43893	766	c++ cmake eigen	c++ cmake eigen eigen3
+9116036	13443532	0	124.0	50394	767	c++ c semant multiplatform	c++ language-lawy
+2957759	2958114	0	124.0	46622	768	c++ socket profil gprof	c++ goto system-cal eintr
+20701397	26288520	0	60.0	64823	769	c++ templat c++11 vector variadic-templ	c++ boost iter tupl commut
+59712985	59765650	0	267.0	55466	77	c++ c++11 swig	c++ c++11 c++14 swig
+7938373	7939770	0	125.0	45159	770	c++ opengl linear-algebra quaternion	c++ opengl quaternion
+7676223	7711682	0	125.0	50970	771	c++ boost curl boost-asio	c++ string imag curl png
+8619133	8619356	1	268.0	40616	772	c++ main friend	c++ main friend
+46735324	55225535	0	60.0	48649	774	c++ pointer object language-lawy undefined-behavior	c++ language-lawy memory-model
+32317370	59526616	0	626.0	48443	775	c++ multithread	c++ algorithm qt mutex micro-optim
+56434495	56450444	0	268.0	40712	776	c++ mpi memory-align	c++ language-lawy c++17 placement-new
+40705852	44241667	0	60.0	59115	777	c++ c++11 gcc boost travis-ci	c++ c++11 gcc shared-librari dynamic-link
+56696510	56709825	0	60.0	48492	778	c++ compiler-error tupl c++17 variadic-templ	c++ templat c++17 linker-error template-speci
+44396538	44637879	0	60.0	42728	779	c++ vba excel-vba dll bstr	c++ excel vba excel-vba dll
+9162001	16308861	0	125.0	45885	78	c++ visual-studio-2010 visual-studio-2008 pdb-file	c++ visual-studio-2010 visual-c++ linker pdb-file
+5840529	5841000	0	269.0	39814	780	c++ int64 uint64	c++ visual-studio
+29312444	54599136	0	60.0	46780	781	c++ boost graphviz dot boost-graph	c++ boost graphviz boost-graph
+17035464	41144668	0	125.0	55475	782	c++ c perform floating-point	c++ floating-point sse simd avx
+55385298	55409192	0	60.0	46969	783	c++ window http-post libcurl iso-8859-1	c++ window multipartform-data libcurl
+9771868	12276683	1	270.0	52270	784	c++ c++11 standard	c++ c++11 standard
+37296785	58870100	0	126.0	55852	785	c++ qt memory-leak websocket	c++ qt qt5 qtcpsocket
+32577466	32692176	0	270.0	46020	786	c++ multithread condition-vari	c++ multithread block lock-fre condition-vari
+52762511	55387065	0	126.0	46240	787	c++ c++17 assignment-oper operator-preced	c++ c++17 assignment-oper
+11065606	12136300	0	270.0	44875	788	c++ visual-studio-2010 connector	c++ mysql collis connector
+326487	615264	0	61.0	51178	789	c++ multithread optim image-process parallel-process	c++ multithread multicor openmp tbb
+54858938	54895996	0	270.0	44953	790	c++ c++14 range-v3	c++ range-v3
+2501737	24555288	0	61.0	51063	791	c++ pointer iostream volatil standards-compli	c++ string printf iostream volatil
+57132337	57151379	0	126.0	42538	792	c++ perform stdstring compound-assign	c++ string
+23401376	51789825	0	61.0	59135	793	c++ templat c++11 void variadic-templ	c++ gcc c++17
+594782	614492	0	271.0	48364	794	c++ gcc gdb	c++ unix gcc gdb
+19469145	19469878	0	271.0	49472	795	c++ templat friend-funct	c++ instance-vari friend-funct
+15191103	17736337	0	271.0	51058	796	c++ templat non-typ	c++ templat non-typ template-argument-deduct
+332554	417876	0	126.0	48668	797	c++ linux unix gcc	c++ c shared-librari
+40178332	40195129	0	61.0	55294	798	c++ qt qml qqmlcompon qquickitem	c++ qt qml qquickitem
+40059618	40059902	1	272.0	46719	799	c++ window console-appl	c++ window console-appl
+6803918	6804029	0	61.0	54048	8	c++ c linker-error include-guard multiple-definition-error	c++ compiler-error include-guard multiple-definition-error
+41100523	41103743	0	61.0	50024	80	c++ algorithm stl stdvector std-pair	c++ visual-studio visual-studio-2015 lambda compiler-bug
+19808054	34047732	0	127.0	59161	800	c++ c pointer function-point	c++ templat pointer function-point variadic-templ
+4715829	32073454	1	127.0	47036	801	c++ boost lex boost-spirit	c++ boost lex boost-spirit
+11596959	11604285	0	61.0	56649	802	c++ boost c++11 instal portabl	c++ boost bcp normal-distribut
+5312773	5326564	0	127.0	43923	803	c++ tcp connect interprocess	c++ visual-studio boost connect boost-asio
+21333990	24081405	0	637.0	49435	804	c++ templat	c++ templat c++11 language-lawy typenam
+30420182	30420336	0	637.0	47712	805	c++ class	c++
+43445184	44109929	0	61.0	50665	806	c++ templat callback readabl maintain	c++ templat document c++14 typedef
+38181357	40439909	0	127.0	55552	807	c++ c++11 typetrait c++-standard-librari	c++ c++11 sfina c++03 compile-tim
+19213084	29167707	0	127.0	41735	808	c++ sse simd intrins	c++ arm sse neon intrins
+44511121	44511401	0	127.0	52994	81	c++ templat c++14 template-templ	c++ templat compiler-optim overload-resolut
+8903400	8903811	1	274.0	46278	810	c++ winapi except	c++ winapi except
+5923702	5924248	0	274.0	45957	811	c++ cast refer	c++ pointer cast refer
+16322465	16325277	0	128.0	53425	812	c++ c++11 floating-point floating-accuraci	c++ floating-point comparison precis equal
+24973123	26971680	0	61.0	53679	813	c++ c text-fil huffman-cod lossless-compress	c++ huffman-cod
+24750218	31154429	0	128.0	48262	814	c++ boost boost-log boost-log	c++ boost log4cxx boost-log
+54857347	54858015	1	641.0	42977	815	c++ mysql-connector	c++ mysql-connector
+53546616	53664253	0	641.0	39949	816	c++ range-v3	c++ c++17 range-v3
+8373783	49614169	0	128.0	50769	817	c++ c 64-bit long-integ	c++ c++11 boost boost-asio
+36163846	40455415	0	275.0	44204	819	c++ math approxim	c++ math geometri ellips
+8070098	8081735	0	62.0	50599	82	c++ stl mfc iter function-point	collect stl mfc iter c++
+711770	5835946	0	642.0	43501	820	c++ hash	c++ string data-compress
+13280932	15272971	0	643.0	42711	821	c++ mingw	c++ netbean mingw
+41487287	41505807	0	62.0	43356	822	c++ functor function-object indirect unary-funct	c++ lambda refer return return-typ
+2689963	2700396	0	62.0	52647	823	c++ stl boost contain in-memory-databas	c++
+7820145	8782895	0	276.0	54502	824	c++ c++11 uniform-initi	c++ vector c++11 uniform-initi
+52317134	52318110	0	62.0	48461	825	c++ templat method member-function-point metatyp	c++ templat language-lawy variadic-templ template-speci
+44632652	44664807	0	128.0	51417	826	c++ templat instanti incomplete-typ	c++ vector language-lawy
+18507518	18518632	0	645.0	40635	827	c++ do-whil	c++ c goto
+30937987	43218715	0	62.0	63082	828	c++ c++11 boost stl contain	c++ boost stl contain
+43724903	43726871	0	62.0	55288	83	c++ opencv parallel-process align vector	c++ opencv vector align mat
+593403	27068650	0	62.0	43310	830	c++ mfc dialog modeless always-on-top	c++ window console-appl always-on-top
+32049360	43111572	0	129.0	51897	831	c++ algorithm vector cartesian-product	c++ cartesian-product
+51741014	51747719	0	129.0	46723	832	c++ visual-studio dll windows-10	c++ debug dll windows-10 reverse-engin
+35250198	60098426	0	1941.0	42182	833	c++	c++ string gcc g++ geani
+6357394	6358882	1	277.0	51180	834	c++ templat constructor	c++ templat constructor
+33097558	45525377	0	277.0	51131	835	c++ opencv cmake	c++ opencv cuda visual-studio-2017
+31000399	31000677	0	62.0	41486	836	c++ time standard chrono time-t	c++ time standard chrono second
+37124192	44369648	0	62.0	55214	837	c++ c namespac std assert	c++ paramet macro namespac assert
+29165104	29171442	0	62.0	42011	838	c++ mpi openmp ncurs curs	c++ termin ncurs curs
+19450536	19856468	1	129.0	43170	839	c++ windows-8 visual-c++-6 windows-8.1	c++ windows-8 windows-8.1 visual-c++-6
+3648797	32976919	0	649.0	42313	84	c++ copy-constructor	c++ string paramet copy-constructor stdstring
+56425276	60816079	0	62.0	49695	840	c++ gcc compil clang compiler-optim	c++ language-lawy compiler-optim stdstring elis
+8312328	15042991	0	278.0	40089	841	c++ webkit reverse-engin	c++ depend
+2688043	2690851	0	130.0	42817	842	c++ programming-languag language-featur aop	c++ idiom
+23699731	28931487	0	62.0	49444	843	c++ csv boost io memory-mapped-fil	c++ boost boost-spirit
+60621606	60708675	0	63.0	43999	844	c++ gpu directx-11 direct2d direct3d11	c++ directx direct2
+46827433	52499568	0	279.0	54436	845	c++ c++11 g++	c++ raspberry-pi
+13011532	20804145	0	652.0	42810	846	c++ ntp	c++ window visual-c++ time ntp
+32866306	32868136	1	652.0	51859	847	c++ c	c++ c
+7451442	14756958	0	652.0	44440	848	c++ virtual	c++ perform polymorph vtabl
+12262019	39789125	0	653.0	54171	849	c++ c++11	c++
+50274433	50282452	1	280.0	45566	85	c++ go optim	c++ go optim
+70880	73134	0	280.0	49351	850	c++ pointer memory-manag	c++ memory-manag memory-leak
+36021322	36024325	0	280.0	45122	851	c++ malloc language-lawy	c++ memory-manag malloc language-lawy
+41483552	41485042	0	63.0	51120	852	c++ templat refer wrapper undefined-behavior	c++ refer undefined-behavior
+17628207	19205531	0	63.0	56483	856	c++ file-io c++11 io ifstream	c++ visual-studio c++11 g++ char-trait
+18938845	18950043	1	655.0	41882	857	c++ linked-list	c++ linked-list
+42007362	42008967	1	63.0	49351	858	c++ multithread concurr atom memory-barri	c++ multithread concurr atom memory-barri
+2506119	2685501	0	281.0	50598	859	c++ c combin	c++ permut combin powerset
+6238216	6238547	0	656.0	43683	86	c++ variabl	c++ templat function-point
+26831382	55559308	0	63.0	55623	860	c++ c++11 lambda c++14 perfect-forward	c++ lambda temporary-object forwarding-refer
+55995817	59308422	0	281.0	48281	861	c++ visual-c++ warn	c++
+39908634	39909688	1	657.0	45531	862	c++ multithread	c++ multithread
+7665912	7666665	0	281.0	43847	863	c++ includ include-guard	c++ circular-depend incomplete-typ
+12677711	51619955	0	131.0	53018	864	c++ c++11 implicit-convers list-initi	c++ language-lawy list-initi
+5908961	9122028	0	131.0	50306	865	c++ boost metaprogram boost-mpl	c++ c++11 variadic-templ
+55637772	55714406	0	63.0	40514	866	c++ node.j node.js-addon node-addon-api n-api	c++ node.j multithread node.js-addon n-api
+52753902	52778061	0	131.0	44435	867	c++ image-process correl cross-correl	c++ opencv image-process correl template-match
+55375221	55378196	0	63.0	56328	868	c++ array pointer constructor arduino	c++ object initi
+11631777	38717447	0	131.0	46612	869	c++ inherit encapsul protect	c++ inherit scope protect
+40574918	40575482	0	282.0	40420	87	c++ physics-engin bulletphys	c++ visual-studio debug conditional-compil
+44102989	44637892	0	660.0	47706	871	c++ string	c++ c++98
+37656076	37682392	0	63.0	46960	872	c++ lambda return initializer-list auto	c++ initi initializer-list initi curly-brac
+17489857	57210107	0	63.0	42038	873	c++ compiler-construct int sizeof platform	c++ int size system bit
+28374185	28421319	0	63.0	55014	874	c++ qt opengl glu ray-pick	c++ opengl 3d project qglwidget
+16566771	16577697	1	661.0	44426	875	c++ polymorph	c++ polymorph
+29160601	29806039	0	64.0	46998	876	c++ opengl glsl gamma srgb	c++ opengl glsl light gamma
+48063162	48064179	0	662.0	48083	877	c++ string	c++ sort duplic time-complex bucket-sort
+21894450	32240444	0	64.0	49445	879	c++ class constructor destructor declar	c++ c++11
+37953246	37953843	1	132.0	57961	88	c++ string c++11 ascii	c++ string c++11 ascii
+17363886	17364987	1	284.0	46026	880	c++ opencv mat	c++ opencv mat
+9761158	9761392	0	663.0	48760	881	c++ opencv	c++ c opencv qt-creator
+49117293	49118587	0	64.0	44662	882	c++ lambda visual-studio-2017 c++14 variable-templ	c++ visual-studio-2017 c++14 divis variable-templ
+5078387	16590329	1	664.0	48798	883	c++ opencv	c++ opencv
+11269678	11282437	0	284.0	53454	884	c++ regex c++11	c++ visual-c++ c++11 visual-studio-2012 istream-iter
+44625665	44629067	0	132.0	43598	885	c++ bind member-function-point member-vari	c++ bind member-funct member-vari
+56855059	56946349	0	64.0	42862	886	c++ macro histogram root-framework tcanva	c++ root-framework
+42171663	42172395	0	285.0	47873	887	c++ class complex-numb	c++ compiler-error
+8855000	8861266	0	665.0	48946	89	c++ array	c++ c array standard liter
+4113845	42587067	0	64.0	45792	892	c++ oop getter accessor mutat	c++ encapsul getter-sett getter private-memb
+3558609	12905951	0	285.0	50051	893	c++ templat namespac	c++ templat namespac language-design
+19362455	19383427	0	285.0	55348	894	c++ qt user-interfac	c++ qt
+20126354	20245865	0	133.0	59383	895	c++ qt opengl openinventor	c++ qt opengl qimag glteximage2d
+12419603	24286209	0	133.0	52105	896	c++ algorithm stl std	c++ sort c++11 topological-sort
+12171377	46370615	0	286.0	53543	897	c++ except c++11	c++ c++11 exception-handl
+49814895	49817446	0	133.0	46443	898	c++ initi language-lawy one-definition-rul	c++ language-lawy
+18581560	61047308	0	668.0	39986	899	c++ numer	c++ math floating-point decim
+14143730	14144415	0	64.0	51906	9	c++ qt ssl qtcpserver qt-signal	c++ qt signals-slot qt-signal
+33495839	33496137	0	669.0	51384	90	c++ templat	c++
+13429656	13438512	1	669.0	43233	900	c++ cmake	c++ cmake
+17373210	18411250	1	64.0	55045	903	c++ qt qgraphicsview qgraphicsitem qgraphicsscen	c++ qt qgraphicsview qgraphicsitem qgraphicsscen
+14825427	36498192	0	287.0	54300	904	c++ c++11 operator-overload	c++ c undefined-behavior
+33876647	33877510	0	2011.0	42343	905	c++	c++ c++11 linkag
+12984861	38857155	0	287.0	45993	907	c++ gcc gcc-warn	c++ c language-lawy undefined-behavior micro-optim
+59828513	59895532	0	64.0	51653	908	c++ gcc linker g++ mingw	c++ gcc linker g++ destructor
+32317266	40167670	0	134.0	60895	909	c++ c window winapi	c++ window datetim winapi
+20127204	20131671	0	134.0	43924	91	c++ encrypt rsa gmp	c++ segmentation-fault rsa gmp
+31254767	31918932	0	65.0	57122	910	c++ multithread c++11 atom reference-count	c++ smart-point qsharedpoint
+58254685	58255579	0	288.0	44674	911	c++ arduino i2c	c++ raspberry-pi i2c
+9336209	10657756	0	672.0	41688	912	c++ io	c++
+39381076	45841822	0	65.0	51423	913	c++ templat c++14 language-lawy constexpr	c++ c++11 constexpr
+25831085	25832729	0	2020.0	42297	914	c++	c++ c++11 g++ variadic-templ
+36666368	36667957	1	2021.0	41620	915	c++	c++
+29681515	29865367	0	134.0	51162	916	c++ linux window eol	c++ newlin cross-compil
+10020653	49509960	0	134.0	50003	917	c++ window shell popen	c++ boost gnuplot popen boost-process
+11331314	11340223	0	134.0	45835	918	c++ algorithm math bubble-sort	c++ algorithm math
+13530054	13534723	0	289.0	49177	919	c++ opencv cvblobslib	c++ opencv blob
+47913054	47944348	0	675.0	41769	92	c++ boost-asio	c++ buffer boost-asio
+60876410	60877011	0	675.0	45054	920	c++ language-lawy	c++ overload language-lawy default-constructor constructor-overload
+36759124	36809025	0	676.0	40070	921	c++ memoiz	c++ enum memoiz
+5453361	8971837	0	676.0	43700	922	c++ template-speci	c++ linux templat linker
+29251038	29252969	1	65.0	44289	923	c++ unit-test makefil autotool automak	c++ unit-test makefil autotool automak
+19719317	19719617	0	135.0	53751	924	c++ c cpu performance-test	c++ c performance-test
+5127600	5129788	0	65.0	53864	925	c++ qt qt4 reset application-restart	c++ qt qt4 application-restart
+48030786	48030795	0	290.0	57312	926	c++ c visual-c++	c++ c icc
+883498	883536	1	678.0	40637	927	c++ wxwidget	c++ wxwidget
+4082065	30466949	0	290.0	51800	928	c++ c++11 move-semant	c++ c++11 move-semant unique-ptr
+4514679	27473463	0	65.0	43544	929	c++ excel marshal variant safearray	c++ vba vsto xll
+41122518	47388091	0	291.0	52145	93	c++ window winapi	c++ window winapi visual-c++ dll
+10543987	10550362	0	135.0	47503	930	c++ memori memory-leak recurs	c++ object memori memory-leak delete-oper
+32301783	35940136	0	65.0	42747	931	c++ excel maco vba variant	c++ maco excel-vba variant bstr
+35709648	35731217	0	65.0	45635	932	c++ r optim paramet deoptim	c++ r execution-tim
+2941491	33135019	1	291.0	39992	933	c++ string-comparison version-numb	c++ string-comparison version-numb
+1787752	1801258	0	136.0	47228	934	c++ visual-studio g++ compiler-construct	c++ visual-studio visual-c++ rtti compiler-specif
+12778463	12902688	1	65.0	48061	935	c++ image-process cuda convolut npp	c++ image-process cuda convolut npp
+40819566	41214159	0	136.0	48286	936	c++ gcc includ clang	c++ clang
+3097593	3097806	0	2045.0	42413	937	c++	c++ refer const temporari
+33380402	54181249	0	136.0	53508	938	c++ qt contain qvector	c++ qt qvector
+24958270	24960909	0	682.0	54544	939	c++ c++11	c++
+35591510	35611780	0	66.0	62117	94	c++ multithread c++11 boost unique-ptr	c++ multithread for-loop memory-leak unique-ptr
+44883810	44896180	1	683.0	49617	940	c++ vector	c++ vector
+10451585	10462806	0	292.0	49211	941	c++ perform boost	c++ perform boost alloc
+52393148	52394623	0	66.0	44323	942	c++ date time epoch chrono	c++ date epoch chrono c++20
+4534679	4555961	0	66.0	53609	943	c++ window linux compiler-construct memory-manag	c++ class dllimport dllexport
+8059673	8067329	0	66.0	55676	944	c++ c maco eclipse-cdt opencl	c++ maco eclipse-cdt
+18407083	18407320	0	66.0	43170	945	c++ perform network udp osc	c++ perform network udp multicast
+12826887	12902021	0	137.0	50686	946	c++ pointer memory-leak reference-count	c++ memory-leak smart-point
+19347004	31776359	0	137.0	53265	947	c++ c++11 copy-constructor uniform-initi	c++ c++11 language-lawy copy-constructor uniform-initi
+39604917	46718471	0	293.0	43153	948	c++ uml class-diagram	c++ uml plantuml
+8492761	28630530	0	686.0	39814	949	c++ matlab-engin	c++ c debug mex c-preprocessor
+12724887	12826508	0	137.0	42712	95	c++ cach memori memory-profil	c++ profil vtune
+9820027	23763748	0	137.0	54787	950	c++ c initi undefined-behavior	c++ scope language-lawy self-refer object-lifetim
+36756336	36756910	0	294.0	46837	951	c++ window strcpi	c++ printf cin
+15396193	27620277	0	137.0	56319	953	c++ visual-c++ c++11 visual-studio-2012	c++ visual-c++ c++11 visual-studio-2013
+17001780	17095966	0	137.0	58992	954	c++ c opencv fftw	c++ includ
+51510308	51520697	0	294.0	41850	955	c++ modul lua	c++ lua requir
+1061152	5823469	0	137.0	44306	956	c++ set compar stdset	c++ c++-standard-librari
+18406369	33254272	0	66.0	54224	957	c++ qt compiler-construct qt-creator ubuntu-13.04	c++ qt
+56679102	56683185	1	295.0	48854	959	c++ multithread synchron	c++ multithread synchron
+61803664	61813929	0	137.0	53574	96	c++ c gdb cygwin	c++ c debug
+3299834	7658060	0	137.0	52210	960	c++ templat metaprogram compile-time-const	c++ visual-c++ optim compiler-optim
+17205700	17224256	0	295.0	41924	961	c++ clang suppress-warn	c++ templat suppress-warn
+36491006	36512643	1	690.0	43217	962	c++ zeromq	c++ zeromq
+46457449	46458363	0	138.0	53055	963	c++ c++11 memory-align alignof	c++ array language-lawy sizeof
+39938409	58513592	0	138.0	43357	964	c++ fft fftw pyfftw	c++ fftw
+5397782	15521491	0	691.0	46283	965	c++ visual-studio	c++ templat visual-c++ compiler-error
+38417190	38417413	0	138.0	43523	966	c++ swap intrins sunstudio	c++ swap intrins c++03 sunstudio
+12906970	12908398	0	138.0	49339	967	c++ vector refer contain	c++ vector c++11 std placement-new
+28925143	36754893	0	67.0	52261	968	c++ memory-manag boost unordered-map alloc	c++ memory-manag boost
+6083948	30530364	0	296.0	53100	969	c++ visual-studio templat	c++ templat explicit-speci
+24377720	30084109	0	138.0	54904	97	c++ qt resourc qmediaplay	c++ qt qmediaplay
+23757166	23758399	0	297.0	53753	970	c++ c++11 language-lawy	c++ c++11 language-lawy alloc
+11064670	11071998	0	693.0	42944	971	c++ eigenvector	c++ linker
+14210378	14213754	0	67.0	51278	972	c++ templat template-speci template-meta-program sfina	c++ c++11 ternary-oper language-lawy constexpr
+4579574	5655624	0	694.0	47075	973	c++ function	c++ window code-s
+40656857	40685032	1	67.0	53396	974	c++ templat language-lawy template-speci partial-speci	c++ templat language-lawy template-speci partial-speci
+22336015	22367511	0	139.0	54735	975	c++ c bitwise-oper crc	c++ branch bitwise-oper
+13685262	13687607	0	2086.0	39294	976	c++	c++ overload
+3668128	54311116	0	67.0	48612	977	c++ boost openssl boost-asio iostream	c++ ssl boost-asio
+7401888	33058340	0	696.0	43104	978	c++ bit-shift	c++
+9851188	16136461	0	139.0	54600	979	c++ c++11 operator-overload move	c++ c++11 operator-overload move move-semant
+58395488	58397530	0	139.0	45937	98	c++ optim fstream files	c++ fstream binaryfil
+33870219	33872140	0	139.0	58597	980	c++ pointer c++11 language-lawy	c++ byte language-lawy
+21692406	21811485	0	67.0	51639	981	c++ templat overload-resolut function-templ template-argument-deduct	c++ templat visual-studio-2012 function-templ
+8623657	40685771	0	299.0	40653	982	c++ singleton dlopen	c++ linux linker shared-librari
+7302053	14471224	0	67.0	48907	983	c++ templat trait template-meta-program c++03	c++ templat c++11
+2674649	2681446	0	299.0	49421	984	c++ com multithread	c++ window dll multithread text-to-speech
+3416728	34139882	0	299.0	41535	985	c++ static-vari static	c++ static global-vari unnamed-namespac translation-unit
+53530497	53567217	0	67.0	45735	986	c++ cast type-convers binaryfil endian	c++ if-stat assembl x86
+21303	44247614	0	299.0	44944	987	c++ constructor destructor	c++ constructor inlin declar
+2674462	2685636	0	67.0	46477	988	c++ oop lua modular lua-c++-connect	c++ lua game-loop lua-c++-connect
+1275852	2881491	0	140.0	54812	989	c++ visual-studio string boost	c++ visual-c++ boost boost-foreach
+28809958	28827006	0	67.0	50086	99	c++ boost properti vertic edg	c++ boost copi vertic edg
+40160904	40167231	0	140.0	44806	991	c++ gcc ternary-oper clang++	c++ c++11 gcc ternary-oper clang++
+35966588	35980469	0	140.0	58817	992	c++ templat c++11 sfina	c++ c++11 language-lawy constexpr
+48188737	48189026	0	140.0	57212	993	c++ c++11 language-lawy pointer-arithmet	c++ pointer language-lawy c++17 union
+11565255	29694490	0	140.0	46864	995	c++ opencv sift surf	c++ opencv orb flann
+27232053	27315687	0	67.0	44133	996	c++ private-key crypto++ ecdsa signer	c++ hex crypto++ ecdsa
+416345	41704561	0	140.0	52572	997	c++ c refactor void	c++ void kernighan-and-ritchi most-vexing-pars
+4770918	21134279	0	301.0	47648	999	c++ visual-studio-2010 g++	c++ visual-c++ gcc assembl x86

@@ -1,0 +1,533 @@
+ntsb-long:
+proposed:
+time diff secs= 200, itr=2, batch =20
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=81427
+homogeneity_score-whole-data:   0.88018673
+completeness_score-whole-data:   0.73422132
+nmi_score-whole-data:   0.80060535
+pred clusters=1927, true clusters=460
+purity majority whole data=0.7494688493988481
+
+
+mf
+time diff secs= 286  itr=2, batch =20
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=81427
+homogeneity_score-whole-data:   0.67315376
+completeness_score-whole-data:   0.76766903
+nmi_score-whole-data:   0.71731138
+pred clusters=751, true clusters=460
+purity majority whole data=0.4450612204796935
+
+
+
+
+nts-long:
+
+proposed:
+time diff secs= 384, itr=2, batch =8
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=61428
+homogeneity_score-whole-data:   0.91301291
+completeness_score-whole-data:   0.73239812
+nmi_score-whole-data:   0.81279258
+pred clusters=1785, true clusters=439
+purity majority whole data=0.8579149573484405
+
+
+time diff secs= 160  itr=2, batch =10
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=61428
+homogeneity_score-whole-data:   0.92632897
+completeness_score-whole-data:   0.72803174
+nmi_score-whole-data:   0.81529607
+pred clusters=1878, true clusters=439
+purity majority whole data=0.878687243602266
+
+
+
+time diff secs= 122  itr=2, batch =15
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=61428
+homogeneity_score-whole-data:   0.93945213
+completeness_score-whole-data:   0.73204577
+nmi_score-whole-data:   0.82288103
+pred clusters=1990, true clusters=439
+purity majority whole data=0.8969688090121769
+
+
+
+mstreamF:
+time diff secs= 269  itr=2, batch =8
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=61428
+homogeneity_score-whole-data:   0.67223928
+completeness_score-whole-data:   0.78778201
+nmi_score-whole-data:   0.72543875
+pred clusters=633, true clusters=439
+purity majority whole data=0.45839031060754054
+
+
+time diff secs= 207 itr=2, batch =15
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=61428
+homogeneity_score-whole-data:   0.73046891
+completeness_score-whole-data:   0.78260158
+nmi_score-whole-data:   0.75563713
+pred clusters=691, true clusters=439
+purity majority whole data=0.5433841245034837
+
+
+time diff secs= 251  itr=2, batch =10
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=61428
+homogeneity_score-whole-data:   0.69672421
+completeness_score-whole-data:   0.77301435
+nmi_score-whole-data:   0.73288927
+pred clusters=676, true clusters=439
+purity majority whole data=0.4862766165266654
+
+
+
+
+time diff secs= 482  itr=5, batch =8
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=61428
+homogeneity_score-whole-data:   0.69545873
+completeness_score-whole-data:   0.78600309
+nmi_score-whole-data:   0.73796395
+pred clusters=654, true clusters=439
+purity majority whole data=0.5019046688806408
+
+
+
+
+
+
+
+
+
+
+
+
+tweets:
+
+proposed:
+
+
+
+time diff secs= 168   batch=4, itr=2
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.92174264
+completeness_score-whole-data:   0.81800756
+nmi_score-whole-data:   0.86678242
+pred clusters=617, true clusters=269
+purity majority whole data=0.8761955016159884
+
+time diff secs= 113,  batch=4, itr=2
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.90210583
+completeness_score-whole-data:   0.83511843
+nmi_score-whole-data:   0.86732061
+pred clusters=518, true clusters=269
+purity majority whole data=0.8404129015236462
+
+time diff secs= 93  batch=8, itr=2
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.89551826
+completeness_score-whole-data:   0.82238978
+nmi_score-whole-data:   0.85739754
+pred clusters=560, true clusters=269
+purity majority whole data=0.8277158498779764
+
+time diff secs= 70  batch=8, itr=2
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.90686847
+completeness_score-whole-data:   0.78267547
+nmi_score-whole-data:   0.84020746
+pred clusters=642, true clusters=269
+purity majority whole data=0.8501088318712486
+
+
+
+time diff secs= 85  batch=16, itr=2
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.89534889
+completeness_score-whole-data:   0.80521809
+nmi_score-whole-data:   0.84789501
+pred clusters=752, true clusters=269
+purity majority whole data=0.8363234615130928
+
+
+
+time diff secs= 253  batch=8, itr=4
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.89158498
+completeness_score-whole-data:   0.83032530
+nmi_score-whole-data:   0.85986543
+pred clusters=495, true clusters=269
+purity majority whole data=0.8278807466525955
+pred_true_text_file name=result/mstr-enh
+evaluate total texts=30321
+homogeneity_score-whole-data:   0.89637324
+completeness_score-whole-data:   0.82973052
+nmi_score-whole-data:   0.86176538
+pred clusters=702, true clusters=269
+purity majority whole data=0.8333828039972296
+
+
+
+
+MstreamF:
+
+time diff secs= 162  batch=8, itr=4
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.79897138
+completeness_score-whole-data:   0.88008240
+nmi_score-whole-data:   0.83756775
+pred clusters=321, true clusters=269
+purity majority whole data=0.6865642108040366
+
+
+
+time diff secs= 128, batch=4, itr=2
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.80782826
+completeness_score-whole-data:   0.85946179
+nmi_score-whole-data:   0.83284552
+pred clusters=294, true clusters=269
+purity majority whole data=0.683266275311655
+
+
+time diff secs= 112  batch=8, itr=2
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.79049791
+completeness_score-whole-data:   0.85207493
+nmi_score-whole-data:   0.82013221
+pred clusters=332, true clusters=269
+purity majority whole data=0.6604775410592969
+
+time diff secs= 99  batch=8, itr=2
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.78431070
+completeness_score-whole-data:   0.85574013
+nmi_score-whole-data:   0.81846993
+pred clusters=300, true clusters=269
+purity majority whole data=0.645438955214036
+
+
+time diff secs= 101  batch=16, itr=2
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.76472916
+completeness_score-whole-data:   0.84461355
+nmi_score-whole-data:   0.80268871
+pred clusters=407, true clusters=269
+purity majority whole data=0.6261130532286788
+
+
+
+
+
+
+
+
+
+news:
+
+proposed:
+
+
+time diff secs= 29  batch=4, itr=2
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=11109
+homogeneity_score-whole-data:   0.90034680
+completeness_score-whole-data:   0.73856392
+nmi_score-whole-data:   0.81147027
+pred clusters=434, true clusters=152
+purity majority whole data=0.8523719506706274
+
+
+time diff secs= 71
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=11109
+homogeneity_score-whole-data:   0.90430325
+completeness_score-whole-data:   0.87033019
+nmi_score-whole-data:   0.88699154
+pred clusters=281, true clusters=152
+purity majority whole data=0.8795571158520119
+pred_true_text_file name=result/mstr-enh
+evaluate total texts=11109
+homogeneity_score-whole-data:   0.90717172
+completeness_score-whole-data:   0.86885602
+nmi_score-whole-data:   0.88760056
+pred clusters=345, true clusters=152
+purity majority whole data=0.8825276802592492
+
+
+
+
+time diff secs= 35  batch=4, itr=2
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=11109
+homogeneity_score-whole-data:   0.89210902
+completeness_score-whole-data:   0.78169718
+nmi_score-whole-data:   0.83326147
+pred clusters=350, true clusters=152
+purity majority whole data=0.8476910613016473
+
+
+
+time diff secs= 33  batch=6, itr=2
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=11109
+homogeneity_score-whole-data:   0.86942373
+completeness_score-whole-data:   0.77984771
+nmi_score-whole-data:   0.82220317
+pred clusters=335, true clusters=152
+purity majority whole data=0.8112341344855523
+
+
+
+
+time diff secs= 33  batch=8, itr=2
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=11109
+homogeneity_score-whole-data:   0.85319234
+completeness_score-whole-data:   0.78786045
+nmi_score-whole-data:   0.81922594
+pred clusters=334, true clusters=152
+purity majority whole data=0.7904401836348907
+
+
+
+time diff secs= 31 batch=16, itr=2
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=11109
+homogeneity_score-whole-data:   0.75974643
+completeness_score-whole-data:   0.73221006
+nmi_score-whole-data:   0.74572414
+pred clusters=359, true clusters=152
+purity majority whole data=0.672697812584391
+
+
+
+MstreamF:
+time diff secs= 31  batch=4, itr=2
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=11109
+homogeneity_score-whole-data:   0.87225603
+completeness_score-whole-data:   0.87290799
+nmi_score-whole-data:   0.87258188
+pred clusters=223, true clusters=152
+purity majority whole data=0.8218561526690071
+
+
+
+mstream:
+
+
+time diff secs= 49   batch=4, itr=4
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=11109
+homogeneity_score-whole-data:   0.85928755
+completeness_score-whole-data:   0.87103266
+nmi_score-whole-data:   0.86512024
+pred clusters=216, true clusters=152
+purity majority whole data=0.7931406967323792
+
+
+time diff secs= 33   batch=4, itr=2
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=11109
+homogeneity_score-whole-data:   0.85297891
+completeness_score-whole-data:   0.86458999
+nmi_score-whole-data:   0.85874520
+pred clusters=232, true clusters=152
+purity majority whole data=0.7736970024304618
+
+
+time diff secs= 56   batch=4, itr=4
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=11109
+homogeneity_score-whole-data:   0.87242858
+completeness_score-whole-data:   0.87161087
+nmi_score-whole-data:   0.87201953
+pred clusters=237, true clusters=152
+purity majority whole data=0.8281573498964804
+
+
+
+
+time diff secs= 31   batch=6, itr=2
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=11109
+homogeneity_score-whole-data:   0.84431878
+completeness_score-whole-data:   0.86557417
+nmi_score-whole-data:   0.85481436
+pred clusters=224, true clusters=152
+purity majority whole data=0.7797281483481862
+
+
+
+
+
+
+
+#############################################
+news-> MstreamF: 4 batch, 2 iteration.  acc: 0.8032226122963363 (236), nmi: 0.86859886, time: 109 sec.
+news-> Mstream: 4 batch, 2 iteration.  acc: 0.7837789179944189 (218), nmi: 0.86403456, time: 119 sec. 
+news-> MstreamF+gram: 4 batch, 2 iteration.  acc: 0.8722657304887929 (294), nmi: 0.87554425, time: 117
+news-> MstreamF+gram+outlier: 4 batch, 2 iteration.  acc: 0.8806373210910073 (294), nmi: 0.87814828, time: 139
+
+
+
+
+time diff secs= 109, itr=2, batch=16
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.89769290
+completeness_score-whole-data:   0.81080482
+nmi_score-whole-data:   0.85203945
+pred clusters=756, true clusters=269
+purity majority whole data=0.8425895389486182
+
+
+
+
+time diff secs= 120  itr=4, batch=16 partial sample
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.89740147
+completeness_score-whole-data:   0.80726935
+nmi_score-whole-data:   0.84995260
+pred clusters=753, true clusters=269
+purity majority whole data=0.8409405712024273
+
+
+
+time diff secs= 84, itr=2, batch=16 partial sample
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.89534889
+completeness_score-whole-data:   0.80521809
+nmi_score-whole-data:   0.84789501
+pred clusters=752, true clusters=269
+purity majority whole data=0.8363234615130928
+
+
+
+time diff secs= 158 itr=2, batch=4
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.90440154
+completeness_score-whole-data:   0.84102540
+nmi_score-whole-data:   0.87156288
+pred clusters=511, true clusters=269
+purity majority whole data=0.8436118989512565
+
+
+
+time diff secs= 116 itr=2, batch=4, partial sample
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.90210583
+completeness_score-whole-data:   0.83511843
+nmi_score-whole-data:   0.86732061
+pred clusters=518, true clusters=269
+purity majority whole data=0.8404129015236462
+
+
+
+time diff secs= 113  itr=2, batch=4, partial sample
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.90210583
+completeness_score-whole-data:   0.83511843
+nmi_score-whole-data:   0.86732061
+pred clusters=518, true clusters=269
+purity majority whole data=0.8404129015236462
+
+
+
+
+
+time diff secs= 91 itr=2, batch=8, partial sample
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.89551826
+completeness_score-whole-data:   0.82238978
+nmi_score-whole-data:   0.85739754
+pred clusters=560, true clusters=269
+purity majority whole data=0.8277158498779764
+
+
+
+
+----------
+mf
+time diff secs= 321
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.78971869
+completeness_score-whole-data:   0.85529367
+nmi_score-whole-data:   0.82119918
+pred clusters=324, true clusters=269
+purity majority whole data=0.6620275707407163
+
+
+
+
+
+
+
+
+
+
+----------------------
+ubuntu, mf, 16, 50d
+time diff secs= 185
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.88365722
+completeness_score-whole-data:   0.80957465
+nmi_score-whole-data:   0.84499529
+pred clusters=578, true clusters=269
+purity majority whole data=0.8207901853439746
+pred_true_text_file name=result/mstr-enh
+evaluate total texts=30321
+homogeneity_score-whole-data:   0.89202099
+completeness_score-whole-data:   0.80881768
+nmi_score-whole-data:   0.84838422
+pred clusters=797, true clusters=269
+purity majority whole data=0.8299528379670855
+--------evaluate global gram clustering-------
+evaluate total texts=12635
+homogeneity_score-whole-data:   0.96927814
+completeness_score-whole-data:   0.88207430
+nmi_score-whole-data:   0.92362245
+pred clusters=158, true clusters=138
+purity majority whole data=0.9510091017016225
+
+
+ubuntu, mf, 16--existing
+time diff secs= 104
+pred_true_text_file name=result/NewsPredTueTextMStream_WordArr.txt
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.77893445
+completeness_score-whole-data:   0.85939466
+nmi_score-whole-data:   0.81718881
+pred clusters=454, true clusters=269
+purity majority whole data=0.6380515797111008
+

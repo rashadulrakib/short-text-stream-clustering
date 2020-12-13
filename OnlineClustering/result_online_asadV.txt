@@ -1,0 +1,358 @@
+preocess 1979500 texts mean_c_size 10.077922077922079 std_c_size 18.235856981122478
+preocess 1979500 texts mean_c_id 153130.93506493507 std_c_id 24.47734595086566
+#list_del_cids 28 len(c_bitermsFreqs) 77
+total time diff secs= 4601
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for stackoverflow_javascript
+evaluate total texts=360717
+homogeneity_score-whole-data:   0.79891996
+completeness_score-whole-data:   0.38114157
+nmi_score-whole-data:   0.51607751
+pred clusters=73518, true clusters=57333
+acc majority whole data=0.6221442294097589
+
+
+preocess 1674500 texts mean_c_size 8.494845360824742 std_c_size 17.27059381297936
+preocess 1674500 texts mean_c_id 172675.96907216494 std_c_id 28.25643496335813
+#list_del_cids 37 len(c_bitermsFreqs) 97
+total time diff secs= 3060
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for stackoverflow_java
+evaluate total texts=78
+homogeneity_score-whole-data:   0.76390675
+completeness_score-whole-data:   0.80944064
+nmi_score-whole-data:   0.78601480
+pred clusters=38, true clusters=38
+acc majority whole data=0.5256410256410257
+
+preocess 1419500 texts mean_c_size 9.38888888888889 std_c_size 22.633223290207024
+preocess 1419500 texts mean_c_id 104478.14444444445 std_c_id 29.758035874803504
+#list_del_cids 31 len(c_bitermsFreqs) 90
+total time diff secs= 2688
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for stackoverflow_python
+evaluate total texts=348859
+homogeneity_score-whole-data:   0.76381811
+completeness_score-whole-data:   0.38087894
+nmi_score-whole-data:   0.50829559
+pred clusters=52664, true clusters=53913
+acc majority whole data=0.6094324641187414
+
+preocess 1359500 texts mean_c_size 9.579545454545455 std_c_size 18.34579822288177
+preocess 1359500 texts mean_c_id 125956.03409090909 std_c_id 25.857455788489894
+#list_del_cids 37 len(c_bitermsFreqs) 88
+total time diff secs= 3505
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for stackoverflow_csharp
+evaluate total texts=313441
+homogeneity_score-whole-data:   0.78994730
+completeness_score-whole-data:   0.46959905
+nmi_score-whole-data:   0.58903509
+pred clusters=61846, true clusters=58691
+acc majority whole data=0.529608443056269
+
+preocess 1208000 texts mean_c_size 11 std_c_size 21.198270369694473
+preocess 1208000 texts mean_c_id 89653.85245901639 std_c_id 17.91445977004216
+#list_del_cids 25 len(c_bitermsFreqs) 61
+total time diff secs= 2050
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for stackoverflow_php
+evaluate total texts=224164
+homogeneity_score-whole-data:   0.79097662
+completeness_score-whole-data:   0.43479904
+nmi_score-whole-data:   0.56114000
+pred clusters=44514, true clusters=39656
+acc majority whole data=0.563774736353741
+
+
+preocess 1021500 texts mean_c_size 12.48611111111111 std_c_size 20.526172269661444
+preocess 1021500 texts mean_c_id 79204.30555555556 std_c_id 23.88389691992027
+#list_del_cids 27 len(c_bitermsFreqs) 72
+total time diff secs= 2417
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for stackoverflow_android
+evaluate total texts=254623
+homogeneity_score-whole-data:   0.76218173
+completeness_score-whole-data:   0.39307381
+nmi_score-whole-data:   0.51866218
+pred clusters=41367, true clusters=40206
+acc majority whole data=0.5921656723862337
+
+
+preocess 370000 texts mean_c_size 14.12962962962963 std_c_size 26.918497740679264
+preocess 370000 texts mean_c_id 19915.12962962963 std_c_id 17.781744185409146
+#list_del_cids 19 len(c_bitermsFreqs) 54
+#######-personal-eval_pred_treu_txt 370000
+evaluate total texts=370000
+homogeneity_score-whole-data:   0.81372908
+completeness_score-whole-data:   0.82605739
+nmi_score-whole-data:   0.81984689
+pred clusters=8253, true clusters=10727
+acc majority whole data=0.2774875507897229
+total time diff secs= 425
+total time diff secs= 425
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for stackoverflow_jquery
+evaluate total texts=32737
+homogeneity_score-whole-data:   0.81373770
+completeness_score-whole-data:   0.82604807
+nmi_score-whole-data:   0.81984667
+pred clusters=8254, true clusters=10727
+acc majority whole data=0.2774841921984299
+
+
+
+
+
+
+
+preocess 639000 texts mean_c_size 9.8375 std_c_size 25.369394373655748
+preocess 639000 texts mean_c_id 62014.3625 std_c_id 25.432583381724207
+#list_del_cids 25 len(c_bitermsFreqs) 80
+total time diff secs= 1010
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for stackoverflow_cplus
+evaluate total texts=173991
+homogeneity_score-whole-data:   0.76537823
+completeness_score-whole-data:   0.33067952
+nmi_score-whole-data:   0.46182768
+pred clusters=30089, true clusters=24013
+acc majority whole data=0.6689828784247461
+
+
+preocess 639000 texts mean_c_size 2.8967391304347827 std_c_size 3.995241735081762
+preocess 639000 texts mean_c_id 186234.89130434784 std_c_id 47.0008618736786
+#list_del_cids 171 len(c_bitermsFreqs) 184
+#######-personal-eval_pred_true_txt 639000
+evaluate total texts=639000
+homogeneity_score-whole-data:   0.98034261
+completeness_score-whole-data:   0.93511412
+nmi_score-whole-data:   0.95719439
+pred clusters=4270, true clusters=2749
+acc majority whole data=0.9042350247996948
+total time diff secs= 797
+total time diff secs= 797
+pred_true_text_file name=result/personal_cluster_biterm_cplus.txt
+result for /stackoverflow_cplus_true_id_title_tags
+evaluate total texts=5245
+homogeneity_score-whole-data:   0.98035491
+completeness_score-whole-data:   0.93509315
+nmi_score-whole-data:   0.95718927
+pred clusters=4273, true clusters=2750
+acc majority whole data=0.9042897998093422
+
+
+
+
+
+
+
+
+
+
+preocess 305000 texts mean_c_size 12.630434782608695 std_c_size 23.360326001960555
+preocess 305000 texts mean_c_id 10823.41304347826 std_c_id 15.913063937052923
+#list_del_cids 15 len(c_bitermsFreqs) 46
+total time diff secs= 299
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for stackoverflow_mysql
+evaluate total texts=45445
+homogeneity_score-whole-data:   0.70520822
+completeness_score-whole-data:   0.47569851
+nmi_score-whole-data:   0.56815071
+pred clusters=5246, true clusters=8836
+acc majority whole data=0.4687864451534822
+
+preocess 305000 texts mean_c_size 4.168181818181818 std_c_size 8.139978928295365
+preocess 305000 texts mean_c_id 48316.12272727273 std_c_id 67.9701010807682
+#list_del_cids 79 len(c_bitermsFreqs) 220
+total time diff secs= 584
+pred_true_text_file name=result/personal_cluster_biterm_mysql.txt
+result for /stackoverflow_mysql_true_id_title_tags
+evaluate total texts=45440
+homogeneity_score-whole-data:   0.84234400
+completeness_score-whole-data:   0.49534075
+nmi_score-whole-data:   0.62383504
+pred clusters=17317, true clusters=8836
+acc majority whole data=0.5914172535211267
+
+
+preocess 305000 texts mean_c_size 4.075892857142857 std_c_size 6.825732708063057
+preocess 305000 texts mean_c_id 48213.05357142857 std_c_id 68.62785054623066
+#list_del_cids 81 len(c_bitermsFreqs) 224
+#######-personal-eval_pred_true_txt 305000
+evaluate total texts=305000
+homogeneity_score-whole-data:   0.84408791
+completeness_score-whole-data:   0.49541128
+nmi_score-whole-data:   0.62436868
+pred clusters=17515, true clusters=8836
+acc majority whole data=0.5928576146546599
+total time diff secs= 788
+total time diff secs= 789
+pred_true_text_file name=result/personal_cluster_biterm_mysql.txt
+result for /stackoverflow_mysql_true_id_title_tags
+evaluate total texts=45440
+homogeneity_score-whole-data:   0.84414121
+completeness_score-whole-data:   0.49539810
+nmi_score-whole-data:   0.62437280
+pred clusters=17530, true clusters=8836
+acc majority whole data=0.5929797535211268
+
+
+
+
+
+
+
+preocess 337500 texts mean_c_size 3.1646706586826348 std_c_size 5.489258720685333
+preocess 337500 texts mean_c_id 82466.39520958083 std_c_id 93.41341211286823
+#list_del_cids 134 len(c_bitermsFreqs) 334
+total time diff secs= 974
+pred_true_text_file name=result/personal_cluster_biterm_r.txt
+result for /stackoverflow_r_true_id_title_tags
+evaluate total texts=106049
+homogeneity_score-whole-data:   0.85188076
+completeness_score-whole-data:   0.35327494
+nmi_score-whole-data:   0.49943443
+pred clusters=41330, true clusters=14861
+acc majority whole data=0.7288611868098709
+
+
+preocess 337500 texts mean_c_size 18 std_c_size 41.09772811012737
+preocess 337500 texts mean_c_id 13956.886363636364 std_c_id 14.137556627634677
+#list_del_cids 15 len(c_bitermsFreqs) 44
+total time diff secs= 379
+pred_true_text_file name=result/personal_cluster_biterm.txt
+result for stackoverflow_r
+evaluate total texts=106049
+homogeneity_score-whole-data:   0.66612082
+completeness_score-whole-data:   0.33402253
+nmi_score-whole-data:   0.44493494
+pred clusters=8106, true clusters=14861
+acc majority whole data=0.6313779479297306
+
+
+
+preocess 337500 texts mean_c_size 5.165605095541402 std_c_size 7.96776127049271 (title +tag)
+preocess 337500 texts mean_c_id 44986.420382165605 std_c_id 43.58283115686594
+#list_del_cids 62 len(c_bitermsFreqs) 157
+total time diff secs= 997
+pred_true_text_file name=result/personal_cluster_biterm_r.txt
+result for /stackoverflow_r_true_id_title_tags
+evaluate total texts=105228
+homogeneity_score-whole-data:   0.85068293
+completeness_score-whole-data:   0.99779850
+nmi_score-whole-data:   0.91838645
+pred clusters=26785, true clusters=103365
+acc majority whole data=0.25794465351427376
+
+preocess 337500 texts mean_c_size 1454.4424778761063 std_c_size 1082.170300321868
+preocess 337500 texts mean_c_id 8735.32743362832 std_c_id 4.2414724442786635
+#list_del_cids 4 len(c_bitermsFreqs) 226
+total time diff secs= 778
+pred_true_text_file name=result/personal_cluster_biterm_r.txt
+result for /stackoverflow_r_true_id_title_tags
+evaluate total texts=3459
+homogeneity_score-whole-data:   0.64182910
+completeness_score-whole-data:   0.89876009
+v_measure_score-whole-data:   0.74886983
+nmi_score-whole-data:   0.74886983
+pred clusters=342, true clusters=1814
+acc majority whole data=0.614050303555941
+
+
+
+
+
+
+preocess 279500 texts mean_c_size 1.2576832151300237 std_c_size 0.9273523049595601 (tag)
+preocess 279500 texts mean_c_id 242127.10638297873 std_c_id 124.96420542253752
+#list_del_cids 411 len(c_bitermsFreqs) 423
+total time diff secs= 636
+pred_true_text_file name=result/personal_cluster_biterm_r.txt
+result for /stackoverflow_r_true_id_title_tags
+evaluate total texts=3118
+homogeneity_score-whole-data:   0.99713299
+completeness_score-whole-data:   0.93013103
+nmi_score-whole-data:   0.96246734
+pred clusters=2913, true clusters=1718
+acc majority whole data=0.9862091084028223
+
+
+
+
+preocess 279500 texts mean_c_size 97.8259649122807 std_c_size 225.64676213841878
+preocess 279500 texts mean_c_id 136848.99929824562 std_c_id 348.2136385343126
+#list_del_cids 273 len(c_bitermsFreqs) 1425
+total time diff secs= 3793
+pred_true_text_file name=result/personal_cluster_biterm_r.txt
+result for /stackoverflow_r_true_id_title_tags
+evaluate total texts=3118
+homogeneity_score-whole-data:   0.86387868
+completeness_score-whole-data:   0.92809597
+v_measure_score-whole-data:   0.89483668
+nmi_score-whole-data:   0.89483668
+pred clusters=1698, true clusters=1718
+acc majority whole data=0.6462475946119307
+
+preocess 279500 texts mean_c_size 139.3863863863864 std_c_size 372.7411417758974
+preocess 279500 texts mean_c_id 137313.37837837837 std_c_id 253.5076354183514
+#list_del_cids 201 len(c_bitermsFreqs) 999
+total time diff secs= 2312
+pred_true_text_file name=result/personal_cluster_biterm_r.txt
+result for /stackoverflow_r_true_id_title_tags
+evaluate total texts=3118
+homogeneity_score-whole-data:   0.83281517
+completeness_score-whole-data:   0.92656283
+v_measure_score-whole-data:   0.87719135
+nmi_score-whole-data:   0.87719135
+pred clusters=1621, true clusters=1718
+acc majority whole data=0.6510583707504811
+
+
+preocess 639000 texts mean_c_size 1859.9967426710098 std_c_size 4833.712026745666 (tag)
+preocess 639000 texts mean_c_id 65125.47882736156 std_c_id 77.80377135998043
+#list_del_cids 67 len(c_bitermsFreqs) 307
+#######-personal-eval_pred_true_txt 639000
+evaluate total texts=5242
+homogeneity_score-whole-data:   0.45117739
+completeness_score-whole-data:   0.90093673
+v_measure_score-whole-data:   0.60125440
+nmi_score-whole-data:   0.60125440
+pred clusters=333, true clusters=2749
+acc majority whole data=0.7209080503624571
+total time diff secs= 1666
+total time diff secs= 1667
+pred_true_text_file name=result/personal_cluster_biterm_cplus.txt
+result for /stackoverflow_cplus_true_id_title_tags
+evaluate total texts=5245
+homogeneity_score-whole-data:   0.45118827
+completeness_score-whole-data:   0.90093453
+v_measure_score-whole-data:   0.60126357
+nmi_score-whole-data:   0.60126357
+pred clusters=333, true clusters=2750
+acc majority whole data=0.7208770257387989
+
+
+preocess 639000 texts mean_c_size 1917.301886792453 std_c_size 1362.4419913780719 (title)
+preocess 639000 texts mean_c_id 29003.98113207547 std_c_id 11.48499045077641
+#list_del_cids 15 len(c_bitermsFreqs) 318
+#######-personal-eval_pred_true_txt 639000
+evaluate total texts=5242
+homogeneity_score-whole-data:   0.64921844
+completeness_score-whole-data:   0.89982440
+v_measure_score-whole-data:   0.75424976
+nmi_score-whole-data:   0.75424976
+pred clusters=623, true clusters=2749
+acc majority whole data=0.59252193819153
+total time diff secs= 3506
+total time diff secs= 3508
+pred_true_text_file name=result/personal_cluster_biterm_cplus.txt
+result for /stackoverflow_cplus_true_id_title_tags
+evaluate total texts=5245
+homogeneity_score-whole-data:   0.64915043
+completeness_score-whole-data:   0.89978789
+v_measure_score-whole-data:   0.75419104
+nmi_score-whole-data:   0.75419104
+pred clusters=623, true clusters=2750
+acc majority whole data=0.5923736892278361

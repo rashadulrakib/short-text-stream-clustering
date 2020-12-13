@@ -1,0 +1,3118 @@
+3	1909	['debug']	1169480
+2	1919	['regress', 'linear-regress', 'lm']	1169539
+9	1920	['termin', 'custom', 'rprofil']	1189759
+6	1757	['datafram', 'r-factor', 'r-faq']	1195826
+2	1901	['histogram', 'logarithm']	1245273
+11	1784	['visual', 'ggplot2']	1249548
+3	1894	['packag', 'convent', 'code-organ', 'project-organ']	1266279
+6	1916	['join', 'merg', 'datafram', 'r-faq']	1299871
+4	1307	['plot']	1395577
+1	1682	['regex', 'gsub']	1400937
+12	1886	['upgrad', 'packag']	1401904
+2	1443	['string', 'substr', 'longest-substr']	1429476
+3	1891	['statist', 'data-visu']	1429907
+1	1850	['r-faq']	1535021
+2	1803	['function']	1567718
+11	1899	['sql', 'rodbc']	1630724
+4	1735	['file', 'path', 'rscript', 'r-faq']	1815606
+1	1765	['datetim']	1828206
+1	1794	['export-to-excel', 'import-from-excel']	1848331
+13	1911	['debug']	1882734
+13	691	['debug']	1975110
+3	1812	['statist']	2126108
+1	1750	['ggplot2', 'ggproto']	2181902
+11	1899	['mysql', 'variabl']	2182337
+1	1899	['databas']	2186015
+13	1897	['data-process', 'read.tabl', 'delimit']	2193742
+1	1841	['floating-accuraci']	2227734
+1	1662	['fuzzy-search']	2231993
+1	1578	['strsplit']	2247045
+3	1890	['version-control', 'workflow', 'statist']	2286831
+3	1890	['statist']	2295389
+11	858	['visual', 'ggplot2']	2331070
+4	1610	['plot', 'ggplot2']	2409317
+6	1686	['perform', 'list', 'append', 'big-o']	2436688
+4	1690	['array', 'distanc', 'trigonometri']	2535234
+3	1701	['statist', 'r-faq']	2547402
+4	1608	['plot', 'ggplot2', 'r-faq']	2564258
+1	1887	['error-handl', 'try-catch', 'lappli']	2589275
+6	1489	['appli', 'datafram']	2643939
+8	1889	['git', 'version-control']	2712421
+6	1885	['text', 'delimit']	2732397
+3	1715	['statist']	2765374
+17	1506	['window']	2824965
+6	1273	['list', 'hashmap', 'lookup']	2858014
+8	1872	['label', 'local', 'ggplot2', 'facet']	2893005
+1	1498	['datafram', 'replic']	2894775
+11	1820	['latex']	2978784
+11	1836	['matlab']	3082716
+6	1870	['list']	3094111
+1	1563	['r-packag']	3094232
+1	1781	['ggplot2', 'r-faq']	3099219
+5	1868	['hadoop', 'serial']	3114043
+2	1868	['base64', 'serial']	3119037
+1	844	['ggplot2']	3165346
+1	1867	['ggplot2']	3190087
+1	1861	['ggplot2', 'strip', 'facet']	3261597
+6	1862	['split', 'datafram', 'r-faq']	3302356
+1	1725	['rjava']	3311940
+1	1862	['vector']	3318333
+1	1856	['datafram']	3348522
+8	1856	['datafram', 'reshap']	3356923
+2	1839	['datafram', 'lookup']	3369025
+3	867	['time', 'datafram', 'xt']	3386850
+1	1849	['error-handl']	3440373
+22	1847	['format', 'round', 'r-faq']	3443687
+8	1735	['path']	3452086
+1	1872	['ggplot2', 'symbol', 'facet', 'plotmath']	3472980
+4	1627	['graph', 'plot', 'label', 'boxplot']	3483203
+1	1849	['rodbc']	3501528
+1	1866	['lappli', 'sappli', 'tappli', 'r-faq']	3505701
+4	1655	['plot', 'ggplot2']	3606697
+1	321	['linear-algebra']	3642188
+6	1581	['list', 'datafram']	3642535
+2	1531	['profil', 'profil']	3650862
+1	1848	['ggplot2']	3681647
+1	1429	['ggplot2']	3685285
+11	1836	['return-valu', 'interact', 'built-in']	3689279
+1	1630	['vector']	3699405
+1	1763	['eclips']	3727822
+1	1753	['ggplot2']	3744178
+1	740	['ggplot2']	3810927
+1	1592	['rdata']	3835714
+1	1786	['ggplot2']	3864535
+4	1582	['plot', 'legend']	3932038
+6	1863	['sort', 'datafram']	4126326
+1	1822	['data-manag']	4167529
+6	1673	['list', 'datafram']	4227223
+8	1818	['sweav', 'xtabl']	4347634
+3	1499	['statist']	4359310
+13	1912	['debug', 'r-faq']	4442518
+6	1673	['list', 'datafram']	4512465
+1	1378	['foreach', 'parallel-process', 'multicor', 'scope']	4765256
+11	1827	['mysql', 'packag', 'rmysql']	4785933
+8	958	['vim', 'ctag', 'exuberant-ctag']	4794859
+1	1835	['error-handl', 'try-catch']	4948361
+27	1833	['sparse-matrix', 'svd']	4951286
+10	1829	['oop', 'coding-styl']	4959018
+1	1834	['read-eval-print-loop']	4996090
+1	1833	['rcpp']	5009026
+4	1832	['plot', 'aggreg', 'data-analysi']	5027480
+4	1832	['plot', 'ggplot2', 'reshap', 'stacked-area-chart']	5030389
+1	1831	['ggplot2']	5106782
+1	1829	['software-distribut']	5140447
+13	1907	['debug']	5156035
+4	1307	['plot']	5182238
+1	1828	['ggplot2', 'r-faq']	5208679
+11	1827	['mysql', 'window']	5223113
+1	1784	['ggplot2']	5226807
+9	1804	['datafram', 'glm', 'lm']	5251507
+4	1882	['graphic', 'unicod', 'utf-8', 'ggplot2']	5293715
+4	1618	['cluster-analysi', 'heatmap']	5320814
+11	1822	['metadata', 'data-manag']	5333280
+1	1461	['format', 'scientific-not']	5352099
+3	1891	['workflow', 'statist']	5365974
+1	1598	['ggplot2']	5415132
+8	1821	['latex', 'lme4']	5461196
+8	1821	['latex']	5465314
+1	1505	['ggplot2']	5713713
+11	1425	['command-lin']	5745886
+1	1805	['google-fin', 'quantitative-fin', 'quantmod']	5749252
+1	1805	['timezon', 'xt', 'quantmod', 'google-fin']	5761576
+6	1897	['import', 'r-faq']	5788117
+11	1056	['maco', 'postgresql', 'rodbc']	5807766
+4	1723	['matrix', 'plot', 'frequenc']	5913006
+1	1884	['r-faq']	5963269
+10	1800	['perform', 'datafram', 'rbind']	5980240
+9	1799	['instal', 'packag']	6007883
+36	1799	['area', 'venn-diagram']	6009222
+6	1490	['ggplot2', 'legend']	6022898
+6	975	['sort', 'appli']	6063881
+1	1797	['ggplot2']	6085238
+40	1794	['excel', 'r-faq']	6099243
+40	1793	['csv', 'number-format']	6123378
+11	1437	['anim', 'ubuntu']	6132332
+1	1798	['functional-program']	6167791
+13	1745	['graph']	6178763
+11	1765	['posix', 'zoo', 'r-faq']	6242955
+6	1672	['class', 'type']	6258004
+9	1451	['packag']	6281322
+1	1533	['multilin']	6329962
+1	1830	['ggplot2']	6488748
+1	1697	['logical-oper', 'boolean-oper', 'or-oper', 'and-oper']	6558921
+6	1754	['match']	6592214
+6	1754	['match']	6593587
+4	1685	['graphic', 'ggplot2']	6644997
+1	1743	['ggplot2', 'r-faq']	6675066
+2	1840	['floating-point', 'floating-accuraci']	6874867
+45	1748	['rgl']	6901238
+1	1562	['data.t']	6902087
+11	1697	['subset', 'logical-oper']	6933598
+10	1334	['ggplot2', 'curv']	6967664
+9	1747	['packag', 'r-faq']	6979917
+4	1528	['duplic', 'datafram']	6986657
+1	1746	['ggplot2']	7001799
+1	1744	['lappli']	7004710
+1	1807	['datafram', 'plyr']	7006082
+1	1619	['rjava']	7019912
+2	1744	['function', 'error-handl', 'r-faq']	7027288
+11	1915	['sql', 'data.t']	7090621
+3	1724	['bash']	7169202
+10	846	['regex', 'grep']	7227976
+10	1689	['perform', 'datafram', 'data.t']	7235657
+1	1723	['matrix', 'probabl', 'frequenc', 'weight']	7280421
+1	1753	['ggplot2']	7299440
+4	1722	['plot', 'probabl', 'heatmap']	7305803
+6	1721	['intern']	7327521
+1	1392	['r-faq']	7355187
+10	1670	['class', 's4', 'slot', 'roxygen2']	7368262
+11	1568	['sql', 'odbc', 'rodbc']	7425100
+11	1920	['user-interfac', 'popup', 'x11', 'cran']	7430452
+9	1714	['rgl']	7473067
+13	1895	['debug']	7486386
+9	1714	['rgl']	7486450
+11	1544	['ggplot2', 'visual']	7492274
+1	1738	['ggplot2', 'linear-regress', 'r-faq']	7549694
+4	1713	['plot', 'label']	7611169
+1	1640	['type-convers']	7680959
+4	1163	['color', 'plot', 'r-factor']	7721262
+1	1602	['posixct']	7726034
+3	1724	['bash', 'devtool']	7756604
+2	1901	['histogram', 'logarithm']	7828248
+8	1658	['duplic', 'r-faq']	7854433
+2	1704	['renam', 'filenam']	7864931
+1	1703	['ggplot2']	7883154
+1	1653	['data.t']	7885147
+1	1702	['ggplot2', 'viewport']	7901925
+1	1702	['ggplot2']	7903972
+6	1121	['sequenc', 'datafram', 'row']	7942519
+1	1696	['logical-oper']	7953833
+1	1556	['data.t']	7960798
+6	1294	['excel', 'memori']	7963393
+1	1784	['ggplot2']	7993722
+2	1695	['measur']	8036700
+11	1688	['formula', 'polynomi', 'tild']	8055508
+13	1492	['graph', 'gridlin']	8081931
+6	1816	['list', 'merg', 'datafram', 'r-faq']	8091303
+8	1809	['datafram', 'reshap', 'melt']	8093839
+9	1694	['packag']	8096313
+11	1904	['debug', 'browser']	8142339
+1	1676	['combin', 'data-visu', 'factor-analysi']	8153594
+13	1690	['perform', 'linear-algebra']	8158867
+2	1687	['datafram', 'missing-data', 'imput']	8161836
+1	1559	['ggplot2']	8197559
+6	1217	['datafram', 'aggreg']	8203818
+9	1683	['scatter-plot', 'rgl']	8204972
+57	1683	['scatter']	8231007
+8	1819	['latex']	8251306
+6	1188	['api', 'rest', 'amazon-web-servic', 'amazon-product-api']	8251632
+1	1684	['format', 'printf']	8266915
+6	1652	['datafram', 'sampl', 'r-faq']	8273313
+10	1682	['regex', 'gsub', 'backrefer']	8321081
+3	1680	['aggreg']	8400901
+1	1679	['ggplot2']	8499378
+13	1911	['debug']	8507442
+2	1756	['object', 'rdata']	8700619
+2	1511	['math', 'geometri', 'astronomi', 'azimuth']	8708048
+4	1676	['plot', 'venn-diagram']	8713994
+8	1214	['xt']	8732461
+6	1675	['list', 'data-structur']	8743556
+1	1536	['latitude-longitud', 'google-geocod']	8751497
+1	1675	['functional-program']	8754475
+6	1674	['depend', 'code-analysi']	8761857
+11	1674	['namespac']	8771942
+1	1728	['sweav']	8835426
+1	1255	['sparse-matrix']	8843700
+11	1095	['csv', 'r-faq']	8854046
+1	1672	['language-lawy', 'r-faq']	8855589
+3	1671	['data-min', 'sparse-matrix']	8888516
+1	1601	['strptime']	8889554
+1	1535	['f#']	8896820
+60	1507	['2d', 'histogram']	8899096
+9	1669	['document', 'namespac', 'extension-method', 'packag']	8935523
+1	1669	['document', 's4', 'roxygen', 'roxygen2']	8947483
+8	1459	['latex', 'pdflatex', 'sweav']	9023256
+63	1665	['maco', 'clipboard']	9035674
+8	1668	['json', 'curl', 'rcurl']	9058728
+11	1668	['json', 'appli', 'unix-timestamp']	9059726
+11	1667	['csv', 'parallel-process', 'bigdata']	9060457
+2	1666	['bioinformat', 'spectrum']	9060569
+1	1318	['regress', 'svd', 'projection-matrix', 'qr-decomposit']	9071020
+3	1666	['awk']	9075208
+4	1586	['plot', 'ggplot2']	9096671
+1	1619	['iplot']	9120270
+13	1710	['regress', 'lme4']	9161273
+13	1720	['debug', 'condit', 'nan']	9167376
+3	1664	['perform', 'statist', 'crosstab', 'bigdata']	9171036
+6	1664	['memori', 'boolean']	9178254
+1	1660	['ggplot2']	9184969
+1	1815	['ggplot2']	9198637
+11	1590	['xml', 'memory-leak']	9220849
+8	406	['latex', 'sweav']	9298765
+13	918	['aggreg', 'plyr', 'data.t']	9315258
+2	1634	['matrix']	9316946
+4	1612	['rout', 'dijkstra', 'igraph']	9317923
+1	1147	['ggplot2', 'cartogram']	9319597
+3	1182	['statist']	9378482
+1	1694	['ggplot2']	9439256
+1	1659	['if-stat']	9449184
+1	690	['ggplot2']	9502003
+1	734	['datafram']	9503896
+1	1657	['ggplot2']	9505495
+3	976	['sort', 'matrix', 'row']	9506442
+2	1841	['floating-point', 'floating-accuraci', 'r-faq']	9508518
+13	1654	['perform', 'workload']	9534351
+11	1650	['ggplot2', 'geospati']	9558040
+8	1812	['matrix', 'datafram', 'plyr', 'reshap']	9617348
+1	1372	['ggplot2']	9617629
+11	1717	['maco', 'instal']	9689104
+2	1649	['function', 'macro', 'sa']	9829424
+1	1811	['sparse-matrix']	9833052
+2	1649	['function']	9840509
+1	1485	['ggplot2']	9863604
+1	1845	['ggplot2', 'boxplot']	9871106
+2	1845	['align', 'boxplot']	9874512
+13	1644	['class', 'matrix', 'distanc']	9879608
+1	1631	['parallel-process', 'default', 'plyr']	9895811
+1	1643	['ggplot2']	9915824
+1	1752	['ggplot2']	9917049
+4	1641	['julia']	9965747
+9	1641	['optim', 'julia']	9968578
+1	1469	['ggplot2']	9968976
+1	1638	['ggplot2']	10004847
+11	1636	['binari']	10032052
+1	1583	['ggplot2']	10035551
+8	1635	['reshap']	10049602
+8	1635	['reshap']	10055602
+1	1861	['ggplot2']	10058839
+11	1594	['ggplot2', 'frequenc']	10064080
+4	1660	['ggplot2', 'bar-chart']	10112587
+1	1633	['statistics-bootstrap']	10176524
+9	1084	['document', 'bibtex', 'roxygen2', 'citat']	10207564
+1	1631	['reflect']	10212245
+11	1552	['linux', 'unix']	10303241
+1	1617	['ggplot2']	10305614
+11	1589	['ggplot2', 'shapefil']	10306831
+1	1625	['ggplot2']	10368180
+3	1207	['statist']	10404224
+1	1624	['parallel-process']	10411871
+13	1116	['split']	10421668
+1	1623	['r-factor', 'recod']	10431403
+13	1573	['datafram', 'plyr', 'data.t']	10438969
+6	1623	['type', 'level']	10449366
+6	1445	['lda', 'topic-model']	10483349
+1	1487	['r-caret']	10498477
+1	1741	['ggplot2']	10525957
+1	1657	['ggplot2']	10526005
+4	1621	['overlay', 'ggplot2', 'segment', 'scatter']	10532192
+2	1447	['random', 'correl']	10535235
+4	1741	['ggplot2', 'lattic']	10536396
+2	1620	['time-seri']	10543199
+13	1618	['imag', 'heatmap']	10562078
+2	1617	['map', 'ggplot2']	10572878
+1	1616	['ggplot2']	10620862
+1	1597	['rstudio', 'knitr', 'r-markdown']	10646665
+6	1615	['datafram', 'multiple-column', 'appli']	10661295
+6	1613	['renam', 'base', 'gsub']	10662314
+11	1591	['unicod', 'cjk']	10675360
+6	1550	['datafram', 'r-faq']	10689055
+1	1537	['ggplot2']	10706753
+4	1612	['rout', 'dijkstra', 'igraph']	10740100
+1	1704	['file-renam']	10758965
+1	1611	['ggplot2']	10762287
+4	1610	['datetim', 'ggplot2', 'histogram']	10770698
+3	1326	['color', 'consol', 'output-format']	10802806
+1	1600	['ggplot2']	10806404
+8	1452	['cran']	10807804
+2	1606	['matrix']	10826357
+1	1607	['format', 'dump']	10840741
+2	1606	['matrix']	10851976
+3	1607	['interop', 'operating-system']	10853050
+2	1605	['graph', 'gnuplot', 'heatmap']	10859858
+1	1605	['ggplot2', 'heatmap']	10861278
+1	1595	['ggplot2']	10888117
+2	1601	['time', 'round', 'millisecond', 'rounding-error']	10931972
+1	1599	['namespac', 'mask', 'operator-preced']	10939516
+1	1597	['sweav', 'knitr']	10943695
+4	1600	['plot']	10945707
+1	1096	['markdown', 'knitr']	10966109
+1	1792	['ggplot2']	11020437
+1	1638	['ggplot2']	11028353
+1	1472	['lme4']	11056625
+11	1591	['web-scrap', 'rcurl']	11069908
+4	1395	['color', 'plot', 'linear-gradi']	11070101
+6	1093	['datafram', 'row', 'repeat']	11121385
+10	1261	['string', 'unicod', 'string-length']	11134812
+6	1193	['sort', 'merg', 'datafram']	11144551
+13	1914	['merg', 'datafram', 'plyr', 'data.t']	11146967
+1	1874	['ggplot2', 'facet-wrap', 'rexcel']	11163400
+1	1656	['ggplot2']	11214012
+1	1847	['decim']	11228403
+2	1587	['distribut', 'minimum', 'evenli']	11254452
+10	1640	['function', 'type-convers']	11261399
+13	1869	['if-stat', 'for-loop', 'conditional-stat', 'rcpp']	11275187
+1	1588	['datafram']	11280277
+13	1587	['while-loop', 'distribut', 'max', 'min']	11288900
+1	1869	['rcpp']	11300048
+1	1579	['ggplot2']	11301738
+8	1586	['label', 'facet', 'ggplot2']	11353287
+4	1141	['plot', 'real-tim']	11365857
+6	1514	['ggplot2', 'legend']	11366964
+1	1583	['ggplot2']	11393123
+10	1584	['loop']	11394091
+2	1854	['csv', 'import', 'r-faq']	11433432
+6	1581	['memori', 'datafram']	11486369
+13	1866	['datafram', 'plyr', 'data.t']	11533438
+2	1424	['datafram', 'insert']	11561856
+6	1866	['datafram', 'r-faq']	11562656
+1	1579	['ggplot2']	11606441
+2	1576	['string', 'split']	11619616
+3	1575	['physic', 'time-seri', 'financ', 'xt']	11650996
+1	1574	['option', 'knitr', 'chunk']	11668904
+3	1575	['time-seri', 'xt']	11669945
+1	1257	['camelcas']	11672050
+10	1570	['time-seri', 'data.t', 'sliding-window']	11676476
+13	1786	['ggplot2', 'subtitl']	11724311
+1	1547	['ggplot2']	11751047
+1	1164	['ggplot2', 'facet']	11846295
+6	1571	['array', 'merg', 'rang', 'match']	11851240
+10	1571	['loop', 'merg', 'genet']	11892241
+1	1470	['data.t']	11940605
+1	1521	['knitr']	11950703
+11	1568	['sql', 'oracl']	11954734
+1	1875	['ggplot2']	11979017
+4	1567	['ggplot2', 'bar-chart']	12018499
+1	1566	['parallel-process']	12019638
+1	1566	['parallel-process']	12023403
+1	1385	['roxygen2']	12038160
+1	1796	['ggplot2']	12040245
+1	1144	['ggplot2']	12075037
+1	1873	['ggplot2']	12096492
+11	1564	['cran', 's4']	12100856
+1	1524	['libsvm']	12112558
+2	1557	['integ', 'doubl', 'data.t', 'median']	12125364
+11	1570	['data.t', 'zoo']	12139934
+10	1569	['datafram', 'data.t', 'appli', 'xt']	12150472
+1	1848	['ggplot2']	12252750
+6	726	['eigen']	12304963
+1	1392	['r-faq']	12307139
+1	1561	['lubrid']	12323693
+1	165	['datafram']	12362176
+2	1253	['time-seri']	12362857
+1	1558	['datafram', 'igraph', 'vertexdata']	12362866
+1	1558	['ggplot2', 'diagram', 'igraph']	12385103
+95	1347	['selenium']	12392404
+13	667	['regress', 'intercept', 'r-caret']	12394855
+4	1739	['annot', 'ggplot2']	12409960
+4	1413	['plot', 'rserv']	12417454
+4	1814	['data-visu', 'ggplot2']	12448428
+1	1283	['ggplot2']	12464396
+1	1152	['opencpu']	12468574
+2	1850	['import', 'export', 'export-to-csv', 'read.tabl']	12512062
+1	1877	['ggplot2']	12514612
+8	1527	['latex', 'knitr', 'subfigur']	12546365
+10	1552	['linux', 'memory-manag']	12582793
+8	1551	['xt', 'random-forest']	12584704
+8	1551	['xt', 'random-forest']	12599684
+4	1397	['plot', 'tiff']	12609816
+4	1173	['plot', 'ggplot2']	12647774
+4	1515	['ggplot2', 'plot']	12675147
+11	1564	['s4']	12709933
+3	1501	['replac', 'data.t']	12723182
+4	1549	['plot']	12766253
+1	1546	['data.t']	12786335
+6	1354	['sort', 'r-faq']	12806128
+1	1790	['ggplot2']	12806260
+1	1548	['reshape2']	12829995
+1	1548	['reshape2']	12831524
+6	1085	['datafram', 'distinct-valu', 'r-faq']	12840294
+1	1547	['ggplot2', 'datafram']	12894306
+11	1546	['charact', 'posix']	12898318
+6	1585	['datafram', 'r-faq']	12925063
+2	1541	['forecast']	13063273
+2	609	['matrix', 'linear-algebra']	13088770
+6	1540	['sum', 'data.t']	13106645
+1	1917	['traceback']	13116099
+9	1719	['gener', 'packag', 's4', 'roxygen2']	13137912
+9	1539	['repositori', 'cran']	13156426
+4	882	['ggplot2', 'data-visu', 'hexagonal-til']	13167531
+1	1538	['datafram']	13176741
+1	1221	['export-to-csv', 'file-convers']	13189467
+6	1538	['list', 'matrix', 'relationship']	13190627
+1	1882	['ggplot2', 'plotmath']	13192984
+1	1882	['ggplot2', 'plotmath']	13198170
+2	1650	['map', 'ggplot2']	13219387
+1	1876	['ggplot2']	13223846
+10	608	['graph', 'flow']	13272612
+2	1692	['matrix']	13281303
+11	1913	['datafram', 'match', 'multiple-column']	13286881
+1	1815	['ggplot2', 'gridextra', 'gtabl']	13294952
+1	1874	['ggplot2', 'facet-wrap']	13297155
+1	1584	['vector', 'oper']	13349613
+11	1535	['pipelin']	13354048
+1	1530	['ggplot2']	13407236
+1	1530	['ggplot2', 'layer', 'proto', 'ggproto']	13457562
+10	680	['graphics2d', 'curv']	13577918
+1	1461	['r-faq']	13579953
+3	1528	['duplic']	13594968
+9	1670	['rstudio', 's4', 'roxygen2']	13642092
+1	1526	['ggplot2']	13656642
+1	1886	['rstudio']	13656699
+1	1732	['autom', 'working-directori']	13672720
+8	514	['latex', 'xtabl']	13675380
+4	1371	['plot', 'ggplot2', 'axe']	13701347
+2	1604	['graph', 'ggplot2']	13701485
+9	1494	['matlab', 'optim', 'nonlinear-optim']	13703344
+10	1508	['string', 'split', 'r-faq']	13773770
+11	789	['operator-overload', 'sparse-matrix', 's4']	13812373
+1	1522	['datafram']	13912387
+11	1324	['maco', 'shared-memori']	13942202
+8	1521	['latex', 'knitr', 'xtabl', 'r-markdown']	13984470
+1	799	['r-caret']	14023423
+1	1410	['equat', 'roxygen2']	14041601
+8	1459	['latex', 'knitr']	14058832
+1	1535	['f#', 'operator-overload']	14099218
+4	1504	['plot', 'ggplot2', 'base', 'biwavelet']	14124373
+1	1509	['plyr']	14153092
+1	1648	['global-vari']	14166207
+1	1464	['date-arithmet']	14169620
+13	1483	['cmd', 'rgui', 'rterm']	14237467
+10	1091	['datafram', 'dplyr', 'data.t', 'coalesc']	14268814
+4	1691	['graph', 'plot', 'igraph', 'adjacency-matrix']	14332233
+4	1504	['graphic', 'ggplot2']	14358526
+4	1502	['loop', 'plot']	14368147
+1	1312	['ggplot2']	14490071
+1	1501	['data.t']	14501305
+8	1808	['datafram', 'reshap']	14508199
+10	1665	['clipboard']	14547069
+10	894	['merg']	14563531
+1	1449	['data.t']	14604820
+9	1325	['version-control', 'depend', 'packag']	14645363
+4	1496	['ggplot2', 'data-visu']	14647988
+8	1497	['secur', 'code-access-secur', 'shini']	14671609
+9	1497	['secur', 'rstudio', 'shini']	14672171
+1	1495	['ggplot2']	14680075
+9	1494	['optim', 'nonlinear-optim']	14687326
+1	1490	['ggplot2']	14771546
+8	1712	['lattic']	14784302
+8	1817	['window', 'latex', 'knitr', 'r-markdown']	14797440
+3	1476	['aggreg']	14800161
+8	1488	['window', 'latex', 'png', 'convert']	14827853
+2	1708	['formula']	14839689
+1	1487	['random-forest']	14839730
+1	1488	['window', 'redirect', 'autom', 'ghostscript']	14870400
+9	1486	['packag']	14871818
+9	1486	['packag']	14874909
+6	1446	['lda', 'topic-model', 'tm']	14875493
+9	676	['oracl', 'rstudio']	14882033
+6	1465	['datafram', 'combin']	14899197
+9	1151	['function', 'load', 'packag']	14926672
+2	1712	['function', 'environ', 'argument-pass']	14933804
+1	1482	['pandoc']	14964457
+1	1482	['pandoc', 'linux-mint']	14968103
+1	1463	['eclips', 'rcpp', 'rinsid']	14975638
+10	1481	['cut']	14983347
+10	1272	['join', 'data.t']	14983805
+6	1481	['list', 'averag']	14994084
+8	1642	['window', 'git', 'curl']	15034471
+8	1520	['latex']	15036754
+8	1478	['parallel-process', 'cluster-comput', 'mpi']	15039039
+13	1642	['window', 'curl', 'github']	15042418
+1	1477	['datafram']	15044342
+8	1475	['facebook', 'http', 'rcurl', 'geturl']	15046111
+1	1477	['data.t']	15057769
+1	1825	['datafram']	15059076
+1	1323	['ggplot2']	15059093
+11	1475	['json', 'facebook']	15069078
+13	1483	['cmd', 'rgui', 'rterm']	15073114
+1	1474	['datafram']	15097497
+1	1473	['ggplot2', 'colorbrew']	15112440
+1	1472	['lme4']	15141952
+11	1474	['format', 'condit', 'datafram', 'subset']	15147336
+1	1629	['vector', 'datafram']	15201305
+2	1468	['text-min', 'tm']	15258954
+11	1467	['data.t', 'knitr']	15267018
+4	1679	['graphic', 'ggplot2']	15273148
+2	1054	['regress', 'linear-regress', 'lm', 'mlm']	15296833
+4	1882	['graphic', 'plot', 'express', 'plotmath']	15297814
+8	1467	['cach', 'data.t', 'knitr']	15298359
+1	1791	['ggplot2', 'boxplot']	15367762
+1	1602	['posixct']	15383057
+1	1331	['knitr']	15403903
+9	1462	['email', 'smtp', 'gmail', 'sendmailr']	15421130
+4	1466	['plot']	15431924
+4	1466	['plot']	15447622
+13	1865	['merg', 'plyr']	15467219
+6	1465	['datafram', 'combin']	15475832
+1	1402	['ggplot2']	15486551
+8	1463	['eclips', 'osx-mountain-lion', 'rcpp']	15489065
+1	1345	['ggplot2', 'parameter-pass']	15502263
+6	1562	['loop', 'if-stat', 'datafram']	15510566
+6	1460	['normal', 'r-factor']	15591704
+3	1415	['statist', 'regress', 'r-zelig']	15591880
+6	1460	['search', 'normal', 'r-factor', 'do.cal']	15593537
+4	1713	['plot', 'ggplot2', 'label', 'ggrepel']	15624656
+1	1122	['imag', 'markdown', 'knitr', 'pandoc']	15625990
+1	1458	['knitr']	15647282
+1	1627	['ggplot2', 'boxplot']	15660829
+1	1455	['differential-equ']	15660954
+2	636	['scrape', 'censu']	15670151
+2	1457	['matrix', 'igraph']	15670799
+2	1457	['matrix', 'igraph', 'adjacency-list']	15671568
+13	1456	['data.t', 'rbind', 'rbindlist']	15673550
+11	732	['utf-8', 'character-encod', 'knitr']	15703702
+4	1627	['graph', 'plot', 'ggplot2']	15720545
+2	1455	['curve-fit', 'differential-equ', 'data-fit', 'model-fit']	15730793
+10	1454	['crash', 'write.t']	15816532
+8	1453	['asp.net', 'download', 'rcurl', 'httr']	15853204
+10	1430	['header', 'skip', 'read.csv']	15860071
+9	1322	['rstudio', 'shini']	15875786
+1	1427	['data.t']	15913417
+2	1066	['regress', 'linear-regress', 'plm']	15960129
+3	1450	['time-seri', 'zoo']	15960352
+1	1489	['datafram']	15968494
+3	706	['aggreg']	15978985
+1	1449	['data.t']	15996692
+4	1625	['plot', 'ggplot2', 'map', 'bar-chart']	16028659
+9	1448	['function', 'probabl']	16070405
+4	1448	['function', 'plot', 'probabl']	16072487
+8	1338	['plyr', 'zoo']	16111242
+6	1446	['lda', 'topic-model']	16115102
+1	1444	['data.t']	16132625
+1	1444	['data.t']	16152161
+9	1443	['lc']	16196327
+1	1053	['kernel-dens']	16201906
+1	1441	['vector']	16220521
+1	1440	['data.t']	16221742
+10	1440	['datafram', 'data.t']	16239153
+1	1432	['missing-data']	16253789
+1	1439	['ggplot2']	16255579
+10	1218	['perform', 'bigdata']	16284766
+1	1212	['data.t']	16289182
+1	1437	['anim', 'imagemagick', 'system']	16310387
+11	1454	['window', 'data.t']	16315551
+1	1263	['igraph']	16390221
+1	562	['ggplot2']	16397526
+1	1422	['window', 'install.packag', 'domc']	16453625
+13	1431	['for-loop', 'distanc', 'vector']	16474179
+1	1426	['heatmap']	16475081
+10	1428	['loop', 'append']	16512371
+1	1427	['data.t']	16542994
+1	1426	['heatmap', 'lappli']	16559250
+1	1468	['text-min']	16626168
+1	1265	['markdown', 'knitr', 'pandoc']	16626462
+6	1431	['point', 'euclidean-dist']	16667247
+13	1415	['regress', 'missing-data', 'model-fit', 'r-zelig']	16694587
+13	1414	['replac', 'diagon']	16705468
+3	1414	['replac']	16706578
+4	1413	['plot', 'rserv']	16798605
+11	1358	['window', 'csv', 'utf-8', 'read.tabl']	16838613
+1	1705	['data.t']	16846380
+6	1293	['font-siz', 'knitr']	16880627
+1	1412	['vector']	16902902
+1	939	['ggplot2']	16947431
+9	1480	['maco', 'instal', 'packag']	16956875
+1	1411	['ggplot2']	16963137
+6	1686	['perform', 'list', 'append']	17046336
+1	1787	['ggplot2', 'gridextra']	17059099
+9	1410	['packag', 'roxygen2']	17061016
+13	1844	['instal', 'version', 'r-faq']	17082341
+1	1409	['tempdir']	17107206
+4	1405	['graph', 'legend', 'axis-label']	17121390
+13	1405	['graph', 'axis-label']	17127645
+13	1404	['graph', 'axis-label']	17128073
+2	1402	['map', 'ggplot2', 'spatial']	17151024
+1	1379	['markdown', 'knitr', 'roxygen']	17178831
+1	1757	['level']	17217951
+4	1397	['imag', 'tiff']	17218305
+1	1458	['knitr', 'r-markdown']	17222380
+1	1400	['foreach', 'parallel-process', 'cluster-comput', 'domc']	17222942
+1	1401	['lookup-t']	17222981
+3	1401	['time-seri', 'zoo']	17225208
+9	1533	['ggplot2', 'multilin', 'reshape2']	17240536
+1	1362	['ggplot2', 'rose-diagram']	17266780
+1	1867	['ggplot2']	17279027
+1	1400	['foreach', 'parallel-process', 'cluster-comput', 'torqu']	17288379
+11	1396	['web-scrap', 'rcurl', 'httr']	17306695
+11	1396	['web-scrap', 'rcurl', 'httr']	17329288
+6	1839	['null']	17349485
+1	1596	['ggplot2']	17368223
+4	1740	['layout', 'plot', 'ggplot2', 'gtabl']	17370853
+11	1394	['xml', 'web-scrap']	17385801
+6	1393	['datafram', 'aggreg', 'posixct']	17389533
+11	1394	['xml', 'web-scrap']	17393108
+10	1711	['scope']	17395724
+1	1815	['ggplot2', 'gridextra']	17462504
+9	1739	['ggplot2', 'grob']	17492230
+9	1747	['packag']	17548385
+10	1387	['set']	17569309
+3	1387	['time-seri', 'financ']	17569577
+1	1305	['testthat']	17595796
+1	1386	['ggplot2']	17631895
+8	1663	['stdout', 'cran', 'devtool', 'system2']	17638090
+4	1596	['ggplot2', 'statist', 'visual', 'data-visu']	17655648
+1	1386	['ggplot2']	17657920
+2	1532	['machine-learn', 'svm']	17691036
+1	1384	['data.t']	17718842
+1	1384	['data.t']	17719480
+11	1383	['subset', 'do.cal']	17750893
+11	1382	['unicod', 'text-process', 'iconv', 'unicode-str']	17761858
+4	1311	['gi', 'spatial', 'raster', 'r-raster']	17766989
+1	1382	['secur', 'sanit']	17770093
+8	1381	['curl', 'web-scrap', 'rcurl', 'httr']	17778543
+3	1332	['winbug', 'jag', 'r2jag', 'jags.parallel']	17808575
+6	1193	['sort', 'datafram', 'merg']	17878048
+1	1378	['parallel-process']	17879766
+4	1703	['plot', 'ggplot2']	17959817
+11	1377	['geospati', 'intersect']	18018097
+1	1376	['r-grid', 'gtabl']	18028920
+1	1376	['r-grid', 'gtabl']	18033568
+1	1860	['ggplot2', 'axis-label', 'facet-wrap']	18065319
+182	1663	['tm', 'pdf-scrape']	18080378
+11	1377	['geospati', 'intersect']	18083363
+11	1180	['hadoop', 'rhadoop']	18093107
+6	1375	['list', 'lm']	18108045
+2	1374	['argument', 'do.cal']	18108419
+1	1373	['functional-program', 'vector']	18110397
+3	1241	['databas', 'statist']	18171246
+4	1879	['plot', 'titl', 'line-break', 'plotmath']	18237134
+2	1014	['predict', 'categorical-data', 'multinomi', 'gbm']	18257642
+6	1281	['parallel-process', 'tm', 'mclappli']	18287981
+1	1316	['bigdata']	18355686
+3	1367	['matrix', 'rcpp', 'armadillo']	18361570
+4	1366	['plot']	18396525
+4	1366	['plot']	18397245
+1	1788	['ggplot2']	18406991
+2	1146	['map', 'rgdal', 'cartogram']	18419617
+2	1700	['frequenc']	18433647
+1	1346	['ggplot2', 'facet', 'percentil', 'color-cod']	18473382
+1	1471	['color', 'ggplot2', 'gradient']	18487369
+1	1652	['datafram']	18492844
+8	1292	['excel', 'xlsx']	18511249
+1	1469	['ggplot2']	18598953
+11	1197	['pdf']	18647777
+4	1336	['plot', 'heatmap']	18663159
+3	1359	['select']	18694281
+11	1361	['subset', 'interv', 'sappli']	18706182
+1	1360	['bigdata']	18720036
+1	1361	['subset', 'appli', 'posixct']	18726155
+1	1359	['plyr']	18764825
+2	1358	['csv', 'encod', 'utf-8', 'non-ascii-charact']	18789330
+10	1357	['merg', 'data.t']	18840410
+2	1356	['data.t', 'dummy-vari']	18881073
+1	1778	['ggplot2']	18989001
+1	1685	['ggplot2']	18994631
+1	1479	['cluster-comput', 'load-balanc', 'multicor', 'snow']	19014360
+6	1354	['sort']	19014531
+2	1608	['graph', 'ggplot2']	19038396
+2	904	['ggplot2', 'theme', 'r-grid']	19054092
+4	1350	['ggplot2', 'tiff', 'raster', 'geotiff']	19196923
+4	1038	['plot', 'ggplot2', 'scale', 'colorbar']	19214914
+4	804	['imag', 'plot', 'scatter-plot', 'cran']	19234796
+2	1348	['coalesc']	19253820
+203	1349	['unicod', 'rgl']	19284824
+1	1347	['python-2.7', 'selenium-webdriv', 'selenium-rc']	19321739
+11	1349	['window', 'freetyp', 'rgl']	19326234
+1	1346	['color', 'ggplot2', 'percentil']	19330546
+11	1115	['vba', 'workflow']	19404270
+1	1345	['ggplot2']	19410781
+2	905	['map', 'rworldmap']	19439689
+8	1321	['tabpanel', 'shini']	19470426
+6	1058	['ggplot2', 'transpar', 'alpha']	19474552
+1	1340	['rcpp']	19686892
+2	1341	['ggplot2', 'time-seri']	19716535
+4	1341	['time', 'ggplot2']	19735509
+1	623	['knitr', 'rstudio']	19748205
+8	1309	['shini', 'googlevi']	19791917
+2	1333	['web-scrap', 'text-min', 'tm']	19851655
+4	40	['plot', 'som']	19858729
+1	294	['markdown', 'knitr']	19877286
+8	1269	['window', 'rstudio']	19885381
+13	1338	['data.t', 'plyr', 'panel-data', 'split-apply-combin']	19894471
+1	1043	['data.t']	19895107
+9	1226	['xcode', 'rcpp']	19920281
+3	1424	['statist']	19927806
+9	1247	['perform', 'io', 'hdf5', 'netcdf']	19936432
+1	1785	['ggplot2']	19957536
+1	1335	['data.t']	20039335
+1	1335	['data.t']	20076511
+2	1450	['asynchron', 'plyr', 'interv', 'window']	20134823
+11	1333	['excel', 'csv', 'export']	20159691
+8	1330	['shini']	20201070
+1	1259	['ggplot2']	20220424
+1	1329	['data-structur']	20238175
+6	1327	['datafram', 'appli', 'tappli']	20290069
+6	1327	['datafram', 'appli', 'lappli', 'sappli']	20291599
+6	1599	['sort']	20330457
+8	1092	['shini']	20343611
+1	1324	['parallel-process', 'reference-class']	20430773
+1	1788	['ggplot2']	20432635
+3	1319	['data-min', 'random-forest', 'roc', 'proc-r-packag']	20518376
+3	1319	['machine-learn', 'classif', 'roc', 'auc']	20527711
+4	1882	['plot', 'express', 'newlin']	20549337
+1	1088	['rstudio']	20561190
+2	1318	['regress', 'linear-regress', 'lm', 'qr-decomposit']	20562177
+3	402	['select', 'datafram']	20592611
+10	1398	['imagemagick', 'tiff', 'imagemagick-convert']	20592886
+1	1837	['ggplot2']	20600900
+9	1316	['memory-manag', 'bigdata']	20602751
+1	1837	['ggplot2']	20622332
+8	1069	['shini']	20637248
+1	1523	['nlme', 'revolution-r', 'microsoft-r']	20664377
+1	1308	['raster']	20670892
+2	1288	['network', 'graph', 'igraph', 'breadth-first-search']	20671888
+4	1315	['color', 'plot', 'ggplot2']	20679635
+11	1315	['graphic', 'color']	20682542
+6	1580	['merg', 'append', 'datafram', 'row']	20689650
+4	1544	['plot', 'timelin', 'date-format']	20695311
+8	1314	['latex', 'knitr']	20749444
+8	1313	['latex', 'markdown', 'knitr', 'pandoc']	20759444
+1	1643	['ggplot2']	20768286
+1	1416	['plyr']	20809254
+11	1590	['xml', 'memory-leak']	20849641
+8	388	['shini']	20850483
+10	1398	['imagemagick', 'tiff', 'gimp', 'image-compress']	20880558
+6	1311	['geospati', 'spatial', 'polygon', 'r-raster']	20915114
+6	1310	['list', 'matrix', 'rcpp']	20941744
+1	1310	['rcpp']	20950880
+10	1309	['shini', 'rchart', 'google-apis-explor']	20971453
+1	1773	['ggplot2']	21026598
+1	1124	['ggplot2']	21035101
+1	1308	['replic', 'raster']	21041499
+4	942	['ggplot2', 'financi', 'candlestick-chart']	21045866
+4	1222	['cluster-analysi', 'text-min']	21185336
+4	1306	['plot']	21273691
+4	1306	['plot', 'bar-chart']	21274527
+1	1303	['dplyr']	21295936
+1	1332	['ipopt']	21367922
+9	1305	['depend', 'packag']	21380288
+10	1302	['data.t', 'dplyr']	21435339
+10	1302	['data.t', 'dplyr']	21477525
+1	1296	['greatest-common-divisor']	21502181
+1	1296	['recurs']	21562813
+1	1295	['ggplot2']	21596906
+1	1295	['if-stat']	21604525
+13	1456	['data.t', 'rbind']	21605401
+8	1293	['graphic', 'knitr']	21613467
+2	656	['import', 'shapefil']	21614443
+8	1292	['format', 'xlsx']	21618556
+10	1291	['data.t', 'dplyr']	21630406
+3	1303	['dplyr', 'aggreg']	21644848
+1	785	['data.t']	21651978
+1	1291	['data.t']	21663007
+2	1288	['network', 'graph', 'igraph', 'breadth-first-search']	21667581
+1	1287	['ggplot2', 'correl', 'ggalli']	21716567
+1	1380	['knitr', 'r-markdown']	21729415
+1	1287	['ggplot2', 'ggalli']	21748598
+2	1286	['ggplot2', 'map']	21748852
+3	1284	['export', 'datafram']	21760298
+3	1284	['export', 'datafram', 'append']	21764361
+13	1825	['plyr', 'dplyr']	21818181
+4	1503	['plot', 'ggplot2']	21855376
+13	1266	['metaprogram']	21895585
+9	1419	['bigdata', 'packag', 'r-bigmemori']	21905323
+1	1282	['data.t']	21917358
+1	1282	['data.t', 'quantmod']	21923028
+4	1286	['plot', 'polygon', 'geospati', 'ggmap']	21962452
+6	1285	['polygon', 'geospati', 'spatial', 'point-in-polygon']	21971447
+1	1775	['ggplot2']	21981416
+1	1279	['ggplot2']	21987834
+1	1280	['variable-assign']	22003683
+2	892	['classif', 'svm', 'libsvm']	22009871
+1	1186	['data.t']	22086780
+13	1277	['for-loop', 'plyr', 'appli', 'dplyr']	22116489
+1	1277	['mappli']	22138169
+1	1276	['data-manipul']	22177756
+1	1275	['dplyr']	22182442
+2	817	['gi', 'distanc', 'spatial']	22184101
+1	1274	['combin']	22218640
+1	1266	['data.t', 'collaps']	22273072
+11	1220	['ggplot2', 'nse', 'standard-evalu', 'non-standard-evalu']	22287498
+4	692	['ggplot2', 'bar-chart']	22305023
+8	948	['latex', 'knitr', 'sweav']	22305444
+1	1104	['r-markdown']	22329685
+3	1262	['vim', 'set']	22380926
+2	636	['matrix', 'syntax', 'refactor']	22381154
+9	188	['ggplot2', 'differ']	22386555
+9	257	['namespac', 'packag']	22389993
+8	1262	['vim', 'vim-plugin', 'vim-r']	22453482
+1	1260	['ggplot2']	22480052
+1	1258	['reference-class']	22492219
+1	1258	['reference-class']	22510100
+2	1766	['combin', 'permut', 'multiset', 'r-faq']	22569176
+1	1479	['cluster-comput', 'snow', 'rparallel']	22605238
+2	1254	['statist', 'time-seri', 'autoregressive-model']	22661397
+1	1843	['r-doredi']	22673474
+3	1252	['network', 'mathematical-optim']	22736107
+2	1254	['time-seri', 'restrict']	22788870
+10	1251	['array', 'matlab']	22803814
+1	1250	['rstudio']	22863771
+1	1252	['hadoop', 'mathematical-optim', 'lpsolv']	22868923
+13	1249	['data.t', 'plyr', 'stata']	22893028
+13	1249	['data.t', 'plyr']	22893290
+1	1125	['k-mean']	22916337
+4	1248	['plot']	22920381
+1	1248	['ggplot2']	22921923
+13	1247	['netcdf']	22944707
+4	1215	['plot', 'ggplot2']	22945651
+1	1250	['r-markdown']	22954623
+3	1244	['statist', 'anova', 'contrast']	23017552
+1	1246	['group-bi', 'dplyr', 'indic']	23026145
+1	1246	['rank', 'interact']	23028406
+2	1244	['anova']	23035841
+8	734	['round']	23045866
+11	1232	['panel-data', 'plm']	23131824
+1	1227	['igraph']	23155365
+1	1227	['igraph']	23165452
+8	1073	['stargaz']	23217681
+3	1189	['data.t', 'devtool']	23252231
+1	1132	['bar-chart']	23261760
+6	1225	['merg', 'datafram']	23307653
+6	1225	['merg', 'panel']	23309515
+1	887	['pars', 'abstract-syntax-tre', 'assignment-oper']	23309687
+1	1221	['datafram', 'rdata']	23413728
+2	1231	['function', 'csv', 'optim', 'regress']	23414521
+1	1210	['data.t']	23436577
+4	1222	['cluster-analysi', 'text-min']	23444693
+1	1693	['reference-class']	23475309
+2	1220	['function', 'subset', 'evalu']	23482036
+6	1219	['list', 'merg']	23483421
+6	1219	['list', 'merg']	23493873
+1	913	['dplyr', 'sqldf']	23528862
+11	1430	['header', 'skip', 'read.tabl', 'read.csv']	23543825
+6	1060	['ggplot2', 'legend']	23588127
+1	1218	['parallel-process', 'logistic-regress']	23594580
+9	1216	['network', 'leaflet', 'shini']	23618813
+9	1216	['network', 'kml', 'leaflet', 'shini']	23637902
+4	1143	['plot', 'lattic']	23678494
+1	1505	['ggplot2']	23679925
+13	1213	['session', 'persist', 'environ', 'rdata']	23729980
+3	1213	['variabl', 'object', 'persist', 'metaprogram']	23739359
+9	1462	['email', 'sendmailr']	23792137
+1	1210	['data.t']	23833294
+6	1010	['list', 'datafram', 'tree', 'networkd3']	23839142
+2	1209	['datafram', 'histogram']	23839177
+2	1207	['object', 'attribut', 'extract', 'user-defin']	23841387
+3	1742	['ggplot2', 'environ']	23851465
+10	1205	['perform', 'dplyr']	23861047
+4	1204	['plot']	23875757
+1	1204	['ggplot2']	23887386
+10	1203	['regex', 'string', 'split']	23961022
+1	355	['rcpp']	23966158
+1	1203	['regex', 'pcre', 'strsplit']	23969411
+2	1207	['object', 'attribut', 'attr', 'user-defined-typ']	23991060
+2	1202	['map', 'ggplot2']	24033733
+2	1202	['map', 'ggplot2']	24039621
+1	1149	['parallel-process', 'multiple-mic', 'r-mice']	24040280
+13	1368	['dplyr', 'data.t', 'aggreg']	24070714
+1	1131	['markdown', 'knitr', 'pandoc']	24086498
+13	1208	['virtual-machin', 'solari', 'virtualbox']	24094963
+1	1184	['ggplot2']	24129772
+1	1201	['gridextra', 'ggalli']	24135157
+1	1524	['svmlight']	24142467
+8	1200	['render', 'shini']	24157990
+8	1200	['render', 'shini']	24162675
+2	1688	['regress', 'formula', 'polynomi']	24192428
+4	1199	['plot']	24195255
+13	1198	['perform', 'matrix']	24195562
+4	1199	['plot']	24197181
+13	1198	['perform', 'matrix', 'regress']	24207457
+9	1197	['pdf', 'plot', 'metadata']	24231827
+1	1194	['posixct']	24305672
+2	1194	['function', 'posixct']	24308718
+1	1192	['dplyr']	24356683
+1	1187	['rmysql']	24379743
+10	1191	['data.t', 'fread']	24424928
+3	1393	['statist', 'time-seri', 'aggreg', 'xt']	24430053
+10	1191	['data.t', 'fread']	24432291
+8	1121	['datafram', 'pca']	24440258
+2	1190	['time', 'prime']	24467936
+10	1190	['algorithm', 'math', 'prime']	24473055
+3	1189	['data.t', 'devtool']	24501245
+1	1632	['magrittr']	24536154
+8	1073	['stargaz']	24542583
+11	613	['utf-8', 'byte-order-mark']	24568056
+1	1609	['ggplot2', 'polar-coordin']	24590154
+1	374	['ggplot2', 'geom-text']	24626769
+1	1624	['foreach', 'parallel-foreach']	24651664
+11	1187	['mysql', 'rstudio', 'shini', 'rmysql']	24668240
+1	1183	['ggvi']	24701419
+8	933	['shini']	24705431
+13	1360	['substr', 'data.t', 'appli', 'lappli']	24715894
+10	1186	['data.t', 'fread']	24759346
+1	1184	['ggplot2']	24783826
+1	1183	['ggvi']	24810470
+3	189	['datafram', 'write.t']	24829027
+6	994	['random', 'simul']	24845909
+1	1192	['dplyr']	24873550
+2	774	['datafram', 'linear-regress', 'predict']	24881923
+2	1182	['plyr', 'tabular', 'multisampl']	24889784
+6	661	['cach']	24904683
+4	1283	['ggplot2', 'distribut']	24907018
+2	1181	['flowchart']	24916945
+2	541	['encod', 'utf-8', 'tm', 'corpu']	24920396
+1	1174	['data.t']	24940246
+10	1179	['rchart', 'nvd3.j']	24942366
+10	1179	['rchart', 'nvd3.j']	24944151
+1	1181	['igraph']	24948003
+1	1283	['ggplot2']	24949065
+8	1180	['mapreduc', 'hdf', 'rhadoop']	24953127
+6	1323	['graph', 'ggplot2', 'legend']	25007324
+1	1178	['data.t']	25020092
+11	461	['sql', 'ms-access', 'rodbc']	25023731
+4	1177	['plot']	25056597
+9	1281	['twitter', 'rstudio', 'tm', 'mclappli']	25069798
+1	1283	['ggplot2', 'curve-fit', 'facet']	25075428
+4	1177	['plot']	25076293
+13	1176	['dplyr', 'tidyr']	25102617
+3	1175	['zoo', 'missing-data', 'performanceanalyt', 'rollappli']	25109672
+13	1888	['datafram', 'reshape2']	25137444
+13	1888	['datafram', 'reshape2']	25143428
+10	1168	['duplic', 'set', 'data.t', 'uniqu']	25145982
+1	1173	['ggplot2', 'frequenc', 'boxplot']	25171210
+6	1172	['list', 'matrix', 'element']	25178452
+1	1172	['lappli']	25179109
+4	1559	['plot', 'ggplot2']	25211078
+9	1725	['ubuntu', 'rjava']	25232624
+4	1170	['plot', 'datafram', 'cumsum']	25245076
+1	619	['dplyr']	25258817
+8	1894	['rstudio', 'organ']	25273166
+1	1174	['data.t']	25273767
+4	1170	['datafram', 'cumsum']	25276758
+1	1875	['ggplot2', 'facet-wrap']	25292524
+4	1168	['datafram', 'duplic']	25297812
+1	1331	['datat', 'knitr', 'r-markdown']	25315309
+11	1049	['data.t', 'corpu', 'term-document-matrix', 'qdap']	25330753
+9	792	['layout', 'shini']	25340847
+8	1165	['for-loop', 'rcurl', 'geturl']	25466013
+8	1165	['rcurl', 'html-content-extract', 'geturl']	25474682
+326	1162	['row', 'group']	25516365
+1	1128	['r-markdown']	25528067
+1	1162	['data.t']	25532844
+3	1175	['performanceanalyt', 'rollappli', 'computational-fin']	25547152
+4	1159	['plot', 'png']	25565817
+4	1283	['plot', 'ggplot2', 'distribut', 'data-visu']	25568787
+1	1008	['knitr', 'r-markdown']	25587773
+4	1283	['plot', 'ggplot2', 'distribut', 'data-visu']	25598485
+1	1161	['ggplot2', 'facet', 'gtabl']	25640114
+2	717	['time-seri', 'data-analysi']	25693082
+3	1160	['primit']	25697358
+9	1423	['instal', 'repositori', 'packag', 'r-faq']	25721884
+11	1158	['sql', 'error-handl', 'odbc']	25727473
+4	1159	['plot']	25742400
+3	936	['dna-sequ', 'phylogeni', 'genet', 'ape-phylo']	25755930
+11	1158	['sql', 'odbc', 'rodbc']	25762371
+2	1040	['function', 'mode']	25791018
+2	891	['function', 'round']	25829504
+1	463	['pdf', 'rstudio', 'r-markdown', 'knitr']	25866788
+2	674	['text-min', 'tm']	25905144
+2	1005	['sql', 'sqlite', 'encod', 'utf-8']	25934752
+13	1804	['variabl']	25954361
+1	1155	['datetim']	25960517
+2	1155	['time', 'posixct', 'lubrid', 'posixlt']	25964504
+1	1205	['dplyr']	25994307
+1	1153	['dplyr', 'r-faq']	26003574
+1	1152	['opencpu']	26025430
+2	1145	['histogram']	26112990
+1	668	['dplyr']	26123516
+1	1149	['parallel-process']	26154260
+10	893	['datafram', 'nested-list', 'rbind']	26177565
+8	1145	['histogram', 'label']	26249385
+1	794	['ggplot2']	26269122
+4	1863	['plot', 'datafram']	26273892
+13	1223	['data.t', 'plyr', 'dplyr']	26291988
+1	557	['r6']	26331030
+8	1143	['lattic', 'standard-error']	26332489
+1	1275	['dplyr']	26336180
+2	1142	['map', 'ggplot2', 'gi', 'map-project']	26354768
+2	1142	['map', 'ggplot2', 'gi', 'map-project']	26359909
+4	1647	['plot']	26374327
+13	1251	['multidimensional-array', 'data.t', 'plyr']	26400517
+3	1098	['datafram', 'ipc', 'kdb']	26403919
+11	787	['postgresql']	26449666
+1	1438	['knitr', 'rstudio', 'tex']	26477679
+11	1438	['maco', 'rstudio']	26491934
+13	928	['sort', 'parameter-pass', 'dplyr']	26497751
+1	1160	['matrix', 'vector']	26499445
+6	1729	['rstudio', 'working-directori']	26519172
+8	1673	['datafram', 'reshap']	26534438
+1	1395	['color', 'ggplot2', 'gradient', 'colorbrew']	26562926
+6	1138	['correl', 'r-corrplot']	26574054
+1	1138	['r-corrplot']	26574670
+346	944	['spatial', 'centroid']	26580129
+2	1137	['regress', 'anova', 'categorical-data']	26618951
+8	1137	['anova', 'categorical-data', 'r-mice']	26621092
+1	1136	['r-mice']	26667162
+11	1134	['xml', 'rcurl', 'httr']	26706159
+4	203	['plot']	26720663
+1	1133	['dplyr']	26724124
+1	1781	['chart', 'ggplot2', 'data.t', 'gtabl']	26727741
+6	1716	['chron']	26777282
+4	1132	['plot', '3d', 'ggplot2', 'bar-chart']	26794236
+1	909	['dplyr']	26796829
+1	1131	['knitr', 'pandoc', 'r-markdown', 'reproducible-research']	26883864
+1	633	['igraph']	26896087
+1	1782	['ggplot2', 'gtabl']	26917689
+350	1130	['rang']	26950123
+1	1130	['data.t']	26951297
+11	1127	['attribut', 'igraph', 'vertex']	27004167
+3	1126	['openstreetmap', 'rgdal', 'osmar']	27014134
+1	1656	['ggplot2']	27028825
+11	1126	['sp']	27060307
+1	1125	['k-mean']	27060527
+1	1337	['knitr', 'r-markdown', 'xtabl']	27114926
+1	1124	['ggplot2']	27123428
+1	1632	['syntax', 'dplyr', 'magrittr', 'r-faq']	27125672
+1	981	['color', 'ggplot2', 'polygon']	27135962
+8	1294	['excel', 'xlsx', 'xlconnect']	27153974
+1	1120	['dplyr']	27184918
+13	1120	['subset', 'plyr']	27202593
+4	1141	['plot', 'ggplot2']	27205610
+9	1119	['summari']	27210745
+2	1119	['quantil']	27221720
+1	1118	['ggplot2', 'magrittr']	27264266
+1	1117	['activemq', 'message-queu']	27282915
+1	1118	['ggplot2', 'dplyr', 'magrittr']	27296022
+1	1117	['activemq', 'message-queu']	27296088
+13	1116	['split']	27312597
+1	1211	['data.t']	27325656
+10	1051	['button', 'shini', 'reactive-program']	27326929
+1	1081	['memory-manag', 'qdap']	27367914
+13	79	['dplyr', 'data.t', 'plyr']	27368770
+2	1113	['datafram', 'missing-data']	27454265
+8	1110	['shini']	27478028
+11	1108	['png', 'crop']	27496127
+2	1111	['curve-fit', 'percentil', 'gamlss']	27497068
+2	1111	['curve-fit', 'percentil', 'gamlss']	27507448
+4	302	['graphic', 'plot']	27532044
+10	1080	['regex', 'string', 'gsub', 'stringi']	27534296
+8	1110	['datat', 'shini']	27538732
+1	1109	['datafram', 'ggplot2', 'missing-data']	27545423
+13	1107	['for-loop', 'optim', 'bigdata']	27552810
+4	1108	['layout', 'plot']	27560225
+9	1107	['reshape2', 'large-data', 'bigdata']	27564299
+9	1106	['warn', 'cran', 'install.packag']	27583767
+8	1104	['latex', 'knitr', 'sweav', 'rnw']	27593677
+11	601	['mysql', 'dplyr']	27597932
+4	1105	['datetim', 'plot']	27606380
+1	1334	['ggplot2']	27611438
+1	1751	['ggplot2', 'ggproto']	27637455
+8	1102	['datat', 'shini', 'tabletool']	27649481
+8	1103	['datat', 'shini', 'tabletool']	27650331
+8	1103	['datat', 'shini']	27651004
+1	1391	['r-faq']	27659841
+3	1098	['ipc', 'kdb']	27672134
+1	1372	['ggplot2']	27676179
+1	1343	['data.t']	27677283
+1	1882	['ggplot2']	27690729
+1	1097	['lappli']	27727590
+2	978	['neural-network', 'formula']	27779667
+1	670	['dplyr']	27787116
+1	776	['ggplot2']	27850123
+4	1094	['graphic', 'plot', 'ggplot2']	27866705
+4	1094	['graphic', 'ggplot2']	27874548
+6	833	['combin', 'powerset']	27953588
+1	441	['ggplot2']	27965291
+1	1637	['linear-regress']	28016920
+1	676	['rstudio', 'rstudio-serv', 'roracl']	28025911
+1	1122	['r-markdown']	28032846
+8	969	['pdf', 'shini']	28034091
+3	1091	['aggreg']	28036294
+1	1399	['foreach', 'parallel-process', 'pb', 'torqu']	28073142
+1	1470	['data.t']	28094645
+1	1088	['rstudio']	28096239
+10	1824	['regex', 'dplyr']	28159143
+6	942	['chart', 'ggplot2']	28201587
+9	1443	['lc']	28261825
+10	1719	['oop', 's4', 'bioconductor']	28301188
+1	1082	['plyr', 'rollappli']	28306604
+3	1082	['plyr', 'zoo', 'rollappli']	28332566
+10	1081	['regex', 'gsub']	28354573
+2	1078	['function']	28370249
+3	856	['poisson', 'mle']	28384164
+1	1076	['ggplot2', 'facet-wrap']	28436855
+8	1077	['shini']	28461220
+9	1077	['shini', 'ggvi']	28474903
+6	1075	['row', 'col', 'xlconnect', 'rep']	28479568
+1	764	['css', 'knitr']	28480625
+1	951	['markdown', 'knitr', 'r-markdown']	28500096
+1	1074	['stringr', 'qdap']	28529823
+1	1074	['qdap']	28532172
+1	793	['computational-geometri', 'r-grid']	28538161
+1	248	['survival-analysi']	28543538
+10	1071	['plot', 'xt']	28570289
+2	1072	['network', 'igraph', 'sna']	28574757
+10	1356	['loop', 'data.t', 'lappli']	28576729
+1	378	['dplyr']	28579361
+8	1070	['shini']	28605657
+10	1071	['plot', 'xt']	28611858
+4	1065	['plot', 'ggplot2']	28624592
+6	1020	['count', 'row', 'uniqu']	28628384
+4	1529	['scatter-plot', 'scatter', 'plane', 'scatter3d']	28633784
+1	983	['rserv']	28634345
+9	1070	['shini', 'as.dat']	28656683
+1	1068	['regex']	28725115
+1	1068	['regex']	28730387
+1	1271	['data.t']	28748046
+1	1826	['dplyr']	28751023
+1	1271	['data.t', 'self-join', 'cross-join']	28761809
+1	1067	['ggplot2', 'heatmap']	28771018
+11	1066	['plm']	28789767
+11	1824	['row', 'subset', 'correl', 'dplyr']	28807266
+396	1109	['visual']	28813057
+3	299	['statist']	28814322
+2	1884	['dataset']	28863686
+13	1853	['refer', 'data.t']	28889057
+4	1792	['ggplot2', 'width', 'bar-chart', 'seri']	28890227
+1	1065	['ggplot2', 'shini', 'ggmap']	28935768
+10	1064	['datafram', 'dplyr']	28964929
+9	900	['string', 'csv', 'nul']	28979857
+8	986	['password', 'shini']	28987622
+1	1064	['dplyr']	28988004
+1	1063	['dplyr']	29009261
+1	1063	['dplyr']	29012008
+1	1407	['ggplot2', 'gridextra']	29062766
+10	1272	['join', 'data.t', 'self-join']	29100911
+2	1062	['string', 'levenshtein-dist']	29102155
+13	1062	['function', 'dplyr']	29119052
+4	1342	['plot']	29125019
+10	1061	['loop', 'appli']	29125609
+1	1061	['for-loop']	29128432
+13	1436	['anim', 'gif']	29166098
+1	1059	['ggplot2']	29174774
+11	1057	['dictionari', 'ggplot2']	29233480
+4	1058	['ggplot2', 'transpar', 'confidence-interv']	29235114
+11	1057	['dictionari', 'ggplot2']	29240134
+1	1243	['lmer']	29241492
+4	1429	['plot', 'ggplot2', 'bar-chart']	29262916
+1	1059	['ggplot2']	29286588
+11	1056	['maco', 'postgresql', 'odbc', 'rodbc']	29317192
+6	1739	['ggplot2', 'legend']	29357612
+9	1052	['css', 'twitter-bootstrap', 'shini']	29360182
+9	1052	['css', 'shini']	29361182
+9	1051	['shini', 'shiny-serv']	29376031
+6	1050	['regex', 'merg', 'datafram', 'text-fil']	29399820
+6	1050	['regex', 'function', 'datafram', 'lappli']	29423270
+2	1014	['machine-learn', 'categorical-data', 'multinomi', 'gbm']	29454883
+2	1048	['text-min', 'lappli', 'corpu', 'term-document-matrix']	29463464
+11	1045	['json']	29500139
+11	1047	['xml']	29504327
+1	1046	['regex']	29529021
+1	1046	['regex']	29543785
+11	1047	['xml']	29547506
+4	1041	['plot']	29583849
+11	800	['sql', 'data.t']	29593177
+8	761	['shini']	29601156
+11	1044	['sp']	29624895
+13	1044	['spatial', 'sp']	29629049
+3	1030	['bioinformat', 'bioconductor']	29648127
+10	1853	['join', 'data.t']	29658627
+1	1042	['if-stat']	29669292
+2	1040	['function', 'data.t', 'mode']	29686198
+1	1265	['knitr', 'r-markdown']	29696172
+1	248	['survival-analysi']	29728795
+2	790	['gi', 'geospati']	29736577
+1	1038	['ggplot2', 'gtabl']	29749661
+1	1039	['tidyr']	29775461
+9	1322	['shini', 'rstudio']	29790915
+1	1037	['ggplot2']	29793398
+1	1035	['data.t']	29827948
+1	1036	['regex', 'text-min']	29833571
+1	1036	['text-min']	29834397
+10	1035	['data.t', 'posixct']	29892116
+11	1034	['filter', 'row', 'equal', 'subset']	29902891
+11	1034	['filter']	29905071
+9	1667	['multithread', 'csv', 'parallel-process']	29948585
+3	1033	['algorithm', 'statist', 'probabl', 'calibr']	29948919
+3	1033	['statist', 'probabl', 'predict', 'calibr']	29954519
+1	1032	['color', 'ggplot2']	29957669
+2	1238	['regress', 'categorical-data']	29980426
+3	1031	['datafram', 'rank', 'quantil', 'split-apply-combin']	29981195
+10	1031	['merg']	29987611
+3	1030	['bioinformat', 'bioconductor']	29991606
+1	1226	['rcpp']	29992066
+1	1195	['r-faq']	30006822
+1	657	['ggplot2']	30011410
+8	761	['shini']	30047010
+11	1029	['file', 'ubuntu', 'rstudio', 'samba']	30048642
+11	1029	['file', 'samba']	30051162
+2	1028	['regress', 'linear-regress', 'lm', 'piecewis']	30060278
+10	1027	['data.t', 'dplyr']	30064401
+10	1027	['data.t', 'dplyr']	30065418
+1	1777	['ggplot2', 'gtabl']	30103408
+10	1026	['condit', 'conditional-stat', 'subset']	30113308
+11	1026	['subset']	30115455
+1	860	['ggplot2']	30116606
+2	990	['time-seri', 'running-tot']	30159041
+11	1452	['linux']	30215509
+1	702	['rstudio', 'knitr']	30237310
+11	646	['hadoop', 'rhadoop']	30261383
+1	1485	['ggplot2', 'reference-class']	30266732
+10	1097	['loop', 'lappli']	30330104
+1	62	['ggplot2', 'ecdf']	30396755
+6	391	['appli', 'lappli', 'read.tabl']	30399446
+6	1019	['list', 'set-intersect']	30406560
+2	1019	['graph', 'igraph', 'connected-compon']	30407769
+11	1018	['r-caret', 'rfe']	30441657
+9	1016	['plot', 'glmnet']	30460410
+10	1343	['dynam', 'data.t', 'lookup']	30468455
+1	1003	['ggplot2', 'gdal']	30470895
+438	417	['predict', 'lfe']	30491545
+8	1134	['rcurl', 'httr']	30513616
+13	1017	['merg', 'data.t', 'aggreg', 'dplyr']	30540644
+3	1017	['aggreg']	30541130
+8	987	['file', 'shini', 'shinydashboard']	30560405
+9	1016	['plot', 'glmnet']	30560689
+13	656	['gdal', 'rgdal', 'ogr']	30561889
+9	1015	['plot', 'glmnet']	30566788
+1	1013	['tidyr']	30600958
+1	1013	['dplyr', 'r-packag']	30641471
+1	992	['rcurl']	30643213
+13	1012	['regress']	30652116
+4	743	['ggplot2', 'bar-chart']	30656846
+9	681	['shini', 'shiny-serv']	30671958
+1	1012	['equat']	30675761
+9	1011	['depend', 'packag']	30719243
+9	1011	['namespac', 'packag', 'opencpu']	30720340
+1	1314	['matrix', 'r-markdown', 'pandoc', 'mathml']	30740613
+4	1342	['plot']	30765866
+9	1009	['packag', 'r-packag', 'r-s3']	30778718
+1	1473	['ggplot2']	30806577
+1	1007	['knitr']	30888631
+6	1588	['count', 'datafram']	30894636
+8	600	['latex', 'texreg']	30902906
+10	1006	['regex', 'gsub']	30918550
+6	1006	['match', 'conditional-stat']	30920000
+11	1005	['dplyr', 'rmysql']	30932708
+1	1001	['for-loop']	30946374
+1	996	['datafram']	30971258
+1	1002	['ggplot2', 'hmisc', 'stringi']	30983013
+6	1003	['ggplot2', 'geospati', 'spatial']	31018107
+11	1002	['ggplot2', 'stringi']	31038636
+3	999	['pca', 'confidence-interv']	31044922
+2	980	['datafram', 'lookup']	31045512
+1	999	['statistics-bootstrap']	31057192
+8	1000	['pivot-t', 'reshape2']	31063959
+8	991	['pdf', 'graphic', 'utf-8', 'sweav']	31075826
+6	997	['matrix', 'uniqu', 'combin', 'cross-product']	31089205
+9	866	['shini', 'leaflet']	31092005
+6	997	['list', 'combin']	31092962
+6	996	['datafram', 'rstudio']	31094538
+8	1000	['reshape2', 'tidyr']	31125693
+1	1365	['lubrid']	31126726
+1	971	['data.t']	31142280
+1	1067	['ggplot2']	31162332
+4	993	['function', 'for-loop', 'statist', 'extract']	31178704
+8	995	['apache-spark', 'sparkr']	31184918
+1	993	['for-loop']	31213349
+3	936	['dna-sequ', 'phylogeni', 'genet']	31220586
+9	992	['rcurl', 'xlconnect']	31220677
+8	991	['pdf', 'graphic', 'utf-8', 'sweav']	31221471
+1	990	['running-tot']	31259932
+6	988	['optim', 'linear-regress', 'least-squar']	31268826
+1	1498	['data.t']	31276157
+4	931	['proxi', 'rstudio']	31286965
+10	989	['regex', 'gsub', 'stringr']	31288513
+1	989	['regex']	31289164
+3	988	['optim', 'regress', 'least-squar']	31301694
+11	1337	['css', 'format']	31323885
+8	987	['shini', 'shinydashboard']	31347470
+10	923	['grep', 'data.t', 'string-match']	31365768
+4	949	['graphic', 'ggplot2', 'rstudio']	31381066
+9	890	['twitter-bootstrap', 'shini', 'popov']	31388329
+9	984	['fortran', 'gfortran']	31394755
+11	984	['fortran']	31395435
+1	1385	['roxygen2']	31412724
+13	1263	['version', 'igraph']	31432176
+1	983	['rserv']	31433840
+1	1407	['ggplot2', 'gridextra']	31458051
+1	1796	['ggplot2']	31458536
+1	1406	['ggplot2', 'gridextra']	31463445
+1	627	['posixlt']	31471808
+2	982	['datafram', 'date-format', 'missing-data', 'date-arithmet']	31485858
+1	1217	['dplyr']	31528981
+6	979	['list', 'loop', 'raster', 'lappli']	31538038
+2	980	['datafram', 'lookup']	31564834
+6	979	['list', 'function', 'raster', 'lappli']	31585708
+11	1148	['window', 'cartogram']	31613119
+1	960	['ggplot2']	31690007
+1	1223	['data.t']	31721023
+1	978	['neural-network']	31729775
+1	213	['ggplot2', 'shini']	31746962
+1	977	['dplyr']	31752889
+1	977	['dplyr']	31754530
+1	698	['ggplot2', 'boxplot']	31796914
+1	779	['dplyr']	31815294
+1	1096	['r-markdown']	31822873
+10	245	['trigonometri', 'angl']	31838855
+1	973	['data.t']	31842356
+9	969	['ggplot2', 'shini', 'shiny-serv']	31859911
+1	952	['r-markdown', 'pandoc']	31861569
+1	972	['parallel-process', 'mathematical-optim', 'multicor']	31868370
+4	1495	['plot', 'ggplot2', 'dplyr', 'plyr']	31897329
+1	972	['parallel-process', 'mathematical-optim', 'multicor', 'integer-program']	31900708
+1	970	['datafram', 'mathematical-optim']	31923107
+10	967	['slice']	31925595
+3	964	['leaflet']	31930616
+1	970	['data.t', 'mathematical-optim']	31938512
+10	967	['slice']	31947700
+4	968	['ggplot2', 'plot', 'r-grid']	31947727
+8	966	['parallel-process', 'fortran', 'mpi']	31949659
+8	966	['parallel-process', 'fortran', 'mpi', 'snow']	31950166
+8	760	['json', 'rjsonio']	31955051
+4	1076	['ggplot2', 'bar-chart', 'facet']	31961170
+1	965	['dplyr']	31979189
+4	968	['function', 'ggplot2', 'r-grid']	31994387
+10	963	['join', 'data.t']	32007115
+8	898	['shini', 'dt']	32018521
+3	964	['leaflet']	32031432
+10	963	['join', 'data.t']	32034222
+1	1816	['dplyr']	32066402
+4	962	['plot', 'polygon']	32092458
+2	961	['r-grid', 'gridextra']	32106333
+8	1492	['plot', 'gridlin']	32120291
+11	653	['maco', 'failed-instal']	32129191
+1	765	['vector', 'subset']	32181742
+1	959	['dplyr']	32193413
+1	959	['dplyr']	32194070
+1	958	['regex', 'ctag']	32206608
+1	877	['ggplot2']	32206623
+4	957	['loop', 'for-loop']	32219451
+4	957	['loop', 'csv', 'for-loop']	32226508
+1	919	['knitr']	32257970
+1	1513	['ggplot2']	32275113
+6	953	['rotat', 'pca', 'psych']	32350891
+6	953	['matrix', 'pca', 'psych']	32351780
+11	950	['csv', 'rscript']	32398127
+2	1147	['gi', 'sp', 'maptool', 'cartogram']	32406216
+4	949	['graphic', 'ggplot2', 'rstudio', 'highdpi']	32411080
+8	948	['if-stat', 'knitr', 'sweav']	32492667
+2	1255	['matrix', 'sparse-matrix', 'rbind', 'cbind']	32499520
+8	947	['if-stat', 'latex', 'knitr', 'sweav']	32505959
+488	809	['round']	32544646
+1	1238	['r-caret']	32546083
+1	945	['data.t']	32558568
+1	945	['dplyr']	32563243
+2	944	['shape', 'spatial']	32571956
+1	1542	['language-lawy']	32573848
+1	943	['rstudio', 'knitr', 'r-markdown']	32575397
+8	995	['apache-spark', 'packag', 'sparkr']	32601252
+1	912	['splitstackshap']	32624120
+2	1531	['profil']	32637159
+13	182	['sort', 'dplyr']	32640551
+8	697	['shini', 'font-awesom', 'shinydashboard']	32686195
+1	941	['file-manipul']	32721789
+2	597	['machine-learn', 'svm', 'predict']	32723761
+8	883	['tcl', 'tk']	32724775
+11	941	['window', 'winapi']	32736335
+1	940	['dplyr']	32773617
+6	1188	['sort', 'amazon-web-servic', 'amazon-product-api', 'endian']	32798526
+1	939	['ggplot2']	32803727
+1	710	['rstudio', 'ipython-notebook']	32821369
+8	898	['shini', 'dt']	32830382
+1	10	['r-markdown', 'pandoc', 'list']	32857212
+3	937	['import']	32885570
+6	937	['perform', 'appli', 'lappli']	32902971
+10	971	['data.t', 'fread']	32912268
+1	878	['datetim', 'posixct']	32999460
+1	874	['stanford-nlp']	33015823
+13	934	['perform', 'vector']	33027611
+8	1025	['latex', 'stargaz']	33048097
+4	1567	['ggplot2', 'bar-chart']	33079500
+9	1269	['rstudio', 'packag', 'shini']	33103203
+11	935	['formula', 'lm']	33117997
+4	930	['matrix', 'raster']	33127122
+13	935	['lm', 'factor']	33143257
+6	679	['datafram', 'r-factor']	33180058
+13	841	['for-loop', 'datafram', 'uniqu']	33251264
+1	931	['proxi', 'set', 'rstudio']	33262480
+8	929	['regex', 'emac', 'ess']	33263759
+10	929	['regex', 'pars', 'emac']	33284951
+1	943	['rstudio', 'knitr', 'stringi']	33306592
+1	1826	['dplyr']	33314971
+9	962	['ggplot2', 'reshape2']	33318391
+6	927	['ggplot2', 'legend', 'lattic', 'gridextra']	33346823
+2	930	['time-seri', 'raster']	33352251
+4	1350	['plot', 'ggplot2', 'raster']	33359284
+10	923	['regex', 'perform', 'grep', 'data.t']	33400250
+4	921	['plot', 'expression-tre']	33419325
+2	1195	['import', 'sa']	33421854
+511	669	['window', 'anaconda']	33442362
+3	922	['time', 'averag', 'interv']	33447901
+3	922	['time', 'averag', 'interv']	33472328
+3	921	['nlp', 'visual', 'igraph', 'opennlp']	33473107
+9	438	['lappli', 'lm']	33479862
+9	554	['encod', 'data.t', 'stringr']	33482308
+1	1353	['datetim']	33501032
+2	677	['if-stat', 'lag']	33505541
+8	888	['shini', 'googlevi']	33530066
+8	920	['latex', 'pdf-gener', 'knitr', 'pdflatex']	33555002
+1	917	['curve-fit']	33574457
+8	831	['shini']	33594007
+513	914	['text-process', 'date-format', 'bin']	33597728
+13	917	['curve-fit', 'bspline']	33609538
+6	1630	['list', 'datafram', 'data-sci']	33613337
+513	914	['date-format', 'bin']	33613830
+2	916	['curve-fit', 'spline', 'bspline']	33650171
+1	779	['plyr']	33702470
+8	911	['linux', 'parallel-process', 'crash']	33707796
+8	911	['linux', 'parallel-process']	33733102
+4	910	['color', 'map', 'raster', 'levelplot']	33748871
+2	910	['map', 'raster', 'colorbar']	33750235
+3	376	['group-bi', 'zoo', 'rollappli']	33769770
+6	909	['list', 'split', 'dplyr']	33775239
+10	907	['array', 'matrix']	33784656
+1	908	['dplyr', 'lubrid']	33787624
+1	908	['datafram']	33789627
+2	1532	['machine-learn', 'svm', 'kernlab']	33813972
+11	842	['maco', 'c++11']	33858596
+10	907	['array', 'multidimensional-array']	33877410
+10	1212	['data.t', 'subset', 'random-sampl']	33887083
+6	906	['mle']	33890896
+10	932	['list', 'loop']	33898937
+11	902	['datafram', 'corpu']	33920330
+8	815	['shini']	33925430
+11	905	['appli', 'rworldmap']	33945984
+6	487	['merg', 'datafram']	33954292
+1	919	['markdown', 'knitr', 'r-markdown']	33983298
+1	1476	['data.t']	33988831
+1	904	['ggplot2']	33989595
+3	903	['matrix', 'compar']	34001333
+10	1653	['data.t', 'time-seri']	34008486
+10	903	['loop', 'if-stat', 'matrix']	34018634
+13	366	['rotat', 'icon', 'leaflet', 'angl']	34020079
+11	226	['json', 'shini']	34054287
+6	902	['list', 'corpu']	34061912
+13	1556	['class', 'data.t']	34091811
+10	719	['data.t', 'dplyr']	34096162
+4	1831	['function', 'ggplot2', 'environ', 'aesthet']	34097133
+11	1554	['s4']	34141757
+1	851	['r-markdown', 'pandoc', 'beamer', 'bibliographi']	34158723
+10	896	['perform', 'data.t', 'dplyr', 'vector']	34213315
+1	818	['data.t', 'geospher']	34213765
+9	900	['string', 'nul']	34214859
+11	789	['s4']	34221612
+1	899	['email', 'knitr', 'r-markdown']	34230391
+11	897	['window', 'libpq', 'rpostgresql']	34244210
+10	896	['perform', 'data.t', 'dplyr', 'vector']	34245295
+1	781	['principal-compon']	34266186
+8	1883	['shini']	34321273
+9	892	['svm']	34328105
+1	826	['testthat']	34345945
+2	891	['function', 'round']	34365360
+11	880	['datafram', 'subset', 'sampl', 'missing-data']	34389797
+8	890	['shini', 'infobox', 'shinydashboard', 'action-button']	34413137
+1	861	['data.t']	34433063
+1	822	['mongolit']	34454034
+9	1133	['group-bi', 'shini', 'dplyr']	34487641
+11	1148	['window', 'cartogram']	34491446
+1	1752	['ggplot2']	34496000
+1	1201	['ggplot2']	34516346
+4	709	['ggplot2', 'font', 'extrafont', 'showtext']	34522732
+4	1312	['vector', 'plot', 'sequenc', 'axis-label']	34533472
+1	1043	['data.t']	34539408
+8	888	['shini', 'googlevi']	34579494
+1	920	['rstudio', 'knitr']	34591487
+1	886	['yacc']	34599027
+9	1069	['function', 'shini']	34609967
+9	884	['shini', 'ggvi']	34619117
+1	1260	['ggplot2']	34623780
+9	884	['shini', 'ggvi']	34631794
+8	883	['user-interfac', 'tcl', 'tk', 'ttk']	34667618
+11	1718	['facebook', 'text', 'unicod', 'tm']	34693989
+3	899	['email', 'dygraph']	34694775
+1	879	['foreach', 'parallel-process', 'mclappli']	34704733
+10	880	['if-stat', 'datafram', 'data.t', 'missing-data']	34711685
+8	1171	['shini']	34731975
+11	758	['maco', 'rstudio']	34764830
+1	1439	['ggplot2', 'gridextra', 'gtabl']	34797443
+4	1411	['plot', 'ggplot2', 'gridextra']	34814478
+1	486	['datafram']	34826602
+1	1135	['r-mice']	34841794
+2	580	['matrix', 'median', 'imput']	34865789
+1	852	['xgboost']	34896004
+4	876	['ggplot2', 'shini', 'bar-chart', 'label']	34898222
+4	876	['ggplot2', 'bar-chart', 'label']	34903368
+1	877	['ggmap']	34939054
+4	875	['ggplot2', 'data-visu', 'social-network']	34973314
+8	874	['stanford-nlp', 'rjava']	34983149
+4	875	['plot', 'igraph']	34994503
+2	873	['matrix']	34994790
+2	873	['matrix']	35006572
+9	1321	['shini', 'rstudio', 'reactive-program']	35020810
+9	872	['css', 'shini']	35025145
+8	871	['shini', 'shiny-react']	35040579
+1	51	['google-map', 'ggplot2', 'ggmap']	35051374
+8	871	['shini']	35056668
+9	870	['depend', 'packag']	35075215
+9	870	['depend', 'packag', 'roxygen2']	35118287
+1	869	['plyr']	35126517
+1	1128	['knitr']	35144130
+10	869	['matrix', 'group-bi', 'transform']	35155603
+1	499	['ggplot2']	35205795
+3	867	['ggplot2', 'xt', 'zoo']	35215579
+8	868	['excel', 'datafram', 'xlsx', 'transpos']	35224338
+8	868	['excel', 'datafram', 'xlsx', 'transpos']	35234038
+9	866	['shini', 'leaflet', 'rstudio']	35266730
+1	864	['ggplot2']	35324848
+4	855	['datetim', 'plot', 'ggplot2', 'time-seri']	35330207
+1	861	['data.t']	35353464
+1	863	['ggvi']	35359622
+10	862	['string', 'lc']	35381180
+4	858	['ggplot2', 'data-visu', 'tuft']	35434760
+10	857	['loop', 'pars', 'stata']	35439914
+13	857	['for-loop', 'stata', 'sappli']	35440235
+3	856	['distribut', 'mle']	35443537
+11	893	['json', 'jsonlit']	35444968
+1	863	['ggvi']	35452191
+1	860	['ggplot2', 'ggproto']	35454277
+9	836	['glm', 'logistic-regress']	35462144
+4	855	['plot', 'ggplot2', 'r-markdown']	35471802
+1	879	['parallel-process', 'parallel-foreach', 'mclappli']	35491015
+1	767	['ggplot2', 'boxplot']	35525240
+1	853	['ggplot2']	35585428
+10	850	['loop']	35614425
+10	1746	['ggplot2', 'save', 'curly-brac']	35633239
+1	853	['ggplot2']	35637012
+8	625	['shini']	35651669
+6	852	['offset', 'poisson', 'xgboost']	35660588
+8	851	['latex', 'knitr', 'r-markdown', 'beamer']	35677857
+6	730	['gam']	35699399
+6	850	['datafram', 'row', 'missing-data']	35711655
+1	754	['ggplot2', 'violin-plot', 'ggproto']	35717353
+8	848	['shini']	35725156
+1	658	['ggplot2']	35799426
+1	849	['datafram']	35834739
+4	838	['ggplot2', 'density-plot']	35835633
+8	848	['shini']	35859083
+1	1709	['nlme']	35863439
+4	839	['plot', 'ggplot2', 'raster', 'logarithm']	35866379
+8	848	['shini']	35884519
+2	845	['anova', 'posthoc']	35891062
+10	434	['oop', 'gener', 'comparison']	35902360
+1	1496	['ggplot2']	35904363
+2	845	['comparison', 'anova']	35933702
+11	812	['csv', 'utf-8', 'rstudio', 'hebrew']	35973507
+4	839	['plot', 'ggplot2', 'igor']	36014676
+6	843	['group']	36023558
+10	718	['datafram', 'dplyr']	36033449
+11	842	['ubuntu']	36034316
+6	843	['group']	36039026
+1	841	['dplyr']	36039309
+13	737	['list', 'data.t', 'lag']	36040542
+1	840	['knitr', 'd3heatmap']	36041601
+1	840	['phantomj', 'knitr']	36043244
+1	836	['logistic-regress']	36065327
+8	835	['shini']	36094718
+4	569	['distanc']	36110815
+6	1751	['ggplot2', 'legend']	36133374
+8	835	['shini']	36141451
+8	1355	['datafram', 'display']	36144946
+2	834	['time-seri', 'dplyr', 'lubrid']	36187931
+9	832	['html', 'shini', 'html5-audio']	36205419
+9	832	['html', 'shini', 'html5-audio']	36208785
+8	829	['data.t', 'aggreg', 'reshap', 'reshape2']	36232684
+6	829	['count', 'data.t']	36233318
+1	827	['data.t']	36238521
+1	827	['data.t']	36249586
+1	826	['testthat']	36255181
+11	825	['csv', 'datafram']	36260816
+11	825	['csv', 'columnnam']	36277222
+8	1478	['window', 'parallel-process', 'cluster-comput', 'snowfal']	36297815
+11	655	['web-scrap', 'rvest']	36335498
+2	1577	['postgresql', 'encod']	36343513
+10	98	['regex', 'stringr']	36368712
+8	1379	['loop', 'knitr']	36373630
+8	824	['shini']	36431158
+11	1425	['linux', 'window', 'shini']	36431465
+8	824	['shini']	36454567
+1	823	['ggplot2']	36478278
+1	1772	['ggplot2', 'gtabl']	36487283
+1	1136	['r-mice']	36511909
+10	588	['string', 'dplyr', 'renam']	36520813
+1	822	['posixct']	36562894
+2	1024	['regress', 'linear-regress', 'lm']	36571864
+11	724	['h2o']	36620585
+1	819	['datafram']	36648502
+3	821	['anaconda', 'readlin', 'ncurs', 'conda']	36651189
+3	821	['anaconda', 'readlin', 'ncurs', 'conda']	36652015
+6	1545	['chart', 'ggplot2']	36668078
+11	820	['geospati', 'latitude-longitud', 'shapefil', 'rgdal']	36669528
+9	791	['shini', 'shinyb']	36670065
+10	1178	['datafram', 'data.t']	36671531
+11	820	['geospati', 'shapefil', 'centroid']	36673576
+2	1545	['ggplot2', 'time-seri', 'axis-label']	36676878
+1	819	['datetim', 'posixct']	36696948
+4	1779	['plot', 'ggplot2', 'gtabl']	36754891
+1	1161	['ggplot2', 'facet']	36779537
+2	816	['statist', 'frequenc', 'summari']	36790376
+1	1114	['cross-product']	36798301
+6	818	['data.t', 'geospati', 'sp']	36817423
+1	1127	['igraph']	36852821
+9	812	['text', 'encod', 'hebrew']	36865202
+8	815	['shini', 'plotli', 'shinyb']	36897594
+13	813	['curve-fit', 'nl']	36909690
+1	811	['production-environ']	36919953
+1	811	['production-environ']	36925855
+9	810	['shini', 'data.t']	36936613
+10	810	['datafram', 'data.t']	36953026
+601	809	['round', 'running-tot']	36969907
+13	808	['array', 'if-stat', 'for-loop']	36974450
+6	808	['array', 'list', 'if-stat']	36974742
+13	807	['reshap']	37011952
+1	807	['regex']	37023999
+1	805	['bar-chart', 'mathematical-express']	37059281
+9	806	['dictionari', 'shini', 'leaflet', 'choropleth']	37059404
+11	805	['unicod', 'bar-chart']	37071001
+11	694	['web-scrap', 'rvest', 'httr']	37085732
+2	1243	['regress', 'linear-regress', 'lme4', 'mixed-model']	37090722
+1	814	['dplyr', 'pipelin', 'nl']	37110555
+1	798	['ggplot2', 'plotli']	37122216
+1	1900	['rpostgresql', 'r-dbi']	37131569
+13	814	['dplyr', 'nl', 'non-linear-regress']	37133471
+1	801	['window', 'install.packag']	37144856
+6	804	['imag', 'list', 'gplot']	37150889
+4	802	['matrix', 'plot', 'trigonometri']	37193380
+10	803	['dplyr', 'min']	37196854
+2	802	['trigonometri']	37200885
+9	801	['packag', 'failed-instal']	37243338
+1	799	['r-caret']	37273149
+4	796	['pca', 'ellips']	37274007
+1	798	['plotli']	37284287
+4	796	['overlap', 'ellips', 'ggbiplot']	37349878
+3	795	['machine-learn', 'decision-tre', 'parti']	37393329
+1	794	['ggplot2', 'facet-wrap']	37418211
+1	513	['venn-diagram']	37450698
+1	881	['ggplot2']	37487475
+3	795	['foreach', 'machine-learn', 'decision-tre', 'parti']	37515454
+9	791	['shini', 'shinyb']	37521669
+6	1736	['ggplot2', 'p-valu']	37536950
+6	495	['function', 'condit', 'row', 'rbind']	37579756
+1	1279	['ggplot2', 'gtabl', 'grob', 'facet-grid']	37619534
+11	787	['postgresql']	37651470
+1	785	['data.t']	37667335
+11	784	['datafram', 'subset', 'code-convers']	37714152
+6	1348	['join', 'datafram', 'merg', 'dplyr']	37714533
+11	784	['datafram', 'subset', 'slice']	37715085
+9	783	['shini', 'rstudio', 'roxygen2', 'testthat']	37719503
+9	1268	['gcc', 'packag']	37729082
+13	1330	['datafram', 'shini']	37736782
+4	476	['plot', 'percentag']	37761096
+9	359	['matrix', 'covari', 'lme4']	37789299
+1	782	['ggplot2', 'imagemagick']	37800390
+11	782	['window', 'imagemagick']	37817299
+9	783	['shini', 'shiny-serv', 'devtool']	37830819
+1	780	['lubrid']	37878693
+1	780	['datetim', 'lubrid']	37881270
+11	686	['filter']	37924896
+1	1004	['css', 'knitr', 'r-markdown']	37944197
+1	778	['plotli']	37974317
+2	1767	['ggplot2', 'r-grid', 'gtabl']	37984000
+8	352	['excel', 'xlconnect']	37991389
+8	1574	['latex', 'height', 'knitr', 'figur']	37998364
+1	778	['ggplot2']	38010031
+8	777	['latex', 'knitr', 'r-markdown']	38036680
+1	928	['dplyr']	38052325
+2	745	['postgresql', 'amazon-web-servic', 'rpostgresql']	38056641
+1	228	['plotli']	38064175
+6	1916	['datafram', 'merg', 'reshap']	38066077
+11	774	['datafram', 'subset', 'predict']	38101558
+10	759	['apache-spark', 'yarn', 'sparkapi', 'sparklyr']	38102921
+1	773	['ggplot2']	38104901
+2	1023	['regress', 'linear-regress', 'predict', 'lm']	38109501
+1	773	['ggplot2']	38109623
+4	771	['plot', 'axi']	38133485
+4	772	['ggplot2', 'drc']	38169765
+1	770	['dplyr']	38177908
+4	771	['plot']	38192010
+1	769	['rstudio']	38197844
+1	770	['dplyr']	38223003
+10	768	['data.t', 'dplyr', 'model-fit']	38230957
+1	1093	['dplyr']	38237350
+11	769	['window']	38242324
+13	768	['parallel-process', 'dplyr', 'purrr']	38252013
+1	767	['ggplot2']	38277826
+4	772	['ggplot2', 'logistic-regress', 'drc']	38289656
+1	766	['dplyr']	38295777
+13	766	['dplyr', 'tidyr']	38297989
+3	256	['concaten', 'bioconductor']	38308134
+11	765	['datafram', 'subset']	38335734
+11	527	['for-loop', 'datafram', 'subset']	38348097
+6	1802	['match', 'negat']	38351820
+3	1409	['rstudio', 'temp']	38364431
+1	764	['css', 'r-markdown']	38367392
+8	763	['shini']	38372906
+10	1169	['datafram', 'dplyr', 'bigdata']	38420089
+9	786	['postgresql', 'ubuntu', 'devtool']	38427757
+3	762	['sed', 'homebrew']	38440350
+3	762	['bash', 'maco', 'sed', 'rscript']	38441722
+9	752	['shini', 'leaflet', 'shinydashboard']	38478139
+8	759	['apache-spark', 'rstudio', 'sparklyr']	38486163
+11	760	['json']	38493318
+1	699	['data.t']	38525383
+1	758	['environment-vari', 'rstudio', 'anaconda', 'conda']	38534383
+1	736	['data.t']	38537268
+8	757	['shini']	38541103
+10	738	['data.t', 'dplyr']	38559429
+1	756	['dplyr']	38563885
+1	1024	['vector', 'lm']	38601794
+9	752	['shini', 'leaflet', 'r-mapview']	38607045
+10	1662	['merg']	38620373
+1	751	['ggplot2', 'group-bi', 'dplyr', 'summari']	38639289
+1	751	['matrix', 'vector', 'datafram', 'dplyr']	38640268
+2	320	['gam', 'mgcv']	38644943
+2	749	['interpol', 'contour', 'r-raster', 'bilinear-interpol']	38658033
+6	750	['datafram', 'add']	38660467
+9	1325	['packag']	38686427
+1	746	['ggplot2', 'r-car']	38782051
+2	745	['sql', 'postgresql']	38791517
+4	744	['function', 'for-loop', 'plot']	38822132
+6	750	['datafram', 'add']	38847645
+8	742	['latex', 'knitr', 'r-markdown', 'cross-refer']	38861041
+646	741	['loess']	38864458
+4	740	['plot', 'ggplot2']	38895565
+1	737	['data.t']	38900293
+10	738	['data.t', 'dplyr', 'cumulative-sum']	38900796
+1	1853	['data.t']	38910869
+13	749	['imag', 'interpol', 'surfac', 'r-grid']	38916875
+11	897	['window', 'ssl', 'heroku', 'rpostgresql']	38942118
+4	741	['plot', 'loess']	38948553
+13	1646	['matrix', 'distanc', 'euclidean-dist']	39005958
+1	733	['ggplot2', 'facet-wrap']	39006840
+1	731	['ggplot2']	39023962
+1	727	['shini', 'r-markdown', 'htmlwidget']	39024390
+1	733	['ggplot2', 'facet-wrap']	39027770
+1	731	['plyr']	39036198
+2	730	['plot', 'regress', 'gam', 'mgcv']	39042064
+2	726	['regress', 'julia', 'linear-algebra']	39082724
+10	729	['string', 'bash', 'diff']	39128344
+1	1408	['ggplot2']	39137287
+3	729	['bash', 'maco']	39150367
+1	1408	['ggplot2']	39164688
+4	728	['ggplot2', 'custom', 'geom-bar', 'color-palett']	39166027
+1	727	['shini', 'r-markdown', 'htmlwidget']	39171890
+4	728	['ggplot2', 'bar-chart', 'legend', 'geom-bar']	39173002
+13	725	['amazon-web-servic', 'parallel-process', 'data.t']	39176643
+10	725	['data.t', 'left-join', 'assign']	39195219
+11	724	['neural-network', 'deep-learn', 'h2o']	39207125
+13	1645	['matrix', 'distanc', 'diagon', 'distance-matrix']	39231961
+2	1055	['regress', 'linear-regress', 'lm', 'mlm']	39262534
+8	1320	['dynam', 'tab', 'shini', 'dt']	39276104
+8	763	['shini']	39330299
+2	1023	['regress', 'linear-regress', 'lm', 'predict']	39337862
+2	1511	['geometri', 'astronomi', 'azimuth']	39393514
+2	1028	['regress', 'linear-regress', 'lm', 'piecewis']	39418783
+2	723	['sum', 'lappli']	39420095
+1	882	['ggplot2']	39446852
+8	144	['shini', 'dt']	39484118
+1	718	['dplyr']	39507019
+11	716	['auc', 'precision-recal']	39508831
+1	1113	['random', 'missing-data']	39513837
+1	906	['machine-learn']	39614235
+11	715	['html', 'xml', 'kml']	39623094
+8	714	['shini']	39628872
+2	1304	['window', 'encod', 'utf-8']	39632751
+8	714	['shini']	39633863
+1	715	['xml-pars']	39642725
+2	723	['sum', 'lappli']	39690633
+1	713	['ggplot2']	39694490
+8	712	['latex', 'knitr', 'r-markdown', 'watermark']	39746947
+1	711	['plot', 'rstudio', 'knitr', 'r-markdown']	39779573
+1	711	['loop', 'knitr', 'r-markdown']	39792781
+1	710	['jupyt', 'jupyter-irkernel']	39805798
+9	707	['merg', 'shini', 'shiny-serv']	39808631
+9	707	['datafram', 'shini', 'updat', 'shiny-serv']	39832436
+8	712	['latex', 'knitr', 'r-markdown']	39833768
+1	557	['r6']	39914775
+1	705	['ggplot2', 'envstat']	39993117
+13	704	['imag', 'parallel-process']	40035067
+6	704	['termin', 'parallel-process', 'imagemagick']	40044958
+1	705	['ggplot2', 'ggproto']	40102613
+2	703	['regress', 'linear-regress', 'covari', 'lm']	40120094
+2	703	['regress', 'linear-regress', 'lm', 'hypothesis-test']	40143388
+4	701	['highchart', 'ggplot2']	40182340
+11	701	['highchart', 'dt']	40185121
+1	698	['ggplot2']	40225786
+1	700	['highchart']	40245096
+2	695	['matrix', 'regress', 'linear-regress', 'svd']	40250072
+2	695	['matrix', 'regress', 'linear-regress', 'qr-decomposit']	40250691
+1	694	['httr']	40327657
+6	1370	['label']	40385321
+1	1598	['ggplot2']	40391272
+13	1370	['resiz', 'axis-label']	40436727
+2	687	['matrix']	40461380
+6	693	['color', 'border', 'correl', 'r-corrplot']	40538304
+1	693	['data-structur']	40551678
+1	692	['ggplot2']	40554479
+11	556	['datafram', 'subset']	40557147
+6	689	['loop', 'datafram']	40596609
+6	689	['loop', 'datafram', 'combin']	40636032
+13	1854	['dplyr', 'tidyvers']	40640132
+1	611	['knitr', 'r-markdown']	40652012
+11	454	['xml', 'libxml2']	40682615
+4	688	['statist', 'time-seri', 'cluster-analysi', 'k-mean']	40689434
+10	927	['statist', 'bar-chart', 'lattic']	40691773
+4	924	['ggplot2', 'statist', 'bar-chart', 'lattic']	40694522
+4	927	['legend', 'lattic']	40699787
+1	702	['rstudio']	40709975
+3	688	['machine-learn', 'statist']	40713096
+1	687	['rowsum']	40771358
+11	686	['filter']	40787001
+3	685	['packag', 'bioinformat']	40789601
+13	684	['datafram', 'correl']	40793506
+1	846	['regex']	40802404
+9	685	['packag', 's4']	40807266
+6	683	['correl']	40819971
+10	683	['list', 'loop', 'correl']	40831975
+1	1782	['ggplot2', 'facet']	40837588
+13	894	['datafram', 'updat', 'overwrit']	40878660
+4	1021	['function', 'statist']	40901445
+10	682	['function', 'loop', 'quandl']	40942717
+2	682	['function', 'datafram', 'quandl']	40953151
+1	420	['dplyr']	40962006
+13	800	['export', 'data.t', 'fwrite']	40966634
+6	490	['ggplot2', 'legend']	41010050
+1	1004	['css', 'knitr', 'r-markdown']	41030477
+1	680	['scatter-plot']	41050532
+1	324	['rstudio', 'r-markdown', 'pdflatex']	41052687
+4	652	['sankey-diagram', 'riverplot']	41088751
+10	678	['modul', 'scope']	41133617
+6	1010	['recurs', 'nested-list', 'networkd3']	41157332
+1	1008	['knitr', 'r-markdown']	41171676
+9	678	['modul', 'scope', 'packag', 'scope']	41190862
+10	1078	['list', 'function', 'argument', 'optional-argu']	41324398
+1	1768	['ggplot2']	41390181
+1	675	['if-stat']	41471757
+8	549	['shini', 'dt', 'sparklin']	41477776
+13	675	['for-loop', 'appli']	41511191
+2	1049	['matrix', 'data.t', 'sparse-matrix', 'quanteda']	41551216
+2	674	['tm', 'quanteda']	41589266
+1	673	['initi', 'sparse-matrix', 'matrix-multipl', 'quanteda']	41596273
+11	672	['posix']	41597604
+1	1687	['dplyr']	41604711
+3	673	['variabl', 'initi', 'sparse-matrix', 'variable-declar']	41605723
+6	671	['color', 'group', 'legend', 'heatmap']	41608294
+1	672	['iso8601', 'week-numb']	41616407
+1	671	['color', 'heatmap', 'pheatmap']	41628450
+1	670	['dplyr']	41634744
+1	668	['dplyr']	41670314
+9	162	['plot', 'shini', 'draw', 'render']	41701807
+10	662	['loop']	41723575
+13	667	['r-caret', 'lm']	41730532
+10	665	['data-bind', 'cut']	41731684
+2	1304	['utf-8', 'rstudio']	41743949
+13	665	['left-join', 'dplyr', 'tidyr']	41752268
+4	664	['plot', 'heatmap', 'color-palett', 'pheatmap']	41783245
+1	663	['vector', 'replic', 'match']	41817623
+9	1677	['namespac', 'packag']	41853001
+2	1718	['encod', 'utf-8', 'charact', 'iso-8859-1']	41873359
+13	651	['neural-network', 'deep-learn', 'lstm', 'recurrent-neural-network']	41879049
+10	663	['bear']	41880973
+10	662	['loop', 'lappli']	41909242
+6	661	['cach']	41918861
+1	660	['multithread', 'foreach', 'parallel-process', 'doparallel']	41925706
+1	660	['foreach', 'parallel-process', 'dompi']	41936951
+1	1353	['time-format', 'datetime-convers']	41941523
+8	335	['shini']	41996394
+4	1492	['plot']	42010161
+4	610	['ggplot2', 'raster', 'tikzdevic']	42058059
+1	1368	['plyr']	42098881
+4	658	['plot', 'ggplot2']	42115611
+11	348	['ubuntu', 'curl', 'rstudio']	42115972
+1	960	['ggplot2']	42151880
+11	655	['angularj', 'web-scrap', 'rvest']	42208566
+9	653	['maco', 'packag']	42215523
+1	650	['datafram']	42304924
+10	1300	['function', 'loop', 'data.t', 'dplyr']	42376032
+11	652	['pdf', 'vector-graph', 'color-schem']	42387066
+10	1301	['function', 'loop', 'iter', 'dplyr']	42398867
+1	649	['stripchart']	42426970
+13	651	['machine-learn', 'deep-learn', 'lstm', 'recurrent-neural-network']	42431720
+2	650	['function', 'datafram', 'statist']	42446365
+4	612	['plot', 'graph', 'data.t']	42449257
+1	648	['data.t']	42469003
+10	1261	['string', 'unicod', 'string-length']	42481827
+1	648	['data.t']	42491624
+1	627	['do.cal']	42499099
+1	647	['ggplot2', 'heatmap', 'plotli']	42524450
+8	361	['pdf', 'shini', 'knitr', 'interact']	42561714
+1	1609	['ggplot2']	42562128
+1	1032	['ggplot2']	42564379
+11	646	['hadoop', 'rstudio-serv', 'rhadoop']	42572023
+3	955	['email', 'outlook', 'rdcomclient']	42573699
+10	643	['array', 'multidimensional-array']	42578273
+1	645	['data.t']	42587758
+10	645	['data.t', 'dplyr']	42588378
+1	644	['ggplot2']	42595256
+10	643	['array', 'subset']	42596449
+2	575	['token', 'tm', 'n-gram', 'rweka']	42604439
+6	642	['data.t', 'correl']	42611836
+1	644	['ggplot2', 'geom-text']	42633156
+1	640	['functional-program', 'closur', 'factori']	42695298
+11	1381	['cooki', 'rvest', 'shibboleth', 'httr']	42701409
+4	1582	['plot']	42707308
+4	1041	['plot', 'ggplot2', 'pryr']	42723141
+10	1139	['merg', 'data.t', 'string-match', 'stringdist']	42749447
+2	575	['tm', 'n-gram', 'term-document-matrix', 'rweka']	42757183
+1	639	['ggplot2', 'plotli']	42763280
+3	632	['leaflet']	42771185
+9	637	['highchart', 'shini', 'dplyr', 'reactiveui']	42789833
+1	637	['datafram', 'ggplot2', 'highchart', 'shini']	42790422
+10	1139	['function', 'split', 'data.t']	42793833
+9	806	['shini', 'leaflet', 'rstudio', 'geojson']	42826234
+1	576	['rstudio']	42864262
+13	503	['matrix', 'backtrack', 'recursive-backtrack']	42912608
+6	631	['text', 'ggplot2']	42974231
+9	632	['shini', 'leaflet']	43046753
+2	1510	['geometri', 'astronomi', 'azimuth']	43060093
+8	1115	['excel', 'vba', 'excel-vba', 'xlsx']	43095645
+8	872	['shini']	43131595
+1	631	['ggplot2', 'tooltip', 'plotli']	43144245
+3	630	['integr']	43189512
+9	279	['shini', 'leaflet']	43194575
+11	616	['autom', 'regress', 'plm']	43209809
+1	1705	['data.t']	43211628
+1	1537	['for-loop', 'ggplot2', 'python-imaging-librari']	43216262
+2	1855	['matrix', 'linear-algebra', 'equat', 'linear-equ']	43223579
+8	8	['shini', 'dt', 'sparklin']	43251214
+13	628	['json', 'datafram']	43261430
+3	629	['social-network']	43275478
+6	628	['datafram', 'nest']	43281803
+11	626	['linux']	43297797
+11	626	['linux']	43298666
+9	624	['imag', 'shini']	43322327
+1	623	['r-markdown']	43329230
+8	620	['shini']	43337147
+13	619	['sort', 'dplyr']	43343590
+4	620	['plot', 'ggplot2', 'shini']	43383010
+1	1900	['rpostgresql', 'r-dbi']	43385119
+9	985	['css', 'shini', 'shinydashboard']	43404058
+6	1508	['group']	43409756
+1	469	['bitmap', 'raster']	43435385
+4	618	['matrix', 'plot', 'lattic', 'levelplot']	43460760
+1	1060	['ggplot2']	43478980
+2	617	['rstudio', 'choropleth', 'choroplethr']	43480866
+2	617	['choropleth', 'choroplethr']	43481085
+13	466	['data.t', 'tidyr', 'tidyvers']	43483497
+1	616	['lappli']	43494631
+1	615	['dplyr', 'rowsum']	43515925
+10	615	['datafram', 'dplyr', 'rowsum']	43518958
+4	618	['axi', 'label', 'lattic', 'levelplot']	43526149
+4	612	['plot', 'data.t']	43536583
+1	611	['knitr', 'r-markdown']	43551312
+1	1020	['datafram']	43580891
+2	609	['matrix', 'linear-algebra']	43596486
+1	576	['warn', 'r-markdown', 'rnotebook']	43613986
+9	608	['algorithm', 'optim', 'igraph', 'network-flow']	43616480
+10	607	['join', 'data.t', 'left-join', 'match']	43660562
+1	606	['dplyr']	43694637
+1	1164	['ggplot2']	43696806
+1	606	['dplyr']	43706199
+10	602	['vector', 'max']	43731301
+1	602	['vector', 'sum']	43737524
+11	601	['dplyr', 'rmysql']	43762009
+8	596	['select', 'datafram', 'data-manipul']	43850293
+2	1896	['csv', 'import', 'readr']	43901143
+9	440	['logistic-regress', 'glm', 'cross-valid', 'rpart']	43970831
+13	598	['dplyr', 'lubrid', 'tidyvers', 'purrr']	43991620
+2	597	['machine-learn', 'svm', 'predict']	44003391
+2	587	['matrix', 'normal', 'submatrix']	44005847
+1	621	['knitr', 'r-markdown', 'pandoc']	44009148
+8	596	['select', 'datafram', 'data-manipul']	44021913
+1	593	['data.t']	44027088
+10	594	['datafram', 'data.t']	44030594
+10	594	['datafram', 'data.t']	44094497
+1	589	['r-markdown', 'pandoc', 'shields.io']	44120395
+1	589	['knitr', 'r-markdown']	44136481
+1	588	['dplyr']	44143423
+2	587	['matrix', 'normal', 'submatrix']	44147299
+1	570	['quanteda']	44158882
+1	1144	['ggplot2']	44167480
+10	407	['data.t', 'fread', 'read.csv']	44190450
+2	1242	['regress', 'lm', 'glm', 'r-faq']	44200195
+6	584	['datafram', 'duplic', 'group', 'add']	44239415
+6	584	['datafram', 'duplic', 'group', 'add']	44242299
+6	586	['datafram', 'add', 'col']	44245666
+6	583	['datafram', 'duplic', 'row']	44247395
+6	586	['group', 'add', 'col']	44250468
+4	436	['histogram', 'summari', 'skimr']	44253848
+8	581	['shini']	44262563
+6	1157	['convert', 'letter']	44269918
+8	1818	['latex', 'r-markdown', 'lm', 'sweav']	44278665
+9	581	['imag', 'shini']	44279773
+10	303	['datafram', 'dplyr', 'frequenc']	44295144
+8	1025	['stargaz']	44318860
+8	1516	['latex', 'xtabl']	44324042
+1	538	['ggplot2']	44334535
+1	579	['markdown', 'knitr']	44335165
+6	585	['group', 'add', 'row', 'col']	44341762
+8	578	['latex', 'markdown', 'knitr']	44373073
+4	664	['plot', 'heatmap', 'colorbar', 'pheatmap']	44398360
+1	577	['r-markdown', 'knitr', 'kabl']	44411575
+1	564	['igraph']	44419857
+1	574	['regex']	44434739
+1	574	['regex']	44456676
+8	573	['r-markdown', 'stargaz', 'texreg']	44457243
+8	572	['shini']	44467559
+8	573	['r-markdown', 'stargaz', 'texreg']	44473379
+9	792	['html', 'css', 'shini']	44486551
+8	572	['shini']	44504592
+1	571	['ggplot2', 'data.t']	44509287
+2	570	['sparse-matrix', 'quanteda']	44538939
+1	600	['knitr', 'r-markdown', 'pandoc', 'texreg']	44549464
+3	630	['integr', 'numerical-integr']	44551816
+1	446	['cumsum']	44591583
+1	844	['ggplot2', 'ggproto']	44595920
+11	569	['distanc', 'latitude-longitud']	44608687
+2	1317	['ggplot2', 'axis-label']	44616530
+1	571	['ggplot2', 'data.t']	44661961
+1	568	['data.t']	44666715
+1	568	['data.t']	44688711
+1	743	['ggplot2']	44691580
+4	567	['plot', 'ggplot2', 'lattic']	44697183
+4	567	['plot', 'lattic']	44718072
+11	566	['posix']	44721152
+1	566	['local']	44723690
+4	565	['plot', 'ggplot2', 'bar-chart', 'facet']	44786138
+4	565	['plot', 'ggplot2', 'facet', 'axis-label']	44787310
+1	564	['igraph']	44802712
+1	563	['tidyvers']	44808793
+8	1264	['latex', 'knitr', 'r-markdown', 'bookdown']	44850011
+6	1793	['data.t', 'quot', 'double-quot']	44855415
+1	559	['ggplot2', 'facet-grid']	44912496
+13	560	['ggplot2', 'nl']	44930704
+11	556	['datafram', 'subset', 'r-factor']	44961347
+2	555	['floating-point', 'data.t']	44973544
+10	555	['data.t', 'fread']	45015794
+2	553	['sum']	45047885
+3	543	['statist', 'data-sci', 'knn']	45117125
+11	546	['ubuntu', 'rstudio', 'x11', 'arbtt']	45119432
+1	553	['raster', 'rowsum']	45122894
+10	544	['function', 'loop', 'reduc']	45134735
+1	552	['dplyr']	45147082
+13	551	['split']	45154451
+1	550	['ggplot2']	45157057
+8	548	['shini', 'dt', 'sparklin']	45179410
+1	546	['rstudio']	45185979
+6	1090	['group']	45201654
+1	522	['datafram']	45206230
+10	607	['join', 'data.t', 'left-join', 'match']	45212781
+9	545	['pdf', 'plot']	45219994
+10	547	['bar-chart', 'lattic']	45222720
+10	544	['loop', 'reduc']	45242969
+10	547	['sort', 'bar-chart', 'lattic']	45251117
+1	543	['heatmap']	45259649
+1	347	['data.t']	45259737
+11	540	['sql', 'eval', 'knitr']	45279880
+6	539	['docker', 'dockerfil', 'yum', 'install.packag']	45289764
+1	579	['knitr', 'r-markdown']	45311909
+8	537	['pipe', 'latex', 'knitr']	45321041
+2	552	['sum']	45322102
+8	537	['pipe', 'latex', 'command-line-interfac', 'system']	45322657
+3	536	['time-seri', 'rollappli']	45351663
+11	535	['select', 'dplyr', 'startswith']	45357806
+8	1453	['rcurl', 'httr']	45372987
+13	535	['select', 'dplyr', 'purrr', 'multiple-match']	45375409
+8	534	['3d', 'plotli']	45405167
+10	536	['loop']	45406009
+1	526	['data.t']	45448169
+10	533	['string']	45458787
+6	1273	['dictionari', 'hashmap', 'lookup']	45460273
+6	533	['text']	45461707
+1	545	['ggplot2', 'ggforc']	45475249
+1	532	['ggplot2', 'boxplot', 'p-valu', 'ggpubr']	45476950
+13	527	['for-loop', 'datafram', 'is-empti', 'ani']	45493545
+2	1090	['coalesc', 'tidyvers']	45515218
+1	614	['lubrid']	45549449
+1	532	['test', 'ggplot2', 'boxplot']	45552715
+1	540	['sql', 'google-bigqueri', 'rstudio', 'knitr']	45556677
+10	525	['random', 'statist', 'sampl', 'confidence-interv']	45572226
+1	526	['data.t']	45576820
+10	525	['random', 'statist', 'sampl', 'confidence-interv']	45579541
+9	524	['shini', 'shiny-serv']	45606255
+8	523	['json', 'google-geocoding-api', 'rjson', 'rjsonio']	45607736
+9	524	['shini', 'shiny-serv']	45619547
+8	523	['json', 'rjson', 'rjsonio']	45627646
+1	522	['data.t']	45635464
+3	521	['zoo', 'rollappli']	45642435
+1	520	['data.t']	45652340
+3	519	['time-seri', 'wavelet', 'rollappli']	45655879
+6	404	['list']	45663125
+1	516	['datafram']	45670637
+3	519	['time-seri', 'correl', 'wavelet', 'rollappli']	45673142
+9	625	['html', 'url', 'shini', 'render']	45709189
+11	1639	['datafram', 'type']	45713473
+9	520	['data.t', 'stringr']	45716873
+1	390	['d3.j', 'sankey-diagram', 'htmlwidget', 'networkd3']	45720125
+1	518	['igraph']	45721802
+9	517	['leaflet', 'map', 'qgi', 'jstilemap']	45722157
+1	516	['datafram']	45726959
+1	515	['parallel-process', 'doparallel']	45779447
+13	518	['graph', 'graphviz', 'r-graphviz']	45801817
+8	514	['pdf', 'latex', 'xtabl', 'footnot']	45813247
+4	854	['ggplot2', 'dplyr', 'tidyev']	45824409
+4	854	['ggplot2', 'dplyr']	45826042
+1	515	['doparallel']	45859005
+1	496	['packag', 'markdown', 'r-markdown', 'stringi']	45870948
+1	512	['ggplot2', 'ggalli', 'aesthet']	45873483
+10	1842	['scope', 'environ']	45889756
+2	511	['ggplot2', 'gi', 'choropleth']	45891034
+2	511	['ggplot2', 'gi', 'choropleth', 'sf']	45899768
+4	510	['ggplot2', 'dplyr']	45907614
+8	38	['twitter', 'r-markdown', 'hugo', 'blogdown']	45915720
+1	640	['valid', 'functional-program', 'closur', 'pointfre']	45923632
+8	509	['latex', 'xtabl', 'stargaz']	45929263
+8	509	['dplyr', 'latex', 'knitr']	45929671
+11	508	['sharepoint', 'shiny-serv']	45948534
+1	1185	['rstudio']	45948882
+8	507	['shini', 'plotli', 'ropensci', 'ggplotli']	45968501
+1	190	['shini', 'r-markdown', 'flexdashboard']	45975959
+8	507	['shini', 'plotli', 'ggplotli']	45983949
+4	506	['loop', 'object', 'instance-vari']	46059697
+10	505	['dplyr', 'cut', 'categorical-data']	46084728
+13	506	['for-loop', 'cbind']	46092824
+1	510	['ggplot2']	46093719
+6	1290	['list', 'function', 'mutat', 'rowwis']	46106423
+2	1536	['geoloc', 'map', 'geocod']	46150851
+10	504	['overlap', 'overlapping-match']	46151452
+13	503	['matrix', 'backtrack', 'recursive-backtrack']	46186549
+2	367	['multinomi', 'coeffici', 'r-mice']	46195370
+1	456	['magrittr']	46239615
+4	501	['ggplot2', 'data-visu']	46287086
+2	394	['matrix', 'adjacency-matrix']	46295687
+1	500	['tmap']	46298066
+9	498	['shini', 'shiny-serv']	46348193
+9	498	['shini', 'shiny-serv']	46352515
+2	497	['if-stat', 'time', 'lubrid']	46360218
+1	497	['dplyr', 'lubrid']	46361342
+1	6	['devtool']	46365317
+9	496	['window', 'ubuntu', 'packag', 'stringi']	46366116
+2	495	['time-seri']	46377613
+10	494	['datafram', 'dplyr']	46377973
+13	494	['regex', 'if-stat', 'datafram']	46384105
+2	502	['time-seri', 'r-mice']	46395927
+13	492	['for-loop', 'if-stat', 'datafram', 'break']	46398105
+6	493	['search', 'datafram', 'ocr']	46420106
+11	500	['sp', 'tmap']	46430561
+1	531	['test', 'ggplot2', 'boxplot']	46446392
+6	493	['list', 'datafram', 'transpos', 'sappli']	46449723
+1	483	['count', 'data-manipul']	46541843
+1	491	['ggplot2']	46580556
+6	550	['ggplot2', 'legend']	46636473
+1	1611	['ggplot2']	46639120
+3	489	['area', 'integr']	46643184
+1	416	['data.t']	46649403
+3	489	['area', 'integr']	46650208
+1	1086	['format', 'vector']	46657442
+10	1572	['data.t', 'tidyvers']	46712379
+11	488	['web-scrap', 'rvest', 'httr']	46747475
+11	488	['web-scrap', 'rvest']	46759058
+13	487	['data.t', 'overwrit']	46761065
+1	491	['test', 'ggplot2', 'boxplot', 'facet']	46783163
+13	484	['dplyr', 'tidyr', 'tidyvers']	46799063
+8	478	['datafram', 'lubrid']	46818951
+1	479	['r-raster']	46823110
+2	479	['geospati', 'r-raster']	46832976
+13	478	['datafram', 'tidyr', 'lubrid']	46839455
+10	477	['graphic', 'color', 'lattic']	46842118
+11	475	['csv', 'shini']	46842293
+11	475	['csv', 'shini']	46872965
+10	477	['graphic', 'color', 'lattic', 'discret']	46901745
+10	474	['data.t', 'time-seri']	46925686
+13	473	['tidyr', 'tidyvers', 'mutat']	46934574
+10	473	['function', 'data.t']	46951684
+1	486	['dplyr']	46952771
+4	472	['matlab', 'curve-fit', 'gaussian', 'mixture-model']	46963049
+2	462	['datafram', 'ggplot2', 'graph']	46972679
+13	472	['curve-fit', 'nl']	46986535
+2	1447	['random', 'correl', 'bindata']	47006881
+1	1616	['ggplot2']	47021117
+8	549	['shini', 'dt', 'htmlwidget', 'sparklin']	47041415
+1	1731	['rstudio']	47044068
+4	471	['plot', 'distribut']	47044939
+4	471	['plot', 'distribut']	47048035
+13	469	['imag', 'bitmap', 'raster']	47071014
+6	468	['list', 'loop', 'datafram']	47074159
+6	468	['list', 'for-loop', 'datafram', 'nest']	47080518
+1	467	['maco', 'rjava']	47083707
+1	465	['data.t']	47095292
+8	464	['if-stat', 'shini']	47152855
+8	463	['latex', 'knitr', 'r-markdown']	47171585
+10	462	['datafram', 'ggplot2', 'data.t']	47179207
+1	318	['ggplot2']	47183558
+1	610	['ggplot2']	47222764
+1	638	['ggplot2', 'ggplotli']	47227506
+1	1328	['regex']	47240375
+11	461	['sql-server', 'rodbc']	47273104
+864	457	['nlp']	47274691
+11	439	['datafram', 'filter']	47284664
+9	460	['devtool', 'r-packag']	47304933
+866	459	['user-defined-funct', 'dri', 'tidyvers']	47315053
+13	459	['dplyr', 'tidyvers', 'rlang', 'lazyev']	47319479
+8	458	['shini', 'plotli']	47405422
+1	393	['data.t']	47444012
+4	453	['plot', 'ggplot2']	47446458
+6	455	['list', 'datafram', 'data.t']	47474279
+13	456	['dplyr', 'magrittr', 'rlang']	47475923
+6	455	['list', 'datafram', 'data.t']	47495118
+1	823	['ggplot2']	47519624
+1	639	['ggplot2', 'plotli', 'ggplotli']	47523919
+1	450	['data.t']	47537760
+11	454	['xml', 'rstudio', 'homebrew', 'libxml2']	47540782
+1	453	['ggplot2', 'cowplot']	47542849
+1	452	['ggplot2', 'cowplot']	47546013
+13	449	['parallel-process', 'tidyvers', 'purrr']	47552930
+1	451	['parallel-process', 'r-daisi']	47570984
+3	451	['cluster-comput', 'r-daisi']	47590287
+1	450	['data.t']	47596739
+13	449	['parallel-process', 'tidyvers']	47625279
+6	633	['list', 'if-stat', 'nest', 'igraph']	47637321
+4	447	['ggplot2', 'data-visu', 'area', 'radar-chart']	47644156
+1	755	['ggplot2', 'ggproto']	47651868
+8	448	['lappli', 'shini']	47655487
+8	986	['shini', 'password']	47663131
+8	448	['shini']	47678029
+13	446	['for-loop', 'cumulative-sum']	47678197
+4	538	['ggplot2', 'stacked-chart', 'geom-text']	47699146
+4	447	['plot', 'ggplot2', 'visual', 'radar-chart']	47704875
+1	116	['for-loop']	47719961
+11	133	['ggplot2', 'geospati']	47720329
+6	444	['list', 'datafram', 'match']	47722530
+6	443	['datafram', 'time-seri', 'aggreg']	47723890
+4	445	['plot', 'ggplot2', 'emoticon']	47730589
+10	444	['datafram', 'dplyr', 'data.t']	47734323
+6	443	['datafram', 'time-seri', 'aggreg']	47746656
+2	442	['dplyr', 'time-seri']	47777708
+13	442	['dplyr', 'time-seri', 'tidyr', 'spread']	47781899
+8	681	['datat', 'dt']	47804593
+1	441	['ggplot2']	47818188
+9	440	['logistic-regress', 'r-caret', 'hyperparamet']	47822694
+6	432	['appli', 'lappli']	47846953
+1	200	['r-markdown', 'wordcloud2']	47850921
+11	439	['datafram', 'filter', 'sappli']	47858957
+9	438	['lappli', 'lm']	47907626
+9	437	['lappli', 'lm']	47909470
+10	426	['polygon', 'plotli']	47934438
+8	1762	['eclips', 'statet']	47941228
+8	1762	['eclips', 'ggplot2', 'statet']	47942864
+1	435	['ggplot2', 'plotli', 'geom-bar', 'ggplotli']	47950817
+1	435	['ggplot2', 'dplyr', 'plotli', 'ggplotli']	47976994
+2	490	['ggplot2', 'r-grid', 'gtabl']	48000292
+6	433	['list', 'datafram', 'sqldf']	48022642
+13	433	['for-loop', 'datafram', 'rbind']	48043372
+8	428	['shini']	48052270
+8	428	['shini']	48055272
+3	427	['aggreg']	48056851
+1	220	['api', 'curl', 'error-handl', 'try-catch']	48067906
+3	427	['aggreg']	48072338
+8	1763	['eclipse-plugin', 'statet']	48096198
+4	426	['hover', 'plotli']	48104724
+2	425	['random', 'integ', 'sequenc']	48128383
+889	425	['probabl']	48132250
+11	424	['xml', 'emoji', 'html-encod', 'xml2']	48142634
+11	424	['unicod', 'encod']	48154928
+8	777	['latex', 'r-markdown']	48211887
+3	1698	['statist']	48269237
+8	713	['ggplot2', 'label', 'axe']	48286116
+1	416	['data.t']	48306010
+13	484	['dplyr', 'data.t', 'tidyr', 'tidyvers']	48306565
+1	732	['unicod', 'utf-8', 'knitr', 'bookdown']	48307007
+6	423	['appli', 'lappli', 'mappli']	48332680
+3	419	['decim', 'tidyvers', 'digit']	48333425
+11	420	['datafram', 'subset']	48336563
+10	422	['data.t', 'group', 'subset']	48336742
+8	421	['shini', 'shinydashboard', 'shinyapp']	48337624
+13	422	['for-loop', 'data.t']	48339884
+1	419	['decim', 'round', 'swirl']	48341878
+6	423	['appli', 'lappli']	48351931
+1	418	['decim', 'round', 'swirl']	48357595
+3	418	['numer', 'digit']	48361017
+1	560	['ggplot2', 'ggpmisc']	48381672
+8	421	['shini', 'shinydashboard', 'shinyapp']	48394545
+1	414	['crop', 'raster', 'intersect']	48433790
+1	412	['dplyr']	48454816
+2	415	['ggplot2', 'shapefil', 'maptool', 'spatial-data-fram']	48469441
+1	415	['ggplot2', 'ggmap', 'maptool']	48472163
+10	414	['raster', 'temporary-fil']	48511974
+4	413	['ggplot2', 'dplyr']	48534448
+13	413	['dplyr', 'tidyvers']	48552238
+2	411	['ggplot2', 'gam', 'mgcv']	48627287
+13	417	['predict', 'lfe']	48634449
+11	412	['sql-server', 'dplyr']	48638350
+10	76	['graphic', 'lattic']	48651010
+1	408	['data.t']	48657034
+2	411	['tidyvers', 'gam', 'mgcv']	48659095
+1	410	['for-loop']	48713927
+13	410	['tidyr', 'tidyvers']	48717310
+13	1039	['dplyr', 'slice', 'tidyr']	48774624
+1	409	['ggplot2']	48819333
+1	409	['ggplot2']	48835435
+13	408	['data.t', 'categori', 'bin']	48836376
+1	407	['data.t']	48838222
+3	1018	['valid', 'r-caret']	48902732
+4	406	['plot', 'ggplot2', 'xtabl']	48903882
+13	405	['dplyr', 'aggreg']	48912908
+13	405	['dplyr', 'aggreg']	48913362
+1	403	['ggplot2', 'gtabl', 'cowplot']	48924219
+6	404	['list']	48928383
+1	403	['ggplot2', 'gtabl', 'cowplot']	48961927
+11	345	['svd', 'eigenvalu']	49013393
+13	401	['join', 'weighted-averag']	49041280
+1	401	['weighted-averag']	49074570
+8	400	['shini']	49109933
+8	400	['shini']	49111594
+1	755	['ggplot2']	49120060
+1	1362	['ggplot2', 'facet', 'rose-diagram']	49124254
+9	398	['shini', 'leaflet', 'color-palett']	49126405
+1	52	['r-markdown']	49140030
+13	397	['perform', 'rcpp']	49140990
+6	790	['sf']	49181715
+1	396	['dplyr']	49184274
+1	396	['data.t']	49198437
+1	395	['regex']	49229558
+1	395	['regex']	49269338
+10	129	['method', 's4']	49346939
+13	393	['group-bi', 'data.t', 'group']	49366830
+1	402	['datafram']	49400778
+1	392	['r-markdown', 'rnotebook']	49435594
+1	151	['parallel-process', 'doparallel', 'parallel-foreach', 'r6']	49435632
+3	956	['outlook', 'rdcomclient']	49440262
+8	1171	['shini']	49452857
+1	391	['lappli']	49459779
+936	1229	['tableau']	49471136
+1	390	['d3.j', 'knitr', 'sankey-diagram', 'networkd3']	49509228
+1	389	['decim', 'round']	49517374
+13	389	['cast', 'round', 'interpol', 'precis']	49521036
+8	386	['shini']	49554201
+1	833	['combin']	49570793
+9	388	['css', 'shini']	49588582
+3	387	['probabl']	49595214
+1	228	['plotli', 'scientific-not']	49626679
+1	383	['r-xlsx']	49628570
+9	385	['packag', 'random-se', 'reproducible-research']	49640909
+8	386	['shini']	49665486
+1	1512	['ggplot2']	49668265
+1	296	['r-markdown', 'knitr', 'flextabl']	49676982
+9	385	['packag', 'random-se']	49711972
+1	381	['rnoaa']	49743774
+1	377	['gurobi']	49746686
+1	384	['nonlinear-funct']	49752514
+1	383	['datafram', 'openxlsx']	49753115
+1	382	['ggplot2']	49756005
+13	788	['dplyr', 'purrr', 'broom', 'rolling-comput']	49762128
+1	382	['ggplot2']	49763045
+1	1557	['data.t']	49781741
+1	377	['gurobi']	49813500
+4	381	['loop', 'rnoaa']	49818889
+1	156	['quantstrat', 'technical-ind']	49827119
+13	380	['cluster-analysi', 'igraph']	49834827
+13	380	['cluster-analysi', 'igraph']	49856205
+1	379	['r-packag', 'r-devtool']	49859149
+13	504	['datetim', 'data.t', 'overlap']	49880546
+8	647	['scale', 'plotli', 'heatmap']	49924813
+1	45	['r-markdown', 'knitr']	49964166
+1	378	['dplyr']	49967559
+3	376	['dplyr', 'zoo']	50023898
+8	24	['latex', 'markdown', 'r-markdown', 'bibliographi']	50048754
+4	374	['ggplot2', 'label', 'bar-chart', 'jitter']	50059193
+1	1037	['ggplot2']	50070741
+4	1796	['ggplot2', 'data-visu']	50077342
+9	372	['shini', 'leaflet', 'reactive-program', 'r-leaflet']	50111566
+9	372	['filter', 'shini', 'leaflet', 'r-leaflet']	50128349
+9	260	['asynchron', 'shini']	50165443
+1	371	['differential-equ']	50229410
+1	371	['differential-equ']	50231104
+13	370	['function', 'for-loop', 'dplyr', 'appli']	50237076
+1	369	['pdf', 'r-markdown', 'pandoc', 'stargaz']	50243929
+13	370	['for-loop', 'cbind']	50256439
+8	369	['pdf', 'stargaz']	50258307
+3	368	['text-classif', 'quanteda', 'lime']	50273919
+3	368	['text', 'text-classif', 'quanteda', 'lime']	50290782
+2	367	['imput', 'multinomi', 'r-mice']	50291766
+3	1237	['regress', 'glm']	50297260
+9	365	['math', 'optim', 'integr']	50341423
+2	1236	['regress', 'linear-regress', 'lm']	50420661
+9	366	['leaflet', 'htmlwidget', 'htmltool']	50452750
+1	722	['loop', 'leaflet', 'r-markdown', 'knitr']	50467457
+3	365	['math', 'optim', 'statist', 'integr']	50472929
+10	364	['dplyr', 'data.t', 'tidyvers']	50483582
+10	364	['dplyr', 'data.t', 'tidyvers']	50487229
+4	363	['plot', 'sf']	50499991
+4	363	['plot', 'sf']	50502536
+1	362	['pdf', 'yaml', 'r-markdown', 'pandoc']	50539913
+1	362	['pdf', 'yaml', 'r-markdown']	50549961
+8	361	['shini', 'latex', 'knitr']	50554584
+10	360	['datafram', 'dplyr', 'outlier']	50569314
+10	360	['datafram', 'dplyr', 'outlier']	50584209
+1	358	['markdown', 'bookdown']	50652853
+1	357	['datafram']	50659096
+8	358	['latex', 'markdown', 'bookdown']	50663004
+9	464	['shini', 'rstudio']	50663500
+1	356	['igraph']	50685421
+1	356	['igraph']	50687588
+9	379	['devtool', 'r-packag']	50728217
+11	338	['nlp', 'token']	50752133
+9	355	['dplyr', 'rcpp']	50828119
+1	354	['ggplot2']	50838664
+1	354	['ggplot2']	50854067
+13	353	['dplyr', 'data-manipul', 'tidyvers']	50858296
+13	353	['list', 'dplyr', 'tidyvers']	50860018
+3	352	['excel', 'encrypt', 'password']	50867641
+1	1514	['ggplot2']	50883294
+1	351	['ggplot2', 'plotli']	50939130
+3	350	['optim']	50958860
+10	350	['loop']	50978973
+13	1578	['postgresql', 'hex', 'decod', 'bytea']	50996686
+10	349	['datafram', 'dplyr']	51000699
+13	1233	['lm', 'purrr']	51026675
+1	245	['geospher']	51030060
+1	347	['data.t']	51045709
+1	346	['quantstrat']	51071941
+1	346	['quantstrat']	51072873
+995	345	['svd']	51078004
+11	344	['maco']	51086959
+10	340	['join', 'data.t']	51087287
+10	349	['datafram', 'dplyr']	51090065
+10	878	['dplyr', 'difftim']	51118608
+4	342	['ggplot2', 'group']	51126843
+1	1380	['markdown', 'r-markdown', 'knitr']	51158486
+10	340	['join', 'data.t']	51170892
+1	1241	['linear-regress', 'lme4', 'factor']	51216908
+1	344	['maco', 'memori']	51248293
+2	1021	['machine-learn', 'regress', 'linear-regress']	51249359
+1	329	['dplyr']	51280568
+2	338	['predict']	51296577
+3	1525	['matrix', 'replac', 'data-sci', 'gsub']	51314482
+10	337	['data.t', 'match']	51320621
+1	336	['ggplot2', 'facet-wrap']	51330838
+1	336	['dplyr']	51332447
+9	335	['shini', 'r-leaflet']	51334762
+1	334	['ggplot2']	51335424
+1	334	['ggplot2']	51338784
+1	436	['skimr']	51340323
+1	333	['rstudio', 'rnotebook']	51343335
+1	331	['rvest']	51352697
+11	331	['web-scrap', 'rvest', 'rselenium']	51353272
+13	330	['dplyr', 'tidyvers']	51372723
+1	330	['dplyr', 'special-charact']	51380034
+10	339	['duplic', 'data.t', 'lubrid']	51387157
+1	834	['dplyr']	51407129
+1	329	['data.t']	51413841
+1	284	['ggplot2', 'gi', 'ggmap']	51481913
+1006	1240	['svm']	51485626
+3	327	['dplyr', 'zoo']	51486048
+10	328	['dplyr', 'data.t']	51494868
+13	328	['dplyr', 'data.t', 'lappli', 'tidyr']	51495838
+3	327	['dplyr', 'zoo']	51506312
+13	339	['sum', 'data.t']	51546208
+10	323	['loop', 'igraph', 'lappli', 'network-analysi']	51551082
+2	1242	['regress', 'linear-regress', 'predict', 'lm']	51552203
+2	325	['network', 'igraph', 'ggraph']	51569831
+3	325	['ggplot2', 'ggraph']	51581399
+8	324	['templat', 'latex', 'r-markdown']	51594999
+11	322	['nlp', 'tm']	51597297
+4	323	['loop', 'for-loop', 'igraph', 'network-analysi']	51603769
+11	322	['nlp', 'tm']	51650023
+2	320	['regress', 'gam', 'mgcv', 'geostatist']	51658946
+6	321	['function', 'matrix', 'matrix-factor']	51687808
+6	72	['eval', 'dynamic-scop']	51699452
+13	1646	['perform', 'matrix', 'distanc', 'distance-matrix']	51707582
+13	788	['dplyr', 'zoo', 'broom']	51753158
+1	200	['word-cloud', 'wordcloud2']	51759893
+4	562	['ggplot2', 'plot', 'violin-plot']	51847367
+2	1022	['regress', 'linear-regress', 'predict', 'lm']	51856369
+2	1919	['regress', 'aggreg', 'linear-regress', 'lm']	51857177
+1	319	['regex']	51857207
+10	319	['regex', 'encod']	51865368
+2	318	['dictionari', 'ggplot2', 'sf']	51869337
+10	317	['dplyr', 'data.t', 'plyr']	51876158
+4	708	['ggplot2', 'font', 'extrafont']	51885427
+4	1797	['ggplot2', 'geom-bar', 'aesthet']	51892875
+1	1471	['ggplot2']	51901813
+13	102	['rlang', 'nse', 'tidyev']	51902438
+10	317	['dplyr', 'data.t', 'plyr']	51908491
+6	1692	['datafram', 'combin']	51923115
+2	316	['perform', 'regress', 'linear-regress', 'lm']	51923603
+10	314	['dplyr', 'data.t', 'lappli']	51929941
+1	315	['ggplot2', 'boxplot']	51935753
+8	315	['ggplot2', 'font', 'label']	51935883
+1	1055	['processing-effici', 'posthoc']	51937380
+1	965	['dplyr']	51944709
+3	185	['outlook', 'rdcomclient']	51964208
+10	313	['dplyr', 'data.t']	51967572
+10	313	['dplyr', 'data.t']	51970403
+2	316	['perform', 'regress', 'linear-regress', 'lm']	51996021
+10	312	['dplyr', 'data.t']	52005153
+1	272	['dplyr']	52014985
+3	343	['dtw']	52029851
+10	314	['dplyr', 'data.t', 'plyr']	52074105
+4	309	['ggplot2', 'rlang', 'ggrepel']	52106980
+4	309	['ggplot2', 'rlang']	52117181
+2	305	['dplyr', 'time-seri', 'forecast']	52187189
+8	255	['latex', 'r-markdown', 'kableextra']	52193105
+11	307	['sql-server', 'dbi']	52208380
+11	307	['sql-server', 'r-dbi']	52209203
+10	312	['dplyr', 'data.t', 'lappli']	52233504
+2	305	['dplyr', 'time-seri', 'lappli', 'forecast']	52275015
+1	946	['foreach', 'parallel-process', 'checkpoint', 'r-futur']	52276088
+2	304	['spline', 'smooth']	52281220
+10	303	['datafram', 'data.t', 'summar']	52283303
+2	304	['spline', 'smooth']	52300914
+2	1855	['matrix']	52334647
+13	298	['dplyr', 'tidyvers']	52334683
+4	302	['plot', 'graph', 'argument', 'regress']	52334725
+9	301	['shini', 'dygraph']	52334944
+8	458	['shini', 'plotli', 'r-plotli']	52335837
+1	300	['vector']	52338580
+13	300	['sort', 'vector', 'doubl']	52339226
+9	299	['std', 'summari', 'skew', 'kurtosi']	52344047
+1	1072	['ggplot2', 'ggnetwork']	52357757
+1	297	['r-raster']	52365579
+1	445	['ggplot2', 'emoji']	52378661
+10	1689	['replac', 'data.t']	52382298
+1	298	['tidyvers']	52382354
+10	297	['list', 'loop', 'r-raster']	52388444
+3	296	['caption', 'flextabl', 'offic']	52431959
+13	1428	['perform', 'vector', 'alloc']	52440778
+1	501	['ggplot2']	52469245
+1	742	['r-markdown', 'bookdown']	52478475
+1	294	['hook', 'r-markdown', 'knitr']	52491396
+1	293	['datafram']	52521310
+1	1009	['r-librari']	52526703
+1	138	['ggplot2', 'plotli', 'ggplotli']	52532428
+1	293	['datafram']	52533132
+1	292	['xml-pars']	52543892
+2	1317	['ggplot2', 'axis-label', 'facet-grid', 'gtabl']	52554822
+8	290	['r-markdown', 'xelatex']	52558238
+1	994	['random']	52559455
+1	284	['google-map', 'google-maps-api-3', 'ggmap']	52565472
+3	289	['nan', 'differential-equ']	52576686
+4	266	['anim', 'ggplot2', 'dplyr', 'gganim']	52623722
+3	956	['vba', 'outlook']	52649215
+8	290	['shini', 'latex', 'r-markdown', 'pandoc']	52652934
+2	288	['regress', 'interpol', 'spline']	52655729
+6	287	['permut']	52675487
+2	287	['function', 'combin', 'permut']	52682271
+10	282	['string', 'dplyr']	52687986
+13	286	['machine-learn', 'predict', 'gbm']	52702984
+1	276	['r-markdown', 'knitr', 'pandoc']	52706006
+3	286	['machine-learn', 'gbm']	52706456
+13	285	['regress', 'nl', 'non-linear-regress']	52708868
+13	285	['dplyr', 'regress', 'nl']	52710549
+1	283	['if-stat']	52745151
+10	282	['string', 'dplyr']	52777989
+13	281	['if-stat', 'duplic']	52803902
+3	281	['if-stat', 'duplic', 'aggreg']	52814300
+10	289	['simul', 'differential-equ']	52832970
+1	280	['sendmailr']	52840058
+6	1550	['datafram', 'matrix', 'type', 'coercion']	52844649
+9	279	['shini', 'leaflet']	52846472
+1	278	['dplyr']	52858332
+8	277	['shini']	52864035
+8	277	['asynchron', 'futur', 'r-futur']	52865362
+11	265	['mysql', 'sql', 'oracl']	52874031
+8	278	['shini', 'tidyvers', 'shinydashboard', 'shiny-react']	52875140
+1	276	['r-markdown', 'knitr', 'pandoc']	52876814
+13	274	['join', 'fuzzyjoin']	52974300
+13	272	['sort', 'tidyvers']	53022075
+1	271	['data.t']	53033225
+1	271	['dplyr']	53035534
+8	270	['html', 'shini', 'shinydashboard']	53053598
+10	269	['dplyr', 'data.t']	53059075
+8	270	['shini', 'dashboard', 'shinydashboard', 'shinyapp']	53059211
+10	269	['dplyr', 'data.t']	53060304
+1	268	['purrr']	53070606
+1	268	['purrr']	53071578
+11	280	['outlook', 'smtp']	53074411
+1	267	['nonlinear-optim']	53099087
+1	946	['r-futur']	53117396
+1	267	['nonlinear-optim']	53130611
+4	266	['anim', 'ggplot2', 'data-visu', 'gganim']	53162821
+9	261	['plot', 'predict', 'lme4', 'mumin']	53193940
+1	265	['ggmap']	53194740
+3	234	['offic']	53212878
+3	234	['offic']	53223526
+13	264	['ggplot2', 'tidyvers', 'plotmath']	53235655
+1	264	['ggplot2', 'plotmath']	53239765
+1	68	['ggplot2']	53245233
+3	263	['rstudio', 'plotli', 'axi', 'r-plotli']	53266457
+1	1846	['type-convers', 'precis']	53279593
+3	263	['layout', 'packag', 'plotli', 'r-plotli']	53284719
+1	262	['datetim']	53292882
+1	262	['datetim']	53302125
+13	261	['regress', 'scale', 'lme4']	53324971
+8	260	['shini', 'futur']	53407004
+1	252	['gganim']	53479557
+9	257	['namespac', 'packag']	53548994
+3	256	['bioinformat', 'bioconductor']	53549442
+11	508	['sharepoint']	53569414
+11	254	['hadoop', 'hive', 'kerbero', 'keytab']	53618077
+11	254	['hadoop', 'hdf']	53648755
+2	776	['ggplot2', 'axis-label', 'facet-wrap', 'r-grid']	53660703
+1	255	['r-markdown', 'knitr', 'kableextra']	53678412
+1	16	['ggplot2']	53697235
+11	251	['xml', 'gi']	53701824
+9	253	['devtool', 'gsl', 'rtool']	53718871
+9	253	['devtool', 'gsl', 'rtool']	53735407
+13	249	['for-loop', 'spatial', 'sp', 'rgdal']	53799909
+10	243	['dplyr', 'data.t', 'lappli']	53812108
+9	54	['shini', 'leaflet']	53813758
+8	236	['shini']	53855748
+1	252	['ggplot2', 'gganim']	53864892
+2	251	['xml', 'gi', 'sf']	53869307
+1	250	['data.t']	53884353
+10	275	['merg', 'datat', 'fuzzyjoin']	53931501
+2	249	['geospati', 'r-raster', 'sp', 'sf']	53952083
+6	247	['split', 'cut']	53971364
+1	247	['microbenchmark']	53974449
+10	273	['merg', 'duplic', 'data.t', 'columnnam']	53993156
+6	244	['sort', 'datafram', 'sql-order-bi', 'natural-sort']	54033510
+10	275	['merg', 'data.t', 'fuzzyjoin']	54038311
+2	242	['databas', 'time', 'interv', 'lubrid']	54066057
+6	244	['sort', 'datafram', 'natural-sort']	54089471
+2	243	['dplyr', 'time-seri', 'forecast']	54093075
+3	242	['loop', 'time', 'interv']	54093675
+1	239	['datafram']	54132300
+13	241	['dplyr', 'tidyr', 'data-clean']	54184027
+13	241	['dplyr', 'tidyr', 'data-clean']	54185678
+9	240	['html', 'shini']	54215125
+8	238	['shini']	54238427
+8	240	['shini']	54254903
+1	239	['datafram']	54291153
+2	233	['combin', 'slice', 'sparse-matrix', 'linear-algebra']	54298621
+8	238	['shini']	54307701
+1	1780	['ggplot2']	54413787
+4	981	['plot', 'polygon']	54426523
+8	236	['shini']	54426953
+1	1565	['parallel-process']	54430480
+11	292	['api', 'loop', 'web-scrap', 'tibbl']	54460501
+9	697	['shini', 'font-awesom']	54464295
+8	235	['shini']	54465075
+9	232	['rcpp', 'rparallel']	54535966
+1	230	['rbind']	54569448
+8	231	['json', 'loop', 'opendata']	54575231
+13	466	['group-bi', 'data.t', 'tidyr']	54579436
+1	222	['purrr']	54582821
+6	230	['merg', 'rbind', 'rbindlist']	54591376
+8	228	['shini', 'plotli', 'gridlin']	54612142
+6	227	['list', 'datafram', 'attribut']	54623575
+6	227	['list', 'datafram', 'attribut']	54624083
+8	226	['shini', 'r-environ', 'user-environ']	54632339
+6	231	['json', 'list', 'datafram', 'extract']	54639133
+1	223	['ggplot2', 'r-plotli', 'ggplotli']	54701979
+1	223	['r-plotli']	54737642
+1	222	['purrr']	54752196
+1	1828	['ggplot2', 'facet-wrap']	54756565
+1	221	['vector']	54762963
+9	232	['rcpp', 'non-standard-evalu', 'rparallel']	54764144
+1	359	['lme4', 'mixed-model']	54770082
+8	219	['shini']	54831077
+8	219	['shini']	54835717
+1106	215	['histogram', 'mle']	54879274
+10	337	['data.t', 'condit', 'match']	54880869
+11	47	['namespac', 'word', 'embed']	54894888
+2	218	['function', 'datafram', 'search']	54906090
+4	218	['search']	54912421
+11	756	['filter', 'dplyr']	54919400
+1	599	['dplyr']	54920159
+8	216	['shini', 'datat', 'dt']	54943418
+8	216	['shini', 'datat', 'dt']	54950917
+6	215	['nan', 'mle']	55032275
+1	467	['maco', 'rjava']	55056600
+9	250	['shini', 'data.t']	55098961
+1	709	['ggplot2', 'shini', 'extrafont']	55100069
+8	696	['shini', 'font-awesom', 'shinyapp']	55163719
+10	214	['highchart', 'shini', 'r-highchart']	55168485
+6	1163	['legend', 'r-factor']	55186549
+8	213	['shini']	55201041
+1	212	['datat']	55252006
+1	25	['compar']	55284306
+1	211	['regex']	55284424
+1120	211	['regex', 'ocr', 'plaintext', 'tei']	55345453
+1	56	['r-markdown', 'knitr', 'kabl']	55345679
+10	212	['datafram', 'tidyvers']	55346736
+1	214	['data.t', 'r-highchart']	55393013
+6	210	['function', 'nest', 'switch-stat', 'appli']	55485704
+10	210	['function', 'nest', 'condit', 'group']	55498710
+11	209	['appli']	55501292
+2	208	['time-seri', 'multiple-condit']	55512219
+2	208	['dplyr', 'time-seri', 'multiple-condit']	55527619
+8	206	['shini', 'datat', 'dt']	55550126
+10	513	['datafram', 'overlap', 'venn-diagram']	55560381
+1	204	['markov-chain']	55611370
+1	204	['markov-chain']	55617539
+4	203	['ggplot2', 'annot', 'surviv', 'forestplot']	55627999
+1	196	['geometry-surfac']	55675591
+11	196	['geometri', 'geometry-surfac']	55676436
+1	201	['ggplot2']	55686910
+1	201	['ggplot2']	55688698
+10	1168	['duplic', 'data.t']	55710990
+1	199	['ggplot2']	55721820
+1	199	['ggplot2']	55724880
+2	394	['matrix', 'adjacency-matrix']	55735530
+2	198	['function', 'subset', 'evalu', 'ellipsi']	55754330
+9	198	['function', 'lappli', 'evalu', 'do.cal']	55813859
+4	476	['plot', 'graph', 'panel', 'likert']	55825651
+1	740	['ggplot2']	55853359
+4	193	['function', 'for-loop']	55853841
+6	310	['list', 'sublist']	55859382
+11	194	['rvest', 'purrr']	55961475
+11	194	['rvest', 'purrr']	55962196
+13	193	['function', 'dplyr']	55970694
+1	192	['ggplot2']	55993404
+1	192	['ggplot2']	55994667
+1	190	['shini', 'r-markdown', 'flexdashboard']	56027198
+6	191	['list', 'append', 'subset']	56027906
+11	50	['sp']	56091313
+8	206	['datat', 'shini', 'dt']	56099758
+1	246	['for-loop']	56105878
+1	940	['dplyr']	56137091
+9	220	['list', 'url', 'download']	56156084
+6	642	['data.t', 'correl']	56182271
+8	35	['shini']	56249536
+1	577	['mysql', 'markdown', 'r-markdown', 'kabl']	56254631
+2	188	['ggplot2', 'differ', 'smooth', 'gam']	56322590
+2	187	['ggplot2', 'time-seri']	56329435
+4	187	['ggplot2', 'plot']	56331202
+9	186	['pandoc', 'cran']	56345077
+11	348	['ubuntu', 'travis-ci', 'devop', 'cran']	56345639
+9	186	['r-packag', 'cran']	56346524
+1	184	['tidyvers']	56366734
+3	185	['outlook', 'rdcomclient']	56375203
+2	183	['librari', 'gam', 'mgcv']	56417685
+1161	183	['namespac', 'gam']	56437215
+1	180	['rvest']	56484967
+11	182	['case', 'ascii']	56485774
+13	181	['dplyr', 'missing-data']	56490797
+13	181	['dplyr', 'missing-data']	56491759
+1	180	['rvest']	56496925
+8	179	['shini']	56503342
+8	179	['shini']	56515650
+8	178	['chart', 'count', 'plotli', 'donut-chart']	56530842
+8	178	['chart', 'plotli', 'textcolor', 'text-siz']	56532527
+11	1699	['mode']	56552709
+8	111	['shini', 'shinytre']	56555281
+4	177	['plot', 'lattic', 'stacked-area-chart']	56570680
+4	177	['ggplot2', 'plot', 'lattic', 'stacked-area-chart']	56582808
+8	176	['shini']	56597412
+8	176	['shini', 'shinymodul']	56598005
+8	171	['shini']	56615319
+1	952	['yaml', 'r-markdown', 'knitr']	56622368
+11	175	['datafram', 'outlier']	56629367
+2	175	['outlier']	56634463
+1	174	['bar-chart']	56659665
+8	295	['ms-word', 'bookdown', 'kabl', 'flextabl']	56676952
+6	172	['function', 'loop', 'datafram', 'lappli']	56705711
+1	169	['cplex']	56708929
+1	169	['cplex']	56710379
+6	172	['function', 'loop', 'datafram', 'lappli']	56717677
+8	171	['shini']	56720250
+9	166	['optim', 'linear-program', 'euclidean-dist']	56761115
+9	168	['event', 'shini']	56770222
+9	168	['event', 'shini']	56776207
+1	31	['ggplot2']	56784714
+9	162	['shini', 'hover', 'click', 'smartphon']	56804019
+9	167	['ggplot2', 'rstudio', 'png', 'x11']	56817353
+4	167	['plot', 'graph']	56817718
+2	197	['scope', 'subset', 'evalu', 'mappli']	56817969
+9	166	['optim', 'mathematical-optim', 'linear-program', 'quadratic-program']	56832079
+8	164	['shini', 'shinydashboard', 'shinyapp']	56863566
+10	165	['data.t', 'compar']	56864559
+1	699	['data.t']	56871943
+1	164	['shinydashboard']	56927812
+1	163	['dplyr']	56960608
+13	163	['dplyr', 'mutat']	56972840
+1	53	['r-markdown', 'bookdown']	56979022
+10	161	['datafram', 'data.t']	56981960
+1	722	['leaflet', 'r-markdown', 'knitr']	56983105
+9	722	['leaflet', 'r-markdown']	56986638
+1	161	['data.t']	56990956
+6	158	['list', 'function', 'datafram', 'subset']	57024793
+1	160	['genetic-algorithm']	57029872
+8	153	['ggplot2', 'latex', 'r-markdown', 'knitr']	57031898
+1	155	['ggplot2']	57032447
+13	160	['loop', 'dplyr', 'tidyvers', 'zoo']	57086593
+10	159	['string', 'function', 'vector', 'numer']	57101282
+2	157	['dplyr', 'time-seri']	57110805
+8	1153	['shini', 'dplyr', 'dt']	57123813
+2	157	['dplyr', 'time-seri']	57160711
+10	152	['datafram', 'for-loop', 'dplyr']	57191083
+1	155	['ggplot2', 'radar-chart']	57209060
+10	154	['datafram', 'dplyr']	57220792
+1	154	['dplyr']	57226542
+1	137	['ggplot2', 'plotli', 'subplot', 'r-plotli']	57253488
+1	156	['quantstrat']	57281786
+2	159	['function', 'columnsort']	57293986
+8	153	['ggplot2', 'latex', 'r-markdown', 'knitr']	57294988
+1	152	['dplyr']	57298332
+8	3	['shini', 'reactiv', 'sankey-diagram']	57332088
+1	151	['parallel-process', 'doparallel', 'parallel-foreach', 'r6']	57349958
+8	143	['input', 'shini', 'reactiv', 'shinyapp']	57356463
+13	150	['subset', 'rcpp']	57359221
+1	149	['tidyvers']	57363854
+1	147	['data.t']	57385749
+1	149	['precis']	57393262
+6	73	['ggplot2', 'alpha']	57394946
+1	115	['ggplot2']	57427059
+10	146	['data.t', 'subset']	57430411
+8	148	['shini', 'dplyr', 'shinydashboard', 'shiny-react']	57438355
+11	148	['filter', 'dplyr']	57442652
+10	147	['join', 'data.t', 'self-join']	57447378
+10	1892	['environment-vari', 'global-vari', 'local-vari']	57454576
+1	1766	['combin']	57457590
+10	146	['data.t', 'subset']	57465187
+1	42	['ggplot2', 'plotmath']	57467046
+10	145	['data.t', 'subset', 'tidyvers']	57468728
+1	1352	['lubrid']	57482012
+11	112	['odbc', 'hana']	57498890
+1	775	['dplyr']	57512813
+13	142	['igraph', 'graph-theori', 'shortest-path']	57529808
+2	136	['phylogeni']	57547769
+9	217	['css', 'shini', 'tab', 'format']	57563989
+8	143	['shini']	57571196
+1	142	['igraph']	57577735
+8	135	['shini', 'graphviz', 'htmlwidget', 'diagramm']	57601875
+8	141	['shini', 'shinydashboard']	57609922
+8	141	['shini', 'shinydashboard']	57610899
+9	140	['cran']	57647120
+1	138	['plotli']	57655036
+11	140	['linux']	57656065
+1204	139	['sink']	57657901
+1	139	['try-catch']	57669971
+3	137	['plotli', 'tidyvers', 'r-plotli']	57672160
+2	136	['phylogeni']	57680924
+4	134	['raster', 'r-raster']	57759059
+4	134	['raster', 'r-raster']	57779014
+8	135	['shini', 'graphviz', 'shinyj', 'diagramm']	57798411
+1	132	['datafram']	57820798
+1	132	['datafram']	57864965
+8	131	['dt', 'formatt']	57867429
+8	131	['dt', 'formatt']	57870092
+11	130	['xml', 'xml-pars']	57875654
+10	129	['oop', 'dispatch', 'multidispatch']	57903831
+8	259	['shini']	57913050
+1	128	['ggplot2']	57914461
+1	126	['rhandsont']	57925696
+2	125	['eigenvector', 'matrix-decomposit']	57935571
+8	127	['shini', 'rhandsont']	57937662
+8	127	['shini']	57946786
+13	128	['ggplot2', 'tidyvers']	57962514
+2	125	['version', 'lapack', 'eigenvalu', 'negative-numb']	57967678
+1	123	['ggplot2']	58020350
+10	124	['loop', 'aggreg']	58021216
+4	123	['ggplot2', 'dplyr', 'statist']	58026182
+11	144	['dt']	58028528
+10	124	['loop', 'aggreg', 'lappli']	58083701
+1	342	['ggplot2']	58108631
+13	122	['class']	58131498
+13	122	['class']	58132035
+8	121	['post', 'httr']	58159645
+8	119	['shini', 'dt']	58176637
+8	118	['shini', 'dt', 'shinyj']	58188784
+8	118	['shini', 'dt', 'shinyj']	58194795
+8	119	['shini', 'dt']	58194938
+11	121	['rvest', 'xml2']	58219503
+1	117	['memory-profil']	58250126
+1	117	['memory-profil']	58250531
+6	116	['for-loop', 'match', 'uniqu', 'tidyvers']	58295133
+6	67	['list', 'function', 'loop', 'datafram']	58314023
+4	115	['ggplot2', 'errorbar']	58343088
+1	499	['ggplot2', 'plotli']	58352475
+1	113	['vector', 'subset', 'element']	58370234
+11	113	['subset', 'element']	58375977
+2	1274	['combin', 'permut', 'integer-partit', 'iterpc']	58383926
+11	112	['sql', 'jdbc']	58487886
+8	111	['shini', 'shinytre']	58505386
+9	110	['html', 'css', 'shini']	58516071
+9	110	['html', 'css', 'shini']	58524163
+13	109	['dplyr', 'tidyr', 'tidyselect']	58531982
+13	109	['dplyr', 'tidyr', 'tidyselect']	58542413
+11	100	['sql-server', 'odbc', 'freetd', 'r-dbi']	58550163
+10	108	['regex', 'stringr', 'grepl']	58551389
+10	108	['regex', 'strsplit']	58560859
+4	998	['ggplot2', 'plot', 'export']	58591852
+8	107	['shini', 'shinydashboard']	58593824
+8	107	['shini', 'datat', 'shinydashboard']	58595096
+1	392	['r-markdown', 'knitr', 'chunk', 'rnotebook']	58598873
+10	106	['dplyr', 'difftim']	58611777
+8	106	['apache-spark', 'dplyr']	58613149
+8	97	['shini', 'dt']	58627988
+10	105	['function', 'data.t']	58648886
+10	105	['data.t', 'non-standard-evalu']	58649510
+13	104	['imag', 'ggplot2']	58677247
+8	103	['ggplot2', 'label']	58685422
+1	103	['ggplot2']	58689515
+9	301	['shini', 'r-dygraph']	58713038
+6	158	['list', 'function', 'datafram', 'subset']	58739159
+1	101	['ggplot2']	58756264
+1	101	['ggplot2']	58761704
+11	100	['odbc']	58777915
+13	104	['imag', 'ggplot2']	58793147
+2	99	['function', 'datafram']	58798091
+2	99	['function', 'variabl']	58802355
+10	98	['regex', 'stringr']	58859811
+10	96	['datafram', 'dplyr', 'lappli']	58878544
+10	88	['merg', 'data.t', 'dcast']	58890738
+8	470	['shini', 'plotli', 'r-plotli', 'shinyapp']	58897330
+13	102	['tidyvers', 'purrr', 'nse']	58899541
+8	97	['datat', 'shini']	58906457
+2	48	['ggplot2', 'sf']	58910056
+13	96	['dplyr', 'purrr']	58915458
+11	95	['lubrid', 'rfid']	58938992
+11	95	['social-network', 'lubrid', 'rfid']	58957189
+10	92	['regex', 'string', 'pars', 'charact']	58993208
+10	94	['string', 'pars']	58993738
+10	94	['regex', 'string', 'pars', 'charact']	59006401
+10	88	['merg', 'data.t', 'dcast']	59047386
+1	677	['data.t']	59073241
+9	1215	['ggplot2', 'axe']	59079147
+2	87	['ggplot2', 'map', 'sf', 'maptool']	59113457
+2	87	['ggplot2', 'map', 'sf', 'maptool']	59117165
+4	86	['ggplot2', 'linegraph']	59119580
+8	85	['shini', 'shinydashboard', 'shinywidget']	59153010
+4	86	['ggplot2', 'linegraph']	59158870
+1	82	['data.t', 'recycl']	59159729
+9	517	['shini', 'leaflet']	59174298
+1	1743	['bash', 'ggplot2', 'xterm']	59181206
+2	83	['ggplot2', 'quantil']	59184868
+8	85	['shini', 'shinydashboard', 'shinywidget']	59187457
+8	84	['r-markdown', 'pdflatex', 'articl']	59190193
+2	83	['ggplot2', 'regress', 'quantil', 'quantreg']	59192861
+1	84	['latex', 'r-markdown', 'knitr', 'pandoc']	59193797
+1	82	['data.t', 'recycl']	59197298
+1	913	['dplyr', 'conditional-stat', 'summar']	59199273
+6	81	['datafram', 'count', 'conditional-stat']	59204544
+3	669	['jupyter-notebook', 'anaconda']	59212970
+8	217	['datat', 'shini', 'shinywidget']	59233401
+10	81	['datafram', 'dplyr']	59242628
+11	130	['xml']	59307289
+10	93	['dplyr', 'data.t', 'stringr', 'readr']	59355505
+8	78	['spss', 'r-haven']	59360232
+1	78	['r-haven']	59376487
+8	77	['data.t', 'transpos', 'melt']	59380554
+8	77	['data.t', 'transpos', 'melt']	59395052
+10	76	['graphic', 'lattic']	59396848
+1	74	['reshape2']	59397169
+10	75	['loop', 'matrix', 'indic']	59408283
+2	75	['for-loop', 'matrix', 'indic']	59413766
+6	74	['tidyr', 'fill']	59429703
+2	647	['map', 'plotli', 'categorical-data']	59516054
+11	66	['subset']	59570555
+6	72	['eval']	59584695
+1	351	['ggplot2', 'plotli']	59613787
+13	71	['rna-seq']	59639543
+4	71	['data-visu', 'ontolog', 'rna-seq']	59653531
+1	69	['dplyr']	59716982
+11	70	['json', 'nest', 'purrr', 'jsonlit']	59717301
+11	70	['json', 'nest', 'jsonlit']	59717624
+13	69	['dplyr', 'nse']	59718745
+2	1589	['ggplot2', 'map', 'spatial']	59741003
+6	67	['list', 'function', 'datafram', 'lappli']	59791480
+2	133	['ggplot2', 'sf']	59808375
+2	29	['time-seri']	59825843
+1	66	['recod']	59882916
+4	65	['for-loop', 'raster']	59887908
+6	65	['list', 'lappli', 'raster']	59904916
+2	64	['time-seri']	59960252
+1	49	['error-handl']	59960329
+1	64	['dplyr', 'time-seri', 'summar', 'preserv']	59978973
+1	62	['ecdf']	60062217
+1	63	['ggplot2', 'layer']	60062311
+1	63	['ggplot2']	60062827
+1	59	['ggplot2', 'boxplot']	60133762
+8	933	['shini']	60151766
+3	58	['git', 'ssh']	60176959
+1	57	['r-markdown', 'knitr', 'kabl', 'xelatex']	60200275
+4	73	['ggplot2', 'data-visu', 'multivariate-partit']	60230468
+8	56	['r-markdown', 'kabl', 'kableextra']	60285820
+1	55	['plotli']	60289954
+3	55	['plotli', 'r-plotli']	60310790
+9	399	['color', 'leaflet', 'map', 'color-palett']	60321495
+2	399	['ggplot2', 'color', 'leaflet', 'map']	60327158
+4	690	['ggplot2', 'bar-chart']	60340491
+1	57	['r-markdown', 'knitr', 'kabl', 'xelatex']	60371743
+1	746	['ggplot2']	60423973
+9	54	['leaflet', 'cluster-analysi', 'sf']	60436142
+1	44	['encrypt', 'rstudio']	60450608
+9	46	['packag']	60506182
+9	52	['namespac', 'packag', 'r-faq']	60506879
+9	44	['session', 'encrypt', 'shini']	60561129
+1	53	['html', 'ggplot2', 'r-markdown', 'plotli']	60647728
+6	42	['sf', 'pango', 'plotmath', 'pangocairo']	60656445
+1	41	['dplyr']	60660622
+1	961	['r-markdown', 'gridextra', 'gtabl']	60661723
+2	1214	['time-seri']	60670097
+10	41	['datafram', 'dplyr', 'rlang', 'wrapr']	60677042
+3	40	['som']	60757051
+11	39	['panel-data', 'plm']	60766742
+8	37	['shini', 'action-button']	60797216
+11	39	['random', 'plm', 'pool']	60804415
+8	38	['r-markdown', 'blogdown']	60807293
+9	37	['shini', 'uioutput']	60811581
+1	36	['ggplot2', 'facet-grid']	60822398
+1	36	['ggplot2', 'facet-grid']	60827811
+8	35	['shini', 'flexdashboard', 'shinyapp']	60835547
+11	22	['plm']	60847460
+8	34	['shini', 'data-visu', 'rhandsont']	60878248
+8	34	['shini', 'latex', 'data-visu', 'rhandsont']	60896726
+2	32	['log', 'stdout', 'stderr', 'error-messag']	60925357
+1	32	['r-connect']	60925391
+1	512	['ggplot2', 'ggalli', 'ggpair']	60930523
+1	31	['ggplot2', 'survival-analysi']	60937226
+3	30	['class', 'random', 'classif', 'probabl']	60948668
+3	33	['plot', 'time-seri']	60948692
+1	29	['arima']	60970948
+9	28	['shini', 'leaflet']	61010890
+1	27	['r-markdown', 'knitr']	61015431
+9	28	['shini', 'leaflet']	61024619
+3	26	['machine-learn', 'logistic-regress', 'cross-valid']	61025542
+1	27	['ggplot2', 'r-markdown']	61029336
+3	26	['machine-learn', 'regress', 'cross-valid']	61029739
+13	25	['dplyr', 'purrr']	61039110
+8	24	['latex', 'r-markdown', 'markdown', 'bibliographi']	61046041
+1	1278	['rstudio']	61079751
+1	534	['plotli']	61117221
+3	13	['rang']	61192872
+13	1106	['dplyr', 'install.packag']	61200536
+11	22	['plm', 'r-haven']	61249692
+8	1738	['ggplot2', 'label', 'ggpubr', 'ggpmisc']	61266084
+4	68	['ggplot2', 'plot', 'axi', 'boxplot']	61275627
+9	6	['packag', 'devtool', 'package-develop']	61320722
+11	21	['ggplot2', 'ggimag']	61327081
+4	20	['ggplot2', 'dplyr', 'reshap', 'likert']	61353320
+1	1737	['ggplot2', 'ggpmisc']	61357383
+1	19	['group-bi', 'dplyr', 'rowwis']	61365720
+4	20	['ggplot2', 'dplyr', 'visual', 'likert']	61369850
+6	21	['ggplot2', 'legend', 'ggimag']	61381710
+1	18	['group-bi', 'dplyr', 'conditional-stat']	61417517
+1	19	['group-bi', 'dplyr', 'rowwis']	61421335
+4	16	['ggplot2', 'data-visu', 'gganim']	61446108
+2	541	['encod', 'utf-8', 'nlp', 'topic-model']	61463661
+13	18	['dplyr', 'conditional-stat', 'tidyvers']	61467044
+11	17	['r-caret', 'model-comparison']	61493218
+8	470	['shini', 'plotli', 'r-plotli']	61496833
+3	30	['statist', 'classif', 'caret', 'r-ranger']	61501935
+1	17	['parallel-process', 'r-caret', 'doparallel']	61514348
+1	1527	['r-markdown', 'subplot', 'subcapt']	61526548
+1	622	['r-markdown', 'knitr']	61528612
+1	1655	['ggplot2']	61531149
+1	14	['dendrogram']	61602871
+10	11	['loop', 'regress', 'appli']	61649029
+10	12	['datafram', 'dplyr']	61707244
+13	11	['group-bi', 'group', 'tidyvers', 'lappli']	61741207
+8	10	['latex', 'pdf-gener', 'r-markdown', 'list']	61760349
+4	203	['graph', 'figur', 'forestplot']	61765729
+10	7	['datafram', 'data.t', 'aggreg', 'tidyvers']	61798169
+13	719	['dplyr', 'tibbl', 'unnest']	61837438
+8	8	['dt', 'sparklin']	61868853
+9	5	['optim', 'linear-program', 'mixed-integer-program']	61873468
+3	7	['datat', 'time-seri', 'aggreg']	61876254
+9	5	['optim', 'linear-program', 'mixed-integer-program']	61900256
+8	4	['shini', 'dt']	61958925
+10	2	['string', 'dplyr']	61967678
+4	1371	['ggplot2', 'plot', 'axe']	61969752
+8	3	['shini', 'htmlwidget', 'networkd3']	61979235
+4	1	['ggplot2', 'dplyr', 'cumsum']	61979426
+1	2	['dplyr']	61991055
+4	1	['ggplot2', 'dplyr', 'cumsum']	61993479
+8	4	['shini', 'dt']	62012913

@@ -1,0 +1,31 @@
+--------------------
+Tweets-T
+  FutureWarning)
+start  22741  end  30322 topics:  78 truth:  54  NMI:  0.8346887030020685
+batch_i 8 time diff 2857
+[1, 2, 3, 4, 5, 6, 7, 8]
+
+[0.8240384054890462, 0.8316920904758434, 0.8396952859535273, 0.8853096629563657, 0.9137464109257034, 0.9232716761894556, 0.9080898831577163, 0.8346887030020685]
+
+0.8700665147687159
+total time diff 2857
+all_labels 56846 all_trueLabels 30322
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.35360124
+completeness_score-whole-data:   0.39037136
+nmi_score-whole-data:   0.37107764
+pred clusters=127, true clusters=269
+purity majority whole data=0.1972495217993536
+
+
+----------------------------------
+NTlong1
+
+start  0  end  4142 topics:  285 truth:  380  NMI:  0.7421454570837068
+evaluate total texts=4142
+homogeneity_score-whole-data:   0.71784482
+completeness_score-whole-data:   0.76726872
+nmi_score-whole-data:   0.74173437
+pred clusters=285, true clusters=380
+purity majority whole data=0.5287300820859488
+batch_i 1 time diff 893

@@ -1,0 +1,343 @@
+time diff secs= 4490
+pred_true_text_file name=result/PredTueTextMStream_WordArr.txt
+evaluate total texts=201028
+homogeneity_score-whole-data:   0.28482214
+completeness_score-whole-data:   0.65065406
+nmi_score-whole-data:   0.39620609
+pred clusters=866, true clusters=12213
+purity majority whole data=0.11359611596394532
+
+
+time diff secs= 3661
+pred_true_text_file name=result/PredTueTextMStream_WordArr.txt
+evaluate total texts=189919
+homogeneity_score-whole-data:   0.29146109
+completeness_score-whole-data:   0.61511854
+nmi_score-whole-data:   0.39551544
+pred clusters=1814, true clusters=12071
+purity majority whole data=0.1117792321989901
+pred_true_text_file name=result/personal_cluster_biterm.txt
+
+############proposed#########
+News
+--------------
+batch size=1000
+News1: 
+News2:
+News3:
+News4:
+News5:    
+
+
+batch size=2000
+News1: 
+News2:
+News3:
+News4:
+News5:
+
+batch size=4000
+News1: 
+News2:
+News3:
+News4:
+News5:
+
+
+batch size=8000
+News1: 
+News2:
+News3:
+News4:
+News5:
+
+
+batch size=16000
+News1: 
+News2:
+News3:
+News4:
+News5:
+
+
+Tweets
+--------------
+batch size=1000
+Tweets1: 
+Tweets2:
+Tweets3:
+Tweets4:
+Tweets5:    
+
+
+batch size=2000
+Tweets1: 
+Tweets2:
+Tweets3:
+Tweets4:
+Tweets5:    
+
+
+batch size=4000
+Tweets1: 
+Tweets2:
+Tweets3:
+Tweets4:
+Tweets5:    
+
+
+
+batch size=8000
+Tweets1: 
+Tweets2:
+Tweets3:
+Tweets4:
+Tweets5:    
+
+
+
+batch size=16000
+Tweets1: 
+Tweets2:
+Tweets3:
+Tweets4:
+Tweets5:    
+
+
+
+NTS-long
+--------------
+batch size=1000
+NTS-long1: 
+NTS-long2:
+NTS-long3:
+NTS-long4:
+NTS-long5:    
+
+
+batch size=2000
+NTS-long1: 
+NTS-long2:
+NTS-long3:
+NTS-long4:
+NTS-long5:
+
+batch size=4000
+NTS-long1: 
+NTS-long2:
+NTS-long3:
+NTS-long4:
+NTS-long5:   
+
+
+
+batch size=8000
+NTS-long1: 
+NTS-long2:
+NTS-long3:
+NTS-long4:
+NTS-long5:   
+
+
+
+batch size=16000
+NTS-long1: 
+NTS-long2:
+NTS-long3:
+NTS-long4:
+NTS-long5:
+
+
+
+NTSB-long
+--------------
+batch size=1000
+NTSB-long1: 
+NTSB-long2:
+NTSB-long3:
+NTSB-long4:
+NTSB-long5:
+
+
+batch size=2000
+NTSB-long1: 
+NTSB-long2:
+NTSB-long3:
+NTSB-long4:
+NTSB-long5:
+
+
+batch size=4000
+NTSB-long1: 
+NTSB-long2:
+NTSB-long3:
+NTSB-long4:
+NTSB-long5:
+
+
+batch size=8000
+NTSB-long1: 
+NTSB-long2:
+NTSB-long3:
+NTSB-long4:
+NTSB-long5:
+
+
+batch size=16000
+NTSB-long1: 
+NTSB-long2:
+NTSB-long3:
+NTSB-long4:
+NTSB-long5:
+
+
+------------------------------
+NTlong1
+
+time diff secs= 819 itr=2 batch=16
+pred_true_text_file name=result/PredTueTextMStream_WordArr.txt
+evaluate total texts=41429
+homogeneity_score-whole-data:   0.76475603
+completeness_score-whole-data:   0.83527306
+nmi_score-whole-data:   0.79846062
+pred clusters=435, true clusters=416
+purity majority whole data=0.6112867797919331
+
+time diff secs= 913, itr=2 batch size=4000
+pred_true_text_file name=result/PredTueTextMStream_WordArr.txt
+evaluate total texts=41429
+homogeneity_score-whole-data:   0.78501628
+completeness_score-whole-data:   0.84159420
+nmi_score-whole-data:   0.81232127
+pred clusters=410, true clusters=416
+purity majority whole data=0.6442588524946293
+
+time diff secs= 1227, itr=4 =4000
+pred_true_text_file name=result/PredTueTextMStream_WordArr.txt
+evaluate total texts=41429
+homogeneity_score-whole-data:   0.78458717
+completeness_score-whole-data:   0.84096520
+nmi_score-whole-data:   0.81179852
+pred clusters=422, true clusters=416
+purity majority whole data=0.6404209611624707
+
+
+
+---------------------------
+Tweets-T
+
+time diff secs= 547  itr=2, batch=16
+pred_true_text_file name=result/PredTueTextMStream_WordArr.txt
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.81967411
+completeness_score-whole-data:   0.82479169
+nmi_score-whole-data:   0.82222494
+pred clusters=413, true clusters=269
+purity majority whole data=0.7081656882791373
+
+
+time diff secs= 970  itr=4 =4000
+pred_true_text_file name=result/PredTueTextMStream_WordArr.txt
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.81697971
+completeness_score-whole-data:   0.84467908
+nmi_score-whole-data:   0.83059853
+pred clusters=337, true clusters=269
+purity majority whole data=0.682144977244245
+
+
+time diff secs= 465 itr=2 =4000
+pred_true_text_file name=result/PredTueTextMStream_WordArr.txt
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.78930303
+completeness_score-whole-data:   0.82288623
+nmi_score-whole-data:   0.80574485
+pred clusters=332, true clusters=269
+purity majority whole data=0.6571796055669151
+
+---------------------------
+Tweets
+time diff secs= 797  itr=4 =4000
+pred_true_text_file name=result/PredTueTextMStream_WordArr.txt
+evaluate total texts=30322
+homogeneity_score-whole-data:   0.82375689
+completeness_score-whole-data:   0.86320219
+nmi_score-whole-data:   0.84301838
+pred clusters=352, true clusters=269
+purity majority whole data=0.7144317657146626
+
+
+
+---------------------------
+News-T
+time diff secs= 175  itr=4 =4000
+pred_true_text_file name=result/PredTueTextMStream_WordArr.txt
+evaluate total texts=11109
+homogeneity_score-whole-data:   0.86277236
+completeness_score-whole-data:   0.85643822
+nmi_score-whole-data:   0.85959362
+pred clusters=219, true clusters=152
+purity majority whole data=0.7691961472679809
+
+
+
+
+
+---------------------------
+News
+time diff secs= 178  itr=4 =4000
+pred_true_text_file name=result/PredTueTextMStream_WordArr.txt
+evaluate total texts=11109
+homogeneity_score-whole-data:   0.87899930
+completeness_score-whole-data:   0.87689482
+nmi_score-whole-data:   0.87794580
+pred clusters=213, true clusters=152
+purity majority whole data=0.8176253488162751
+
+
+------------------------------------
+NTS-long-1
+
+time diff secs= 1637  itr=2 batch=16
+pred_true_text_file name=result/PredTueTextMStream_WordArr.txt
+evaluate total texts=61428
+homogeneity_score-whole-data:   0.69325384
+completeness_score-whole-data:   0.74423624
+nmi_score-whole-data:   0.71784097
+pred clusters=630, true clusters=438
+purity majority whole data=0.5157257276811877
+
+
+time diff secs= 1559  itr=2 =4000
+pred_true_text_file name=result/PredTueTextMStream_WordArr.txt
+evaluate total texts=61428
+homogeneity_score-whole-data:   0.69818989
+completeness_score-whole-data:   0.75145675
+nmi_score-whole-data:   0.72384468
+pred clusters=626, true clusters=438
+purity majority whole data=0.5168327147229277
+
+
+---------------new--------
+time diff secs= 7386
+pred_true_text_file name=result/PredTueTextMStream_WordArr.txt
+evaluate total texts=164773
+homogeneity_score-whole-data:   0.29052144
+completeness_score-whole-data:   0.68124622
+v_measure_score-whole-data:   0.40733323
+nmi_score-whole-data:   0.40733323
+pred clusters=3100, true clusters=10994
+purity majority whole data=0.0963021854308655
+min 1 max 1677 median 11.0 avg 14.987538657449518 std 32.715219271492174 sum of li 164773
+avg words per text 47.81438099688663 totalwords 7878519 #texts 164773
+pred_true_text_file name=result/personal_cluster_biterm.txt
+evaluate total texts=164773
+homogeneity_score-whole-data:   0.57785736
+completeness_score-whole-data:   0.73935187
+v_measure_score-whole-data:   0.64870472
+nmi_score-whole-data:   0.64870472
+pred clusters=3023, true clusters=10994
+purity majority whole data=0.23597312666516965
+min 1 max 1677 median 11.0 avg 14.987538657449518 std 32.715219271492174 sum of li 164773
+avg words per text 73.77768809210247 totalwords 12156571 #texts 164773
+listtuple_pred_true_text=ReadPredTrueText(result/mstr-enh)

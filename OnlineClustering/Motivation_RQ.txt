@@ -1,0 +1,40 @@
+Motivation:
+Text Clustering plays a significant role to find
+duplicate or similar texts.
+In this work, we are proposing a system
+that reduces the search space for finding duplicate
+stackoverflow questions using a
+state-of-the-art short text Stream Clustering algorithm.
+The reason for using text Stream Clustering algorithm
+is that the questions
+ are continuously being posted in stackoverflow and
+ its quite an expensive job to cluster
+  such a huge collection of questions using
+  a static text clustering algorithm.
+ To the best of our knowledge, we are the first one who are
+ proposing this kind of system to reduce the search space
+ for finding duplicate questions in stackoverflow.
+
+ To show the effectiveness of our system, we define
+ the following research questions:
+
+ 1. Given a set of questions,
+ we try to find out for how may of them,
+ we can find the duplicate questions.
+
+2. What is the median of
+search-ranks for finding duplicate questions.
+
+3. Under which similarity settings (e.g., tag, title, body, combination of tag, title and body similarities)
+our system performs better in terms of finding duplicate questions.
+
+We compare our system with
+lucene with in the extent of answering the
+above research questions.
+Our experimental results demonstrate that our system
+outperforms lucene in most of experimental scenarios
+while answering the above research questions.
+
+
+ e
+

@@ -1,0 +1,12 @@
+1. filter questions by tag
+java
+python
+c++
+
+2. then create each dataset using their duplcate or related question information
+
+3. show counts based on cluster sizes 
+cluster size 2 texts= 100 clusters
+cluster size 3 texts= 50 clusters
+cluster size 10000 texts = 2 clusters
+
