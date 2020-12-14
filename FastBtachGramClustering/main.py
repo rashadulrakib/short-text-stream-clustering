@@ -182,7 +182,9 @@ def clusterBatchByGram(sub_list_pred_true_words_index):
     # clusters based on grams: dic_nonCommon__txtIds
     dic_nonCommon__txtIds = removeCommonTextIdsByCSize(dic_ngram__txtIds)
 
-    listtuple_pred_true_text = []
+    listtuple_pred_true_text = []  # no use
+    list_textId_notClust = []
+    dic_nonCommon__txtIds_Clust = {}
     li = []
     for gram, txtIds in dic_nonCommon__txtIds.items():
         # print(gram, 'len(txtIds)', len(txtIds))
@@ -197,14 +199,22 @@ def clusterBatchByGram(sub_list_pred_true_words_index):
     for gram, txtIds in dic_nonCommon__txtIds.items():
         # print(gram, 'len(txtIds)', len(txtIds))
         if len(txtIds) < mean_li + 1.0 * std_li:
+            list_textId_notClust.extend(txtIds)
             continue
+        dic_nonCommon__txtIds_Clust[gram] = txtIds
+
+        # no use
         for txtId in txtIds:
             item = dic_txtId__text[txtId]
             # list_pred_true_words_index
             listtuple_pred_true_text.append([gram, str(item[1]), item[2]])
+        # no use
 
+    # no use
     print('dic_nonCommon__txtIds', len(dic_nonCommon__txtIds), 'dic_ngram__txtIds', len(dic_ngram__txtIds))
     Evaluate_old(listtuple_pred_true_text)
+
+    return [dic_nonCommon__txtIds_Clust, list_textId_notClust]
 
 
 # absFilePath = os.path.abspath(__file__)
@@ -230,7 +240,8 @@ for start in range(0, allTexts, batchSize):
     print(start, end)
     sub_list_pred_true_words_index = list_pred_true_words_index[start:end]
     print(len(sub_list_pred_true_words_index))
-    clusterBatchByGram(sub_list_pred_true_words_index)
+    dic_nonCommon__txtIds_Clust, list_textId_notClust = clusterBatchByGram(sub_list_pred_true_words_index)
+    # create word/ftr of a text (dic_nonCommon__txtIds_Clust) to-> clusterGramID
 
 fileOut.close()
 
