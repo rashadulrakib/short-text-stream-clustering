@@ -35,8 +35,9 @@ hitranktype = textType + 'HitRank'
 
 outputPath = "result/"
 
-dataSetName = 'Tweets-T'
+dataSetName = 'News-T'
 inputfile = 'data/' + dataSetName
+batchSize = 4000
 
 fileOut = open(outputPath + dataSetName + '_result', 'w')
 
@@ -173,6 +174,39 @@ def getTextIdsFromClusters(dic_gramCluster__txtIds, grams):
     # return textIds
 
 
+def clusterBatchByGram(sub_list_pred_true_words_index):
+    dic_ngram__txtIds, dic_txtId__text = buildNGramIndex(sub_list_pred_true_words_index)
+
+    ########remove overlap texs from clusters, remove big clusters
+    #####no text appear in two clusters
+    # clusters based on grams: dic_nonCommon__txtIds
+    dic_nonCommon__txtIds = removeCommonTextIdsByCSize(dic_ngram__txtIds)
+
+    listtuple_pred_true_text = []
+    li = []
+    for gram, txtIds in dic_nonCommon__txtIds.items():
+        # print(gram, 'len(txtIds)', len(txtIds))
+        li.append(len(txtIds))
+
+    print('1st:min', min(li), 'max', max(li), 'median', statistics.median(li), 'avg', statistics.mean(li), 'sum of li',
+          sum(li), 'totalclusters#', len(dic_nonCommon__txtIds))
+
+    mean_li = statistics.mean(li)
+    std_li = statistics.stdev(li)
+    print('mean_li', mean_li, 'std_li', std_li)
+    for gram, txtIds in dic_nonCommon__txtIds.items():
+        # print(gram, 'len(txtIds)', len(txtIds))
+        if len(txtIds) < mean_li + 1.0 * std_li:
+            continue
+        for txtId in txtIds:
+            item = dic_txtId__text[txtId]
+            # list_pred_true_words_index
+            listtuple_pred_true_text.append([gram, str(item[1]), item[2]])
+
+    print('dic_nonCommon__txtIds', len(dic_nonCommon__txtIds), 'dic_ngram__txtIds', len(dic_ngram__txtIds))
+    Evaluate_old(listtuple_pred_true_text)
+
+
 # absFilePath = os.path.abspath(__file__)
 # print(absFilePath)
 # fileDir = os.path.dirname(os.path.abspath(__file__))
@@ -187,40 +221,21 @@ list_pred_true_words_index = readlistWholeJsonDataSet(inputfile, isStopWord)
 
 print('finish list_pred_true_words_index_postid_createtime', len(list_pred_true_words_index))
 
+allTexts = len(list_pred_true_words_index)
+batchNo = 0
+
+for start in range(0, allTexts, batchSize):
+    batchNo += 1
+    end = start + batchSize if start + batchSize < allTexts else allTexts
+    print(start, end)
+    sub_list_pred_true_words_index = list_pred_true_words_index[start:end]
+    print(len(sub_list_pred_true_words_index))
+    clusterBatchByGram(sub_list_pred_true_words_index)
+
 fileOut.close()
 
-t11 = datetime.now()
-dic_ngram__txtIds, dic_txtId__text = buildNGramIndex(list_pred_true_words_index)
-
-########remove overlap texs from clusters, remove big clusters
-#####no text appear in two clusters
-# clusters based on grams: dic_nonCommon__txtIds
-dic_nonCommon__txtIds = removeCommonTextIdsByCSize(dic_ngram__txtIds)
-
-listtuple_pred_true_text = []
-li = []
-for gram, txtIds in dic_nonCommon__txtIds.items():
-    # print(gram, 'len(txtIds)', len(txtIds))
-    li.append(len(txtIds))
-
-print('1st:min', min(li), 'max', max(li), 'median', statistics.median(li), 'avg', statistics.mean(li), 'sum of li',
-      sum(li), 'totalclusters#', len(dic_nonCommon__txtIds))
-
-mean_li = statistics.mean(li)
-std_li = statistics.stdev(li)
-print('mean_li', mean_li, 'std_li', std_li)
-for gram, txtIds in dic_nonCommon__txtIds.items():
-    # print(gram, 'len(txtIds)', len(txtIds))
-    if len(txtIds) < mean_li + 1.0*std_li:
-        continue
-    for txtId in txtIds:
-        item = dic_txtId__text[txtId]
-        # list_pred_true_words_index
-        listtuple_pred_true_text.append([gram, str(item[1]), item[2]])
-
-print('dic_nonCommon__txtIds', len(dic_nonCommon__txtIds), 'dic_ngram__txtIds', len(dic_ngram__txtIds))
-Evaluate_old(listtuple_pred_true_text)
 '''
+t11 = datetime.now()
 # gram is a cluster: txtId->text->word/bigram->cluster
 # gram is a cluster: c->Counter(word/bigram), c->#ftrs , c->#texts
 ##to be used: dic_term_clusterGramIds
