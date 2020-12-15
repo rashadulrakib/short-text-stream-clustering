@@ -60,33 +60,24 @@ def buildNGramIndex(list_pred_true_words_index):
     return [dic_ngram__txtIds, dic_txtId__text]
 
 
+# dic_gram__txtIds : cluster to TextIds
 def gramClusterToFeatures(dic_gram__txtIds, dic_txtId__text):
     dic_term_clusterGramIds = {}  # tag ftr->cluster id
 
     dic_cluster_ftrs = {}
     dic_cluster_size = {}
 
-    dic_cluster_titles = {}
-    dic_cluster_titleSize = {}
-
-    dic_cluster_bodys = {}
-    dic_cluster_bodySize = {}
-
     for gramClusterID, txtIds in dic_gram__txtIds.items():  # gram is a cluster id
         cluster_ftrs = []  # tags
-        title_ftrs = []
-        body_ftrs = []
+
         for txtId in txtIds:
             item = dic_txtId__text[txtId]
             words = item[2]
-            title_words = item[7]
-            body_words = item[8]
-            ftrs = generateGramsConsucetive(words, min_gram, max_gram)  # len(words))
-            t_ftrs = generateGramsConsucetive(title_words, min_gram, max_gram)  # len(words))
-            b_ftrs = generateGramsConsucetive(body_words, min_gram, max_gram)  # len(words))
+
+            ftrs = generateGrams(words, min_gram, max_gram)  # len(words))
+
             cluster_ftrs.extend(ftrs)
-            title_ftrs.extend(t_ftrs)
-            body_ftrs.extend(b_ftrs)
+
             for ftr in ftrs:
                 dic_term_clusterGramIds.setdefault(ftr, []).append(gramClusterID)
 
@@ -94,16 +85,7 @@ def gramClusterToFeatures(dic_gram__txtIds, dic_txtId__text):
         dic_cluster_ftrs[gramClusterID] = ftr_dict
         dic_cluster_size[gramClusterID] = len(cluster_ftrs)
 
-        ftr_dict_title = Counter(title_ftrs)
-        dic_cluster_titles[gramClusterID] = ftr_dict_title
-        dic_cluster_titleSize[gramClusterID] = len(title_ftrs)
-
-        ftr_dict_body = Counter(body_ftrs)
-        dic_cluster_bodys[gramClusterID] = ftr_dict_body
-        dic_cluster_bodySize[gramClusterID] = len(body_ftrs)
-
-    return [dic_term_clusterGramIds, dic_cluster_ftrs, dic_cluster_size, dic_cluster_titles, dic_cluster_titleSize,
-            dic_cluster_bodys, dic_cluster_bodySize]
+    return [dic_term_clusterGramIds, dic_cluster_ftrs, dic_cluster_size]
 
 
 def computeTextSimCommonWord_WordDic(words_i, words_j, txt_i_len, txt_j_len):
@@ -214,7 +196,14 @@ def clusterBatchByGram(sub_list_pred_true_words_index):
     print('dic_nonCommon__txtIds', len(dic_nonCommon__txtIds), 'dic_ngram__txtIds', len(dic_ngram__txtIds))
     Evaluate_old(listtuple_pred_true_text)
 
-    return [dic_nonCommon__txtIds_Clust, list_textId_notClust]
+    return [dic_nonCommon__txtIds_Clust, list_textId_notClust, dic_txtId__text]
+
+
+def assignTextToClusters(list_textId_notClust, dic_txtId__text, dic_term_clusterGramIds, dic_cluster_ftrs,
+                         dic_cluster_size):
+    list_pred_true_text_clust = []
+
+    return list_pred_true_text_clust
 
 
 # absFilePath = os.path.abspath(__file__)
@@ -240,8 +229,13 @@ for start in range(0, allTexts, batchSize):
     print(start, end)
     sub_list_pred_true_words_index = list_pred_true_words_index[start:end]
     print(len(sub_list_pred_true_words_index))
-    dic_nonCommon__txtIds_Clust, list_textId_notClust = clusterBatchByGram(sub_list_pred_true_words_index)
+    dic_nonCommon__txtIds_Clust, list_textId_notClust, dic_txtId__text = clusterBatchByGram(
+        sub_list_pred_true_words_index)
     # create word/ftr of a text (dic_nonCommon__txtIds_Clust) to-> clusterGramID
+    dic_term_clusterGramIds, dic_cluster_ftrs, dic_cluster_size = gramClusterToFeatures(dic_nonCommon__txtIds_Clust,
+                                                                                        dic_txtId__text)
+    list_pred_true_text_clust = assignTextToClusters(list_textId_notClust, dic_txtId__text, dic_term_clusterGramIds,
+                                                     dic_cluster_ftrs, dic_cluster_size)
 
 fileOut.close()
 
