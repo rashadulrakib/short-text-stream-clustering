@@ -15,6 +15,8 @@ from clustering_gram_util import removeCommonTextIdsByCSize
 
 from evaluation import Evaluate_old
 
+import uuid
+
 min_gram = 2
 max_gram = 2
 
@@ -35,7 +37,7 @@ hitranktype = textType + 'HitRank'
 
 outputPath = "result/"
 
-dataSetName = 'News-T'
+dataSetName = 'News'
 inputfile = 'data/' + dataSetName
 batchSize = 4000
 
@@ -139,21 +141,34 @@ def getTagetGramClusterIds(grams, dic_term_clusterGramIds):
 def getTextIdsFromClusters(dic_gramCluster__txtIds, grams):
     textIds = []
 
-    dic_dup = {}
-
     for gram in grams:
         if gram not in dic_gramCluster__txtIds:
             continue
-        # for tid in dic_gramCluster__txtIds[gram]:
-        #    if tid in dic_dup:
-        #        continue
-        #    dic_dup[tid] = tid
-        #    textIds.append(tid)
 
         textIds.extend(dic_gramCluster__txtIds[gram])
 
     return list(set(textIds))
     # return textIds
+
+
+def findCloseClusterByTargetClusters(dic_cluster_ftrs, dic_cluster_size, txt_ftr_dic, txt_len,
+                                     tagetGramClusterIds):
+    clusterId = ''
+    dict_cluster_sims = {}
+    for gramClusterId in tagetGramClusterIds:
+        sim, commCount = computeTextSimCommonWord_WordDic(txt_ftr_dic, dic_cluster_ftrs[gramClusterId],
+                                                          txt_len, dic_cluster_size[gramClusterId])
+
+        dict_cluster_sims[gramClusterId] = sim
+
+    sortList_tups__keyVal = sorted(dict_cluster_sims.items(), key=lambda x: x[1], reverse=True)
+    sortClusterGrams = [tup[0] for tup in sortList_tups__keyVal]
+    # print('sortClusterGrams', sortClusterGrams, 'sortList_tups__keyVal', sortList_tups__keyVal)
+    if len(sortClusterGrams) == 0:
+        clusterId = str(uuid.uuid1())
+    else:
+        clusterId = sortClusterGrams[0]
+    return clusterId
 
 
 def clusterBatchByGram(sub_list_pred_true_words_index):
@@ -194,14 +209,31 @@ def clusterBatchByGram(sub_list_pred_true_words_index):
 
     # no use
     print('dic_nonCommon__txtIds', len(dic_nonCommon__txtIds), 'dic_ngram__txtIds', len(dic_ngram__txtIds))
-    Evaluate_old(listtuple_pred_true_text)
 
-    return [dic_nonCommon__txtIds_Clust, list_textId_notClust, dic_txtId__text]
+    return [dic_nonCommon__txtIds_Clust, list_textId_notClust, dic_txtId__text, listtuple_pred_true_text]
 
 
 def assignTextToClusters(list_textId_notClust, dic_txtId__text, dic_term_clusterGramIds, dic_cluster_ftrs,
                          dic_cluster_size):
     list_pred_true_text_clust = []
+
+    for textId_notClust in list_textId_notClust:
+        item = dic_txtId__text[textId_notClust]
+        # pred_true_words_index
+        trueLabel = item[1]
+        words = item[2]
+
+        txt_ftrs = generateGrams(words, min_gram, max_gram)  # len(words))
+
+        tagetGramClusterIds = getTagetGramClusterIds(txt_ftrs, dic_term_clusterGramIds)
+        # print('tagetGramClusterIds:', tagetGramClusterIds)
+        txt_len = len(txt_ftrs)
+        txt_ftr_dic = Counter(txt_ftrs)
+        clusterId = findCloseClusterByTargetClusters(dic_cluster_ftrs, dic_cluster_size, txt_ftr_dic, txt_len,
+                                                     tagetGramClusterIds)
+
+        if len(clusterId) < 20:
+            list_pred_true_text_clust.append([clusterId, trueLabel, words])
 
     return list_pred_true_text_clust
 
@@ -220,22 +252,34 @@ list_pred_true_words_index = readlistWholeJsonDataSet(inputfile, isStopWord)
 
 print('finish list_pred_true_words_index_postid_createtime', len(list_pred_true_words_index))
 
+t11 = datetime.now()
+
 allTexts = len(list_pred_true_words_index)
 batchNo = 0
 
 for start in range(0, allTexts, batchSize):
     batchNo += 1
+    print('\n\nBatch', batchNo)
     end = start + batchSize if start + batchSize < allTexts else allTexts
-    print(start, end)
+    print('start, end', start, end)
     sub_list_pred_true_words_index = list_pred_true_words_index[start:end]
-    print(len(sub_list_pred_true_words_index))
-    dic_nonCommon__txtIds_Clust, list_textId_notClust, dic_txtId__text = clusterBatchByGram(
+    print('total texts#', len(sub_list_pred_true_words_index))
+    dic_nonCommon__txtIds_Clust, list_textId_notClust, dic_txtId__text, batch___listtuple_pred_true_text = clusterBatchByGram(
         sub_list_pred_true_words_index)
     # create word/ftr of a text (dic_nonCommon__txtIds_Clust) to-> clusterGramID
     dic_term_clusterGramIds, dic_cluster_ftrs, dic_cluster_size = gramClusterToFeatures(dic_nonCommon__txtIds_Clust,
                                                                                         dic_txtId__text)
     list_pred_true_text_clust = assignTextToClusters(list_textId_notClust, dic_txtId__text, dic_term_clusterGramIds,
                                                      dic_cluster_ftrs, dic_cluster_size)
+
+    Evaluate_old(batch___listtuple_pred_true_text)
+    print()
+    Evaluate_old(list_pred_true_text_clust)
+    print()
+    Evaluate_old(list_pred_true_text_clust + batch___listtuple_pred_true_text)
+
+t12 = datetime.now()
+print('total time diff secs=', (t12 - t11).seconds)
 
 fileOut.close()
 
@@ -247,139 +291,5 @@ t11 = datetime.now()
 ##to be used: dic_cluster_ftrs
 ##to be used: dic_cluster_size
 
-# populate title and body here
-dic_term_clusterGramIds, dic_cluster_ftrs, dic_cluster_size, dic_cluster_titles, dic_cluster_titleSize, dic_cluster_bodys, dic_cluster_bodySize = gramClusterToFeatures(
-    dic_nonCommon__txtIds,
-    dic_txtId__text)
 
-#############test section
-
-# testPostId	trainPostId	TitleSim	BodySim	TagSim	LuceneHitRank	ProposedHitRank	lucene_hit_duration	Proposed_hit_duration_micro  LuceneTestTrueLabel
-
-
-# print( "testpostId" + "\t" + "trainPostId" + "\t" + simtype + "\t" + hitranktype + "\t" +
-# "Proposed_hit_duration_micro" + "\t" + "Proposed_TestTrueLabel" + "\t" + "testText" + "\t" + "trainText" + "\t" +
-# "testCreateTime" + "\t" + "TrainCreateTime" + "\t" + "DaysDiff" + "\t" + "OriginalRank")
-
-fileOut.write(
-    "testpostId" + "\t" + "trainPostId" + "\t" + simtype + "\t" + hitranktype + "\t" + "Proposed_hit_duration_micro" + "\t" + "Proposed_TestTrueLabel" + "\t" + "testText" + "\t" + "trainText" + "\t" + "testCreateTime" + "\t" + "TrainCreateTime" + "\t" + "DaysDiff" + "\t" + "OriginalRank\n")
-
-testfile = 'test_stackoverflow_' + lang + '_true_id_title_tags_body_createtime'
-testList_pred_true_words_index_postid_createtime = readStackOverflowDataSetTagTitleBody(testfile, isStopWord, 6,
-                                                                                        textType,
-                                                                                        tagIgnore)
-
-count = 0
-for item in testList_pred_true_words_index_postid_createtime:
-    testTruelabel = item[1]
-    words = item[2]
-    testpostId = item[4]
-    testCreateTime = item[5]
-    title_words = item[7]
-    body_words = item[8]
-
-    testDateTime = datetime.strptime(str(item[5]).split("t")[0], "%Y-%m-%d")
-
-    t11 = datetime.now()
-
-    test_grams = generateGramsConsucetive(words, min_gram, max_gram)  # len(words))
-    test_term_dict = Counter(test_grams)
-    test_term_size = len(test_grams)
-
-    title_grams = generateGramsConsucetive(title_words, min_gram, max_gram)  # len(words))
-    test_term_dict_title = Counter(title_grams)
-    test_term_size_title = len(title_grams)
-
-    body_grams = generateGramsConsucetive(body_words, min_gram, max_gram)  # len(words))
-    test_term_dict_body = Counter(body_grams)
-    test_term_size_body = len(body_grams)
-
-    tagetGramClusterIds = getTagetGramClusterIds(test_grams, dic_term_clusterGramIds)
-    count += 1
-    # print('count', count, 'len(tagetGramClusterIds)', len(tagetGramClusterIds))
-
-    dict_cluster_sims = {}
-    for gramClusterId in tagetGramClusterIds:
-        # print('clusterId', clusterId, 'len(dic_tupple_class[clusterId])', len(dic_tupple_class[clusterId]))
-        tag_sim, tag_commCount = computeTextSimCommonWord_WordDic(test_term_dict, dic_cluster_ftrs[gramClusterId],
-                                                                  test_term_size, dic_cluster_size[gramClusterId])
-
-        title_sim, title_commCount = computeTextSimCommonWord_WordDic(test_term_dict_title,
-                                                                      dic_cluster_titles[gramClusterId],
-                                                                      test_term_size_title,
-                                                                      dic_cluster_titleSize[gramClusterId])
-
-        body_sim, body_commCount = computeTextSimCommonWord_WordDic(test_term_dict_body,
-                                                                    dic_cluster_bodys[gramClusterId],
-                                                                    test_term_size_body,
-                                                                    dic_cluster_bodySize[gramClusterId])
-
-        dict_cluster_sims[gramClusterId] = tag_sim * tagWeight + title_sim * titleWeight + body_sim * bodyWeight
-
-    # print(dict_cluster_sims.values())
-    # dict_cluster_sims = {k: v for k, v in sorted(dict_cluster_sims.items(), key=lambda item: item[1], reverse=True)}
-    sortList_tups__keyVal = sorted(dict_cluster_sims.items(), key=lambda x: x[1], reverse=True)
-    # print('sortList_tups__keyVal', sortList_tups__keyVal)
-    clusterGrams = [tup[0] for tup in sortList_tups__keyVal]
-    top_clusterGrams = clusterGrams[0:min(maxClusterNos, len(clusterGrams) - 1)]
-    # select top similar gramClusters,
-    # clusters based on grams: dic_nonCommon__txtIds
-    # get txtIds from :dic_nonCommon__txtIds)
-    # clusterTextIds = getTextIdsFromClusters(dic_nonCommon__txtIds, clusterGrams)
-    clusterTextIds = getTextIdsFromClusters(dic_nonCommon__txtIds, top_clusterGrams)
-    # print('top_clusterGrams', len(top_clusterGrams), 'clusterTextIds', len(clusterTextIds))
-    # get text ids from dic_common_ngram__txtIds
-    invertIndexTextIds = []  # aggregateTextIds(test_grams, dic_common_ngram__txtIds)
-    # allTextIds = set(clusterTextIds + invertIndexTextIds)
-    allTextIds = clusterTextIds + invertIndexTextIds
-    # print('words', words, 'tagetGramClusterIds', tagetGramClusterIds, sortList_tups__keyVal, 'clusterGrams',
-    # clusterGrams, 'clusterTextIds', clusterTextIds, 'invertIndexTextIds', invertIndexTextIds, 'allTextIds',
-    # allTextIds)
-
-    flag = False
-    largestGram = ''
-    ProposedHitRank = 0
-
-    for txtId in allTextIds:
-        ProposedHitRank += 1
-
-        train_item = dic_txtId__text[txtId]
-
-        trainTruelabel = train_item[1]
-        train_words = train_item[2]
-        trainPostId = train_item[4]
-        trainCreateTime = train_item[5]
-
-        if str(trainTruelabel) == str(testTruelabel):
-            t12 = datetime.now()
-            t_diff = t12 - t11
-
-            text_sim, commonCount = computeTextSimCommonWord_WordDic(Counter(words), Counter(train_words), len(words),
-                                                                     len(train_words))
-            ProposedHitRank_val = int(max(1, math.floor(ProposedHitRank / len(test_grams))))
-
-            trainDateTime = datetime.strptime(train_item[5].split("t")[0], "%Y-%m-%d")
-            date_diff = trainDateTime - testDateTime
-            date_diff = date_diff.days
-
-            fileOut.write(str(testpostId) + "\t" + str(trainPostId) + "\t" + str(text_sim) + "\t" + str(
-                ProposedHitRank_val) + "\t" + str(t_diff.microseconds / float(microDivide)) + "\t" + str(
-                testTruelabel) + "\t" + ' '.join(words) + "\t" + ' '.join(
-                train_words) + "\t" + testCreateTime + "\t" + trainCreateTime + "\t" + str(date_diff) + "\t" + str(
-                ProposedHitRank) + '\n')
-            flag = True
-            break
-
-        if ProposedHitRank > max_hitindex:
-            break
-
-    if not flag:
-        t12 = datetime.now()
-        t_diff = t12 - t11
-
-        fileOut.write(str(testpostId) + "\t" + "-100" + "\t0\t" + "" + "\t" + str(
-            t_diff.microseconds / float(microDivide)) + "\t" + str(testTruelabel) + "\t" + ' '.join(
-            words) + "\t" + "" + "\t" + "" + "\t" + "" + "\t" + "" + "\t" + "" + "\n")
-
-fileOut.close()
 '''
