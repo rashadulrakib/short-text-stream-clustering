@@ -4,6 +4,7 @@ import math
 from collections import Counter
 import statistics
 from statistics import mean
+from scipy import spatial
 
 from general_util import readStackOverflowDataSetTagTitleBody
 from general_util import readStackOverflowDataSetBody
@@ -40,7 +41,7 @@ hitranktype = textType + 'HitRank'
 
 outputPath = "result/"
 
-dataSetName = 'News'
+dataSetName = 'News'  # 'Tweets-T' #'News-T' #stackoverflow_large
 inputfile = 'data/' + dataSetName
 batchSize = 4000
 embedDim = 50
@@ -70,29 +71,41 @@ def buildNGramIndex(list_pred_true_words_index):
 # dic_gram__txtIds : cluster to TextIds
 def gramClusterToFeatures(dic_gram__txtIds, dic_txtId__text):
     dic_term_clusterGramIds = {}  # tag ftr->cluster id
-
     dic_cluster_ftrs = {}
     dic_cluster_size = {}
 
+    dic_word_clusterGramIds = {}  # tag ftr->cluster id
+    dic_cluster_words = {}
+    dic_cluster_wordSize = {}
+
     for gramClusterID, txtIds in dic_gram__txtIds.items():  # gram is a cluster id
         cluster_ftrs = []  # tags
+        cluster_words = []  # tags
 
         for txtId in txtIds:
             item = dic_txtId__text[txtId]
             words = item[2]
-
             ftrs = generateGrams(words, min_gram, max_gram)  # len(words))
 
             cluster_ftrs.extend(ftrs)
+            cluster_words.extend(words)
 
             for ftr in ftrs:
                 dic_term_clusterGramIds.setdefault(ftr, []).append(gramClusterID)
 
-        ftr_dict = Counter(cluster_ftrs)
-        dic_cluster_ftrs[gramClusterID] = ftr_dict
+            for word in words:
+                dic_word_clusterGramIds.setdefault(word, []).append(gramClusterID)
+
+        dic_cluster_ftrs[gramClusterID] = Counter(cluster_ftrs)
         dic_cluster_size[gramClusterID] = len(cluster_ftrs)
 
-    return [dic_term_clusterGramIds, dic_cluster_ftrs, dic_cluster_size]
+        dic_cluster_words[gramClusterID] = Counter(cluster_words)
+        dic_cluster_wordSize[gramClusterID] = len(cluster_words)
+
+    # print(dic_word_clusterGramIds, dic_cluster_words, dic_cluster_wordSize)
+
+    return [dic_term_clusterGramIds, dic_cluster_ftrs, dic_cluster_size, dic_word_clusterGramIds, dic_cluster_words,
+            dic_cluster_wordSize]
 
 
 def populateClusterVecs(dic_nonCommon__txtIds_Clust, dic_txtId__text):
@@ -174,7 +187,9 @@ def getTextIdsFromClusters(dic_gramCluster__txtIds, grams):
 
 
 def findCloseClusterByTargetClusters(dic_cluster_ftrs, dic_cluster_size, txt_ftr_dic, txt_len,
-                                     tagetGramClusterIds, dic_clusteVecs={}, words={}):
+                                     tagetGramClusterIds, dic_cluster_words, dic_cluster_wordSize, txt_word_dic,
+                                     txt_word_len,
+                                     tageWordClusterIds, dic_clusteVecs={}, words={}):
     clusterId = ''
     dict_cluster_sims = {}
     for gramClusterId in tagetGramClusterIds:
@@ -188,12 +203,45 @@ def findCloseClusterByTargetClusters(dic_cluster_ftrs, dic_cluster_size, txt_ftr
     # print('sortClusterGrams', sortClusterGrams, 'sortList_tups__keyVal', sortList_tups__keyVal)
     if len(sortClusterGrams) == 0:
         clusterId = str(uuid.uuid1())
-        if len(dic_clusteVecs) > 2:
+
+        dict_cluster_sims = {}
+        for gramClusterId in tageWordClusterIds:
+            sim, commCount = computeTextSimCommonWord_WordDic(txt_word_dic, dic_cluster_words[gramClusterId],
+                                                              txt_word_len, dic_cluster_wordSize[gramClusterId])
+
+            dict_cluster_sims[gramClusterId] = sim
+
+        sortList_tups__keyVal = sorted(dict_cluster_sims.items(), key=lambda x: x[1], reverse=True)
+        sortClusterGrams = [tup[0] for tup in sortList_tups__keyVal]
+
+        if len(sortClusterGrams) >= 2:
+            allSims = list(dict_cluster_sims.values())
+            mean_sim = statistics.mean(allSims)
+            std_sim = statistics.stdev(allSims)
+            max_sim = max(allSims)
+            if max_sim > mean_sim + std_sim:
+                clusterId = sortClusterGrams[0]
+            # print('findCloseClusterByTargetClusters:dict_cluster_sims', dict_cluster_sims.values())
+
+        '''if len(dic_clusteVecs) > 2:
             X = generate_sent_vecs_toktextdata([words], wordVectorsDic, embedDim)
             text_Vec = X[0]
-            print('Semantic computations:use !!tagetGramClusterIds', text_Vec, len(dic_clusteVecs))
+            # print('Semantic computations:use !!tagetGramClusterIds', text_Vec, len(dic_clusteVecs))
+            max_sim = 0
+            max_clusId = str(uuid.uuid1())
+            for clusterVecId, clusterVec in dic_clusteVecs.items():
+                # print('clusterVecId', clusterVecId, clusterVec)
+                similarity = 1 - spatial.distance.cosine(text_Vec, clusterVec)
+                # print('clusterVecId: ', clusterVecId, similarity)
+                if max_sim < similarity:
+                    max_sim = similarity
+                    max_clusId = clusterVecId
+
+            clusterId = max_clusId
+        
+
         else:
-            clusterId = str(uuid.uuid1())
+            clusterId = str(uuid.uuid1())'''
     else:
         clusterId = sortClusterGrams[0]
     return clusterId
@@ -223,7 +271,7 @@ def clusterBatchByGram(sub_list_pred_true_words_index):
     print('mean_li', mean_li, 'std_li', std_li)
     for gram, txtIds in dic_nonCommon__txtIds.items():
         # print(gram, 'len(txtIds)', len(txtIds))
-        if len(txtIds) < mean_li + 1.0 * std_li:
+        if len(txtIds) < mean_li + 0.1 * std_li:
             list_textId_notClust.extend(txtIds)
             continue
         dic_nonCommon__txtIds_Clust[gram] = txtIds
@@ -242,7 +290,8 @@ def clusterBatchByGram(sub_list_pred_true_words_index):
 
 
 def assignTextToClusters(list_textId_notClust, dic_txtId__text, dic_term_clusterGramIds, dic_cluster_ftrs,
-                         dic_cluster_size, dic_clusteVecs={}):
+                         dic_cluster_size, dic_word_clusterGramIds, dic_cluster_words, dic_cluster_wordSize,
+                         dic_clusteVecs={}):
     list_pred_true_text_clust = []
 
     for textId_notClust in list_textId_notClust:
@@ -254,14 +303,17 @@ def assignTextToClusters(list_textId_notClust, dic_txtId__text, dic_term_cluster
         txt_ftrs = generateGrams(words, min_gram, max_gram)  # len(words))
 
         tagetGramClusterIds = getTagetGramClusterIds(txt_ftrs, dic_term_clusterGramIds)
-        # print('tagetGramClusterIds:', tagetGramClusterIds)
-        txt_len = len(txt_ftrs)
-        txt_ftr_dic = Counter(txt_ftrs)
-        clusterId = findCloseClusterByTargetClusters(dic_cluster_ftrs, dic_cluster_size, txt_ftr_dic, txt_len,
-                                                     tagetGramClusterIds, dic_clusteVecs, words)
+        tageWordClusterIds = getTagetGramClusterIds(words, dic_word_clusterGramIds)
+        # print('tageWordClusterIds:', tageWordClusterIds, 'tagetGramClusterIds', tagetGramClusterIds)
 
-        if len(clusterId) < 20:
-            list_pred_true_text_clust.append([clusterId, trueLabel, words])
+        clusterId = findCloseClusterByTargetClusters(dic_cluster_ftrs, dic_cluster_size, Counter(txt_ftrs),
+                                                     len(txt_ftrs),
+                                                     tagetGramClusterIds, dic_cluster_words, dic_cluster_wordSize,
+                                                     Counter(words), len(words),
+                                                     tageWordClusterIds, dic_clusteVecs, words)
+
+        # if len(clusterId) < 20:
+        list_pred_true_text_clust.append([clusterId, trueLabel, words])
 
     return list_pred_true_text_clust
 
@@ -285,7 +337,8 @@ for item in list_pred_true_words_index:
     all_words.extend(item[2])
 all_words = list(set(all_words))
 
-wordVectorsDic = extractAllWordVecsPartialStemming(embeddingfile, embedDim, all_words)
+wordVectorsDic = {}
+# wordVectorsDic = extractAllWordVecsPartialStemming(embeddingfile, embedDim, all_words)
 
 t11 = datetime.now()
 
@@ -305,16 +358,21 @@ for start in range(0, allTexts, batchSize):
     # print(dic_clusteVecs)
 
     # create word/ftr of a text (dic_nonCommon__txtIds_Clust) to-> clusterGramID
-    dic_term_clusterGramIds, dic_cluster_ftrs, dic_cluster_size = gramClusterToFeatures(dic_nonCommon__txtIds_Clust,
-                                                                                        dic_txtId__text)
+    dic_term_clusterGramIds, dic_cluster_ftrs, dic_cluster_size, dic_word_clusterGramIds, dic_cluster_words, dic_cluster_wordSize = gramClusterToFeatures(
+        dic_nonCommon__txtIds_Clust, dic_txtId__text)
+
     list_pred_true_text_clust = assignTextToClusters(list_textId_notClust, dic_txtId__text, dic_term_clusterGramIds,
-                                                     dic_cluster_ftrs, dic_cluster_size, dic_clusteVecs)
+                                                     dic_cluster_ftrs, dic_cluster_size, dic_word_clusterGramIds,
+                                                     dic_cluster_words, dic_cluster_wordSize, dic_clusteVecs)
 
     Evaluate_old(batch___listtuple_pred_true_text)
     print()
     Evaluate_old(list_pred_true_text_clust)
     print()
     Evaluate_old(list_pred_true_text_clust + batch___listtuple_pred_true_text)
+    batch_result = list_pred_true_text_clust + batch___listtuple_pred_true_text
+    for item in batch_result:
+        fileOut.write(str(item[0]) + '\t' + str(item[1]) + '\t' + str(item[2]) + '\n')
 
 t12 = datetime.now()
 print('total time diff secs=', (t12 - t11).seconds)

@@ -2,6 +2,8 @@ from nltk.stem import PorterStemmer
 import re
 from txt_process_util import getScikitLearn_StopWords
 from txt_process_util import loadStopWords
+from nltk.corpus import wordnet
+
 
 
 def readlistWholeJsonDataSet(datasetName, isStopWord=True):
@@ -21,6 +23,12 @@ def readlistWholeJsonDataSet(datasetName, isStopWord=True):
         id = str(n['Id']).strip()
         true = str(n['clusterNo']).strip()
         words = str(n['textCleaned']).strip().split(' ')
+        #synWords = []
+        #for word in words:
+        #    syns = wordnet.synsets(word)
+        #    print(syns)
+        #    synWords.extend(syns)
+        #words = words + synWords
         words = [ps.stem(w) for w in words]
         if isStopWord:
             words = [w for w in words if not w in stopWs]
